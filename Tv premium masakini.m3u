@@ -453,6 +453,18 @@ http://mpwtv.github.io/indosiar.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 1
+http://203.77.246.58:4500/udp/239.1.2.240:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 2 
+http://203.77.246.58:4500/udp/239.1.5.6:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 2 (BACKUP)
+https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 3 
+http://203.77.246.58:4500/udp/239.1.5.8:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 5
+https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions6.jpg" group-title="🇲🇨Indonesia alternatif",🇲🇨CHAMPIONS TV 6
+https://vidd.semar.my.id/vidreq.php?id=9183&type=dash
 
 
 #EXTINF:-1 group-title="🇲🇨Indonesia alternatif" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", 🇲🇨Liga Inggris (Vidio)
