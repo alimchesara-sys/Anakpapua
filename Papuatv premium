@@ -393,6 +393,14 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.
 ****************** STAN SPORT AUSTRALIA ********************************
 
 
+
+
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/PremierLeagueStan.png" group-title="SPORTS | Stan Sports",AU | Stan Premier League 24/7 FHD
+http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/941824
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/PremierLeagueStan.png" group-title="SPORTS | Stan Sports",AU | Stan Premier League 24/7 HD
+http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/941825
+
+
 #EXTINF:-1 tvg-id="STAN1.au" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Stan-Sports.png" group-title="Stan Sports AU",AU | Stan Event 1
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/396150
 #EXTINF:-1 tvg-id="STAN2.au" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/08/Stan-Sports.png" group-title="Stan Sports AU",AU | Stan Event 2
