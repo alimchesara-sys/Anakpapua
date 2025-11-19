@@ -65,7 +65,7 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/165079
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Indonesia no acak",ID: BBC Earth
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165106
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia no acak",ID: BBC Lifestyle
 http://iptvmedia.live:8080/F36591/3f1a2b5c/264747
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia no acak",ID: Bioskop Indonesia
@@ -141,7 +141,7 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/306486
 http://iptvmedia.live:8080/F36591/3f1a2b5c/196480
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Indonesia no acak",ID: HBO Signature
 http://iptvmedia.live:8080/F36591/3f1a2b5c/306483
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia no acaj",ID: HBO Signature 1080
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia no acak",ID: HBO Signature 1080
 http://iptvmedia.live:8080/F36591/3f1a2b5c/221948
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="Indonesia no acak",ID: HGTV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/298535
@@ -539,7 +539,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1247970
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1248004
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ðŸ‡²ðŸ‡¨INDONESIA",ID - ToonGoogles
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1248009
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ISLAMIC/quraan.png" group-title="ðŸ‡²ðŸ‡¨INDONESIA",ID - AL QURAN AL KAREM
+#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ISLAMIC/quraan.png" group-title="ðŸðŸ‡¨INDONESIA",ID - AL QURAN AL KAREM
 http://www.alhaiba.com/6V1N24N/LE49Y1F/584528
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" group-title="ðŸ‡²ðŸ‡¨INDONESIA",ID - KOMPASTV
 http://www.alhaiba.com/6V1N24N/LE49Y1F/584467
@@ -1323,8 +1323,7 @@ http://b1g.uk/33445566/66554433/57508
 #EXTINF:-1 tvg-id="SPOTV2.my" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title=" World Sports",MYS | SPOTV 2 HD
 http://b1g.uk/33445566/66554433/57515
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="GOLDEN EVENTS",ENGLISH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1018100
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150145
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",EN - NO MATCH
@@ -1341,8 +1340,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1123276
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024490
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024487
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="GOLDEN EVENTS",##### ARABIC #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1018107
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150144
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",AR - NO MATCH
@@ -1359,8 +1357,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1039905
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024486
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024476
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",##### CONFERENCE LEAGUE #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/682950
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",VIP - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682951
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",VIP - NO MATCH
@@ -1397,8 +1394,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/682963
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682965
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/germany/vip-events.png" group-title="GOLDEN EVENTS",VIP - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682966
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="UEFA CHAMPIONS LEAGUE",###### FRENCH ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296611
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1039873
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",FR - NO MATCH
@@ -1417,8 +1413,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1150141
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150135
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1292010
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296612
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150163
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",EN - NO MATCH
@@ -1437,8 +1432,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1150168
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150165
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1292004
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="UEFA CHAMPIONS LEAGUE",###### ARABIC ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296613
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1022236
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",AR - NO MATCH
@@ -1457,8 +1451,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1150139
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150127
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1292007
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA CHAMPIONS LEAGUE",###### SPANISH ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296614
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150173
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",SP - NO MATCH
@@ -1477,8 +1470,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1024386
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024345
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1040907
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296621
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024344
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",DE - NO MATCH
@@ -1497,8 +1489,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1292018
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1024375
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1292020
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="UEFA CHAMPIONS LEAGUE",###### ALBANIAN ######
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1296619
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150137
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
@@ -1517,8 +1508,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1292012
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150156
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/champions.png" group-title="UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1150157
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="UEFA EUROPA LEAGUE",##### FRENCH #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1091817
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/363834
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",FR - NO MATCH
@@ -1555,8 +1545,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/363856
 http://www.alhaiba.com/6V1N24N/LE49Y1F/363853
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1042309
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="UEFA EUROPA LEAGUE",##### ARABIC #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1042302
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/363815
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",AR - NO MATCH
@@ -1631,8 +1620,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/682948
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682946
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682945
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="UEFA EUROPA LEAGUE",#####  SPAIN #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1123435
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",ES - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1104757
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",ES -NO MATCH
@@ -1669,8 +1657,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1024473
 http://www.alhaiba.com/6V1N24N/LE49Y1F/682941
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/champ/europaleague.png" group-title="UEFA EUROPA LEAGUE",ES - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1139942
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="LIGUE 1",##### FRENCH #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1018302
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018311
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",FR - NO MATCH
@@ -1693,8 +1680,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1018307
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018308
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018309
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",ARABIC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1018312
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018321
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",AR - NO MATCH
@@ -1715,8 +1701,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1018317
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018318
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·LIGUE 1",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018319
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",ENGLISH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1020754
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015548
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",EN - NO MATCH
@@ -1737,8 +1722,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1015553
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100810
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015551
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",FRENCH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1020753
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015543
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",FR - NO MATCH
@@ -1759,8 +1743,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1100813
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015540
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015546
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",ARABIC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1020752
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015561
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",AR - NO MATCH
@@ -1781,8 +1764,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1015558
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100814
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100815
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",ALBANIAN
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1024114
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",ALB - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1039819
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/59.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",ALB - NO MATCH
@@ -1845,8 +1827,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/979891
 http://www.alhaiba.com/6V1N24N/LE49Y1F/979890
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/Wolverhampton.png" group-title="ðŸ‡¬ðŸ‡ªPREMIER LEAGUE",EPL - WOLVERHAMPTON WANDERERS FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/979889
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",FRENCH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1015817
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1117244
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",FR - NO MATCH
@@ -1871,8 +1852,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1015819
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015820
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015823
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ENGLISH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1015824
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1117243
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",EN - NO MATCH
@@ -1899,8 +1879,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1001780
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015830
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015829
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ARABIC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1015831
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100782
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",AR - NO MATCH
@@ -1917,8 +1896,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1015837
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015836
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015835
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",SPAIN
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1033317
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ES - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1117245
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ES - NO MATCH
@@ -1939,8 +1917,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1033355
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015832
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ES - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1033357
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ALBANIA
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1145824
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ALB - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1145838
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ALB - NO MATCH
@@ -1957,8 +1934,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1015818
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1001754
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/58.png" group-title="ðŸ‡ªðŸ‡¦LA LIGA",ALB - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1001755
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",ITALY
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1018093
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",IT - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018105
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",IT - NO MATCH
@@ -1975,8 +1951,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1018104
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018102
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",IT - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018103
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",ENGLISH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1001778
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1028730
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",EN - NO MATCH
@@ -1997,8 +1972,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1018096
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018094
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018095
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",ARABIC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1001752
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018109
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",AR - NO MATCH
@@ -2011,8 +1985,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1018111
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018110
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/55.png" group-title="ðŸ‡®ðŸ‡¹SERIE A",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1018108
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",DEUTSCH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1017979
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",DE - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100768
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",DE - NO MATCH
@@ -2031,8 +2004,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1017980
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017981
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",DE - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017982
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",ENGLISH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1017972
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100762
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",EN - NO MATCH
@@ -2051,8 +2023,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1017973
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017974
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",EN - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017975
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",FRENCH
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1017965
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100764
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",FR - NO MATCH
@@ -2071,8 +2042,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1017966
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1029738
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",FR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1029737
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",ARABIC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1005066
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100766
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",AR - NO MATCH
@@ -2091,8 +2061,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1017967
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017968
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/56.png" group-title="ðŸ‡©ðŸ‡ªBUNDESLIGA",AR - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1017969
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="ðŸ‡µðŸ‡¹LIGA PORTUGAL BETCLIC",PORTUGAL
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1032044
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="ðŸ‡µðŸ‡¹LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1100839
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="ðŸ‡µðŸ‡¹LIGA PORTUGAL BETCLIC",PT - NO MATCH
@@ -2443,8 +2412,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1258164
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1258165
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FRANCE/fanseat.png" group-title="ðŸ‡«ðŸ‡·FRANCE SPORTS",FR - FANSEAT EVENT 17 FHD [ONLY ON LIVE]
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1258166
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="ðŸ‡«ðŸ‡·FRANCE SPORTS",FRANCE FFF TV
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1121067
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/fff_tv.png" group-title="ðŸ‡«ðŸ‡·FRANCE SPORTS",FR - FFF TV 01
 http://www.alhaiba.com/6V1N24N/LE49Y1F/766550
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/fff_tv.png" group-title="ðŸ‡«ðŸ‡·FRANCE SPORTS",FR - FFF TV 02
@@ -2517,8 +2485,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1121068
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1044111
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FRANCE/che.png" group-title="ðŸ‡«ðŸ‡·FRANCE SPORTS",FR - CHEVAL TV FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1296411
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="ðŸ‡«ðŸ‡·FRANCE LIGUE 1+",FR-LIGUE 1+
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1276471
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·FRANCE LIGUE 1+",FR - LIGUE 1+ 1 FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1276481
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/57.png" group-title="ðŸ‡«ðŸ‡·FRANCE LIGUE 1+",FR - LIGUE 1+ 1 HD â—‰
@@ -2777,8 +2744,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1324352
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1324353
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="ðŸ‡«ðŸ‡·FRANCE DAZN",FR - DAZN PPV 100 HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1324354
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="LIVE FOOTBALL ",UK - LIVE FOOTBALL
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1131149
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/LIVE.png" group-title="LIVE FOOTBALL ",UK - LIVE FOOTBALL 01 :
 http://www.alhaiba.com/6V1N24N/LE49Y1F/474401
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/LIVE.png" group-title="LIVE FOOTBALL ",UK - LIVE FOOTBALL 02 :
@@ -2843,16 +2809,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/474430
 http://www.alhaiba.com/6V1N24N/LE49Y1F/474431
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/LIVE.png" group-title="LIVE FOOTBALL ",UK - LIVE FOOTBALL 32 :
 http://www.alhaiba.com/6V1N24N/LE49Y1F/474432
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="UK  SPORTS",UK - SKY SPORTS
-http://www.alhaiba.com/6V1N24N/LE49Y1F/325432
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://go4.pw/UK/skyns.png" group-title="UK  SPORTS",UK - SKY SPORTS NEWS FHDÂ²
-http://www.alhaiba.com/6V1N24N/LE49Y1F/348323
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://go4.pw/UK/skyns.png" group-title="UK  SPORTS",UK - SKY SPORTS NEWS HEVC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/980429
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://go4.pw/UK/skyns.png" group-title="UK  SPORTS",UK - SKY SPORTS NEWS HEVCÂ²
-http://www.alhaiba.com/6V1N24N/LE49Y1F/980403
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://go4.pw/UK/skyns.png" group-title="UK  SPORTS",UK - SKY SPORTS NEWS HDÂ²
-http://www.alhaiba.com/6V1N24N/LE49Y1F/17283
+
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://go4.pw/UK/skyns.png" group-title="UK  SPORTS",UK -  SKY SPORTS NEWS SD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/348324
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="https://go4.pw/UK/skyaction.png" group-title="UK  SPORTS",UK - SKY SPORTS ACTION SD
@@ -3305,8 +3262,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/448573
 http://www.alhaiba.com/6V1N24N/LE49Y1F/448574
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/setanta.png" group-title="SETANTA",UK - SETANTA EVENT 30 :
 http://www.alhaiba.com/6V1N24N/LE49Y1F/448575
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="LIVE EVENTS",##### UK - PPV LIVE EVENTS #####
-http://www.alhaiba.com/6V1N24N/LE49Y1F/447528
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/EV.png" group-title="LIVE EVENTS",UK - LIVE EVENT 01 : SUBMISSION PRO 100 â€“ 5:30 PM ET / 10:30 PM UK
 http://www.alhaiba.com/6V1N24N/LE49Y1F/447529
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/EV.png" group-title="LIVE EVENTS",UK - LIVE EVENT 02 : EBI 26 THE WELTERWEIGHTS â€“ 7:00 PM ET / 12:00 AM UK
@@ -3477,10 +3433,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/428572
 http://www.alhaiba.com/6V1N24N/LE49Y1F/428571
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/AMERICA/USA/DAZNSPORT1.png" group-title="DAZN",UK - DAZN RED BULL TV HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/428583
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIDIO EPL",PPV MOLA TV
-http://www.alhaiba.com/6V1N24N/LE49Y1F/446766
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIDIO EPL",VIDIO LIVE
-http://www.alhaiba.com/6V1N24N/LE49Y1F/447504
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/vidioo.png" group-title="VIDIO EPL",- VIDEO EPL 01 | :
 http://www.alhaiba.com/6V1N24N/LE49Y1F/447505
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/vidioo.png" group-title="VIDIO EPL",- VIDEO EPL 02 | :
