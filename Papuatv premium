@@ -167,15 +167,6 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/447520
 #EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions1.png" group-title="SPORTS JUARA",Champions 1 A
 https://adptv4.mediaflow.workers.dev/live/sport/champions1a.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions1.png" group-title="SPORTS JUARA",Champions 1 B
-https://adptv4.mediaflow.workers.dev/live/sport/champions1b.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions2.png" group-title="SPORTS JUARA",Champions 2
-https://adptv4.mediaflow.workers.dev/live/sport/champions2.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions3.png" group-title="SPORTS JUARA",Champions 3
-https://adptv4.mediaflow.workers.dev/live/sport/champions3.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions5.png" group-title="SPORTS JUARA",Champions 5
-https://adptv4.mediaflow.workers.dev/live/sport/champions5.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://get.perfecttv.net/logo/champions6.png" group-title="SPORTS JUARA",Champions 6
-https://adptv4.mediaflow.workers.dev/live/sport/champions6.mpd
 
 
 
