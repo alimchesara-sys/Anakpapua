@@ -1,141 +1,141 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="net.id" tvg-logo="https://reformed21.tv/images/logo.png" group-title=" Indonesia",[ID] inewtv
+#EXTINF:-1 tvg-id="net.id" tvg-logo="https://reformed21.tv/images/logo.png" group-title="Indonesia",[ID] inewtv
 http://ktpremium.site:2095/itv263/9189/73605
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title=" Indonesia",[ID] RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",[ID] RCTI
 http://ktpremium.site:2095/itv263/9189/73606
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title=" Indonesia",[ID] SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="Indonesia",[ID] SCTV
 http://ktpremium.site:2095/itv263/9189/73607
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title=" Indonesia",[ID] Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[ID] Trans TV
 http://ktpremium.site:2095/itv263/9189/73608
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title=" Indonesia",[ID] Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="Indonesia",[ID] Trans 7
 http://ktpremium.site:2095/itv263/9189/73609
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title=" Indonesia",[ID] TV One
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="Indonesia",[ID] TV One
 http://ktpremium.site:2095/itv263/9189/73610
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title=" Indonesia",[ID] Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="Indonesia",[ID] Metro TV
 http://ktpremium.site:2095/itv263/9189/73611
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title=" Indonesia",[ID] Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="Indonesia",[ID] Kompas TV
 http://ktpremium.site:2095/itv263/9189/73612
-#EXTINF:-1 tvg-id="cnn.international.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title=" Indonesia",[ID] CNN Indonesia
+#EXTINF:-1 tvg-id="cnn.international.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title="Indonesia",[ID] CNN Indonesia
 http://ktpremium.site:2095/itv263/9189/73613
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="  Indonesia",[ID] Berita Satu
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Indonesia",[ID] Berita Satu
 http://ktpremium.site:2095/itv263/9189/73614
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="  Indonesia",[ID] MD TV
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="Indonesia",[ID] MD TV
 http://ktpremium.site:2095/itv263/9189/73615
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="  Indonesia",[ID] MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia",[ID] MNC TV
 http://ktpremium.site:2095/itv263/9189/73616
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="  Indonesia",[ID] Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia",[ID] Indosiar
 http://ktpremium.site:2095/itv263/9189/73617
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="  Indonesia",[ID] ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="Indonesia",[ID] ANTV
 http://ktpremium.site:2095/itv263/9189/73618
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title="  Indonesia",[ID] GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title="Indonesia",[ID] GTV
 http://ktpremium.site:2095/itv263/9189/73619
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="  Indonesia",[ID] TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",[ID] TVRI
 http://ktpremium.site:2095/itv263/9189/73620
-#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="  Indonesia",[ID] JakTV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="Indonesia",[ID] JakTV
 http://ktpremium.site:2095/itv263/9189/73626
-#EXTINF:-1 tvg-id="jaktv.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="  Indonesia",[ID] JTV
+#EXTINF:-1 tvg-id="jaktv.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="Indonesia",[ID] JTV
 http://ktpremium.site:2095/itv263/9189/73627
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="  Indonesia",[ID] TV9 NU
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="Indonesia",[ID] TV9 NU
 http://ktpremium.site:2095/itv263/9189/73629
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://jpmtelevisi.com/img/jpmtv.png" group-title="  Indonesia",[ID] JPMTV
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://jpmtelevisi.com/img/jpmtv.png" group-title="Indonesia",[ID] JPMTV
 http://ktpremium.site:2095/itv263/9189/73631
-#EXTINF:-1 tvg-id="IMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" group-title="  Indonesia",[ID] IMC
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" group-title="Indonesia",[ID] IMC
 http://ktpremium.site:2095/itv263/9189/73869
-#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png" group-title="  Indonesia",[ID] Bioskop Indonesia
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png" group-title="Indonesia",[ID] Bioskop Indonesia
 http://ktpremium.site:2095/itv263/9189/73873
-#EXTINF:-1 tvg-id="13739" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="  Indonesia",[ID] Citra drama
+#EXTINF:-1 tvg-id="13739" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="Indonesia",[ID] Citra drama
 http://ktpremium.site:2095/itv263/9189/901193
-#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title="  Indonesia",[ID] Citra Dangdut
+#EXTINF:-1 tvg-id="9999" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title="Indonesia",[ID] Citra Dangdut
 http://ktpremium.site:2095/itv263/9189/901194
-#EXTINF:-1 tvg-id="berita.satu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="  Indonesia",[ID] Berita Satu World
+#EXTINF:-1 tvg-id="berita.satu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="Indonesia",[ID] Berita Satu World
 http://ktpremium.site:2095/itv263/9189/886796
 
-#EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="  Indonesia",[ID] TvN
+#EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="Indonesia",[ID] TvN
 http://ktpremium.site:2095/itv263/9189/73985
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="  Indonesia",[ID] TvN Movies
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="Indonesia",[ID] TvN Movies
 http://ktpremium.site:2095/itv263/9189/73986
-#EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="  Indonesia",[ID] Sony One
+#EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="Indonesia",[ID] Sony One
 http://ktpremium.site:2095/itv263/9189/73987
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="  Indonesia",[ID] MQTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Indonesia",[ID] MQTV
 http://ktpremium.site:2095/itv263/9189/886836
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/f/ff/Rajawali_Televisi.png" group-title="  Indonesia",[ID] Rtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/f/ff/Rajawali_Televisi.png" group-title="Indonesia",[ID] Rtv
 http://ktpremium.site:2095/itv263/9189/946467
-#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://tawaf.tv/wp-content/uploads/2023/08/512x512bb.jpg" group-title="  Indonesia",[ID] Tawaf TV
+#EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://tawaf.tv/wp-content/uploads/2023/08/512x512bb.jpg" group-title="Indonesia",[ID] Tawaf TV
 http://ktpremium.site:2095/itv263/9189/946468
-#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_94.png" group-title="  Indonesia",[ID] VisionPrime
+#EXTINF:-1 tvg-id="" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_94.png" group-title="Indonesia",[ID] VisionPrime
 http://ktpremium.site:2095/itv263/9189/946469
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/MNC_Muslim1.png" group-title="  Indonesia",[ID] MuslimTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/MNC_Muslim1.png" group-title="Indonesia",[ID] MuslimTV
 http://ktpremium.site:2095/itv263/9189/946470
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg" group-title="  Indonesia",[ID] Jawa Pos TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg" group-title="Indonesia",[ID] Jawa Pos TV
 http://ktpremium.site:2095/itv263/9189/947789
-#EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="  Indonesia",[ID] KIX
+#EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Indonesia",[ID] KIX
 http://ktpremium.site:2095/itv263/9189/947917
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI
 http://ktpremium.site:2095/itv263/9189/34728
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kanal-3-id.png" group-title=" Indonesia",TVRI 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kanal-3-id.png" group-title="Indonesia",TVRI 3
 http://ktpremium.site:2095/itv263/9189/34729
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI ACEH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI ACEH
 http://ktpremium.site:2095/itv263/9189/34734
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI BALI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI BALI
 http://ktpremium.site:2095/itv263/9189/34746
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-bengkulu-id.png" group-title=" Indonesia",TVRI BENGKULU
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-bengkulu-id.png" group-title="Indonesia",TVRI BENGKULU
 http://ktpremium.site:2095/itv263/9189/34740
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI DKI JAKARTA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI DKI JAKARTA
 http://ktpremium.site:2095/itv263/9189/34733
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI GORONTALO
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI GORONTALO
 http://ktpremium.site:2095/itv263/9189/34758
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jambi-id.png" group-title=" Indonesia",TVRI JAMBI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jambi-id.png" group-title="Indonesia",TVRI JAMBI
 http://ktpremium.site:2095/itv263/9189/34739
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-barat-id.png" group-title=" Indonesia",TVRI JAWA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-barat-id.png" group-title="Indonesia",TVRI JAWA BARAT
 http://ktpremium.site:2095/itv263/9189/34742
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-tengah-id.png" group-title=" Indonesia",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-tengah-id.png" group-title="Indonesia",TVRI JAWA TENGAH
 http://ktpremium.site:2095/itv263/9189/34743
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-timur-id.png" group-title=" Indonesia",TVRI JAWA TIMUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-jawa-timur-id.png" group-title="Indonesia",TVRI JAWA TIMUR
 http://ktpremium.site:2095/itv263/9189/34744
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kalteng-id.png" group-title=" Indonesia",TVRI KALIMANTAN BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kalteng-id.png" group-title="Indonesia",TVRI KALIMANTAN BARAT
 http://ktpremium.site:2095/itv263/9189/34749
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kaltim-id.png" group-title=" Indonesia",TVRI KALIMANTAN SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kaltim-id.png" group-title="Indonesia",TVRI KALIMANTAN SELATAN
 http://ktpremium.site:2095/itv263/9189/34752
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kalteng-id.png" group-title=" Indonesia",TVRI KALIMANTAN TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kalteng-id.png" group-title="Indonesia",TVRI KALIMANTAN TENGAH
 http://ktpremium.site:2095/itv263/9189/34750
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kaltim-id.png" group-title=" Indonesia",TVRI KALIMANTAN TIMUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-kaltim-id.png" group-title="Indonesia",TVRI KALIMANTAN TIMUR
 http://ktpremium.site:2095/itv263/9189/34751
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-lampung-id.png" group-title=" Indonesia",TVRI LAMPUNG
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-lampung-id.png" group-title="Indonesia",TVRI LAMPUNG
 http://ktpremium.site:2095/itv263/9189/34741
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-maluku-id.png" group-title=" Indonesia",TVRI MALUKU
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-maluku-id.png" group-title="Indonesia",TVRI MALUKU
 http://ktpremium.site:2095/itv263/9189/34759
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI Nasional
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI Nasional
 http://ktpremium.site:2095/itv263/9189/34730
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI NUSA TENGGARA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI NUSA TENGGARA BARAT
 http://ktpremium.site:2095/itv263/9189/34747
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI NUSA TENGGARA TIMUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI NUSA TENGGARA TIMUR
 http://ktpremium.site:2095/itv263/9189/34748
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-papua-id.png" group-title=" Indonesia",TVRI PAPUA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-papua-id.png" group-title="Indonesia",TVRI PAPUA
 http://ktpremium.site:2095/itv263/9189/34760
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-riau-id.png" group-title=" Indonesia",TVRI RIAU
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-riau-id.png" group-title="Indonesia",TVRI RIAU
 http://ktpremium.site:2095/itv263/9189/34738
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI SULAWESI BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI SULAWESI BARAT
 http://ktpremium.site:2095/itv263/9189/34754
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI SULAWESI SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI SULAWESI SELATAN
 http://ktpremium.site:2095/itv263/9189/34753
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI SULAWESI TENGAH
 http://ktpremium.site:2095/itv263/9189/34756
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI SULAWESI TENGGARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI SULAWESI TENGGARA
 http://ktpremium.site:2095/itv263/9189/34755
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI SULAWESI UTARA
 http://ktpremium.site:2095/itv263/9189/34757
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumbar-id.png" group-title=" Indonesia",TVRI SUMATERA BARAT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumbar-id.png" group-title="Indonesia",TVRI SUMATERA BARAT
 http://ktpremium.site:2095/itv263/9189/34736
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumsel-id.png" group-title=" Indonesia",TVRI SUMATERA SELATAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumsel-id.png" group-title="Indonesia",TVRI SUMATERA SELATAN
 http://ktpremium.site:2095/itv263/9189/34737
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumatera-utara-id.png" group-title=" Indonesia",TVRI SUMATERA UTARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-sumatera-utara-id.png" group-title="Indonesia",TVRI SUMATERA UTARA
 http://ktpremium.site:2095/itv263/9189/34735
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI Yogyakarta
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI Yogyakarta
 http://ktpremium.site:2095/itv263/9189/34732
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" Indonesia",TVRI YOGYAKARTA1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI YOGYAKARTA1
 http://ktpremium.site:2095/itv263/9189/34745
 
 
@@ -548,7 +548,7 @@ http://ktpremium.site:2095/itv263/9189/1010679
 http://ktpremium.site:2095/itv263/9189/1010680
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="Sport",[MY] Sukan RTM
 http://ktpremium.site:2095/itv263/9189/793981
-#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_my.png" group-title="[lSport",[MY] beIN Sports 1
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_my.png" group-title="Sport",[MY] beIN Sports 1
 http://ktpremium.site:2095/itv263/9189/26321
 #EXTINF:-1 tvg-id="821.astro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Sport,[MY] beIN Sports 2
 http://ktpremium.site:2095/itv263/9189/912557
@@ -620,7 +620,7 @@ http://ktpremium.site:2095/itv263/9189/511578
 http://ktpremium.site:2095/itv263/9189/623472
 #EXTINF:-1 tvg-id="" tvg-logo="https://television-live.com/uploads/posts/ectheheyther.png" group-title="Sport",[B] DUBAI SPORTS 3(FHD)
 http://ktpremium.site:2095/itv263/9189/623473
-#EXTINF:-1 tvg-id="6122" tvg-logo="" group-title="[VIP]  Sport",[USA] Super Golf
+#EXTINF:-1 tvg-id="6122" tvg-logo="" group-title="Sport",[USA] Super Golf
 http://ktpremium.site:2095/itv263/9189/515141
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sport",[CA] TSN 1
 http://ktpremium.site:2095/itv263/9189/914780
@@ -714,7 +714,7 @@ http://ktpremium.site:2095/itv263/9189/1024877
 http://ktpremium.site:2095/itv263/9189/1024878
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" group-title="Sport",[TW] MAX4
 http://ktpremium.site:2095/itv263/9189/1024879
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvyan.com/uploads/dianshi/gdty.jpg" group-title="[VIP]  Sport体育",[CN] 广东体育
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvyan.com/uploads/dianshi/gdty.jpg" group-title="Sport",[CN] 
 http://ktpremium.site:2095/itv263/9189/944545
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.haoqiu365.com/d/file/2021/0401/c7183d67c9b3d7545fe3964b279ebfc3.jpg" group-title="Sport",[CN] 
 http://ktpremium.site:2095/itv263/9189/944546
