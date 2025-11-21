@@ -223,7 +223,13 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="🇲🇨indonesia",RCTI 
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="🇲🇨indonesia",TRANS 7
+http://103.46.10.145:9981/stream/channelid/2132733942?ticket=B88E6FE9C3A70B477C091238B68BAAA31F99831C&profile=pass
 
 #EXTINF:-1 ,ID: ANTV,="group-title="🇲🇨indonesia", 🏴‍☠️ Antv
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165072
