@@ -419,6 +419,10 @@ http://filex.tv:8080//live/uk007/000920/501299.ts
 http://filex.tv:8080//live/uk007/000920/501254.ts
 
 
+
+******"*"************** SPORT MOTOGP ***************************
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/motogp2.png" group-title="VIP | SPORTS MOTOGP",MGP: MotoGP TV
 http://king-box.club:80/xe/wu9gwTWN/388975
@@ -434,6 +438,11 @@ http://king-box.club:80/xe/wu9gwTWN/388971
 http://king-box.club:80/xe/wu9gwTWN/388970
 #EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/motogp2.png" group-title="VIP | SPORTS MOTOGP",MGP: MotoGP TV On Board 4
 http://king-box.club:80/xe/wu9gwTWN/388969
+
+
+********************************** NOW SPORT ************"""**************
+
+
 #EXTINF:-1 tvg-id="nowsportspremierleague1.hk" tvg-logo="http://itekpro.xyz/picons/nowsports.png" group-title="VIP | SPORTS NOW SPORTS",HK: Now Premier Sports 1 FHD
 http://king-box.club:80/xe/wu9gwTWN/200230
 #EXTINF:-1 tvg-id="nowsportspremierleague2.hk" tvg-logo="http://itekpro.xyz/picons/nowsports.png" group-title="VIP | SPORTS NOW SPORTS",HK: Now Premier Sports 2 FHD
@@ -462,6 +471,13 @@ http://king-box.club:80/xe/wu9gwTWN/246326
 http://king-box.club:80/xe/wu9gwTWN/246327
 #EXTINF:-1 tvg-id="nowsports7.hk" tvg-logo="http://itekpro.xyz/picons/nowsports.png" group-title="VIP | SPORTS NOW SPORTS",HK: Now Sports 7 FHD
 http://king-box.club:80/xe/wu9gwTWN/246328
+
+
+
+
+*************************** ASTRO ****************************************
+
+
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="VIP | SPORTS ASTRO ",MY: Astro Premier League 1 HD
 http://king-box.club:80/xe/wu9gwTWN/161931
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="VIP | SPORTS ASTRO ",MY: Astro Premier League 2 HD
@@ -486,6 +502,14 @@ http://king-box.club:80/xe/wu9gwTWN/161946
 http://king-box.club:80/xe/wu9gwTWN/161944
 #EXTINF:-1 tvg-id="astroarena.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="VIP | SPORTS ASTRO ",MY: Astro Arena HD
 http://king-box.club:80/xe/wu9gwTWN/161948
+
+
+
+
+*************************** ITALIA SPORTS ********************************
+
+
+
 #EXTINF:-1 tvg-id="skysport24.it" tvg-logo="http://ipro.tv/picons/skysport24.png" group-title="IT | SPORTS",IT:* Sky Sport 24 FHD
 http://king-box.club:80/xe/wu9gwTWN/356958
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-logo="http://ipro.tv/picons/skysport24.png" group-title="IT | SPORTS",IT: Sky Sport 24 HD
@@ -584,6 +608,14 @@ http://king-box.club:80/xe/wu9gwTWN/378075
 http://king-box.club:80/xe/wu9gwTWN/378074
 #EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/primevideo.png" group-title="IT | SPORTS",IT: Amazon PrimeVideo Event HD
 http://king-box.club:80/xe/wu9gwTWN/378073
+
+
+
+********************** DAZN SPORTS ITALIA ********************************
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/daznn.png" group-title="IT | SPORTS DAZN (NEW)",IT: Dazn 1 FHD1
 http://king-box.club:80/xe/wu9gwTWN/387507
 #EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/daznn.png" group-title="IT | SPORTS DAZN (NEW)",IT: Dazn 1 HD1
@@ -676,6 +708,15 @@ http://king-box.club:80/xe/wu9gwTWN/387465
 http://king-box.club:80/xe/wu9gwTWN/387464
 #EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/daznn.png" group-title="IT | SPORTS DAZN (NEW)",IT: Serie B11 HD
 http://king-box.club:80/xe/wu9gwTWN/387463
+
+
+
+
+********************* SPORTS *********************************
+
+
+
+
 #EXTINF:-1 tvg-id="bluesport1.ch" tvg-logo="http://ipro.tv/picons/bluesport1.png" group-title="CH | SPORTS",CH: Blue Sport 1 HD
 http://king-box.club:80/xe/wu9gwTWN/204880
 #EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport2.png" group-title="CH | SPORTS",CH: Blue Sport 2 HD
