@@ -373,9 +373,9 @@ http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732462
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732461
 #EXTINF:-1 tvg-id="" tvg-THAILANDlogo="" group-title="THAILAND",TH | NEW 18
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732459
-#EXTINF:-1 tvg-id="" tvg-logo="" grouTHAILANDp-title="THAILAND",TH | NEW TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THAILAND",TH | NEW TV
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732458
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THAILAND",TH | NewTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THAILAND",  NewTV HD
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732457
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THAILAND",TH | News 1 HD
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/732456
@@ -521,6 +521,18 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="malaysia",ASTRO ARENA 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="malaysia",ASTRO ARENA
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="malaysia",ASTRO ARENA 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="malaysia",ASTRO FUTBOL
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="malaysia",ASTRO+
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+
+
 
 
 
