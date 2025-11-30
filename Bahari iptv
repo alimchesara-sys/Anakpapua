@@ -8,8 +8,12 @@
 
 
 
-
-
+#EXTINF:-1 group-title="Indonesia no acak" tvg-logo="https://get.perfecttv.net/logo/antv.png" tvg-id="ANTV.id" ,5 ANTV (web)
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=782
+#EXTINF:-1 group-title="Indonesia no acak" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-name="Indosiar" ,Indosiar (web)
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=205
+#EXTINF:-1 group-title="Indonesia no acak" tvg-logo="https://get.perfecttv.net/logo/net.png" tvg-id="NET.TV.id" ,1 NET TV (web)
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=875
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia no acak",ANTV
 http://iptvmedia.live:8080/F18115/068f009e/165072
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia no acak",SCTV
