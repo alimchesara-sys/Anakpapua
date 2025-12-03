@@ -765,7 +765,7 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/54878
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/54879
 #EXTINF:-1 tvg-id="premiersports.uk" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="SPORTS",|UK| PREMIER SPORTS 3 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/54885
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|UK| ✪ SPORTS",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/522060
 #EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png" group-title="SPORTS",|UK| TNT SPORTS 1 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/309615
@@ -901,7 +901,7 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/969124
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/303258
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="SPORTS",|UK| PREMIER SPORTS 2 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/303257
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|UK| ✪ SPORTS",|UK| Racing ᵁᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",|UK| Racing ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/628654
 #EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSACTION.png" group-title="SPORTS",|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/303264
@@ -963,7 +963,7 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/303270
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/303271
 #EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg" group-title="SPORTS",|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/484357
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|UK| ✪ SPORTS",PLL Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",PLL Network
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1234080
 #EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-logo="https://lo1.in/uk/skyspnf.png" group-title="SPORTS",uk| SKY SPORTS NFL
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1148292
@@ -979,7 +979,7 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1063027
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1063026
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20210622_195956_68.png" group-title="SPORTS",UK Billiard TV
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1063024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|SPORTS",UK Lacrosse TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UK Lacrosse TV
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1063023
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UK PDC Darts
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1063022
@@ -1199,12 +1199,7 @@ http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98861
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98862
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 3 (4K).
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98863
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98864
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98865
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98866
+
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/98867
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: START SPORTS SELECT 2 (4K).
@@ -1341,442 +1336,18 @@ http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148559
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148560
 #EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://i.ibb.co/6mwHTJh/download-6.png" group-title="SPORTS | UK MIX",UK SD : TNT Sport 1
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148561
-#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://i.ibb.co/5Ky6FnH/download-8.png" group-title="SPORTS | UK MIX",UK SD : Euronews
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148676
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | UK MIX",Sky Sports Plus SD Hevc
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148678
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="https://i.ibb.co/JC19xwB/download-3-1.png" group-title="SPORTS | UK MIX",Sky Sports Cricket SD Hevc
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148679
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="https://i.ibb.co/DfwjcDT/download-4.png" group-title="SPORTS | UK MIX",Sky Sports F1 SD Hevc
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148680
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="https://i.ibb.co/QKzqNG8/golf-wallpaper-preview.png" group-title="SPORTS | UK MIX",Sky Sports Golf SD Hevc
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148682
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://i.ibb.co/JkhXm3S/download-8.png" group-title="SPORTS | UK MIX",Sky Sports mix SD Hevc
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/148684
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/37a141fd1959d8404d85eddaf9db6b8b.png" group-title="SPORTS | SPORTS",PT: SPORT TV1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/314
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/50b680d733869a2d534e49f9b69e1dca.png" group-title="SPORTS | SPORTS",PT: SPORT TV 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/315
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/d9f75d9bba2e1efe718dd51f9289c360.png" group-title="SPORTS | SPORTS",PT: SPORT TV3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/316
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/5b984b54505ed991ae890e50533ed85d.png" group-title="SPORTS | SPORTS",PT: Sport TV 5 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/318
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/0f77ba9607690aff0aa1307469f24dcb.png" group-title="SPORTS | SPORTS",PT: EUROSPORT 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/324
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/828c2456cb98214830e000ff03fedaba.png" group-title="SPORTS | SPORTS",PT: EUROSPORT 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/325
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/0cd889734dd9fc56dae353d0e54cc4e1.png" group-title="SPORTS | SPORTS",PT: ELEVEN SPORT 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/327
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/6ced2656769ce3dee1c045d694a81524.png" group-title="SPORTS | SPORTS",PT: ELEVEN SPORT 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/329
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="SPORTS | SPORTS",NL : ESPN SPORTS 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/503
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="SPORTS | SPORTS",NL : ESPN SPORTS 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/505
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/758d4f77d176cdd7a7a3f22af54c820b.png" group-title="SPORTS | SPORTS",NL : EUROSPORT 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/509
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/2daed7bb7d517d2e1b21da50a4084d64.png" group-title="SPORTS | SPORTS",NL : ZIGGO SPORT VOETBAL HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/511
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/6e09ff7f947e483e9e32676d3273c681.png" group-title="SPORTS | SPORTS",DE: DAZN Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/564
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.live:8080/images/f6a14d2f69932ef18b77ea880dde4c61.png" group-title="SPORTS | SPORTS",FR: RMC SPORTS 3
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/615
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | SPORTS",AL: KUJTESA SPORT 4 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1138
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.fun:8080/images/6607c3d1dabdb81c383bef2d39fa6b16.png" group-title="SPORTS | SPORTS",IT: EURO SPORTS 1 | UHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1684
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.fun:8080/images/824760ef21abaa0e884336d92ea63136.png" group-title="SPORTS | SPORTS",PL: POLSAT SPORT FIGHT FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1971
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.fun:8080/images/ac3dd06a315ccc5a7040a7b275e44d55.png" group-title="SPORTS | SPORTS",PL: POLSAT SPORT PREMIUM 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1973
-#EXTINF:-1 tvg-id="" tvg-logo="http://hellosky.fun:8080/images/e654671f90c96a57bac51fc233fbf526.png" group-title="SPORTS | SPORTS",PL: CANAL+ SPORT 4 FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1980
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | SPORTS",US: Olympic Channel 1 (UHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/2197
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="SPORTS | SPORTS",UK: Fight Network
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/149
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JxV7Hwm/adobestock-281129069-2048x1367-jpeg-1070x600-1-1.png" group-title="SPORTS | SPORTS",USA : BeIN SPORTS HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/18451
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",Tennis Channel Plus 5 HD ( LIVE EVENT )
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/40516
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",UK FHD : SKY SPORTS TENNIS FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/428098
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | TENNIS",beIN Sport English 1 4k
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/274141
-#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="" group-title="SPORTS | TENNIS",|CA| TSN 1 | HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/1565
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",DSTV : SuperSport Tennis (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/7603
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HnLmKMZ/metelsky220700146.png" group-title="SPORTS | TENNIS",USA: Tennis Channel
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/712
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://starapk1.com/logo/football.png" group-title="SPORTS | TENNIS",TNT SPORT 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/286
-#EXTINF:-1 tvg-id="supersportott7.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/q24jrjac/supersport-ott-7.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 7 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157967
-#EXTINF:-1 tvg-id="" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Ginxe Sports TV (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/158079
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| Ginx eSports TV
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/170670
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORT CRICKET (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157939
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS PREMIER LEAGUE (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157940
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS LALIGA (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157941
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS FOOTBALL (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157942
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS FOOTBALL PLUS (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157943
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS PSL (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157944
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPER MOTORSPORT (FHD.)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157947
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SuperSport Action (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157948
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SuperSport Tennis (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157949
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television-thumbnail.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: SUPER SPORT LIYU (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157950
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS VARIETY 1  (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157951
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS VARIETY 2 (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157952
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS VARIETY 3  (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157953
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : Supersport blitz (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157955
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Maximo 1 Champions (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157956
-#EXTINF:-1 tvg-id="espn.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: ESPN (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157959
-#EXTINF:-1 tvg-id="espn2.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: ESPN 2 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157960
-#EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157961
-#EXTINF:-1 tvg-id="supersportott2.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 2 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157962
-#EXTINF:-1 tvg-id="supersportott3.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 3 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157963
-#EXTINF:-1 tvg-id="supersportott4.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 4 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157964
-#EXTINF:-1 tvg-id="supersportott5.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 5 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157965
-#EXTINF:-1 tvg-id="supersportott6.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/upgdtlsi/supersport-ott-6.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 6 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157966
-#EXTINF:-1 tvg-id="supersportott8.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1rydpzl5/supersport-ott-8.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Super Sport OTT 8 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157968
-#EXTINF:-1 tvg-id="" tvg-logo="https://supersportschools.com/wp-content/uploads/2021/04/SSS_Logo_Big_sml.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Supersport Schools (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157969
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: WWE Channel (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157970
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/racing-240-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV: Racing 240.
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/158053
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SuperSport Golf (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157946
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| ESPN
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/170666
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| ESPN2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/170667
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| SS Action
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171914
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| SS Blitz
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171915
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| SS Grandstand
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171916
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| SS Rugby
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171917
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| SS Variety 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171918
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|NG| WWE Channel
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171934
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Football Plus Africa
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171943
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Grandstand
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171945
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Motorsport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171946
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Premier League Africa
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171947
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Variety 1 Africa
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171949
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Variety 4
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171950
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZM| SS Cricket
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171951
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZM| SS Motorsport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171952
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS Grandstand
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171955
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|UG| SS Football Africa
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171956
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS La Liga
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171957
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS Variety 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171958
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS Variety 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171959
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS Variety 3
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171960
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",|ZW| SS Variety 4 Africa HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/171961
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SPORTS | DSTV SUPER (FHD)",DSTV : SUPERSPORTS VARIETY 4 (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157954
-#EXTINF:-1 tvg-id="ginx.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png" group-title="SPORTS | DSTV SUPER",DSTV : Ginx_Esports_TV_FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/783
-#EXTINF:-1 tvg-id="" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport Máximo 2 FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/44220
-#EXTINF:-1 tvg-id="supersportott7.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/q24jrjac/supersport-ott-7.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 7
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137532
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="SPORTS | DSTV SUPER",SUPERSPORTS PSL
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/271039
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="SPORTS | DSTV SUPER",DSTV: SUPER SPORTS CRICKET (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/24115
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Rugby (FHD).
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/157945
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport Cricket HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/516
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Grandstand HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/519
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/520
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Action HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/521
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/522
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Rugby HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/524
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="SPORTS | DSTV SUPER",DSTV : Super Motorsport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/560
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Cricket (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/769
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Grandstand (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/772
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 2 (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/773
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport Action (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/774
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 1  (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/775
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="SPORTS | DSTV SUPER",DSTV : Super Motorsport (FHD)
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/779
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="SPORTS | DSTV SUPER",DSTV : Super_sport_blitz FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/780
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORTS | DSTV SUPER",DSTV : Super_sport_maximo FHD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/781
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png" group-title="SPORTS | DSTV SUPER",DSTV : SUPERSPORTS VARIETY 4
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/784
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png" group-title="SPORTS | DSTV SUPER",DSTV: SUPERSPORTS VARIETY 3
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4885
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c782e4c-fae0-4a87-b7b1-a752598d9df9/dd7pnp2-e269034c-86e6-447b-9b35-1235abe71724.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGM3ODJlNGMtZmFlMC00YTg3LWI3YjEtYTc1MjU5OGQ5ZGY5XC9kZDdwbnAyLWUyNjkwMzRjLTg2ZTYtNDQ3Yi05YjM1LTEyMzVhYmU3MTcyNC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ViY3pbQ9rgjqqX0HnyUBEXpavBB0wLEJNS9J62hnJv0" group-title="SPORTS | DSTV SUPER",DSTV: WWE Superslam
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4888
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="SPORTS | DSTV SUPER",DSTV : WWE Channel
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4945
-#EXTINF:-1 tvg-id="espn.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="SPORTS | DSTV SUPER",DSTV: ESPN
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/23369
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="SPORTS | DSTV SUPER",DSTV: Racing 240
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/111948
-#EXTINF:-1 tvg-id="espn2.za" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="SPORTS | DSTV SUPER",DSTV: ESPN2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/120871
-#EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137517
-#EXTINF:-1 tvg-id="supersportott2.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137518
-#EXTINF:-1 tvg-id="supersportott3.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 3
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137519
-#EXTINF:-1 tvg-id="supersportott4.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 4
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137520
-#EXTINF:-1 tvg-id="supersportott5.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png" group-title="SPORTS | DSTV SUPER",DSTV : SuperSport OTT 5
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137521
-#EXTINF:-1 tvg-id="supersportott6.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/upgdtlsi/supersport-ott-6.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 6
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137531
-#EXTINF:-1 tvg-id="supersportott8.za" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1rydpzl5/supersport-ott-8.png" group-title="SPORTS | DSTV SUPER",DSTV: SuperSport OTT 8
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/137533
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Racing HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/902
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  ON Time Sports HD+
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4598
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  ON Time Sports HD+
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4620
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Racing 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4623
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Racing 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4624
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Racing 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4625
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Libya Sports  2HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4637
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Libya Sport Channel
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4640
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Sport 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4651
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4652
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  Dubai Sport 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4653
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  KSA Sport 3 HD+
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4656
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR: Bahrain_Sport_1_HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/30105
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR: Bahrain_Sport_2_HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/30106
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR: IRAQIA SPORT HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/30107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Abu Dhabi Sports 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309006
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Abu Dhabi Sports 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309007
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309008
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309009
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: KSA Sport 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309010
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309011
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309012
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Sport 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309013
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: On Time Sport HD 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309014
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: On Time Sport HD 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309015
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309016
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309017
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Dubai Racing 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309018
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Saudi 24 Sport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309023
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Bahrain Sport 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Bahrain Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309025
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Oman Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309026
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Iraqia Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309027
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Zamalek Sports
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309029
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Nile Sport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309030
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Al Ahly TV
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309031
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Al Heddaf TV
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309032
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Libya Sport 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309033
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Libya Sport 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309034
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Jordan Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309035
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Kuwait Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309036
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Palestine Sport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309037
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Sharjah Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309038
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Arryadia HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309039
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Kuwait Sport Plus
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309040
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport | Ar: Yas Sport
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309041
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Sport: RealMadrid TV
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/309043
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Iq| Al Rabiaa Iraq ✦
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605085
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport 1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605086
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport +1
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605087
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport 2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605088
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Sport +2
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605089
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Geo
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605090
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Movies
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605091
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Quran
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605092
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Series
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605093
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa variety
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605094
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Al Rabiaa Musica
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605095
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",IQ| Njoom Al Rabiaa
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605096
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 1 Sport 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605097
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 2 Sport 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605098
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 3 Sport 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605099
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 1 Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605100
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 2 Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605101
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 3 Sport HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605102
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 1 Sport SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605103
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 2 Sport SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605104
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Thamanya 3 Sport SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605105
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV 4k
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605106
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV 2 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605108
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605109
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV 2 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605110
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shasha TV SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605111
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 1 4k
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605112
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 1 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605114
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 2 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605115
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605116
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",Shahid Sport 2 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605117
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",StarzPlay Sports 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605119
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",StarzPlay Sports 1 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605120
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",StarzPlay Sports 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605122
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",StarzPlay Sports 2 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605123
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",StarzPlay Sports 3 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605125
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 1 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605126
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 2 4K
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605127
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 1 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605128
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 2 HD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605129
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 1 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605130
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AD Sport Asia 2 SD
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/605131
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  KSA Sport 1 HD+
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4654
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | ARABIC",AR:  KSA Sport 2 HD+
-http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/4655
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | BEIN",beIN SPORTS 4K 1
 http://dhoomtv.xyz:80/F4axGRbKpU/weighty7spend/274122
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS | BEIN",beIN SPORTS 4K 2
