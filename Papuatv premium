@@ -335,7 +335,6 @@ https://popmi.my.id/tes.m3u8?id=12607
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 A FHD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -435,7 +434,14 @@ http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 01
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298526
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 02
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298513
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 03
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298514
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 04
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ANTV
 http://iptvmedia.live:8080/F18115/068f009e/165072
@@ -832,7 +838,14 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 #EXTINF:-1 tvg-id="__" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 01
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298526
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 02
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298513
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 03
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298514
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia ",ID: ETV BIOSKOP 04
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
 
 
 
@@ -1035,8 +1048,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 
 
-#EXTINF:0 group-title="World Cup U-17" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png",Sport 2 Israel
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:ab:3a:a0&stream=37696&extension=ts&play_token=gwU24LgMtt
+
 #EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="World Cup U-17",TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1962,38 +1974,6 @@ http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/288369
 
 
 
-***************************** MOTO GP **********************************
-
-
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5e/f0/a3/5ef0a379bdb3516eedb153bb2ebde0e8.jpg" group-title="MOTOGP "
-#EXTINF:-1 group-title="MOTOGP " tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 group-title="MOTOGP " tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 group-title="MOTOGP " tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
-#EXTINF:-1 group-title="MOTOGP " tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
 
 
@@ -2004,8 +1984,7 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 
 
-
-***†****†*************** 🇲🇨 INDONESIA NO ACAK *********************************************
+***†****†*************** 🇲🇨 INDONESIA ALT *********************************************
 
 
 
@@ -2016,255 +1995,58 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165072
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🇲🇨Indonesia no acak",ID: Indosiar
 http://iptvmedia.live:8080/F36591/3f1a2b5c/162138
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇲🇨Indonesia no acak",ID: GTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇲🇨Indonesia alt",ID: GTV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/157578
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="🇲🇨Indonesia no acak",ID: MNC TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="🇲🇨Indonesia alt",ID: MNC TV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165054
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="🇲🇨Indonesia no acak",ID: Moji
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="🇲🇨Indonesia alt",ID: Moji
 http://iptvmedia.live:8080/F36591/3f1a2b5c/298550
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="🇲🇨Indonesia no acak",ID: RCTI
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="🇲🇨Indonesia alt",ID: RCTI
 http://iptvmedia.live:8080/F36591/3f1a2b5c/157591
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇲🇨Indonesia no acak",ID: INews
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇲🇨Indonesia alt",ID: INews
 http://iptvmedia.live:8080/F36591/3f1a2b5c/157579
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="🇲🇨Indonesia no acak",ID: Kompas TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="🇲🇨Indonesia alt",ID: Kompas TV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165060
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🇲🇨Indonesia no acak",ID: Metro TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🇲🇨Indonesia alt",ID: Metro TV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165059
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="🇲🇨Indonesia no acak",ID: SCTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="🇲🇨Indonesia alt",ID: SCTV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/162141
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="🇲🇨Indonesia no acak",ID: Net
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="🇲🇨Indonesia alt",ID: Net
 http://iptvmedia.live:8080/F36591/3f1a2b5c/80292
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="🇲🇨Indonesia no acak",ID: Trans 7
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="🇲🇨Indonesia alt",ID: Trans 7
 http://iptvmedia.live:8080/F36591/3f1a2b5c/162502
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇲🇨Indonesia no acak",ID: Trans TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="🇲🇨Indonesia alt",ID: Trans TV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/162503
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="🇲🇨Indonesia no acak",ID: TVOne
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="🇲🇨Indonesia alt",ID: TVOne
 http://iptvmedia.live:8080/F36591/3f1a2b5c/266808
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="🇲🇨Indonesia no acak",ID: Soccer Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="🇲🇨Indonesia alt",ID: Soccer Channel
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165066
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="🇲🇨Indonesia no acak",ID: SpoTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="🇲🇨Indonesia alt",ID: SpoTV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165105
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="🇲🇨Indonesia no acak",ID: SpoTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="🇲🇨Indonesia alt",ID: SpoTV 2
 http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="🇲🇨Indonesia no acak",ID: beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="🇲🇨Indonesia alt",ID: beIN Sports 1
 http://iptvmedia.live:8080/F36591/3f1a2b5c/295289
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="🇲🇨Indonesia no acak",ID: beIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="🇲🇨Indonesia alt",ID: beIN Sports 3
 http://iptvmedia.live:8080/F36591/3f1a2b5c/306458
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="🇲🇨Indonesia no acak",ID: beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="🇲🇨Indonesia alt",ID: beIN Sports 1
 http://iptvmedia.live:8080/F36591/3f1a2b5c/295289
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="🇲🇨Indonesia no acak",ID: beIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="🇲🇨Indonesia alt",ID: beIN Sports 3
 http://iptvmedia.live:8080/F36591/3f1a2b5c/306458
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 01
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298526
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 02
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298513
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 03
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298514
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 04
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="🇲🇨Indonesia no acak",ID: AXN
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165079
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="🇲🇨Indonesia no acak",ID: BBC Earth
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165106
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="🇲🇨Indonesia no acak",ID: Bioskop Indonesia
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264801
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="🇲🇨Indonesia no acak",ID: BTV/Berita Satu
-http://iptvmedia.live:8080/F36591/3f1a2b5c/162513
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="🇲🇨Indonesia no acak",ID: Cartoon Network EN
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157593
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: Cartoon Network ID
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306459
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="🇲🇨Indonesia no acak",ID: CBeebies
-http://iptvmedia.live:8080/F36591/3f1a2b5c/247448
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="🇲🇨Indonesia no acak",ID: CCM
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165103
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="🇲🇨Indonesia no acak",ID: Celestial Movies
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165065
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="🇲🇨Indonesia no acak",ID: CGTN
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298510
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="🇲🇨Indonesia no acak",ID: CinemaWorld
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165082
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="🇲🇨Indonesia no acak",ID: Cinemax
-http://iptvmedia.live:8080/F36591/3f1a2b5c/197964
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="🇲🇨Indonesia no acak",ID: Citra Dangdut
-http://iptvmedia.live:8080/F36591/3f1a2b5c/247446
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="🇲🇨Indonesia no acak",ID: Citra Drama
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264748
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="🇲🇨Indonesia no acak",ID: CNBC Indonesia
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165062
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="🇲🇨Indonesia no acak",ID: CNN Indonesia
-http://iptvmedia.live:8080/F36591/3f1a2b5c/162137
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="🇲🇨Indonesia no acak",ID: Crime+ Investigation
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165052
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="🇲🇨Indonesia no acak",ID: Discovery World
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157597
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="🇲🇨Indonesia no acak",ID: Dunia Anak
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264753
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="🇲🇨Indonesia no acak",ID: Dunia Lain
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298524
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="🇲🇨Indonesia no acak",ID: Ent
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157581
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 01
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298526
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 02
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298513
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 03
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298514
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: ETV BIOSKOP 04
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: FLIK
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165095
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="🇲🇨Indonesia no acak",ID: Galaxy
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264773
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="🇲🇨Indonesia no acak",ID: Galaxy Premium
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264774
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: HBO
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306484
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="🇲🇨Indonesia no acak",ID: HBO 1080
-http://iptvmedia.live:8080/F36591/3f1a2b5c/197972
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: HBO Family
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306485
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="🇲🇨Indonesia no acak",ID: HBO Family 1080
-http://iptvmedia.live:8080/F36591/3f1a2b5c/197055
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: HBO Hits
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306486
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="🇲🇨Indonesia no acak",ID: HBO Hits 1080
-http://iptvmedia.live:8080/F36591/3f1a2b5c/196480
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: HBO Signature
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306483
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="🇲🇨Indonesia no acak",ID: HGTV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298535
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="🇲🇨Indonesia no acak",ID: Hits
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165085
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="🇲🇨Indonesia no acak",ID: Hits Movies
-http://iptvmedia.live:8080/F36591/3f1a2b5c/221947
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="🇲🇨Indonesia no acak",ID: Horee!
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264750
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="🇲🇨Indonesia no acak",ID: IDX
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157590
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="🇲🇨Indonesia no acak",ID: IMC
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264769
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="🇲🇨Indonesia no acak",ID: K+
-http://iptvmedia.live:8080/F36591/3f1a2b5c/197969
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="🇲🇨Indonesia no acak",ID: Love Nature
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157592
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: Madu TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/307071
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="🇲🇨Indonesia no acak",ID: SPORTSTAR
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="🇲🇨Indonesia alt",ID: SPORTSTAR
 http://iptvmedia.live:8080/F36591/3f1a2b5c/157589
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="🇲🇨Indonesia no acak",ID: SPORTSTAR 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="🇲🇨Indonesia alt",ID: SPORTSTAR 2
 http://iptvmedia.live:8080/F36591/3f1a2b5c/298548
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: MQTV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298551
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="🇲🇨Indonesia no acak",ID: MTA 7 Asia
-http://iptvmedia.live:8080/F36591/3f1a2b5c/162522
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="🇲🇨Indonesia no acak",ID: Music TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165108
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" group-title="🇲🇨Indonesia no acak",ID: Nabawi TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/306469
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="🇲🇨Indonesia no acak",ID: Nat Geo
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165094
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="🇲🇨Indonesia no acak",ID: Nat Geo Wild
-http://iptvmedia.live:8080/F36591/3f1a2b5c/197967
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="🇲🇨Indonesia no acak",ID: NBA TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298558
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="🇲🇨Indonesia no acak",ID: Nick Jr
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165107
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="🇲🇨Indonesia no acak",ID: Nick Jr EN
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298561
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="🇲🇨Indonesia no acak",ID: nickelodeon
-http://iptvmedia.live:8080/F36591/3f1a2b5c/162510
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="🇲🇨Indonesia no acak",ID: Nusantara TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166410
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="🇲🇨Indonesia no acak",ID: One
-http://iptvmedia.live:8080/F36591/3f1a2b5c/165077
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="🇲🇨Indonesia no acak",ID: Rock Entertaiment
-http://iptvmedia.live:8080/F36591/3f1a2b5c/298565
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="🇲🇨Indonesia no acak",ID: Rodja TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264758
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="🇲🇨Indonesia no acak",ID: Soccer Channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="🇲🇨Indonesia alt",ID: Soccer Channel
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165066
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="🇲🇨Indonesia no acak",ID: SpoTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="🇲🇨Indonesia alt",ID: SpoTV
 http://iptvmedia.live:8080/F36591/3f1a2b5c/165105
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="🇲🇨Indonesia no acak",ID: SpoTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="🇲🇨Indonesia alt",ID: SpoTV 2
 http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: TATV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166708
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="🇲🇨Indonesia no acak",ID: Thrill
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157580
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="🇲🇨Indonesia no acak",ID: TVN
-http://iptvmedia.live:8080/F36591/3f1a2b5c/144886
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="🇲🇨Indonesia no acak",ID: TVN Movies
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157596
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Aceh
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166694
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Bangka Belitung
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166690
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Bengkulu
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166691
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png" group-title="🇲🇨Indonesia no acak",ID: TVRI DKI Jakarta
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305306
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Gorontalo
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166698
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Jambi
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166692
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/08b5a76f2d73ec8289f8454d18a063df.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Jawa Barat
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166688
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Jawa Timur
-http://iptvmedia.live:8080/F36591/3f1a2b5c/276060
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9eaaf1f3fdadc91781c46818e02a8ad1.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Kalimantan Barat
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166701
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Kalimantan Selatan
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305305
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/4f002dcff1ce6253a4555a3626f85b3d.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Kalimantan Tengah
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166702
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Kalimantan Timur
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166703
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Lampung
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166693
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Maluku
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305304
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/6e912e1e4bc79e0126c798b067a7665e.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Nasional
-http://iptvmedia.live:8080/F36591/3f1a2b5c/162504
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Nusa Tenggara Barat
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305303
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Nusa Tenggara Timur
-http://iptvmedia.live:8080/F36591/3f1a2b5c/287441
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Papua
-http://iptvmedia.live:8080/F36591/3f1a2b5c/287442
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sport
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166686
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sulawesi Barat
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305300
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sulawesi Selatan
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166699
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sulawesi Tengah
-http://iptvmedia.live:8080/F36591/3f1a2b5c/287445
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sulawesi Tenggara
-http://iptvmedia.live:8080/F36591/3f1a2b5c/287446
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sumatera Barat
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166695
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Sumatera Selatan
-http://iptvmedia.live:8080/F36591/3f1a2b5c/166697
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png" group-title="🇲🇨Indonesia no acak",ID: TVRI World
-http://iptvmedia.live:8080/F36591/3f1a2b5c/295291
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png" group-title="🇲🇨Indonesia no acak",ID: TVRI Yogyakarta
-http://iptvmedia.live:8080/F36591/3f1a2b5c/305297
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: UG TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/304029
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="🇲🇨Indonesia no acak",ID: Warner TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157594
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png" group-title="🇲🇨Indonesia no acak",ID: Wesal TV
-http://iptvmedia.live:8080/F36591/3f1a2b5c/266813
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="🇲🇨Indonesia no acak",ID: Zee Bioskop
-http://iptvmedia.live:8080/F36591/3f1a2b5c/157584
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="🇲🇨Indonesia no acak",ID: ZooMoo
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264751
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇲🇨Indonesia no acak",ID: BBC Lifestyle
-http://iptvmedia.live:8080/F36591/3f1a2b5c/264747
-
-
-
 
 
 
@@ -2579,91 +2361,10 @@ http://161.123.116.21:80/Isabelle1/Isabelle2/96168
 
 
 
-*********************** BLUE SPORT ***********†************************
 
 
 
 
-
-#EXTINF:-1 tvg-id="bluesport1.ch" tvg-logo="http://ipro.tv/picons/bluesport1.png" group-title="BLUE SPORTS",CH: Blue Sport 1 HD
-http://king-box.club:80/xe/wu9gwTWN/204880
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport2.png" group-title="BLUE SPORTS",CH: Blue Sport 2 HD
-http://king-box.club:80/xe/wu9gwTWN/204878
-#EXTINF:-1 tvg-id="bluesport1.ch" tvg-logo="http://ipro.tv/picons/bluesport1.png" group-title="BLUE SPORTS",CH: Blue Sport D1 FHD
-http://king-box.club:80/xe/wu9gwTWN/390396
-#EXTINF:-1 tvg-id="bluesport2.ch" tvg-logo="http://ipro.tv/picons/bluesport2.png" group-title="BLUE SPORTS",CH: Blue Sport D2 FHD
-http://king-box.club:80/xe/wu9gwTWN/204879
-#EXTINF:-1 tvg-id="bluezoom.ch" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport Zoom D HD
-http://king-box.club:80/xe/wu9gwTWN/375240
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 1 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375237
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 2 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375236
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 3 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375235
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 4 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375234
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 5 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375233
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 6 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375232
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 7 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375231
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 8 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375230
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE SPORTS",CH: Blue Sport 9 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375229
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 10 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375228
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 11 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375227
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 12 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375226
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 13 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375225
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 14 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375224
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 15 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375223
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 16 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375222
-#EXTINF:-1 tvg-id="" tvg-logo="http://ipro.tv/picons/bluesport.png" group-title="BLUE  SPORTS",CH: Blue Sport 17 Live HD
-http://king-box.club:80/xe/wu9gwTWN/375221
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-logo="http://ipro.tv/picons/black.png" group-title="BLUE  SPORTS",CH: Blue Bundesliga FHD
-http://king-box.club:80/xe/wu9gwTWN/204875
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-logo="http://ipro.tv/picons/black.png" group-title="BLUE  SPORTS",CH: Blue Bundesliga
-http://king-box.club:80/xe/wu9gwTWN/204874
-
-
-
-******************************** SPORTS ASTRO *****************************
-
-
-
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Premier League 1 HD
-http://king-box.club:80/xe/wu9gwTWN/161931
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Premier League 2 HD
-http://king-box.club:80/xe/wu9gwTWN/161932
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Grandstand HD
-http://king-box.club:80/xe/wu9gwTWN/161933
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Football HD
-http://king-box.club:80/xe/wu9gwTWN/161934
-#EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro EPL 1 HD
-http://king-box.club:80/xe/wu9gwTWN/161935
-#EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro EPL 2 HD
-http://king-box.club:80/xe/wu9gwTWN/161936
-#EXTINF:-1 tvg-id="golfchannel.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Golf Channel FHD
-http://king-box.club:80/xe/wu9gwTWN/161940
-#EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Setanta Eurasia FHD
-http://king-box.club:80/xe/wu9gwTWN/161939
-#EXTINF:-1 tvg-id="" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Setanta Eurasia+ FHD
-http://king-box.club:80/xe/wu9gwTWN/165090
-#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Bein Sports Max HD
-http://king-box.club:80/xe/wu9gwTWN/161946
-#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Cricket FHD
-http://king-box.club:80/xe/wu9gwTWN/161944
-#EXTINF:-1 tvg-id="astroarena.my" tvg-logo="http://itekpro.xyz/picons/astrosports.png" group-title="  SPORTS ASTRO ",MY: Astro Arena HD
-http://king-box.club:80/xe/wu9gwTWN/161948
 
 
 
