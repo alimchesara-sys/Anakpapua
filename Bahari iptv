@@ -616,193 +616,213 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 1 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT",|FR| EUROSPORT 1 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/250665
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| Eurosport 1 ᴴᴰ
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT",|FR| Eurosport 1 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/238
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR|  EUROSPORT 1 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT",|FR|  EUROSPORT 1 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/32842
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 1 ˢᴰ
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT",|FR| EUROSPORT 1 ˢᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/12855
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/250664
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| Eurosport 2 ᴴᴰ
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT",|FR| Eurosport 2 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/239
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT",|FR| EUROSPORT 2 ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/32843
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| ✪ EUROSPORT",|FR| EUROSPORT 2 ˢᴰ
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT",|FR| EUROSPORT 2 ˢᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/12854
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 1 4K
+
+
+
+******************** ALWAN SPORT ******************************
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 1 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641605
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 1 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 1 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 2 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 2 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641606
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 2 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 2 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 3 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 3 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641607
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 3 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 3 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641626
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 4 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 4 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641608
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 4 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 4 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 4 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 5 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 5 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 5 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 5 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 5 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 6 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 6 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641610
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 6 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 6 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 6 SD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641629
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 7 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 7 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 8 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 8 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 9 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 9 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan Sport 10 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan Sport 10 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan F1 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan F1 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan UFC 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan UFC 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="|AR| ✪  ALWAN SPORT",Alwan WWE 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="ALWAN SPORT",Alwan WWE 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF| ✪ DSTV SPORTS",DSTV - SuperSport Liyu 1
+
+
+
+*************""**** DSTV SPORTS ****************************
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV - SuperSport Liyu 1
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1285339
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF| ✪ DSTV SPORTS",DSTV - SuperSport Liyu 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV - SuperSport Liyu 2
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1285338
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="|AF| ✪ DSTV SPORTS",DSTV|  SuperSport EPL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV|  SuperSport EPL
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1122795
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="|AF| ✪ DSTV SPORTS",DSTV - SUPERSPORT AFRICA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORTS",DSTV - SUPERSPORT AFRICA 1
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1243236
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="|AF| ✪ DSTV SPORTS",DSTV - SUPERSPORT AFRICA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORTS",DSTV - SUPERSPORT AFRICA 2
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1243237
-#EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT
+#EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="DSTV SPORTS",|DSTV| SuperSport OTT
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30313
-#EXTINF:-1 tvg-id="supersportott2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 2
+#EXTINF:-1 tvg-id="supersportott2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 2
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30314
-#EXTINF:-1 tvg-id="supersportott3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 3
+#EXTINF:-1 tvg-id="supersportott3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 3
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30315
-#EXTINF:-1 tvg-id="supersportott4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| - SuperSport OTT 4
+#EXTINF:-1 tvg-id="supersportott4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| - SuperSport OTT 4
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30316
-#EXTINF:-1 tvg-id="supersportott6.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 5
+#EXTINF:-1 tvg-id="supersportott6.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 5
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30318
-#EXTINF:-1 tvg-id="supersportott7.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 6
+#EXTINF:-1 tvg-id="supersportott7.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 6
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30319
-#EXTINF:-1 tvg-id="supersportott8.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 7
+#EXTINF:-1 tvg-id="supersportott8.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 7
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30320
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport OTT 8
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 8
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30321
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport Play
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport Play
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30322
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Action
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Action
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138731
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Cricket ᵁᴴᴰ (AZ)
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Cricket ᵁᴴᴰ (AZ)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138735
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Schools
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Schools
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138734
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Cricket ᴴᴰ
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Cricket ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138733
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport MOTOSPORT ᴴᴰ
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport MOTOSPORT ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138595
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Events
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Events
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138592
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Football ᴴᴰ
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Football ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138591
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Football Plus ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Football Plus ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138589
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Golf ᴴᴰ
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Golf ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138784
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Grandstand
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Grandstand
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138727
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport LaLiga ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport LaLiga ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138584
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  Maximo 1 – Champions
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  Maximo 1 – Champions
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138814
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport MáXimo 1 ᴴᴰ
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport MáXimo 1 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138806
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Play 1 ᴴᴰ
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 1 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138816
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Play 2 ᴴᴰ
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 2 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138817
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  Play SuperSport 3 ᴴᴰ
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  Play SuperSport 3 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138818
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Play 4 ᴴᴰ
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 4 ᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138819
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Premier League
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Premier League
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138586
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Premier League ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Premier League ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138587
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Blitz
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Blitz
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138614
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport PSL ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport PSL ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138737
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SuperSport  Rugby ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport  Rugby ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138787
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Tennis ᵁᴴᴰ
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Tennis ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138736
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 1
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138612
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᵁᴴᴰ (UG)
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᵁᴴᴰ (UG)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138740
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᴴᴰ (ZW)
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᴴᴰ (ZW)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138613
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 2
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138616
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 2 (ZW)
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 (ZW)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138619
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (NG)
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (NG)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138618
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (UG)
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (UG)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138739
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 3
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138738
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 3 (UG)
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 (UG)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138617
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᵁᴴᴰ (ZA)
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᵁᴴᴰ (ZA)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138615
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᴴᴰ (ZW)
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᴴᴰ (ZW)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138611
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 4
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138694
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᵁᴴᴰ (AZ)
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᵁᴴᴰ (AZ)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138742
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (UG)
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (UG)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138741
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (ZW)
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (ZW)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138596
-#EXTINF:-1 tvg-id="espn.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  ESPN Africa ᵁᴴᴰ
+#EXTINF:-1 tvg-id="espn.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="DSTV SPORTS",|DSTV|  ESPN Africa ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138678
-#EXTINF:-1 tvg-id="espn2.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV|  ESPN 2 Africa ᵁᴴᴰ
+#EXTINF:-1 tvg-id="espn2.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="DSTV SPORTS",|DSTV|  ESPN 2 Africa ᵁᴴᴰ
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/138677
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3518.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| WWE Channel
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3518.png" group-title="DSTV SPORTS",|DSTV| WWE Channel
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/265815
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="|AF| ✪ DSTV SPORTS",|DSTV| SS Variety
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SS Variety
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/265807
-#EXTINF:-1 tvg-id="ginx.za" tvg-logo="http://138.199.27.237:8080/AFRICA/GINXESPORTS.jpg" group-title="|AF| ✪ DSTV SPORTS",|DSTV| Ginx eSports TV ᴴᴰ ZA
+#EXTINF:-1 tvg-id="ginx.za" tvg-logo="http://138.199.27.237:8080/AFRICA/GINXESPORTS.jpg" group-title="DSTV SPORTS",|DSTV| Ginx eSports TV ᴴᴰ ZA
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/30336
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="|ES| ✪ FOX SPORTS",ES Fox Sports 1 HD
+
+
+
+
+********"*"""""""************ GOX SPORTS ***********************************
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",ES Fox Sports 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1283450
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="|ES| ✪ FOX SPORTS",ES Fox Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",ES Fox Sports 2 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1283451
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="|ES| ✪ FOX SPORTS",ES Fox Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",ES Fox Sports 3 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1283452
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="|ES| ✪ FOX SPORTS",ES Fox Sports Premium HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="FOX SPORTS",ES Fox Sports Premium HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1283453
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/88/f6/c8/88f6c8d9c479d240a7f9fc6807cc7be1.jpg" group-title="|IT| ✪ SPORT",|IT|DAZN PGA TOUR HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/690035
