@@ -1056,7 +1056,7 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
 
 
 
-#EXTM3U
+
 
 
 
@@ -1363,7 +1363,7 @@ http://161.123.116.21:80/Isabelle1/Isabelle2/1664994
 http://161.123.116.21:80/Isabelle1/Isabelle2/1665011
 #EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 FHD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664987
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16834.jpg" group-title="🇬🇧UTNT SPORTS",TNT SPORTS 2 HD (RAW)
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16834.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 HD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664991
 #EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16838.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 SD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664995
