@@ -966,7 +966,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="EVENT",MOJI TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="TV DIGITAL",MOJI TV
 http://103.170.33.11:9981/stream/channelid/1896622786
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
@@ -975,7 +975,7 @@ http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
-#EXTINF:-1 tvg-id="TV DIGITAL" tvg-name="EVENT" group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
+#EXTINF:-1 tvg-id="TV DIGITAL" tvg-name="EVENT" group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
 http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/34327
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1033,20 +1033,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS 1 ᵁᴴᴰ
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1235747
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS 2 ᵁᴴᴰ
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1235748
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS 3 ᵁᴴᴰ
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1235749
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS  4 ᵁᴴᴰ
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1235745
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS Extra 5
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1701221
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS Extra 5
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1701222
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="TNT SPORTS",TNT SPORTS Extra 6
-http://410206068783.d4ktv.info:8080/5c:c1:d7:13:57:6e/ezx2qkwf9d/1701227
 
 
 
@@ -1148,38 +1134,58 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
 
 
 
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16832.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT Sports 1 50FPS
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16832.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 1 50FPS
 http://161.123.116.21:80/Isabelle1/Isabelle2/1665010
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16825.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 1 FHD (RAW)
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16825.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 FHD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664986
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16833.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 1 HD (RAW)
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16833.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 HD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664990
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16837.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 1 SD (RAW)
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16837.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 SD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664994
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16831.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT Sports 2 50FPS
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16831.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 2 50FPS
 http://161.123.116.21:80/Isabelle1/Isabelle2/1665011
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 2 FHD (RAW)
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 FHD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664987
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16834.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 2 HD (RAW)
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16834.jpg" group-title="🇬🇧UTNT SPORTS",TNT SPORTS 2 HD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664991
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16838.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 2 SD (RAW)
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16838.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 SD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664995
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16830.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT Sports 3 50FPS
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16830.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 3 50FPS
 http://161.123.116.21:80/Isabelle1/Isabelle2/1665012
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16827.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 3 FHD (RAW)
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16827.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 FHD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664988
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16835.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 3 HD (RAW)
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16835.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 HD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664992
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16839.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 3 SD (RAW)
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16839.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 SD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664996
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16829.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT Sports 4 50FPS
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16829.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 4 50FPS
 http://161.123.116.21:80/Isabelle1/Isabelle2/1665013
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16828.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 4 FHD (RAW)
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16828.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 FHD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664989
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16836.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 4 HD (RAW)
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16836.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 HD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664993
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16840.jpg" group-title="🇬🇧UK| TNT SPORTS",TNT SPORTS 4 SD (RAW)
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16840.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 SD (RAW)
 http://161.123.116.21:80/Isabelle1/Isabelle2/1664997
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="🇬🇧TNT SPORTS",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="🇬🇧TNT SPORTS",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="🇬🇧TNT SPORTS",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="🇬🇧TNT SPORTS",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 
