@@ -874,13 +874,7 @@ https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 
 
-#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", Liga 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8  
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="TV DIGITAL",MOJI TV
-#http://Farhan@90/18062025/23.ts">https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
-http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png", group-title="TV DIGITAL", SIN PO TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=19046
@@ -894,13 +888,6 @@ https://popmi.my.id/tes.m3u8?id=19046
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="PL" tvg-logo="" group-title="TV DIGITAL", DENSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="TV DIGITAL",MOJI TV
 http://103.170.33.11:9981/stream/channelid/1896622786
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
@@ -910,17 +897,6 @@ http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
-#EXTINF:-1 tvg-id="TV DIGITAL" tvg-name="EVENT" group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png", INDOSIAR Digital
-http://vipboacnn.top:8080/VIP013791744272390384/0c414a9db73e/34327
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10" , ANTV SPORTS
 https://tv.casindo.org/hls/45/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FbdbwDYW/20251207-032057.jpg" group-title="TV DIGITAL",MOJI SPORTS
@@ -933,7 +909,7 @@ https://tv.casindo.org/hls/51/51.m3u8
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-id="Indosiar.id" ,Indosiar DIGITAL
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
 http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
@@ -986,7 +962,7 @@ https://tv.casindo.org/hls/51/51.m3u8
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-id="Indosiar.id" ,Indosiar DIGITAL
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
 http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
