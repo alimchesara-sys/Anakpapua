@@ -911,7 +911,7 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
 http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" , MOJI TV DIGITAL
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
@@ -964,7 +964,7 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
 http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
 #EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" , MOJI TV DIGITAL
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
@@ -1106,27 +1106,6 @@ https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/ma
 
 
 
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" ,Hub Premier 1 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" ,Hub Premier 2 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148159
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" ,Hub Premier 3 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="_https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png"" ,Hub Premier 4 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" ,Hub Premier 5 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://i.imgur.com/bVOyKEV.png" ,Hub Premier 7 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://i.imgur.com/bVOyKEV.png" ,Hub Premier 7 FHD (2)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://i.imgur.com/stYijJ1.png" ,Hub Premier 8 FHD (2)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" ,Hub Premier 6 FHD (2)
-#EXTINF:-1 tvg-logo="group-title="HUB PREMIER" ,Hub premier 6
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
-#EXTINF:-1 tvg-logo="group-title="HUB PREMIER" ,Hub premier 8
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
 
 
@@ -1136,28 +1115,16 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/611767
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/613446
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/613445
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1148796
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1241205
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1241206
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1241207
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1241208
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1148797
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",Next 
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1148798
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",No Event
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1148799
+
+
+==================== BLUE SPORT ====================
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://gateway.prd.sky.ch/imageapi/utils/s3path?param=%7B%22path%22%3A%22img%2Fmoviecover%2Fch%2Fimages%2Fchannel%2F327.png%22%2C%22format%22%3A%22webp%22%2C%22quality%22%3A%2280%22%7D" group-title="BLUE SPORT",Blue Sport 1 Direct ᵁᴴᴰ
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/355094
 #EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/GERMANY/BLUESPORT.png" group-title="BLUE SPORT",blue Sport 1 ᴴᴰ
@@ -1166,6 +1133,14 @@ http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/250250
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/355096
 #EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/GERMANY/BLUESPORT.png" group-title="BLUE SPORT",blue Sport 2 ᴴᴰ
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/250251
+
+
+
+
+==================== AUSTRIA SPORT ============================
+
+
+
 #EXTINF:-1 tvg-id="skysportaustria.at" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="AUSTRIA SPORT",Sky Sport Austria ᵁᴴᴰ
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/15027
 #EXTINF:-1 tvg-id="skysportaustria.at" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="AUSTRIA SPORT",Sky Sport Austria
@@ -1202,6 +1177,15 @@ http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1211311
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1211312
 #EXTINF:-1 tvg-id="skysportaustria.at" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="AUSTRIA SPORT",SKY SPORT AUSTRIA 7 ᴴᴰ
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/1211313
+
+
+
+
+
+================== HUB SPORT ==========================
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="HUB SPORTS",HUB SPORTS 1
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/280827
 #EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="HUB SPORTS",HUB SPORTS 2
@@ -1235,6 +1219,10 @@ http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/304475
 #EXTINF:-1 tvg-id="" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="HUB SPORTS",OPTUS SPORT 9 ᴴᴰ
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/304476
 
+
+
+
+==================== STAN SPORT ==========================
 
 
 
@@ -1278,30 +1266,6 @@ http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/288367
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/288368
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN SPORT",STAN SPORT 20
 http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/288369
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 1
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306274
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 2
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306275
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 3
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306276
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 4
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306277
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 5
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306278
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 6
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306279
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 7
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306280
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 8
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306281
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png" group-title="OPTUS",OPTUS 11
-http://4kgood.org:8080/1v4lwdrmmh/4oihc2mi94/306282
-
 
 
 
