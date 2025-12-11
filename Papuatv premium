@@ -989,6 +989,115 @@ https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro
 
 
 
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10" , ANTV SPORTS
+https://tv.casindo.org/hls/45/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FbdbwDYW/20251207-032057.jpg" group-title="TV DIGITAL",MOJI SPORTS
+https://tv.casindo.org/hls/50/50.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/antv.png" , ANTV SPORTS
+https://tv.casindo.org/hls/45/45.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/rcti.png" , RCTI SPORTS
+https://tv.casindo.org/hls/51/51.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/sctv.png" tvg-id="SCTV.id" ,SCTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-id="Indosiar.id" ,Indosiar DIGITAL
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" , MOJI TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ,Mentari TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/antv.png" tvg-id="ANTV.id tvg-url=" ,ANTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://w7.pngwing.com/pngs/211/110/png-transparent-tvone-television-channel-streaming-media-youtube-youtube-television-text-logo.png" tvg-id="tvOne.id" ,TVOne DIGITAL
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,VTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" tvg-id="Rajawali TV" ,RTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png" tvg-id="MetroTV.id" ,Metro TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" ,Garuda TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="Nusantara TV" ,Nusantara TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/133753?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="MDTV.id" ,MDTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="TV DIGITAL",TVRI SPORTS
+https://tv.casindo.org/hls/49/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkCxfWYmYXQzG8VdL5zYZAr5pOX5AnI155ilK2BUpKHhJjfXiCv0leOw&s=10" group-title="TV DIGITAL",INDOSIAR SPORTS
+http://tv.casindo.org/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="TV DIGITAL",CNN INDONESIA 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="TV DIGITAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10" group-title="TV DIGITAL",MNCTV SPORTS
+https://tv.casindo.org/hls/54/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10" group-title="TV DIGITAL",GTV SPORTS
+https://tv.casindo.org/hls/57/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0SIS7RjHccNqrEvjNwHmDc_YRrZ-F6utD-OH35QJLg&s=10" group-title="TV DIGITAL",SCTV SPORTS
+https://tv.casindo.org/hls/55/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV DIGITAL",SINPO TV
+http://103.172.71.153:9981/stream/channelid/515124307?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://pbs.twimg.com/profile_images
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10" , ANTV SPORTS
+https://tv.casindo.org/hls/45/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FbdbwDYW/20251207-032057.jpg" group-title="TV DIGITAL",MOJI SPORTS
+https://tv.casindo.org/hls/50/50.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/antv.png" , ANTV SPORTS
+https://tv.casindo.org/hls/45/45.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/rcti.png" , RCTI SPORTS
+https://tv.casindo.org/hls/51/51.m3u8
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/sctv.png" tvg-id="SCTV.id" ,SCTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-id="Indosiar.id" ,Indosiar DIGITAL
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" , MOJI TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ,Mentari TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://get.perfecttv.net/logo/antv.png" tvg-id="ANTV.id tvg-url=" ,ANTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://w7.pngwing.com/pngs/211/110/png-transparent-tvone-television-channel-streaming-media-youtube-youtube-television-text-logo.png" tvg-id="tvOne.id" ,TVOne DIGITAL
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,VTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" tvg-id="Rajawali TV" ,RTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png" tvg-id="MetroTV.id" ,Metro TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" ,Garuda TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="Nusantara TV" ,Nusantara TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/133753?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="MDTV.id" ,MDTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="TV DIGITAL",TVRI SPORTS
+https://tv.casindo.org/hls/49/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkCxfWYmYXQzG8VdL5zYZAr5pOX5AnI155ilK2BUpKHhJjfXiCv0leOw&s=10" group-title="TV DIGITAL",INDOSIAR SPORTS
+http://tv.casindo.org/hls/56/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="TV DIGITAL",CNN INDONESIA 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="TV DIGITAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10" group-title="TV DIGITAL",MNCTV SPORTS
+https://tv.casindo.org/hls/54/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10" group-title="TV DIGITAL",GTV SPORTS
+https://tv.casindo.org/hls/57/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0SIS7RjHccNqrEvjNwHmDc_YRrZ-F6utD-OH35QJLg&s=10" group-title="TV DIGITAL",SCTV SPORTS
+https://tv.casindo.org/hls/55/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV DIGITAL",SINPO TV
+http://103.172.71.153:9981/stream/channelid/515124307?profile=pass
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://pbs.twimg.com/profile_images/1799263266512019456/sON7OSwi_400x400.jpg" , INEWS SPORTS
+https://tv.casindo.org/hls/52/52.m3u8
+
+
 
 
 
@@ -1058,80 +1167,30 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10" , ANTV SPORTS
-https://tv.casindo.org/hls/45/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FbdbwDYW/20251207-032057.jpg" group-title="DIGITAL TV",MOJI SPORTS
-https://tv.casindo.org/hls/50/50.m3u8
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/antv.png" , ANTV SPORTS
-https://tv.casindo.org/hls/45/45.m3u8
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/rcti.png" , RCTI SPORTS
-https://tv.casindo.org/hls/51/51.m3u8
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" tvg-id="SCTV.id" ,SCTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" tvg-id="Indosiar.id" ,Indosiar DIGITAL
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/transtv.png" tvg-id="TransTV.id" ,TransTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/trans7.png" tvg-id="Trans7.id" ,Trans7 DIGITAL
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" , MOJI TV DIGITAL
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" ,Mentari TV DIGITAL
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://get.perfecttv.net/logo/antv.png" tvg-id="ANTV.id tvg-url=" ,ANTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://w7.pngwing.com/pngs/211/110/png-transparent-tvone-television-channel-streaming-media-youtube-youtube-television-text-logo.png" tvg-id="tvOne.id" ,TVOne DIGITAL
-http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,VTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" tvg-id="Rajawali TV" ,RTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png" tvg-id="MetroTV.id" ,Metro TV DIGITAL
-http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" ,Garuda TV DIGITAL
-http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="Nusantara TV" ,Nusantara TV DIGITAL
-http://103.170.33.11:9981/stream/channelid/133753?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" tvg-id="MDTV.id" ,MDTV DIGITAL
-http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="DIGITAL TV",TVRI SPORTS
-https://tv.casindo.org/hls/49/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkCxfWYmYXQzG8VdL5zYZAr5pOX5AnI155ilK2BUpKHhJjfXiCv0leOw&s=10" group-title="DIGITAL TV",INDOSIAR SPORTS
-http://tv.casindo.org/hls/56/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="DIGITAL TV",CNN INDONESIA 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png" group-title="DIGITAL TV",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10" group-title="DIGITAL TV",MNCTV SPORTS
-https://tv.casindo.org/hls/54/54.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10" group-title="DIGITAL TV",GTV SPORTS
-https://tv.casindo.org/hls/57/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0SIS7RjHccNqrEvjNwHmDc_YRrZ-F6utD-OH35QJLg&s=10" group-title="DIGITAL TV",SCTV SPORTS
-https://tv.casindo.org/hls/55/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DIGITAL TV ",SINPO TV
-http://103.172.71.153:9981/stream/channelid/515124307?profile=pass
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://pbs.twimg.com/profile_images/1799263266512019456/sON7OSwi_400x400.jpg" , INEWS SPORTS
-https://tv.casindo.org/hls/52/52.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250" tvg-id="576059" , SEA Games CH01
+#EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250" tvg-id="576060" , SEA Games CH02
+
+#EXTINF:-1  tvg-id="576060" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250", SEA Games CH02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250" tvg-id="576061" , SEA Games CH03
+
+#EXTINF:-1  tvg-id="576061" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250", SEA Games CH03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250" tvg-id="580750" , SEA Games CH04
+
+#EXTINF:-1  tvg-id="580750" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298988'&EntityType='Item'&EntityId='580750'&Width=289&Height=250", SEA Games CH04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250" tvg-id="580751" , SEA Games CH05
 
-
-
+#EXTINF:-1  tvg-id="580751" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298994'&EntityType='Item'&EntityId='580751'&Width=289&Height=250", SEA Games CH05
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 
 
