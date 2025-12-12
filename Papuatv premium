@@ -1072,6 +1072,75 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
 
 
 
+============= MOVIES ===============
+
+
+
+
+#EXTINF:-1,ID: Bioskop Indonesia="group-title="movies",  Bioskop indonesia
+http://iptvmedia.live:8080/F36591/3f1a2b5c/264801
+#EXTINF:-1,ID: CCM="group-title="movies",  CCM
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165103
+#EXTINF:-1,ID: CinemaWorld="group-title="movies",  Cinemaworld
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165082
+#EXTINF:-1,ID: Cinemax="group-title="movies",  cinemax
+http://iptvmedia.live:8080/F36591/3f1a2b5c/197964
+#EXTINF:-1,ID:="group-title="movies", Citra Drama
+http://iptvmedia.live:8080/F36591/3f1a2b5c/264748
+#EXTINF:-1,ID:="group-title="movies", ETV BIOSKOP 01
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298526
+#EXTINF:-1,ID:="group-title="movies", ETV BIOSKOP 02
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298513
+#EXTINF:-1,ID:="group-title="movies", ETV BIOSKOP 03
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298514
+#EXTINF:-1,ID:="group-title="movies", ETV BIOSKOP 04
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
+#EXTINF:-1,ID:="group-title="movies", FLIK
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165095
+#EXTINF:-1,ID:="group-title="movies",Galaxy
+http://iptvmedia.live:8080/F36591/3f1a2b5c/264773
+#EXTINF:-1,ID:="group-title="movies",Galaxy Premium
+http://iptvmedia.live:8080/F36591/3f1a2b5c/264774
+#EXTINF:-1,ID:="group-title="movies",HBO
+http://iptvmedia.live:8080/F36591/3f1a2b5c/306484
+#EXTINF:-1,ID:="griup-title="movies",HBO 1080"group-title="movies",🏴‍☠️ HBO
+http://iptvmedia.live:8080/F36591/3f1a2b5c/197972
+#EXTINF:-1,ID:="group-title="movies",HBO Family
+http://iptvmedia.live:8080/F36591/3f1a2b5c/306485
+#EXTINF:-1,ID:="group-title="movies",HBO Hits
+http://iptvmedia.live:8080/F36591/3f1a2b5c/306486
+#EXTINF:-1,ID:="group-title="movies",HBO Signature
+http://iptvmedia.live:8080/F36591/3f1a2b5c/306483
+#EXTINF:-1,ID:="group-title="movies",Hits
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165085
+#EXTINF:-1,ID:="group-title="movies",Hits Movies
+http://iptvmedia.live:8080/F36591/3f1a2b5c/221947
+#EXTINF:-1,ID:="group-title="movies",Rock Action
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298490
+#EXTINF:-1,ID:="group-title="movies",Rock Entertaiment
+http://iptvmedia.live:8080/F36591/3f1a2b5c/298565
+#EXTINF:-1,ID:="group-title="movies",Thrill
+http://iptvmedia.live:8080/F36591/3f1a2b5c/157580
+#EXTINF:-1,ID:="group-title="movies",TVN
+http://iptvmedia.live:8080/F36591/3f1a2b5c/144886
+#EXTINF:-1,ID:="group-title="movies",TVN Movies
+http://iptvmedia.live:8080/F36591/3f1a2b5c/157596
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="movies",AXN
+http://iptvmedia.live:8080/F18115/068f009e/165079
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="movies",Celestial Movies
+http://iptvmedia.live:8080/F18115/068f009e/165065
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="movies",Dunia Lain
+http://iptvmedia.live:8080/F18115/068f009e/298524
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="movies",Ent
+http://iptvmedia.live:8080/F18115/068f009e/157581
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="movies",Zee Bioskop
+http://iptvmedia.live:8080/F18115/068f009e/157584
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="movies",ZooMoo
+http://iptvmedia.live:8080/F18115/068f009e/264751
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="movies",Warner TV
+http://iptvmedia.live:8080/F18115/068f009e/157594
+
+
 
 
 
