@@ -1870,6 +1870,41 @@ http://filex.me:8080/MAS101A/MAS101AABB/819582
 
 
 
+====================== NOW SPORTS ==========================
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NOW SPORTS 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NOW SPORTS 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title="SPORTS",ZIGGO SPORT 2
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SPOTV 2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title="SPORTS",SONY TEN 1
+http://norkadymm.top:8080/32173480057546/81734800575822/53631
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SPORT DIGITAL
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400201159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UNIFI.Sports
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Foxsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UNIFI.Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="" group-title="SPORTS",UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKY SPORT +
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKYSPORT PREMIER LEAGUE
+http://norkadymm.top:8080/32173480057546/81734800575822/61404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",,SKYSPORT MOTOGP
+http://norkadymm.top:8080/32173480057546/81734800575822/62231
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKTSPORT F1
+http://norkadymm.top:8080/32173480057546/81734800575822/61400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKYSPORT MAIN EVENT
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
+
+
+
 
 
 
@@ -1987,6 +2022,46 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" ,TNT SPORT 4 HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153713
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" , TNT SPORT 4 SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/13717
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" ,TNT SPORT 4 FHD
+http://line.extraott-iptv.com:88/2755789541/1300714776/13716
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/13780
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153715
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 FHD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153714
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 HD [BK]
+http://line.extraott-iptv.com:88/2755789541/1300714776/6202
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/13779
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153717
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 FHD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153716
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 HD [BK]
+http://line.extraott-iptv.com:88/2755789541/1300714776/6203
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/13778
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153719
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 FHD
+http://line.extraott-iptv.com:88/2755789541/1300714776/153718
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 HD [BK]
+http://line.extraott-iptv.com:88/2755789541/1300714776/6204
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports5.uk" ,TNT SPORT 5 HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/62800
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports5.uk" ,TNT SPORT 05 EXTRA SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/360198
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE HD
+http://line.extraott-iptv.com:88/2755789541/1300714776/37191
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE SD
+http://line.extraott-iptv.com:88/2755789541/1300714776/37192
+#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE FHD
+http://line.extraott-iptv.com:88/2755789541/1300714776/37190
 
 
 
@@ -2102,59 +2177,11 @@ https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/162.ts
 
 
 
-=================== TNT SPORTS ==========================
-
-
-
-
-
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" ,TNT SPORT 4 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153713
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" , TNT SPORT 4 SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13717
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports4.uk" ,TNT SPORT 4 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13716
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13780
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153715
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153714
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports1.uk" ,TNT SPORT 1 HD [BK]
-http://line.extraott-iptv.com:88/2755789541/1300714776/6202
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13779
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153717
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153716
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports2.uk" ,TNT SPORT 2 HD [BK]
-http://line.extraott-iptv.com:88/2755789541/1300714776/6203
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13778
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153719
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153718
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports3.uk" ,TNT SPORT 3 HD [BK]
-http://line.extraott-iptv.com:88/2755789541/1300714776/6204
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports5.uk" ,TNT SPORT 5 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/62800
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsports5.uk" ,TNT SPORT 05 EXTRA SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/360198
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/37191
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/37192
-#EXTINF:-1 group-title="🇬🇧TNT SPORTS" tvg-logo="https://lo1.in/uk/tntsport.png" tvg-id="tntsportboxoffice1.uk" ,TNT SPORTS BOX OFFICE FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/37190
-
-
-
 
 
 
 ==================== SKY SPORTS ==============================
+
 
 
 
@@ -2305,7 +2332,16 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/191776
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",BRI LIGA 1
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BRISuper1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTb BACKUP",BRI LIGA 1
+https://s.id/Shareext_liga1_m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",BRI LIGA 1
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/newBR1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT BACKUP",BRI LIGA 1
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/34322
+#EXTINF:-1 tvg-id="Championstv5 .id" tvg-logo="" group-title="LIVE EVENT  BACKUP",CHAMPIONS TV
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/champ1o.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",Setanta | Event 1
 http://161.123.116.21//Clarence/Clarence1/1667947
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",SETANTA Sports 2
