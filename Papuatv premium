@@ -1072,7 +1072,10 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298506
 
 
 
-=================================================NAT & KNOWLEDGE ==============================================================>
+
+
+
+====================================== NAT & KNOWLEDGE ==============================================================>
 
 
 
@@ -1227,6 +1230,44 @@ https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/ma
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
+
+
+
+
+================ RMC SPORT ===============
+
+
+
+
+
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 1 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/234
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 2 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/235
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 3 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/118420
+#EXTINF:-1 tvg-id="rmcsportaccess1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 1 ACCESS ᵁᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/9168
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 1 ᵁᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/32835
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 2 ᵁᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/203436
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORTs 2 ᵁᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/32836
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 3 ᵁᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/32837
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT1 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/1232
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT2 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/1233
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 1 ˢᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/12790
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 2 ˢᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/12789
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT 3 ˢᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/12788
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 4 ᴴᴰ
+http://4kgood.org:80/4o48up5evz/r4fiast66u/118421
 
 
 
