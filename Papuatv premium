@@ -1646,7 +1646,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS",SPORTSTARS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1729,29 +1728,6 @@ http://202.169.224.202:8800/udp/239.9.1.11:1234
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg" group-title="SPORTS",EUROSPORT
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS",SPORTSTARS 2 (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS",SPORTSTARS 4 (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS",SOCCER CHANNEL (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 (TVOD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -1799,13 +1775,6 @@ http://filex.me:8080/MAS101A/MAS101AABB/819602
 http://filex.me:8080/MAS101A/MAS101AABB/819601
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORTS ",Fox Sports 502
 http://filex.me:8080/MAS101A/MAS101AABB/819582
-
-
-
-====================== NOW SPORTS ==========================
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NOW SPORTS 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",NOW SPORTS 2
@@ -1813,27 +1782,6 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
 #EXTINF:-1 tvg-id="" tvg-logo=""group-title="SPORTS",ZIGGO SPORT 2
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SPOTV 2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo=""group-title="SPORTS",SONY TEN 1
-http://norkadymm.top:8080/32173480057546/81734800575822/53631
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SPORT DIGITAL
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400201159.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UNIFI.Sports
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Foxsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",UNIFI.Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="" group-title="SPORTS",UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKY SPORT +
-https://a1xs.vip/2000012
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKYSPORT PREMIER LEAGUE
-http://norkadymm.top:8080/32173480057546/81734800575822/61404
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",,SKYSPORT MOTOGP
-http://norkadymm.top:8080/32173480057546/81734800575822/62231
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKTSPORT F1
-http://norkadymm.top:8080/32173480057546/81734800575822/61400
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKYSPORT MAIN EVENT
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
 
 
 
@@ -1902,38 +1850,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186640
 
 
 
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16832.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 1 50FPS
-http://161.123.116.21:80/Isabelle1/Isabelle2/1665010
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16825.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 FHD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664986
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16833.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 HD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664990
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://slho.xyz:81/file_16837.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 1 SD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664994
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16831.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 2 50FPS
-http://161.123.116.21:80/Isabelle1/Isabelle2/1665011
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 FHD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664987
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16834.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 HD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664991
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-logo="http://slho.xyz:81/file_16838.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 2 SD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664995
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16830.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 3 50FPS
-http://161.123.116.21:80/Isabelle1/Isabelle2/1665012
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16827.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 FHD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664988
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16835.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 HD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664992
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-logo="http://slho.xyz:81/file_16839.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 3 SD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664996
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16829.jpg" group-title="🇬🇧TNT SPORTS",TNT Sports 4 50FPS
-http://161.123.116.21:80/Isabelle1/Isabelle2/1665013
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16828.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 FHD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664989
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16836.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 HD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664993
-#EXTINF:-1 tvg-id="tntsports4.uk" tvg-logo="http://slho.xyz:81/file_16840.jpg" group-title="🇬🇧TNT SPORTS",TNT SPORTS 4 SD (RAW)
-http://161.123.116.21:80/Isabelle1/Isabelle2/1664997
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="🇬🇧TNT SPORTS",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
