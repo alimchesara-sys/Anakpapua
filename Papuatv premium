@@ -386,7 +386,13 @@ http://103.170.33.11:9981/stream/channelid/1896622786
 #EXTINF:-1 group-title="Indonesia no acak" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", Livoli Divisi Utama 
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
-
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="Indonesia no acak",RCTI 3 ON (+)
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="Indonesia no acak",RCTI 4 ON 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
@@ -802,71 +808,6 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/298529
 
 
 
-************************* INDONESIA SPORTS *********************************************
-
-
-
-
-
-#EXTINF:-1 tvg-id="RCTI.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="INDONESIA SPORTS",RCTI+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AX512 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="INDONESIA SPORTS",RCTI 3 ON (+)
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="INDONESIA SPORTS",RCTI 4 ON 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-#EXTINF:-1  tvg-id="Sportdigital Fußball.de" tvg-name="" tvg-logo="https://i.ibb.co.com/ZM5C37H/sportdigital.png" group-title="INDONESIA SPORTS",SPORTDIGITAL FUSSBALL 
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19026/index.m3u8
-#EXTINF:-1 group-title="INDONESIA SPORTS"" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
----------NEW 3/6/2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="INDONESIA SPORTS",Soccer Channel (MJ)
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id//
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="INDONESIA SPORTS",Sportstars 1 HD 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="INDONESIA SPORTS",Sportstars 2 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="INDONESIA SPORTS",Sportstars 4 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeHO_sUJxVr2h6o8B1NdwKiCmWpNmwlAd953AuqMA_2J-qAGoLBKa8np2z8hOi9O6ZeHyXnpSmEi6ej9KeLh7Qf5BP17KPOUaXG385MCQWhpuhp4Q6B6iJbxoNpaaekUWRlCCr59B5PURj9hdHz6zdKDCDncNSEuMUdS_I7wwvNUpRih4Wepw12vPFEmr8/s700/FUBO%20SPORTS.png" group-title="INDONESIA SPORTS",FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="INDONESIA SPORTS",GTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="INDONESIA SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", Live sport AFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4279863_1.m3u8?hls_ctx=asm968sd&sign=NT_MrWefMZcTWSuCrETP0KnKgW-2TtuVqUW0Pv1gxJiRk7zWrPSYuG3trRewli6nJnFPfe96hfNLVkg5lpnLNfAdUMOnUpdU28np1BCnbgzJevw3KdiBY_dim3d5Dc_hCYJ1nhLp9X0j1625j_sBhq1QvNwrKXqY0oJHAzqTqRDBG6JewTpBPSrV1VWEUdM6IcJcL9EEgaiAERgP_uxDK2_VQX7rhTGIOBT4caE9KepjLGS10DXRzpuL1eTVyfdVVoikqqFXMEoB-nTgwna3k_SaiZlo4lKFxPNeZ3Q8oEceY63voi-5l07SoU2xsQkbDPDaVW3Ms-pjT3F_5ccerA&timestamp=1760210325403
-#EXTINF:-1 group-title="INDONESIA SPORTS" tvg-id="" tvg-logo="http://jasaroot.biz.id/logo/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=KOBARTV-SMARTERV4
-https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 
 
@@ -1657,7 +1598,28 @@ http://4kgood.org:80/4o48up5evz/r4fiast66u/1529951
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title=" SPORTS",Soccer Channel (MJ)
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id//
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title=" SPORTS",Sportstars 1 HD 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title=" SPORTS",Sportstars 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" SPORTS",Monomax 2 Premiere League HD
 http://4kgood.org:80/4o48up5evz/r4fiast66u/1776176
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" SPORTS",Monomax 1 Premiere League HD
@@ -2248,90 +2210,10 @@ https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/162.ts
 
 
 
-
-==================== SKY SPORTS ==============================
-
-
-
-
-
-
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmnev.png" tvg-id="skysportsmainevent.uk" ,SKY SPORTS MAIN EVENTS HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191674
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmnev.png" tvg-id="skysportsmainevent.uk" ,SKY SPORTS MAIN EVENT SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153692
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspplg.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspplg.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153694
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspplg.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153693
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspac.png" tvg-id="skysportsaction.uk" ,SKY SPORTS NFL/ACTION SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153704
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmi.png" tvg-id="skysportsmix.uk" ,SKY SPORTS MIX HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/189987
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmi.png" tvg-id="skysportsmix.uk" ,SKY SPORTS MIX SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153712
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmi.png" tvg-id="skysportsmix.uk" ,SKY SPORTS MIX FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153711
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspgl.png" tvg-id="skysportsgolf.uk" ,SKY SPORTS GOLF HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191685
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspgl.png" tvg-id="skysportsgolf.uk" ,SKY SPORTS GOLF SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153700
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspgl.png" tvg-id="skysportsgolf.uk" ,SKY SPORTS GOLF FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153699
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspfb.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191691
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspfb.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153696
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspfb.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153695
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspns.png" tvg-id="skysportsnews.uk" ,SKY SPORTS NEWS HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191687
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspns.png" tvg-id="skysportsnews.uk" ,SKY SPORTS NEWS SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153708
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspcrk0.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191690
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspcrk0.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153698
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspcrk0.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153697
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/it/skts1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191464
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/it/skts1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/it/skts1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153702
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skysparn0.png" tvg-id="skysportsplus.uk" ,SKY SPORTS ARENA HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153705
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skysparn0.png" ,SKY SPORTS ARENA SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191117
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skysparn0.png" ,SKY SPORTS ARENA FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191465
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skysparn0.png" ,SKY SPORTS ARENA HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433210
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspgl.png" tvg-id="skysportsgolf.uk" ,SKY SPORTS GOLF HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433209
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspfb.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433208
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspns.png" tvg-id="skysportsnews.uk" ,SKY SPORTS NEWS HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433207
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspmi.png" tvg-id="skysportsmix.uk" ,SKY SPORTS MIX HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433206
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/it/skts1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433205
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspcrk0.png" tvg-id="skysportscricket.uk" ,SKY SPORTS CRICKET HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433204
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspplg.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433203
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://lo1.in/uk/skyspsr.png" tvg-id="skysportsracing.uk" ,SKY SPORTS RACING HEVC
-http://line.extraott-iptv.com:88/2755789541/1300714776/433202
-
-
-
-
-
 ===================== PREMIER SPORTS =======================
+
+
+
 
 
 
@@ -2353,46 +2235,6 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/153724
 
 
 
-================== SUPER SPORTS ====================
-
-
-
-
-
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" ,SUPERSPORT FOOTBALL PLUS FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/400415389
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="SH4" ,SUPERSPORT GRANDSTAND FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190002
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="SH2" ,SUPERSPORT PSL FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190003
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" ,SUPERSPORT PREMIER LEAGUE FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190004
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="SSH" ,SUPERSPORT LA LIGA FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190005
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="MSH" ,SUPERSPORT FOOTBALL HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190006
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="HD6" ,SUPERSPORT VARIETY 1 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190007
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="HD5" ,SUPERSPORT VARIETY 2 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190008
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="34S" ,SUPERSPORT VARIETY 3 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190009
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="9HD" ,SUPERSPORT VARIETY 4 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190010
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/supsp.png" tvg-id="HD7" ,SUPERSPORT ACTION FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190015
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="S34" ,SUPERSPORT TENNIS FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191770
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="A11" ,SUPERSPORT RUGBY FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191771
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="E30" ,SUPERSPORT MOTORSPORT HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191772
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="XHD" ,SUPERSPORT MAXIMO 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191773
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="EDH" ,SUPERSPORT GOLF FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191775
-#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://lo1.in/uk/spfl.png" tvg-id="12H" ,SUPERSPORT CRICKET FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191776
 
 
 
@@ -2403,7 +2245,7 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/191776
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",BRI LIGA 1
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BRISuper1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENTb BACKUP",BRI LIGA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT BACKUP",BRI LIGA 1
 https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIVE EVENT  BACKUP",BRI LIGA 1
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/newBR1.m3u8
