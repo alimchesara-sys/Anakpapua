@@ -1880,7 +1880,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT ",beIN SPORTS NEWS 
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/274145
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT ",beIN SPORTS GLOBAL 
@@ -2119,234 +2119,17 @@ http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1102185
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1102186
 #EXTINF:-1 tvg-id="" tvg-logo="https://allezlens.fr/wp-content/uploads/2025/07/ligue1.jpg" group-title="LIGUE 1 ",FR|  Ligue 1 +10
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1102187
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV - SuperSport Liyu 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1285339
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV - SuperSport Liyu 2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1285338
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DSTV SPORTS",DSTV|  SuperSport EPL
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1122795
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORTS",DSTV - SUPERSPORT AFRICA 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1243236
-#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/uk/supsp.png" group-title="DSTV SPORTS",DSTV - SUPERSPORT AFRICA 2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1243237
-#EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="DSTV SPORTS",|DSTV| SuperSport OTT
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30313
-#EXTINF:-1 tvg-id="supersportott2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30314
-#EXTINF:-1 tvg-id="supersportott3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 3
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30315
-#EXTINF:-1 tvg-id="supersportott4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| - SuperSport OTT 4
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30316
-#EXTINF:-1 tvg-id="supersportott6.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 5
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30318
-#EXTINF:-1 tvg-id="supersportott7.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 6
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30319
-#EXTINF:-1 tvg-id="supersportott8.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 7
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30320
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport OTT 8
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30321
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport Play
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30322
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Action
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138731
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Cricket ᵁᴴᴰ (AZ)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138735
-#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Schools
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138734
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Cricket ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138733
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport MOTOSPORT ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138595
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Events
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138592
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Football ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138591
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Football Plus ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138589
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Golf ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138784
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Grandstand
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138727
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport LaLiga ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138584
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  Maximo 1 – Champions
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138814
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport MáXimo 1 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138806
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 1 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138816
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 2 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138817
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  Play SuperSport 3 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138818
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Play 4 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138819
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Premier League
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138586
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Premier League ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138587
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Blitz
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138614
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport PSL ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138737
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SuperSport  Rugby ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138787
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Tennis ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138736
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138612
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᵁᴴᴰ (UG)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138740
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 1 ᴴᴰ (ZW)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138613
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138616
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 (ZW)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138619
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (NG)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138618
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 2 ᵁᴴᴰ (UG)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138739
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138738
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 (UG)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138617
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://supersport.azureedge.net/web-assets/brand/super-sport-logo@3x.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᵁᴴᴰ (ZA)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138615
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 3 ᴴᴰ (ZW)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138611
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138694
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᵁᴴᴰ (AZ)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138742
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (UG)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138741
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV|  SuperSport Variety 4 ᴴᴰ (ZW)
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138596
-#EXTINF:-1 tvg-id="espn.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="DSTV SPORTS",|DSTV|  ESPN Africa ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138678
-#EXTINF:-1 tvg-id="espn2.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="DSTV SPORTS",|DSTV|  ESPN 2 Africa ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/138677
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="http://138.199.27.237:8080/0tv_logo/3518.png" group-title="DSTV SPORTS",|DSTV| WWE Channel
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/265815
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="http://138.199.27.237:8080/AFRICA/SUPERSPORT.png" group-title="DSTV SPORTS",|DSTV| SS Variety
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/265807
-#EXTINF:-1 tvg-id="ginx.za" tvg-logo="http://138.199.27.237:8080/AFRICA/GINXESPORTS.jpg" group-title="DSTV SPORTS",|DSTV| Ginx eSports TV ᴴᴰ ZA
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/30336
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2a/76/11/2a76117f488aa2a615c392e18c7dd3d8.png" group-title="SERIE A",Next 
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1523592
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2a/76/11/2a76117f488aa2a615c392e18c7dd3d8.png" group-title="SERIE A",BE | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1523593
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2a/76/11/2a76117f488aa2a615c392e18c7dd3d8.png" group-title="SERIE A",BE | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1523594
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2a/76/11/2a76117f488aa2a615c392e18c7dd3d8.png" group-title="SERIE A",BE | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1523595
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 HD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230811
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 HD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230808
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 FHD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230810
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 SD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230812
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",HAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 FHD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230807
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 SD
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1230809
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/611767
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/613446
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/613445
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1148796
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1241205
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1241206
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1241207
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1241208
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1148797
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1148798
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="PREMIER LEAGUE PPV",ES | No Event
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1148799
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="SKY SPORT",|DE|Sky Sport News ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/78472
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="SKY SPORT",|DE| Sky Sport News ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/8271
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="SKY SPORT",|DE| Sky Sport Top Event ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/268061
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHD.png" group-title="SKY SPORT",|DE| Sky Sport TOP Event ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/257391
-#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORT%20PREMIERLEAGUE.png" group-title="SKY SPORT",|DE| Sky Sport Premier League ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/268067
-#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORT%20PREMIERLEAGUE.png" group-title="SKY SPORT",|DE| Sky Sport Premier League ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/257388
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHDF1.png" group-title="SKY SPORT",|DE|SKY SPORT F1 ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/122887
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTHDF1.png" group-title="SKY SPORT",|DE|SKY SPORT F1 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/122888
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTGOLF.png" group-title="SKY SPORT",|DE| Sky Sport Golf ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/268065
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTGOLF.png" group-title="SKY SPORT",|DE| Sky Sport Golf ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/257386
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTTENNIS.png" group-title="SKY SPORT",|DE| Sky Sport Tennis ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/268062
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTTENNIS.png" group-title="SKY SPORT",|DE| Sky Sport Tennis ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/257389
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTMIX.png" group-title="SKY SPORT",|DE| Sky Sport Mix ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/268064
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTMIX.png" group-title="SKY SPORT",|DE| Sky Sport Mix ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/257387
-#EXTINF:-1 tvg-id="skybundesliga.de" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12234.png?72885" group-title="SPORT BUNDESLIGA",|DE| Sky Bundesliga ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/355098
-#EXTINF:-1 tvg-id="skybundesliga.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE|  Sky Bundesliga 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/630
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Bundesliga
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/78464
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport  Bundesliga 1 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/631
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 1 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90525
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 2 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90526
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 2  50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2633
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 3 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90527
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 3 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2634
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 4 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90528
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 4 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2635
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 5 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90529
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 5 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2636
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 6 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90530
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 6 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2637
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 7 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90531
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 7 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2638
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 8 ᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/90532
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 8 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/2639
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 9 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/9165
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTBUNDESLIGA.png" group-title="SPORT BUNDESLIGA",|DE| Sky Sport Bundesliga 10 50FPS
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/9166
-#EXTINF:-1 tvg-id="" tvg-logo="https://gateway.prd.sky.ch/imageapi/utils/s3path?param=%7B%22path%22%3A%22img%2Fmoviecover%2Fch%2Fimages%2Fchannel%2F327.png%22%2C%22format%22%3A%22webp%22%2C%22quality%22%3A%2280%22%7D" group-title="BLUE SPORT",CH| Blue Sport 1 Direct ᵁᴴᴰ
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/355094
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/GERMANY/BLUESPORT.png" group-title="BLUE SPORT",CH|  blue Sport 1 ᴴᴰ
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/250250
 #EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/swz/flg.png" group-title="BLUE SPORT",CH| Blue Sport 2 Direct ᵁᴴᴰ
@@ -2851,45 +2634,45 @@ http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1195129
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 1
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288350
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 2
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288351
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 3
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288352
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 4
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288353
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 5
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288354
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 6
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288355
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 7
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288356
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 8
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288357
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 9
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 9
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288358
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 10
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288359
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 11
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 11
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288360
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 12
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 12
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288361
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title=" STAN EVENT",STAN EVENT 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title=" STAN EVENT",STAN EVENT 13
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288362
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 14
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 14
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288363
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 15
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 15
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288364
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 16
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 16
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288365
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 17
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 17
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288366
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 18
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 18
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288367
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 19
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 19
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288368
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/34/3/stan-logo-png_seeklogo-346330.png" group-title="STAN EVENT",STAN EVENT 20
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d58jol1629913033.png" group-title="STAN EVENT",STAN EVENT 20
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/288369
 
 
