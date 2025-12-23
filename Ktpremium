@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+
+
+
+
+#EXTINF:-1 xui-id="4" tvg-id="Moji.id" tvg-name="MOJI HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqVQRPHiSEDe2TR0H5WagBey-rLslN2aXQz0bknUawg2UzXH1tIu1hW3G08EvTazbmml6qEfChhcb2JnuO_FFiYV.png" group-title="NASIONAL",MOJI HD
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
 #EXTINF:-1 tvg-id="net.id" tvg-logo="https://reformed21.tv/images/logo.png" group-title="Indonesia",[ID] inewtv
 http://ktpremium.site:2095/itv263/9189/73605
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",[ID] RCTI
