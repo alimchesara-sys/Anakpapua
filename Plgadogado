@@ -403,6 +403,27 @@ https://popmi.my.id/tes.m3u8?id=7218
 
 
 
+========== CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT ===≠=========
+
+
+
+#EXTINF:-1 tvg-name="CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 1 HD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 HD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230811
+#EXTINF:-1 tvg-name="CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 2 HD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="|lUEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 HD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230808
+#EXTINF:-1 tvg-name="CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 1 FHD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 FHD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230810
+#EXTINF:-1 tvg-name="CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 1 SD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 1 SD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230812
+#EXTINF:-1 tvg-name="HAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 2 FHD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",HAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 FHD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230807
+#EXTINF:-1 tvg-name="CHAMPIONS LEAGUE PRIMEVIDEO BLUESPORT 2 SD" tvg-logo="https://s.france24.com/media/display/38105de8-961f-11ec-8e1f-005056a90321/w:1280/p:4x3/AP21238527026920%20%281%29.jpg" group-title="UEFA CHAMPIONS LEAGUE PPV",CHAMPIONS LEAGUE PRIMEVIDEO_BLUESPORT 2 SD
+http://front-main.eagle-4k.me:80/imadfr_551967/4fWxfRqg/1230809
+
+
+
+
+
 
 ========================== TV DIGITAL ================================
 
@@ -2130,7 +2151,7 @@ http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/1161852
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4865
 #EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="NEW ZEALAND SPORTS",Sport 1Voetbal
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4862
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="MEW ZEALAND SPORTS",Ziggo Sport Extra 1
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Extra 1
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4857
 #EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTGOLF.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Golf ᴴᴰ
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4852
@@ -2160,7 +2181,7 @@ http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4848
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4849
 #EXTINF:-1 tvg-id="espn.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="NEW ZEALAND SPORTS", ESPN  1 H265
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4847
-#EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEAKANDSPORTS",ESPN  2 ᴴᴰ
+#EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEALAND SPORTS",ESPN  2 ᴴᴰ
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4845
 #EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEALAND SPORTS",ESPN  2
 http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4846
