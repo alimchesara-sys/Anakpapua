@@ -297,7 +297,7 @@ https://popmi.my.id/tes.m3u8?id=12607
 
 
 
-#EXTINF:-1 tvg-id="🇮🇩JUARA TV 1.id🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="🇲🇨JUARA TV 🇲🇨", 🇲🇨JUARA 1🇮🇩
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 3.id🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="🇲🇨JUARA TV 🇲🇨", 🇲🇨JUARA 1🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -305,7 +305,7 @@ https://popmi.my.id/tes.m3u8?id=12607
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6685&type=dash
 
 
-#EXTINF:-1 tvg-id="🇮🇩JUARA TV 2.id🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="🇮🇩JUARA TV 🇲🇨",🇮🇩JUARA 2🇮🇩
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 3.id🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="🇮🇩JUARA TV 🇲🇨",🇮🇩JUARA 2🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -338,7 +338,7 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="🇮🇩JUARA TV 1🇮🇩" tvg-name="🇮🇩JUARA TV 1A🇮🇩" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 A FHD 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 1A🇮🇩" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 A FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
