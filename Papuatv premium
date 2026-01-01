@@ -297,38 +297,78 @@ https://popmi.my.id/tes.m3u8?id=12607
 
 
 
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 1.id🇲🇨" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="🇲🇨JUARA TV 🇲🇨", 🇲🇨JUARA 1🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6685&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 A FHD 
+
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 2.id🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="🇮🇩JUARA TV🇲🇨",🇮🇩JUARA 2🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6686&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6686&type=dash
+
+
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 3.id🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDZQ5_thqRm5Dr46bK08uPuTGmErmuwVmuQ&usqp=CAU" group-title="🇮🇩JUARA TV 🇮🇩",🇮🇩JUARA 3🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6786&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
+
+
+
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 3.id🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="🇮🇩JUARA TV 🇮🇩",🇮🇩JUARA 5🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9182&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
+
+
+
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 3.id🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="🇮🇩JUARA TV 🇮🇩",🇮🇩JUARA 6🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
+https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="🇮🇩JUARA TV 1🇮🇩" tvg-name="🇮🇩JUARA TV 1A🇮🇩" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 A FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6685
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 B FHD 
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 1B🇮🇩" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",🇲🇨JUARA TV 1 B FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions2.png",🇲🇨JUARA TV 2 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 2🇮🇩" group-title="🇲🇨JUARA TV FHD🇮🇩" tvg-logo="https://get.perfecttv.net/logo/champions2.png",🇲🇨JUARA TV 2 FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions3.png",🇲🇨JUARA TV 3 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 3🇮🇩" group-title="🇲🇨JUARA TV FHD🇮🇩" tvg-logo="https://get.perfecttv.net/logo/champions3.png",🇲🇨JUARA TV 3 FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions5.png",🇲🇨JUARA TV 5 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 5🇮🇩" group-title="🇲🇨JUARA TV FHD🇮🇩" tvg-logo="https://get.perfecttv.net/logo/champions5.png",🇲🇨JUARA TV 5 FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9182
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="🇲🇨JUARA TV FHD" tvg-logo="https://get.perfecttv.net/logo/champions6.png",🇲🇨JUARA TV 6 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="🇮🇩JUARA TV 6🇮🇩" group-title="🇲🇨JUARA TV FHD🇮🇩" tvg-logo="https://get.perfecttv.net/logo/champions6.png",🇲🇨JUARA TV 6 FHD 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
