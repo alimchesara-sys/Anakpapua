@@ -57,17 +57,14 @@ http://ktpremium.site:2095/itv263/9189/901193
 http://ktpremium.site:2095/itv263/9189/901194
 #EXTINF:-1 tvg-id="berita.satu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="Indonesia",[ID] Berita Satu World
 http://ktpremium.site:2095/itv263/9189/886796
-
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="Indonesia",[ID] TvN
 http://ktpremium.site:2095/itv263/9189/73985
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="Indonesia",[ID] TvN Movies
 http://ktpremium.site:2095/itv263/9189/73986
 #EXTINF:-1 tvg-id="ONE.id" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="Indonesia",[ID] Sony One
 http://ktpremium.site:2095/itv263/9189/73987
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Indonesia",[ID] MQTV
 http://ktpremium.site:2095/itv263/9189/886836
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/f/ff/Rajawali_Televisi.png" group-title="Indonesia",[ID] Rtv
 http://ktpremium.site:2095/itv263/9189/946467
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://tawaf.tv/wp-content/uploads/2023/08/512x512bb.jpg" group-title="Indonesia",[ID] Tawaf TV
@@ -144,6 +141,11 @@ http://ktpremium.site:2095/itv263/9189/34735
 http://ktpremium.site:2095/itv263/9189/34732
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="Indonesia",TVRI YOGYAKARTA1
 http://ktpremium.site:2095/itv263/9189/34745
+
+
+
+
+************** CHAMPIONS TV ***********
 
 
 
