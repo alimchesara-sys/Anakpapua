@@ -112,40 +112,6 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C897qJo_Nx43x1GSVrn67Cew/ts
 
 
 
-============== CHANNEL  TV DIGITAL  =======================================================
-
-
-
-
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://get.perfecttv.net/logo/antv.png" group-title="tv Digital ",ANTV HD
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8uZKIzIONKsR-wrSiIQtyqjy6T3lb0RHjZqzXreV0XQOZGVEollXav8QmqW_kY5UXHSlo2E1rgm1dZ1fXlku5O6Aqy-RPRnBNwKjZ6T0Z3y2e7vbYNvcll9YDtNTF9FVmR9YUYy1XMa2RTX01-UrfnaalTr6Vbmvg66T_8gMvsops40CTHb9QiRxXA/s800/frekuensi-sctv-digital.webp" group-title="tv Digital ",SCTV HD
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="tv Digital ",INDOSIAR HD
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="tv Digital ",MOJI HD
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="tv Digital ",TRANS 7 HD
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="tv Digital ",TRANS TV HD
-http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",MENTARI HD
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="tv Digital ",TVONE HD
-http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass       
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",VTV HD
-http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",RTV HD
-http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",METRO TV HD
-http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/aKmRvdb.png" group-title="tv Digital ",GARUDA TV
-http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",NUSANTARA TV
-http://103.170.33.11:9981/stream/channelid/133753?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="tv Digital ",BN CHANNEL - MDTV
-http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
 
 
 
