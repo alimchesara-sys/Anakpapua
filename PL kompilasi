@@ -673,66 +673,6 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/sctvTV2.m3u8
 
 
 
-############ DIGITAL #########
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviT7HvfFoz4u81nw2ggRsf0XbCVyWARd4tw&s" group-title=" DIGITAL"
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",SCTV HD
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",INDOSIAR HD
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",TRANS TV HD
-http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",TRANS 7 HD
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",MOJI HD
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title=" DIGITAL",MENTARI HD
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",ANTV HD
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",TVONE HD
-http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass      
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",VTV HD
-http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",RTV HD
-http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",METRO TV HD
-http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",GARUDA TV
-http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",NUSANTARA TV
-http://103.170.33.11:9981/stream/channelid/133753?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",BN CHANNEL - MDTV
-http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",CIPTA TV
-http://103.170.33.11:9981/stream/channelid/1723433589?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",MD TV
-http://103.46.10.145:9981/stream/channelid/1477399825?ticket=C6F1BC3BCCFC6767849C7DC46F9EA6BF4DA398EE&profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",GTV HD
-http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",MNCTV HD
-http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",RCTI HD
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",SINPO TV
-http://103.172.71.153:9981/stream/channelid/515124307?profile=pass  
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",JAGANTARA HD
-http://103.172.71.153:9981/stream/channelid/1697990290?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",JOGJA TV
-http://103.172.71.153:9981/stream/channelid/2071727521?profile=pass 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",TVONE 
-http://103.172.71.153:9981/stream/channelid/448804330?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",INEWS HD
-http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",CNBC INDONESIA HD
-http://103.172.71.153:9981/stream/channelid/392679228?profile=pass
-#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title=" DIGITAL",CNN INDONESIA HD
-http://103.172.71.153:9981/stream/channelid/106547497?profile=pass
 
 
 
