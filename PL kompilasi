@@ -116,37 +116,6 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C897qJo_Nx43x1GSVrn67Cew/ts
 
 
 
-#######â„–###### EVENT SPORT TV NASIONAL ###############
-
-
-
-
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1964956075876388864/eQ2tjP_b_400x400.jpg", INDOSIAR SPORTS 
-http://tv.casindo.org/hls/56/56.m3u8 
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1964956075876388864/eQ2tjP_b_400x400.jpg", INDOSIAR SPORTS SD
-https://raw.githubusercontent.com/lusianaputri/lusipunyalu/refs/heads/main/c.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10", TVRI SPORTS 
-https://tv.casindo.org/hls/49/49.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
-https://tv.casindo.org/hls/45/45.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/zhcsHHS5/20251210-220830.png", RCTI SPORTS 
-https://tv.casindo.org/hls/51/51.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png", GTV SPORTS 
-https://tv.casindo.org/hls/57/57.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7oFFWoak4mietRqkrzSoCWV3LLkOezhQiwHJfHWn6FONwip8sRzYzWqV&s=10", SCTV SPORTS 
-https://tv.casindo.org/hls/55/55.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7oFFWoak4mietRqkrzSoCWV3LLkOezhQiwHJfHWn6FONwip8sRzYzWqV&s=10",SCTV SPORTS SD
-http://filex.tv:8080/uk007/000920/302301
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png", INEWS SPORTS
-https://tv.casindo.org/hls/52/52.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/moji-1_002df65.jpg", MOJI SPORTS
-https://raw.githubusercontent.com/lusianaputri/lusipunyalu/refs/heads/main/y.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/07/996x664/moji-1_002df65.jpg", MOJI SPORTS SD
-http://filex.tv:8080//live/000003/000003/302279.ts
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png", MNCTV SPORTS
-https://tv.casindo.org/hls/54/54.m3u8
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png", MNCTV SPORTS SD
-http://filex.tv:8080//live/000003/000003/302278.ts
 
 
 
