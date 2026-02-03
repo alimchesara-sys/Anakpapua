@@ -2,6 +2,42 @@
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 xui-id="14" tvg-id="ANTV.id" tvg-name="ANTV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="NASIONAL SPORTS",ANTV HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/14.ts
+#EXTINF:-1 xui-id="2" tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="NASIONAL SPORTS",SCTV HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/2.ts
+#EXTINF:-1 xui-id="3" tvg-id="Indosiar.HD.id" tvg-name="INDOSIAR HD" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="NASIONAL SPORTS",INDOSIAR HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/3.ts
+#EXTINF:-1 xui-id="4" tvg-id="Moji.id" tvg-name="MOJI HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqVQRPHiSEDe2TR0H5WagBey-rLslN2aXQz0bknUawg2UzXH1tIu1hW3G08EvTazbmml6qEfChhcb2JnuO_FFiYV.png" group-title="NASIONAL SPORTS",MOJI HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
+#EXTINF:-1 xui-id="6" tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E1A-mRvgyN3Z2r2SBa4mXPewY-GrnD-2a4X_XQvVIdvrwB5wIE1JKXsOiWXD6c35xeckmLBWWis5kJuZDD-tVo_jrgpsH_Q-scWqD9xXZtlGg.png" group-title="NASIONAL SPORTS",RCTI HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
+#EXTINF:-1 xui-id="7" tvg-id="MNCTV.id" tvg-name="MNC TV HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E1A-mRvgyN3Z2r2SBa4mXPet3Uwbd0C28_pOhu2y4TcgAlmGccugLGsctc2gvH0zIux7n3N8hisvW9I9OhdhR70Bd22ULRyfoDtYADa3SxUaiyzWRSKmymZP_uKORMvx7WMCVOi1HaJAdvnC2Nb2ANO.png" group-title="NASIONAL SPORTS",MNC TV HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+#EXTINF:-1 xui-id="8" tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://get.perfecttv.net/logo/gtv.png" group-title="NASIONAL SPORTS",GTV HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
+#EXTINF:-1 xui-id="10" tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqVS0GD7gTRpKK4kUEhoEJmnoYzPZtxwWKFKLKEyM1gk2i41AItH0O-4hnHSY007HFWKmNKOwzjqood8sMnVVaKT.png" group-title="NASIONAL SPORTS",TRANS 7 HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/10.ts
+#EXTINF:-1 xui-id="11" tvg-id="iNews.id" tvg-name="INEWS HD" tvg-logo="https://www.beritajogja.id/wp-content/uploads/2020/08/Streaming-iNews-TV.jpg" group-title="NASIONAL SPORTS",INEWS HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+#EXTINF:-1 xui-id="16" tvg-id="TV.One.id" tvg-name="TVONE HD" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqUtEZ0UWZaYsnvbVanlqRMC0HjwktgywbXk3f-BudforjjKr-B92A8KPn7xoxFY5zfdkmvJopD8xXihIdT9Zr1W.png" group-title="NASIONAL SPORTS",TVONE HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/16.ts
+#EXTINF:-1 xui-id="22" tvg-id="Kompas.TV.id" tvg-name="KOMPAS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="NASIONAL SPORTS",KOMPAS TV HD
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/22.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="MDTV HD" tvg-id="Net..id" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKCTy5kZw9mOD65w5lbsKHVPAEOiKqE992WsDUYYm-uPdCzp8vzOVDleGkli4A7Af6dRjFZ0qit_4lkMiX2sMyN2adI8aBDp0LiYf6voqTJ5cweiqBRq7km_PR4j_P29_PO8LDgjhbeBrhUkXq83xaEw.png" group-title="NASIONAL",MDTV HD
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C87uuXn43ZhIg3l3qObjCGE4/ts
 #EXTINF:-1 tvg-name="SCTV HD" tvg-id="SCTV.id" tvg-logo="https://tv.ngebutz.my.id:443/images/LW42yf-LBcaxZHz6XNNpv09ovdZC0LGpsArXCI_p9E3RFki2HVinHNVQ5rmigSEKK9YCN5uce7GQyldH7aPtYqn5MCOaSRh5g5RhGAeAuqXA7jcWoxwqln1ccGM0WjIvvI48oUD5HUrpjxKXxkpH5MUNNyWUSCRpUWplpqH5PicsrAIOXZCoLL9tvUoRW8jx.png" group-title="NASIONAL",SCTV HD
