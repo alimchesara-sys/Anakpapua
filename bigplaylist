@@ -158,7 +158,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/trans7.png?raw=true" group-title="NASIONAL", TRANS 7 2 (VD)
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/b" group-title="NASIONAL", TRANS 7 2 (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=drm
@@ -171,13 +171,13 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=734&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="NASIONAL", TRANS TV 2 (VD)
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="NASIONAL", TRANS TV 2 (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=733&type=dash
 
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="NASIONAL", TRANS TV  (OR)
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="NASIONAL", TRANS TV  (OR)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-id="Trans TV.id" tvg-name="Trans TV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="NASIONAL", TRANS TV  (V+)
