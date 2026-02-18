@@ -1526,65 +1526,6 @@ http://5gott.one:8080/112233/332211/697715
 
 
 
-#EXTINF:-1 group-title="Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" tvg-id="NBCSportsonPeacock.peacocktv" ,US | Peacock NBC Sports
-http://5gott.one:8080/112233/332211/405295
-#EXTINF:-1 group-title="Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockPL.png" tvg-id="PremierLeagueTV.peacocktv" ,US | Peacock Premier League
-http://5gott.one:8080/112233/332211/405294
-#EXTINF:-1 group-title="Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockGolf.png" tvg-id="GolfPass.peacocktv" ,US | Peacock Golf Pass
-http://5gott.one:8080/112233/332211/405297
-#EXTINF:-1 group-title="Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNFL.png" tvg-id="NFLChannel.peacocktv" ,US | Peacock NFL Pass
-http://5gott.one:8080/112233/332211/405296
-#EXTINF:-1 group-title="Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockWWE.png" tvg-id="WWENetwork.peacocktv" ,US | Peacock WWE Pass
-http://5gott.one:8080/112233/332211/405298
-
-
-
-
-
-************* BEIN SPORTS ******************
-
-
-
-
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSNBA.png" tvg-name="BEIN SPORTS NBA HD" ,BEIN SPORTS NBA HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575977
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS1.png" tvg-name="BEIN SPORTS 1 HD" ,BEIN SPORTS 1 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575975
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS2.png" tvg-name="BEIN SPORTS 2 HD" ,BEIN SPORTS 2 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575974
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" tvg-name="BEIN SPORTS 3 HD" ,BEIN SPORTS 3 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575973
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS4.png" tvg-name="BEIN SPORTS 4 HD" ,BEIN SPORTS 4 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575972
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" tvg-name="BEIN SPORTS 5 HD" ,BEIN SPORTS 5 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575971
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" tvg-name="BEIN SPORTS 6 HD" ,BEIN SPORTS 6 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575970
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" tvg-name="BEIN SPORTS 7 HD" ,BEIN SPORTS 7 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575969
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" tvg-name="BEIN SPORTS 8 HD" ,BEIN SPORTS 8 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575968
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTS9.png" tvg-name="BEIN SPORTS 9 HD" ,BEIN SPORTS 9 HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575967
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" tvg-name="BEIN SPORTS 1 XTRA HD" ,BEIN SPORTS 1 XTRA HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575966
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" tvg-name="BEIN SPORTS 2 XTRA HD" ,BEIN SPORTS 2 XTRA HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575965
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSXTRA.png" tvg-name="BEIN SPORTS 3 XTRA HD" ,BEIN SPORTS 3 XTRA HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575964
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH1.png" tvg-name="BEIN SPORTS 1 ENGLISH HD" ,BEIN SPORTS 1 ENGLISH HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575963
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSENGLISH2.png" tvg-name="BEIN SPORTS 2 ENGLISH HD" ,BEIN SPORTS 2 ENGLISH HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575962
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH1.png" tvg-name="BEIN SPORTS 1 FRANCE HD" ,BEIN SPORTS 1 FRANCE HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575961
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH2.png" tvg-name="BEIN SPORTS 2 FRANCE HD" ,BEIN SPORTS 2 FRANCE HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575960
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://logo.ottcst.info/BEINSPORTSFRENCH3.png" tvg-name="BEIN SPORTS 3 FRANCE HD" ,BEIN SPORTS 3 FRANCE HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/575959
-
-
 
 
 
