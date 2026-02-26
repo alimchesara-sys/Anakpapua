@@ -1023,21 +1023,35 @@ http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501589
 
 
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="HUB PREMIER",Hub Premier 1
+
+
+
+#EXTINF:-1 group-title="HUB PREMIER SPORT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" ,Hub Premier 1 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+#EXTINF:-1 group-title="HUB PREMIER SPORT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" ,Hub Premier 2 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+#EXTINF:-1 group-title="HUB PREMIER SPORT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" ,Hub Premier 3 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
+#EXTINF:-1 group-title="HUB PREMIER SPORT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" ,Hub Premier 4 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
+#EXTINF:-1 group-title="HUB PREMIER SPORT" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" ,Hub Premier 5 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="HUB PREMIER SPORT",Hub Premier sport 1
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="HUB PREMIER",Hub Premier 2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="HUB PREMIER SPORT",Hub Premier  sport 2
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148159
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="HUB PREMIER",Hub Premier 3
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="HUB PREMIER SPORT",Hub Premier sport 3
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" tvg-logo=_https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="HUB PREMIER",Hub Premier 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" tvg-logo=_https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="HUB PREMIER SPORT",Hub Premier sport 4
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="HUB PREMIER",Hub Premier 5
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="HUB PREMIER SPORT",Hub Premier sport 5
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" tvg-logo= group-title="HUB PREMIER",Hub Premier 6
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" tvg-logo= group-title="HUB PREMIER SPORT",Hub Premier sport 6
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="HUB PREMIER",Hub Premier 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="HUB PREMIER SPORT",Hub Premier sport 7
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="HUB PREMIER",Hub Premier 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="HUB PREMIER SPORT",Hub Premier sport 8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
 
