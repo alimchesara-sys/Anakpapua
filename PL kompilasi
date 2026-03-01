@@ -943,86 +943,6 @@ http://filex.tv:8080//live/uk007/000920/302734.ts
 
 
 
-============= NEW ZEALAND SPORT ==============
-
-
-
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="NEW ZEALAND SPORTS",Sport 1 Select
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4865
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="NEW ZEALAND SPORTS",Sport 1Voetbal
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4862
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Extra 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4857
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTGOLF.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Golf á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4852
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTGOLF.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Golf
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4854
-#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTGOLF.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Golf H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4853
-#EXTINF:-1 tvg-id="ziggosport.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4859
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTEXTRA1.png" group-title="NEW ZEALAND SPORTS", Ziggo EXSTRA  1H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4858
-#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="NEW ZEALAND SPORTS",|LZiggo Sport Racing á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4851
-#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="NEW ZEALAND  SPORTS", Ziggo Sport Racing H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4850
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="NEW ZEALAND  SPORTS",Ziggo Sport Select á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4864
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Select H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4863
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="NEW ZEALAND SPORTS", Ziggo Sport Voetbal á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4861
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="NEW ZEALAND SPORTS", Ziggo Sport Voetbal H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4860
-#EXTINF:-1 tvg-id="espn.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="NEW ZEALAND SPORTS",ESPN  1 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4848
-#EXTINF:-1 tvg-id="espn.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS", ESPN 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4849
-#EXTINF:-1 tvg-id="espn.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="NEW ZEALAND SPORTS", ESPN  1 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4847
-#EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEALAND SPORTS",ESPN  2 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4845
-#EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEALAND SPORTS",ESPN  2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4846
-#EXTINF:-1 tvg-id="espn2.nl" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="NEW ZEALAND SPORTS",ESPN  2 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4844
-#EXTINF:-1 tvg-id="espn3.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS",ESPN  3 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4842
-#EXTINF:-1 tvg-id="espn3.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS", ESPN  3
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4843
-#EXTINF:-1 tvg-id="espn3.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS",ESPN  3 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4841
-#EXTINF:-1 tvg-id="foxsports4.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS", ESPN  4 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4839
-#EXTINF:-1 tvg-id="espn4.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS",ESPN  4
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4840
-#EXTINF:-1 tvg-id="foxsports4.nl" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NEW ZEALAND SPORTS",ESPN  4 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4838
-#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Docu á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/284075
-#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="NEW ZEALAND SPORTS",Ziggo Sport Tennis á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/284076
-#EXTINF:-1 tvg-id="eurosport1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT1.png" group-title="NEW ZEALAND SPORTS",Eurosport 1
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4970
-#EXTINF:-1 tvg-id="eurosport1.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT1.png" group-title="NEW ZEALAND SPORTS",Eurosport 1 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4831
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT2.png" group-title="NEW ZEALAND SPORTS",Eurosport  2 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4968
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT2.png" group-title="NEW ZEALAND SPORTS",Eurosport 2 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4830
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT2.png" group-title="NEW ZEALAND SPORTS",Eurosport 2
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4969
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EUROSPORT2.png" group-title="NEW ZEALAND SPORTS",Eurosport 2 H265
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4829
-#EXTINF:-1 tvg-id="extremesportschannel.nl" tvg-logo="http://138.199.27.237:8080/NEDERLAND/EXTREMESPORTSCHANNEL.png" group-title="NEW ZEALAND SPORTS",Extreme Sport
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/4828
-#EXTINF:-1 tvg-id="elevensports1nl.be" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ELEVEN_SPORTS.png" group-title="NEW ZEALAND SPORTS",ELEVEN SPORT 1 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/10342
-#EXTINF:-1 tvg-id="elevensports2nl.be" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ELEVEN_SPORTS.png" group-title="NEW ZEALAND SPORTS",ELEVEN SPORT 2 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/10343
-#EXTINF:-1 tvg-id="elevensports3nl.be" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ELEVEN_SPORTS.png" group-title="NEW ZEALAND SPORTS",ELEVEN SPORT 3 á´´á´°
-http://forip.in:2082//xvuryn2wp0/buvk5cy6wv/10344
 
 
 
@@ -1457,14 +1377,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="HUB PREMIER",Hub Sports 6
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="HUB PREMIER  " radio="false",Hub Premier 1 FHD
-http://vocotv.pro:80/robins/robins/288375
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="HUB PREMIER  " radio="false",Hub Premier 2 FHD
-http://vocotv.pro:80/robins/robins/288374
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="HUB PREMIER  " radio="false",Hub Premier 3 FHD
-http://vocotv.pro:80/robins/robins/288373
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="HUB PREMIER  " radio="false",Hub Premier 4 FHD
-http://vocotv.pro:80/robins/robins/288372
 
 
 
@@ -1550,14 +1462,6 @@ http://vocotv.pro:80/robins/robins/715559
 
 
 
-############## PREMIER SPORTS ################
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="PREMIER SPORTS",Premier Sports 1 FHD UK
-http://vocotv.pro:80/robins/robins/709352
-#EXTINF:-1 tvg-logo="" group-title="PREMIER SPORTS",Premier Sports 2 FHD UK
-http://vocotv.pro:80/robins/robins/709350
 
 
 
@@ -1592,100 +1496,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/
 
 
 
-############# SKY SPORT NL ##############
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SKYSPORT NL",Sky Sport Select
-http://filex.me:8080/MAS101A/MAS101AABB/819611
-#EXTINF:-1 tvg-id="Sky Sport 9.de" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKYSPORT NL",Sky Sport 9
-http://filex.me:8080/MAS101A/MAS101AABB/819610
-#EXTINF:-1 tvg-id="Sky Sport 8.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SKYSPORT NL",Sky Sport 8
-http://filex.me:8080/MAS101A/MAS101AABB/819609
-#EXTINF:-1 tvg-id="Sky Sport 6.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SKYSPORT NL",Sky Sport 6
-http://filex.me:8080/MAS101A/MAS101AABB/819607
-#EXTINF:-1 tvg-id="attheraces.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4e83942572ad754a569a7626d7c3a3a5.png" group-title="SKYSPORT NL",Sky Racing 1
-http://filex.me:8080/MAS101A/MAS101AABB/819600
-#EXTINF:-1 tvg-id="Sky Sport 5.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SKYSPORT NL",Sky Sport 5
-http://filex.me:8080/MAS101A/MAS101AABB/819606
-#EXTINF:-1 tvg-id="Sky Sport 4.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SKYSPORT NL",Sky Sport 4
-http://filex.me:8080/MAS101A/MAS101AABB/819605
-#EXTINF:-1 tvg-id="Sky Sport 3.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SKYSPORT NL",Sky Sport 3
-http://filex.me:8080/MAS101A/MAS101AABB/819604
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SKYSPORT NL",Sky Sport 2
-http://filex.me:8080/MAS101A/MAS101AABB/819603
-#EXTINF:-1 tvg-id="Sky Sport 1.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SKYSPORT NL",Sky Sport 1
-http://filex.me:8080/MAS101A/MAS101AABB/819602
-
-
-
-************************** SKY SPORT UK ************************************************
-
-
-
-
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://slho.xyz:81/file_2704.jpg" group-title="SKY SPORTS UK",SKY SPORTS MAIN EVENT SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95674
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://slho.xyz:81/file_2703.jpg" group-title="SKY SPORTS UK",SKY SPORTS MAIN EVENT HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94137
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://slho.xyz:81/file_2702.jpg" group-title="SKY SPORTS UK",SKY SPORTS MAIN EVENT FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96165
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="http://slho.xyz:81/file_2716.jpg" group-title="SKY SPORTS UK",SKY SPORTS CRICKET SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95681
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="http://slho.xyz:81/file_2715.jpg" group-title="SKY SPORTS UK",SKY SPORTS CRICKET HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94141
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="http://slho.xyz:81/file_2714.jpg" group-title="SKY SPORTS UK",SKY SPORTS CRICKET FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96161
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="http://slho.xyz:81/file_2707.jpg" group-title="SKY SPORTS UK",SKY SPORTS FOOTBALL SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95678
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="http://slho.xyz:81/file_2706.jpg" group-title="SKY SPORTS UK",SKY SPORTS FOOTBALL HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94139
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="http://slho.xyz:81/file_2705.jpg" group-title="SKY SPORTS UK",SKY SPORTS FOOTBALL FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96163
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="http://slho.xyz:81/file_2709.jpg" group-title="SKY SPORTS UK",SKY SPORTS PREMIER LEAGUE SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95675
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="http://slho.xyz:81/file_2709.jpg" group-title="SKY SPORTS UK",SKY SPORTS PREMIER LEAGUE HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94136
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="http://slho.xyz:81/file_2708.jpg" group-title="SKY SPORTS UK",SKY SPORTS PREMIER LEAGUE FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96167
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="http://slho.xyz:81/file_2727.jpg" group-title="SKY SPORTS UK",SKY SPORTS ACTION HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94143
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="http://slho.xyz:81/file_2726.jpg" group-title="SKY SPORTS UK",SKY SPORTS ACTION FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96159
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="http://slho.xyz:81/file_35306.jpg" group-title="SKY SPORTS UK",SKY SPORTS F1 SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95679
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="http://slho.xyz:81/file_35307.jpg" group-title="SKY SPORTS UK",SKY SPORTS F1 HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94140
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="http://slho.xyz:81/file_35308.jpg" group-title="SKY SPORTS UK",SKY SPORTS F1 FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96162
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="http://slho.xyz:81/file_2722.jpg" group-title="SKY SPORTS UK",SKY SPORTS GOLF SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95677
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="http://slho.xyz:81/file_2721.jpg" group-title="SKY SPORTS UK",SKY SPORTS GOLF HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94138
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="http://slho.xyz:81/file_2720.jpg" group-title="SKY SPORTS UK",SKY SPORTS GOLF FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96164
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="http://slho.xyz:81/file_2724.jpg" group-title="SKY SPORTS UK",SKY SPORTS MIX HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95673
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="http://slho.xyz:81/file_2723.jpg" group-title="SKY SPORTS UK",SKY SPORTS MIX FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96166
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-logo="http://slho.xyz:81/file_23697.jpg" group-title="SKY SPORTS UK",SKY SPORTS TENNIS SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/1727916
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-logo="http://slho.xyz:81/file_23696.jpg" group-title="SKY SPORTS UK",SKY SPORTS TENNIS HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/1727917
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-logo="http://slho.xyz:81/file_23695.jpg" group-title="SKY SPORTS UK",SKY SPORTS TENNIS FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/1727918
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="http://slho.xyz:81/file_2701.jpg" group-title="SKY SPORTS UK",SKY SPORTS NEWS SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95683
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="http://slho.xyz:81/file_2700.jpg" group-title="SKY SPORTS UK",SKY SPORTS NEWS HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/94145
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="http://slho.xyz:81/file_2699.jpg" group-title="SKY SPORTS UK",SKY SPORTS NEWS FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/102798
-#EXTINF:-1 tvg-id="Sky Sports NFL" tvg-logo="http://slho.xyz:81/file_23040.jpg" group-title="SKY SPORTS UK",SKY SPORTS NFL SD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95676
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-logo="http://slho.xyz:81/file_2730.jpg" group-title="SKY SPORTS UK",SKY SPORTS RACING HD
-http://161.123.116.21:80/Isabelle1/Isabelle2/95682
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-logo="http://slho.xyz:81/file_2729.jpg" group-title="SKY SPORTS UK",SKY SPORTS RACING FHD
-http://161.123.116.21:80/Isabelle1/Isabelle2/96168
 
 
 
