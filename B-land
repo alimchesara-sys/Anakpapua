@@ -1,13 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="Indonesia (IPTV)", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHJDcAuDDvi2iL4EzF7XBdqLDOe0xeI_4rUKp2s9XTg&s=10" group-title="indonesia", ANTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.66.62.83:8000/play/a00r/index.m3u8
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="indonesia", antv
-http://103.66.62.83:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="indonesia",RCTI
 http://103.66.62.83:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="indonesia",RCTI HD (720p)
