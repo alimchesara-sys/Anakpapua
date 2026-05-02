@@ -237,11 +237,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inp
 
 
+
+
+
+===================== INDONESIA ==========≠=========
+
+
+
+
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="indonesia", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Nasional Digital", Indosiar 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="indonesia", Indosiar 
 http://opplextv.cyou:8080/nasir6160/nasir/350972
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="indonesia",RCTI HD 
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
@@ -374,6 +382,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=li
 
 
 
+============ RELIGI ====================
+
+
 
 
 #EXTINF:-1 tvg-id="NabawiTV.id@SD" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="Religi",Nabawi TV 
@@ -406,6 +417,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://rodjatv.com/rodjatv/live.m3u8
 
 
+
+
+==================== LOKAL ====================
 
 
 
@@ -534,6 +548,12 @@ https://ubmedcom.siar.us/live/ubmedcom.m3u8
 
 
 
+
+====≠=========== TVRI DAERAH =====================
+
+
+
+
 #EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Tvri daerah",TVRI Aceh (720p)
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Bali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Tvri daerah",TVRI Bali (480p)
@@ -599,7 +619,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
-#EXTM3U
+==================== CHAMPIONS TV ====================
 
 
 
@@ -647,18 +667,23 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 1" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="THAILAND",Mono Max 1
+===≠=============== MONO MAX =============
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 1" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="MONOMAX",Mono Max 1
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776145
-#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 2" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="THAILAND",Mono Max 2
+#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 2" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="MONOMAX",Mono Max 2
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776144
-#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 1.1" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="THAILAND",Mono max 1.1
+#EXTINF:-1 tvg-ID="" tvg-name="Mono Max 1.1" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="MONOMAX",Mono max 1.1
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776143
-#EXTINF:-1 tvg-ID="" tvg-name="|TH| PPTV HD" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="THAILAND", PPTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="|TH| PPTV HD" tvg-logo="https://img.freepik.com/premium-vector/flag-thailand-circle_1078-1497.jpg" group-title="PPTV HD", PPTV HD
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776141
 
 
 
 
+================== HUB PREMIER =================
 
 
 
@@ -683,6 +708,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&
 
 
 
+=============== HUB SPORT =======≠===°
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="HUB SPORTS 1" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="HUB SPORTS",HUB SPORTS 1
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/280827
@@ -695,6 +724,11 @@ http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/280830
 #EXTINF:-1 tvg-ID="" tvg-name="HUB SPORTS 5" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="HUB SPORTS",HUB SPORTS 5
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/280831
 
+
+
+
+
+=============== BEIN SPORT ENG =========°°°
 
 
 
@@ -724,6 +758,11 @@ http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/73974
 
 
 
+
+==========≠== RMC SPORT ================
+
+
+
 #EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT LIVE 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 1 ᴴᴰ
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/234
 #EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT LIVE 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT LIVE 2 ᴴᴰ
@@ -734,6 +773,11 @@ http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/118420
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/118421
 #EXTINF:-1 tvg-ID="rmcsportaccess1.fr" tvg-name="|FR| RMC SPORT ACCESS" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="RMC SPORT",RMC SPORT ACCESS
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/9168
+
+
+
+
+================= FIFA SPORTS ==============
 
 
 
@@ -762,7 +806,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 
-
+======================== SPORTS ================
 
 
 
