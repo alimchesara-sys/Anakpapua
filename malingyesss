@@ -2471,19 +2471,121 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&
 
 
 
+#EXTM3U
 
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony-ten1.png" tvg-id="sonyten1hd.in" ,Sony Ten 1 
-http://opplextv.cyou:8080/kashan65/4428688/109983
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony-ten2.png" tvg-id="sonyten1hd.in" ,Sony Ten 2 
-http://opplextv.cyou:8080/kashan65/4428688/109984
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony-ten3.png" tvg-id="sonyten3hd.in" ,Sony Ten 3 
-http://opplextv.cyou:8080/kashan65/4428688/109985
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX 
-http://opplextv.cyou:8080/kashan65/4428688/109992
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" tvg-id="starsportsselect1hd.in" ,Star Sports Select 1 
-http://opplextv.cyou:8080/kashan65/4428688/109993
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" tvg-id="starsportsselecthd2.in" ,Star Sports Select 2 
-http://opplextv.cyou:8080/kashan65/4428688/109994
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5d5e629762490804ed3fc33a1d4add64.png" ,UK: SKY Sports Premier League HD
+http://geoiptv.one:8880/692036286/297499553/117417
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e49af78552b5f26a4438334be0551f8b.png" tvg-id="Sky.Sports.Football.HD.uk" ,UK: SKY Sport Football HD
+http://geoiptv.one:8880/692036286/297499553/10126
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/be883010d5fe86802a9d7ee49baba761.png" tvg-id="Sky.Sports.NFL.uk" ,UK: SKY Sports Arena HD
+http://geoiptv.one:8880/692036286/297499553/10127
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9673acf962ad9b3bf8e177d7e80741bb.png" tvg-id="TNT.Sports.1.HD.uk" ,UK: TNT Sport 1 HD
+http://geoiptv.one:8880/692036286/297499553/688314
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8460aca8593595db938f916350d5bad2.png" tvg-id="TNT.Sports.2.HD.uk" ,UK: TNT Sport 2 HD
+http://geoiptv.one:8880/692036286/297499553/688316
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/08d31836b570c7f7b52c1e4e70528af0.png" tvg-id="TNT.Sports.3.HD.uk" ,UK: TNT Sport 3 HD
+http://geoiptv.one:8880/692036286/297499553/688318
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7dc82d95829b2011a63f43413a6e9595.png" tvg-id="TNT.Sports.3.HD.uk" ,UK: TNT Sport 3 SD
+http://geoiptv.one:8880/692036286/297499553/688319
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/ba115ce8f190e35fc01041fc052574e8.png" tvg-id="TNT.Sports.4.HD.uk" ,UK: TNT SPORTS 4 FHD
+http://geoiptv.one:8880/692036286/297499553/706673
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/1d241167f3b5442e73bd51bf9c5a81f9.png" tvg-id="TNT.Sports.5.HD.uk" ,UK: TNT SPORTS 5 FHD
+http://geoiptv.one:8880/692036286/297499553/706674
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/4e60692d997f1eeddd2a66d8fe6c48d8.png" tvg-id="TNT.Sports.6.HD.uk" ,UK: TNT SPORTS 6 FHD
+http://geoiptv.one:8880/692036286/297499553/706675
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/7fe367e84e74fad4305298de053d9756.png" tvg-id="TNT.Sports.8.HD.uk" ,UK: TNT SPORTS 8 FHD
+http://geoiptv.one:8880/692036286/297499553/706677
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/fd6fb3bef5698d2558b4e998a22cdbdb.png" tvg-id="TNT.Sports.1.HD.uk" ,UK: TNT Sport Extra 1 HD
+http://geoiptv.one:8880/692036286/297499553/117575
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/555d4cbf69051ccc8ba6f190352e40f8.png" tvg-id="TNT.Sports.4.HD.uk" ,UK: TNT Sport Extra 4 HD
+http://geoiptv.one:8880/692036286/297499553/136425
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9e45bd080418abf7209f041c37eb21dd.png" ,UK: DAZN 1
+http://geoiptv.one:8880/692036286/297499553/723374
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/233d3e6a659d76f062cf9bb279ecff51.png" ,UK: DAZN 2
+http://geoiptv.one:8880/692036286/297499553/723377
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0061fe789f9421fc8718d6e0ed6073e9.png" ,UK: UFC Fight PASS HD
+http://geoiptv.one:8880/692036286/297499553/117484
+#EXTINF:-1 group-title="UK - Sports - Live" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b911ce591bc05583579c02aa4918f843.png" ,UK: LA LIGA TV HD
+http://geoiptv.one:8880/692036286/297499553/545645
+
+
+
+
+
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/88818591741.png" tvg-id="AFN.prime.Pacific.us" ,US: AFN Prime Pacific HD
+http://geoiptv.one:8880/692036286/297499553/79792
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61820382721.png" tvg-id="ESPN.us" ,US: ESPN 1 HD
+http://geoiptv.one:8880/692036286/297499553/28930
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82850456801.png" tvg-id="ESPN.us" ,US: ESPN 2 HD
+http://geoiptv.one:8880/692036286/297499553/117065
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99002194971.png" tvg-id="ESPN.us" ,US: ESPN 2 HD
+http://geoiptv.one:8880/692036286/297499553/28931
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/12445064631.png" tvg-id="ESPN.us" ,US: ESPN 3 HD
+http://geoiptv.one:8880/692036286/297499553/117064
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/78300060611.png" ,US: UFC Fight PASS HD
+http://geoiptv.one:8880/692036286/297499553/117333
+#EXTINF:-1 group-title="USA - Sports - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98331089091.png" ,US: UFC TV HD
+http://geoiptv.one:8880/692036286/297499553/117083
+
+
+
+#EXTINF:-1 group-title="DE - DAZN Sports" tvg-id="DAZN.1.de" ,DE: DAZN 1
+http://geoiptv.one:8880/692036286/297499553/915342
+#EXTINF:-1 group-title="DE - DAZN Sports" tvg-id="DAZN.2.de" ,DE: DAZN 2
+http://geoiptv.one:8880/692036286/297499553/915341
+
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/340?cb=20221025083646" tvg-id="SONY.SPORTS.TEN.1.HD.in" ,IN: SONY TEN 1 HD
+http://geoiptv.one:8880/692036286/297499553/325506
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" tvg-id="SONY.SPORTS.TEN.2.HD.in" ,IN: SONY TEN 2 HD
+http://geoiptv.one:8880/692036286/297499553/32169
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" tvg-id="SONY.SPORTS.TEN.3.in" ,IN SONY TEN 3 SD
+http://geoiptv.one:8880/692036286/297499553/1043126
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" tvg-id="SONY.SPORTS.TEN.3.HD.in" ,IN: SONY TEN 3 HD 
+http://geoiptv.one:8880/692036286/297499553/325387
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzetBdZ-mAZ552ehUvqTm7r8CSJkZWpJkQpg&s" tvg-id="SONY.SPORTS.TEN.5.HD.in" ,IN: SONY TEN 5 HD
+http://geoiptv.one:8880/692036286/297499553/32179
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8e8b373b9cffe7f4fe7a4097d3080ba1.png" tvg-id="STAR.SPORTS.SELECT.2.HD.in" ,IN: STAR SPORTS SELECT 2 HD
+http://geoiptv.one:8880/692036286/297499553/32158
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7c4491a30a3a8e479a892edae4ca81b5.png" tvg-id="STAR.SPORTS.SELECT.1.HD.in" ,IN: STAR SPORTS SELECT 1 HD
+http://geoiptv.one:8880/692036286/297499553/60141
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" ,IN: STAR SPORTS 2 HD TAMIL
+http://geoiptv.one:8880/692036286/297499553/1046113
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/864df3f9f529dd21705f6051745f9a0d.png" tvg-id="EUROSPORTS.HD.in" ,IN: Europsorts HD 
+http://geoiptv.one:8880/692036286/297499553/179146
+#EXTINF:-1 group-title="IN - INDIAN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" ,Sony Ten 4 HD
+http://geoiptv.one:8880/692036286/297499553/325174
+
+
+
+
+
+
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/96427592251.png" ,AUS: BEIN Sports 1 HD
+http://geoiptv.one:8880/692036286/297499553/606432
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/57276036381.png" ,AUS: BEIN Sports 1 SD
+http://geoiptv.one:8880/692036286/297499553/606433
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/36998637691.png" ,AUS: BEIN Sports 2 HD
+http://geoiptv.one:8880/692036286/297499553/606434
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/53420243581.png" ,AUS: BEIN Sports 2 SD
+http://geoiptv.one:8880/692036286/297499553/606435
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91763978041.png" ,AUS: BEIN Sports 3 SD
+http://geoiptv.one:8880/692036286/297499553/606437
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21724163301.png" ,AUS: ESPN 1 FHD
+http://geoiptv.one:8880/692036286/297499553/606450
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37181402481.png" ,AUS: ESPN 2 SD
+http://geoiptv.one:8880/692036286/297499553/606455
+
+#EXTINF:-1 group-title="AU - Australia - Live" ,AUS: SBS Viceland HD
+http://geoiptv.one:8880/692036286/297499553/606495
+#EXTINF:-1 group-title="AU - Australia - Live" ,AUS: SBS Viceland SD
+http://geoiptv.one:8880/692036286/297499553/606496
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/30ba8da143c5df4a09fdfc82515465af.png" ,AUS: SBS World Movies SD
+http://geoiptv.one:8880/692036286/297499553/606498
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/19ac95ee8fb666696afaf87ee9cbb58c.png" ,AUS: SBS HD
+http://geoiptv.one:8880/692036286/297499553/606499
+#EXTINF:-1 group-title="AU - Australia - Live" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/2155a12e83d9e74b83841df98d46ed1c.png" ,AUS: SBS SD
+http://geoiptv.one:8880/692036286/297499553/606500
+
 
 
 
