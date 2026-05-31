@@ -63,9 +63,6 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
 
 
 
-#EXTINF:-1 group-title="SIARAN LANGSUNG" ,INDOSIAR DIGITAL (BRI Super League)
-http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://tasikmalayaku.id/wp-content/uploads/2025/08/bri-spl.jpg" ,INDOSIAR 
 
 #EXTINF:-1 group-title="SIARAN LANGSUNG" tvg-logo="https://asset.kompas.com/crops/OLInXowRpPPqzcYe2xLxsvjaKG0=/0x26:720x506/750x500/data/photo/2024/11/18/673ae1ad34d16.jpg",MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
