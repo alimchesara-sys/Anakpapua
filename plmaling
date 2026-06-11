@@ -64,7 +64,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
 
 
 
-#EXTINF:-1 group-title="SIARAN LANGSUNG"  tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg", BRI Super League
+#EXTINF:-1 group-title="SIARAN LANGSUNG"  tvg-logo="", BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -73,7 +73,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
 https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
 
 
-#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="SIARAN LANGSUNG",MOJI 
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="" group-title="SIARAN LANGSUNG",MOJI 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1384,14 +1384,6 @@ http://opplextv.cyou:8080/4536546/6545653/109983
 http://opplextv.cyou:8080/4536546/6545653/109984
 #EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony-ten3.png" tvg-id="sonyten3hd.in" ,Sony Ten 3 (4K)
 http://opplextv.cyou:8080/4536546/6545653/109985
-#EXTINF:-1 group-title="INDIAN  SPORTS " tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" tvg-id="starsports1hdhindi.in" ,Star Sport 1 HINDI (4K)
-http://opplextv.cyou:8080/4536546/6545653/109986
-#EXTINF:-1 group-title="INDIAN  SPORTS " tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" tvg-id="starsports1hd.in" ,Star Sports 1 (4K)
-http://opplextv.cyou:8080/4536546/6545653/109987
-#EXTINF:-1 group-title="INDIAN SPORTS " tvg-id="starsports2hd.in" ,Star Sports 2 (4K)
-http://opplextv.cyou:8080/4536546/6545653/109988
-#EXTINF:-1 group-title="INDIAN  SPORTS " tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/02/CT2025.png" ,STAR 4K
-http://opplextv.cyou:8080/4536546/6545653/390407
 #EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY TEN 5 (4K)
 http://opplextv.cyou:8080/4536546/6545653/109992
 #EXTINF:-1 group-title="INDIAN SPORTS " tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" tvg-id="starsportsselect1hd.in" ,Star Sports Select 1 (4K)
@@ -1704,8 +1696,7 @@ http://opplextv.cyou:8080/4536546/6545653/381359
 
 
 
-#EXTINF:-1 group-title="DSTV | SUPER SPORTS" ,•●★--- Welcome ----★●•
-http://opplextv.cyou:8080/4536546/6545653/222338
+
 #EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-id="supersportcricket.za" ,Af | DSTV: Super Sports Cricket
 http://opplextv.cyou:8080/4536546/6545653/238475
 #EXTINF:-1 group-title="DSTV | SUPER SPORTS" tvg-id="supersportgrandstand.za" ,Af | DSTV: Super Sports Grand Stand
@@ -1833,8 +1824,7 @@ http://opplextv.cyou:8080/4536546/6545653/381692
 
 
 
-#EXTINF:-1 group-title="DAZN SPORTS (VIP)" tvg-logo="http://flags.fmcdn.net/data/flags/w580/gb.png" ,•●★--- UK EPL 3PM ----★●•
-http://opplextv.cyou:8080/4536546/6545653/223055
+
 #EXTINF:-1 group-title="DAZN SPORTS (VIP)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" ,PT: DAZN 1 HD
 http://opplextv.cyou:8080/4536546/6545653/233072
 #EXTINF:-1 group-title="DAZN SPORTS (VIP)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" ,PT: DAZN 2 HD
@@ -1913,8 +1903,7 @@ http://opplextv.cyou:8080/4536546/6545653/371165
 
 
 
-#EXTINF:-1 group-title="UFC PPV (LIVE EVENTS)" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" ,•●★--- Welcome ----★●•
-http://opplextv.cyou:8080/4536546/6545653/356416
+
 #EXTINF:-1 group-title="UFC PPV (LIVE EVENTS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,UFC Events 00:
 http://opplextv.cyou:8080/4536546/6545653/356417
 #EXTINF:-1 group-title="UFC PPV (LIVE EVENTS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,UFC Events 01:
