@@ -2,8 +2,84 @@
 
 
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" tvg-id="KompasTV.id" ,Kompas TV
-http://139.99.61.175:25461/M9005/6825/110
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="indonesia",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" ,MOJI SPORTS 2
+http://opplextv.cyou:8080/nasir6160/nasir/350997
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://reformed21.tv/images/logo.png" tvg-id="iNews.id" , inewtv
+http://ktpremium.site:2095/itv263/9189/73605
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" tvg-id="RCTI.id" ,RCTI
+http://ktpremium.site:2095/itv263/9189/73606
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" tvg-id="SCTV.id" ,SCTV
+http://ktpremium.site:2095/itv263/9189/73607
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" tvg-id="TransTV.id" ,Trans TV
+http://ktpremium.site:2095/itv263/9189/73608
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" tvg-id="Trans7.id" ,Trans 7
+http://ktpremium.site:2095/itv263/9189/73609
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" tvg-id="tvOne.id" ,TV One
+http://ktpremium.site:2095/itv263/9189/73610
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" tvg-id="MetroTV.id" , Metro TV
+http://ktpremium.site:2095/itv263/9189/73611
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://imi.remotivi.or.id/assets/images/header-cnn.png" tvg-id="cnn.international.id" ,CNN Indonesia
+http://ktpremium.site:2095/itv263/9189/73613
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" tvg-id="VisionPrime.id" ,MD TV
+http://ktpremium.site:2095/itv263/9189/73615
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" tvg-id="MNCTV.id" , MNC TV
+http://ktpremium.site:2095/itv263/9189/73616
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" tvg-id="Indosiar.id" , Indosiar
+http://ktpremium.site:2095/itv263/9189/73617
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",KOMPAS TV (VS)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" tvg-id="GTV.id" ,GTV
+http://ktpremium.site:2095/itv263/9189/73619
+#EXTINF:-1 group-title="indonesia" tvg-logo="sC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" ,TVRI SPORTS
+http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" tvg-id="TVRI.id" ,TVRI
+http://ktpremium.site:2095/itv263/9189/73620
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" tvg-id="9999" ,TV9 NU
+http://ktpremium.site:2095/itv263/9189/73629
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://garuda.tv/wp-content/uploads/2025/06/result_GARUDA-TV-fotor-20250619205747.jpg" tvg-id="9999" ,GARUDA TV
+http://ktpremium.site:2095/itv263/9189/73631
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" tvg-id="VisionPrime.id" ,IMC
+http://ktpremium.site:2095/itv263/9189/73869
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://news.ums.ac.id/id/wp-content/uploads/sites/2/2024/02/sindonews-logo-300x169.jpg" tvg-id="SindoNewsTV.id" ,Sindo News
+http://ktpremium.site:2095/itv263/9189/73873
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" tvg-id="13739" ,Citra drama 
+http://ktpremium.site:2095/itv263/9189/901193
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" tvg-id="9999" ,Citra Dangdut
+http://ktpremium.site:2095/itv263/9189/901194
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" tvg-id="tvN.id" , TvN
+http://ktpremium.site:2095/itv263/9189/73985
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" tvg-id="VisionPrime.id" ,TvN Movies
+http://ktpremium.site:2095/itv263/9189/73986
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-id="ONE.id" ,Sony One
+http://ktpremium.site:2095/itv263/9189/73987
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/f/ff/Rajawali_Televisi.png" ,Rtv
+http://ktpremium.site:2095/itv263/9189/946467
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_94.png" tvg-id="VisionPrime.id" , VisionPrime
+http://ktpremium.site:2095/itv263/9189/946469
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/Cinemachi.png" , Cinemachi
+http://ktpremium.site:2095/itv263/9189/946470
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://theislamicinformation.com/wp-content/uploads/2020/03/makkah-live.jpg" ,Makkah TV
+http://ktpremium.site:2095/itv263/9189/947789
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sin-po-tv-logo-png_seeklogo-505996.png" , SINPO TV
+http://ktpremium.site:2095/itv263/9189/947915
+#EXTINF:-1 group-title="indonesia" tvg-logo="https://mdtelevision.com/wp-content/uploads/2026/01/MDTV-Primary-Logo-opengraph.png" tvg-id="MDTV.id" , MDTV
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://reformed21.tv/images/logo.png" tvg-id="iNews.id" ,inewtv
 http://139.99.61.175:25461/M9005/6825/99
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" tvg-id="RCTI.id" ,RCTI
@@ -32,22 +108,7 @@ http://139.99.61.175:25461/M9005/6825/112
 http://139.99.61.175:25461/M9005/6825/113
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" tvg-id="VisionPrime.id" ,MD TV
 http://139.99.61.175:25461/M9005/6825/114
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://img.mbizmarket.co.id/company/thumbs/343x343/2025/11/13/4092b2e4be44845af94787226aae4782.jpg" tvg-id="JakTV.id" ,Dhoho TV 
-http://139.99.61.175:25461/M9005/6825/120
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" tvg-id="13674" ,JTV
-http://139.99.61.175:25461/M9005/6825/121
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" tvg-id="13722" ,TV9 NU
-http://139.99.61.175:25461/M9005/6825/124
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://news.ums.ac.id/id/wp-content/uploads/sites/2/2024/02/sindonews-logo-300x169.jpg" tvg-id="SindoNewsTV.id" ,Sindo News
-http://139.99.61.175:25461/M9005/6825/128
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://garuda.tv/wp-content/uploads/2025/06/result_GARUDA-TV-fotor-20250619205747.jpg" tvg-id="13740" ,GARUDA TV
-http://139.99.61.175:25461/M9005/6825/129
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vision-prime-id.png" tvg-id="VisionPrime.id" ,Vision Prime
-http://139.99.61.175:25461/M9005/6825/130
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" tvg-id="IMC.id" ,IMC
-http://139.99.61.175:25461/M9005/6825/139
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png" ,Makkah TV
-http://139.99.61.175:25461/M9005/6825/140
+
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="13755" ,Nusantaratv
 http://139.99.61.175:25461/M9005/6825/117
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" tvg-id="MNCTV.id" ,MNC TV
