@@ -2,6 +2,7 @@
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -125,8 +126,58 @@ http://139.99.61.175:25461/M9005/6825/65970
 http://139.99.61.175:25461/M9005/6825/65971
 #EXTINF:-1 group-title="World Cup" tvg-logo="https://pbs.twimg.com/media/HKcGLHTbwAAyH-S.jpg" ,RTM FIFA 1
 http://139.99.61.175:25461/M9005/6825/66041
+#EXTINF:-1 group-title="World cup" tvg-logo="",ESPN
+http://193.239.186.231/ESPN/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",ESPN 2
+http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",ZDF
+http://193.239.186.231/ZDF/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",NPO 1
+http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",NPO 3
+http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 5
+http://193.239.186.231/RTL5/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 8
+http://193.239.186.231/RTL8/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",SBS 9
+http://193.239.186.231/SBS9/index.m3u8
+#EXTINF:-1 group-title="World cup " tvg-logo="",ESPN3
+http://193.239.186.231/ESPN3/index.m3u8
+#EXTINF:-1 group-title="World cup " tvg-logo="",ESPN 4
+http://193.239.186.231/ESPN4/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",AT5
+http://193.239.186.231/AT5/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 1
+http://193.239.187.106/RTL/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 2
+http://193.239.187.106/RTL2/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",VOX
+http://193.239.187.106/VOX/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",BBC 2
+http://193.239.187.97/BBC2/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",FOX
+http://193.239.187.97/FOX/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",ID
+http://193.239.187.97/ID/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",TLC
+http://193.239.187.97/TLC/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",NPO 2
+http://193.239.187.97/NPO2/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 4
+http://193.239.187.97/RTL4/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTL 7
+http://193.239.187.97/RTL7/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",RTLZ
+http://193.239.187.97/RTLZ/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",SBS 6
+http://193.239.187.97/SBS6/index.m3u8
+#EXTINF:-1 group-title="World cup" tvg-logo="",L1TV
+http://193.239.187.97/L1TV/index.m3u8
 
-#EXTM3U
+
+
+
 
 
 
@@ -144,156 +195,7 @@ http://stalker.hakunamata.workers.dev/play/262/index.m3u8
 
 
 
-worldcup
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN
-http://193.239.186.231/ESPN/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN 2
-http://193.239.186.231/ESPN2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ZDF
-http://193.239.186.231/ZDF/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 1
-http://193.239.186.231/NPO1/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 3
-http://193.239.186.231/NPO3/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 5
-http://193.239.186.231/RTL5/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 8
-http://193.239.186.231/RTL8/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",SBS 9
-http://193.239.186.231/SBS9/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN3
-http://193.239.186.231/ESPN3/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN 4
-http://193.239.186.231/ESPN4/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",AT5
-http://193.239.186.231/AT5/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 1
-http://193.239.187.106/RTL/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 2
-http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",VOX
-http://193.239.187.106/VOX/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BBC 2
-http://193.239.187.97/BBC2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",FOX
-http://193.239.187.97/FOX/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ID
-http://193.239.187.97/ID/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",TLC
-http://193.239.187.97/TLC/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 2
-http://193.239.187.97/NPO2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 4
-http://193.239.187.97/RTL4/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 7
-http://193.239.187.97/RTL7/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTLZ
-http://193.239.187.97/RTLZ/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",SBS 6
-http://193.239.187.97/SBS6/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",L1TV
-http://193.239.187.97/L1TV/index.m3u8
 
-
-
-#EXTM3U
-
-
-
-#EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/960px-TSN1.svg.png",TSN 1
-http://stalker.hakunamata.workers.dev/play/258/index.m3u8
-#EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/960px-TSN2_New_Logo.svg.png",TSN 2
-http://stalker.hakunamata.workers.dev/play/259/index.m3u8
-#EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/960px-TSN3.svg.png",TSN 3
-http://stalker.hakunamata.workers.dev/play/260/index.m3u8
-#EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/960px-TSN4.svg.png",TSN 4
-http://stalker.hakunamata.workers.dev/play/261/index.m3u8
-#EXTINF:-1  group-title="TSN"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/960px-TSN5.svg.png",TSN 5
-http://stalker.hakunamata.workers.dev/play/262/index.m3u8
-
-
-
-
-worldcup
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN
-http://193.239.186.231/ESPN/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN 2
-http://193.239.186.231/ESPN2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ZDF
-http://193.239.186.231/ZDF/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 1
-http://193.239.186.231/NPO1/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 3
-http://193.239.186.231/NPO3/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 5
-http://193.239.186.231/RTL5/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 8
-http://193.239.186.231/RTL8/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",SBS 9
-http://193.239.186.231/SBS9/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN3
-http://193.239.186.231/ESPN3/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ESPN 4
-http://193.239.186.231/ESPN4/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",AT5
-http://193.239.186.231/AT5/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 1
-http://193.239.187.106/RTL/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 2
-http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",VOX
-http://193.239.187.106/VOX/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",BBC 2
-http://193.239.187.97/BBC2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",FOX
-http://193.239.187.97/FOX/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",ID
-http://193.239.187.97/ID/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",TLC
-http://193.239.187.97/TLC/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",NPO 2
-http://193.239.187.97/NPO2/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 4
-http://193.239.187.97/RTL4/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTL 7
-http://193.239.187.97/RTL7/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",RTLZ
-http://193.239.187.97/RTLZ/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",SBS 6
-http://193.239.187.97/SBS6/index.m3u8
-#EXTINF:-1 group-title="WORLD CUP" tvg-logo="",L1TV
-http://193.239.187.97/L1TV/index.m3u8
-
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",,Arena Sport 1 HD
-http://178.253.194.79:10006
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 2 HD
-http://178.253.194.79:10007
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 3 HD
-http://178.253.194.79:10008
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 4 HD
-http://178.253.194.79:10009
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 5 HD
-http://178.253.194.79:10010
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 6 HD
-http://178.253.194.79:10011
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 7 HD
-http://178.253.194.79:10012
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 8 HD
-http://178.253.194.79:10013
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 1 Premium HD
-http://178.253.194.79:10001
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",,Arena Sport 2 Premium HD
-http://178.253.194.79:10004
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 3 Premium HD
-http://178.253.194.79:10005
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 4 Premium HD
-http://178.253.194.79:10016
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Sport 5 Premium HD
-http://178.253.194.79:10017
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Tennis HD
-http://178.253.194.79:10019
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="",Arena Adrenalin HD
-http://178.253.194.79:10018
 
 
 
