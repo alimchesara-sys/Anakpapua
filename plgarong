@@ -43,12 +43,6 @@ http://ktpremium.site:2095/itv263/9189/73615
 http://ktpremium.site:2095/itv263/9189/73616
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" tvg-id="GTV.id" ,GTV
 http://ktpremium.site:2095/itv263/9189/73619
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" ,TVRI SPORTS
-http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" tvg-id="TVRI.id" ,TVRI
-http://ktpremium.site:2095/itv263/9189/73620
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" tvg-id="9999" ,TV9 NU
-http://ktpremium.site:2095/itv263/9189/73629
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://garuda.tv/wp-content/uploads/2025/06/result_GARUDA-TV-fotor-20250619205747.jpg" tvg-id="9999" ,GARUDA TV
 http://ktpremium.site:2095/itv263/9189/73631
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" tvg-id="VisionPrime.id" ,IMC
