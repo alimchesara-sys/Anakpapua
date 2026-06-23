@@ -154,26 +154,7 @@ http://139.99.61.175:25461/M9005/6825/23533
 
 
 
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,CAZE TV 1
-http://139.99.61.175:25461/M9005/6825/65531
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 2
-http://139.99.61.175:25461/M9005/6825/65532
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 3
-http://139.99.61.175:25461/M9005/6825/65533
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" ,FS1
-http://139.99.61.175:25461/M9005/6825/65534
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" ,FS2
-http://139.99.61.175:25461/M9005/6825/65535
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" ,Sukan +
-http://139.99.61.175:25461/M9005/6825/65537
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-1-1x1-300x.png" tvg-id="fifa1" ,UNIFI FIFA 1 
-http://139.99.61.175:25461/M9005/6825/65969
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-2-1x1-300x.png" tvg-id="fifa2" ,UNIFI FIFA 2
-http://139.99.61.175:25461/M9005/6825/65970
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-3-1x1-300x.png" tvg-id="fifa3" ,UNIFI FIFA 3
-http://139.99.61.175:25461/M9005/6825/65971
-#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://pbs.twimg.com/media/HKcGLHTbwAAyH-S.jpg" ,RTM FIFA 1
-http://139.99.61.175:25461/M9005/6825/66041
+
 
 
 
