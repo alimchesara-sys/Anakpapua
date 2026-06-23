@@ -108,9 +108,9 @@ http://139.99.61.175:25461/M9005/6825/23533
 
 #EXTINF:-1 group-title="World Cup 1" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,CAZE TV 1
 http://139.99.61.175:25461/M9005/6825/65531
-#EXTINF:-1 group-title="World Cup" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 2
+#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 2
 http://139.99.61.175:25461/M9005/6825/65532
-#EXTINF:-1 group-title="World Cup" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 3
+#EXTINF:-1 group-title="World Cup 1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 3
 http://139.99.61.175:25461/M9005/6825/65533
 #EXTINF:-1 group-title="World Cup 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" ,FS1
 http://139.99.61.175:25461/M9005/6825/65534
@@ -126,6 +126,14 @@ http://139.99.61.175:25461/M9005/6825/65970
 http://139.99.61.175:25461/M9005/6825/65971
 #EXTINF:-1 group-title="World Cup 1" tvg-logo="https://pbs.twimg.com/media/HKcGLHTbwAAyH-S.jpg" ,RTM FIFA 1
 http://139.99.61.175:25461/M9005/6825/66041
+
+
+
+
+
+
+#EXTINF:-1 group-title="World cup 2" tvg-logo="",SBS 9
+http://193.239.186.231/SBS9/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN
 http://193.239.186.231/ESPN/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN 2
