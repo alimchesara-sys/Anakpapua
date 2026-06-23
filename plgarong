@@ -3,7 +3,55 @@
 
 
 
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="WmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" ,INDOSIAR SPORTS 1
+http://103.148.44.38:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="WmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" ,INDOSIAR SPORTS 2
+http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="A0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" ,MOJI SPORTS 
+http://opplextv.cyou:8080/nasir6160/nasir/350997
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="gBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" ,SCTV SPORTS
+http://opplextv.cyou:8080/nasir6160/nasir/351030
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="sC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" ,TVRI SPORTS
+http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="Njzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 1
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="DWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 2
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="EVENT SPORT"  tvg-logo="", BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://vidx.semar.my.id/biasa2.mpd?id=205&type=dash
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="https://asset.kompas.com/crops/OLInXowRpPPqzcYe2xLxsvjaKG0=/0x26:720x506/750x500/data/photo/2024/11/18/673ae1ad34d16.jpg",MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="https://asset.indosport.com/article/image/q/80/334238/logowsbk-169.jpg?w=750&h=423",WSBK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLqwAdnAoODGTFJtB18N-ZVzAAdJeP81zukYLmi8bUQ&s=10",FORMULA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+
+
+
+
+#EXTINF:-1 group-title="indonesia" tvg-logo="sC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" ,TVRI SPORTS
+http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ndonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,10 +140,6 @@ http://139.99.61.175:25461/M9005/6825/108
 http://139.99.61.175:25461/M9005/6825/109
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://imi.remotivi.or.id/assets/images/header-cnn.png" tvg-id="13719" ,CNN Indonesia
 http://139.99.61.175:25461/M9005/6825/111
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" tvg-id="TVRI.id" ,TVRI
-http://139.99.61.175:25461/M9005/6825/112
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD-400x254.png" tvg-id="BeritaSatuNewsChannel.id" ,TVRI Sports
-http://139.99.61.175:25461/M9005/6825/113
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" tvg-id="VisionPrime.id" ,MD TV
 http://139.99.61.175:25461/M9005/6825/114
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" tvg-id="13755" ,Nusantaratv
@@ -135,7 +179,8 @@ http://139.99.61.175:25461/M9005/6825/66041
 
 
 
-
+#EXTINF:-1 group-title="World cup 2" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Flag_of_Palestine.svg", PALESTINETV
+http://htvint.mada.ps:8888/orooba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",SBS 9
 http://193.239.186.231/SBS9/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN
@@ -152,8 +197,6 @@ http://193.239.186.231/NPO3/index.m3u8
 http://193.239.186.231/RTL5/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 8
 http://193.239.186.231/RTL8/index.m3u8
-#EXTINF:-1 group-title="World cup" tvg-logo="",SBS 9
-http://193.239.186.231/SBS9/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN3
 http://193.239.186.231/ESPN3/index.m3u8
 #EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN 4
