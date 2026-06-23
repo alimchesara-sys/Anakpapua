@@ -155,6 +155,83 @@ http://139.99.61.175:25461/M9005/6825/23533
 
 
 
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Screenshot_2026-06-09_233511.png" ,Unite8 Sports 1 HD
+http://opplextv.cyou:8080/4536546/6545653/444332
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" ,Unite8 Sports 2 HD
+http://opplextv.cyou:8080/4536546/6545653/444333
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 1
+http://opplextv.cyou:8080/4536546/6545653/220059
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 2
+http://opplextv.cyou:8080/4536546/6545653/220060
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 3
+http://opplextv.cyou:8080/4536546/6545653/220061
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 4
+http://opplextv.cyou:8080/4536546/6545653/220062
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 5
+http://opplextv.cyou:8080/4536546/6545653/220063
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 6
+http://opplextv.cyou:8080/4536546/6545653/220064
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" ,SERVER 7
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://ktpremium.world/4dwin.png" ,Advertising area
+http://ktpremium.site:2095/itv263/9189/1116616
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" ,(MY) Sukan +
+http://ktpremium.site:2095/itv263/9189/1116310
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-1-1x1-300x.png" tvg-id="fifa1" ,(MY) Unifi FIFA 1
+http://ktpremium.site:2095/itv263/9189/1117445
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-2-1x1-300x.png" tvg-id="fifa2" ,(MY) Unifi FIFA 2
+http://ktpremium.site:2095/itv263/9189/1117446
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-3-1x1-300x.png" tvg-id="fifa3" ,(MY) Unifi FIFA 3
+http://ktpremium.site:2095/itv263/9189/1117447
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm-images.glueapi.io/420x0/system/FIFA-WC-1-Dolby.png" ,RTM FIFA 1
+http://ktpremium.site:2095/itv263/9189/1117998
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm.glueapi.io/v3/content/35273/image/960x540/images.thumbnail" ,RTM FIFA 2
+http://ktpremium.site:2095/itv263/9189/1118170
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm.glueapi.io/v3/content/35274/image/960x540/images.thumbnail" ,RTM FIFA 3
+http://ktpremium.site:2095/itv263/9189/1118171
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" ,(USA) FS1
+http://ktpremium.site:2095/itv263/9189/1116300
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" ,(USA) FS2
+http://ktpremium.site:2095/itv263/9189/1116301
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" ,[CA] TSN 1
+http://ktpremium.site:2095/itv263/9189/914780
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" ,[CA] TSN 2
+http://ktpremium.site:2095/itv263/9189/914781
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" ,[CA] TSN 3
+http://ktpremium.site:2095/itv263/9189/914782
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" ,[CA] TSN 4
+http://ktpremium.site:2095/itv263/9189/914783
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png" ,[CA] TSN 5
+http://ktpremium.site:2095/itv263/9189/914784
+#EXTINF:-1 group-title="World Cup" ,(FR) bein sports 1 
+http://ktpremium.site:2095/itv263/9189/1118056
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" tvg-id="Ch 5" ,(SG) Channel 5
+http://ktpremium.site:2095/itv263/9189/1118057
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,[BZ] CAZE TV 1
+http://ktpremium.site:2095/itv263/9189/1116361
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,[BZ] CAZE TV 2
+http://ktpremium.site:2095/itv263/9189/1116362
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,[BZ] CAZE TV 3
+http://ktpremium.site:2095/itv263/9189/1116363
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" ,(TW) ELTA Sports 1
+http://ktpremium.site:2095/itv263/9189/1116311
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,(TW) ELTA Sports 2
+http://ktpremium.site:2095/itv263/9189/1116312
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,(TW) ELTA Sports 3
+http://ktpremium.site:2095/itv263/9189/1116313
+#EXTINF:-1 group-title="World Cup" ,Now 618
+http://ktpremium.site:2095/itv263/9189/1117273
+#EXTINF:-1 group-title="World Cup" ,Now 619
+http://ktpremium.site:2095/itv263/9189/1117274
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" ,澳门体育
+http://ktpremium.site:2095/itv263/9189/1118058
+#EXTINF:-1 group-title="World Cup" tvg-id="5" ,cctv 5
+http://ktpremium.site:2095/itv263/9189/1118059
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" ,RTB  go
+http://ktpremium.site:2095/itv263/9189/1118180
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" ,RTB  Aneka
+http://ktpremium.site:2095/itv263/9189/1118181
+
+
 
 
 
