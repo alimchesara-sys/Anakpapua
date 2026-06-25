@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://ygo-assets-entities-emea.yougov.net/06b089fb-261d-11e8-82b2-4797c13ab508.jpg?pw=140" tvg-id="BBC1London.uk" ,BBC One 4K
+http://zamlb.co.uk/123456/123456/1851
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnB0di5zcG9ydHN0di5saXZlLm5vd19pY29uXzE2NjQzNjQ2MjJfMDY3/icon.png?w=280&fakeurl=1" tvg-id="PTV.Sports.pk" ,PTV Sports UHD
+http://zamlb.co.uk/123456/123456/38270
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://ygo-assets-entities-emea.yougov.net/06b089fb-261d-11e8-82b2-4797c13ab508.jpg?pw=140" tvg-id="BBC1East.uk" ,BBC One East
+http://zamlb.co.uk/123456/123456/81153
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://ygo-assets-entities-emea.yougov.net/06b089fb-261d-11e8-82b2-4797c13ab508.jpg?pw=140" tvg-id="BBC1Yorkshire.uk" ,BBC One Yorkshire
+http://zamlb.co.uk/123456/123456/18007
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://zamstb.uk/images/fGTkyHw0d1O7Y-x8qvPUMds9g7g_zXaXUifSnr2bpwUb5IZH4fWtDWy9qellEOBf8rZYF62maP_HRvxTzjhBitNWSwSEKzQf1q2x9_xVrXw.png" tvg-id="ITV1London.uk" ,ITV 1 4K
+http://zamlb.co.uk/123456/123456/1854
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://zamstb.uk/images/fGTkyHw0d1O7Y-x8qvPUMds9g7g_zXaXUifSnr2bpwUb5IZH4fWtDWy9qellEOBf8rZYF62maP_HRvxTzjhBitNWSwSEKzQf1q2x9_xVrXw.png" tvg-id="ITV1Anglia.uk" ,ITV 1 HD
+http://zamlb.co.uk/123456/123456/92377
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://zamstb.uk/images/fGTkyHw0d1O7Y-x8qvPUMds9g7g_zXaXUifSnr2bpwUb5IZH4fWtDWy9qellEOBf8rZYF62maP_HRvxTzjhBitNWSwSEKzQf1q2x9_xVrXw.png" tvg-id="ITV1Anglia.uk" ,ITV Anglia
+http://zamlb.co.uk/123456/123456/81099
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://ygo-assets-entities-emea.yougov.net/06b089fb-261d-11e8-82b2-4797c13ab508.jpg?pw=140" tvg-id="BBC1NorthernIreland.uk" ,BBC One Ireland
+http://zamlb.co.uk/123456/123456/18010
+
