@@ -923,7 +923,24 @@ http://o11.163189.xyz/stream/live/hxt/
 
 
 
-
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E1qlcUPPRX-fmZkxNP1ukjUQkALEVFHIwA&s" , LIVE ᴴᴰ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E1qlcUPPRX-fmZkxNP1ukjUQkALEVFHIwA&s" , LIVE 2ᴴᴰ
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co.com/nMGSbCZq/fwc1.png" , FIFA WC 1ᴴᴰ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co.com/RTt7vbsx/fwc2.png" , FIFA WC 2ᴴᴰ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co.com/N2gttZ39/fwc3.png" , FIFA WC 3ᴴᴰ
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co.com/KzNTFw63/fwc4.png" , FIFA WC 4ᴴᴰ
+https://at-live-99.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co.com/sdzrwgwT/fwc5.png" , FIFA WC 5ᴴᴰ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://yt3.googleusercontent.com/t2ck2F9IrfYaT3lc0W9C2kDXuf5KR7vB1u9zNcIxBJNdefK0NOaP1CR4rqNmNB45skWRZG4z=s900-c-k-c0x00ffffff-no-rj" , TVRI ᴴᴰ
+http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://scontent.fupg3-1.fna.fbcdn.net/v/t39.30808-6/616599739_917406734141048_1465297561320197061_n.jpg?stp=dst-jpg_tt6&cstp=mx2000x2000&ctp=s2000x2000&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=hghkCEieCYsQ7kNvwHQI06b&_nc_oc=AdqVwIZY2f-9vQiy3R2VOomlv4J2S99G5QDwHnSMluATSySrp0PMKrTJOEss56U2GR0&_nc_zt=23&_nc_ht=scontent.fupg3-1.fna&_nc_gid=oD_7KW-0U873IG5eExKdHg&_nc_ss=7b289&oh=00_Af-r-e7ZyTrCSQ0UBpNRyWE9xxHwOey-RXUx58DOBx8-IQ&oe=6A361868" , TVRI SPORTS ᴴᴰ
+http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" ,SS World Cup Central
 http://fastshare1.com:8080/RMn7OsH5r7/sandy4whole/745149
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" ,SS World Cup Pass
