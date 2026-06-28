@@ -937,10 +937,7 @@ http://o11.163189.xyz/stream/live/hxt/
 
 
 
-#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,AR: BeIN Sports Max 1 HD
-http://opplextv.cyou:8080/4536546/6545653/443952
-#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,AR: BeIN Sports Max 1 FHD
-http://opplextv.cyou:8080/4536546/6545653/443950
+
 #EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,AR: BeIN Sports Max 1 FHD (B)
 http://opplextv.cyou:8080/4536546/6545653/443951
 #EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" ,AR: BeIN Sports Max 1 HD (B)
@@ -981,11 +978,11 @@ http://opplextv.cyou:8080/4536546/6545653/443969
 http://opplextv.cyou:8080/4536546/6545653/443970
 #EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" ,AR: BeIN Sports Max 4 HD (B)
 http://opplextv.cyou:8080/4536546/6545653/443971
-#EXTINF:-1 group-title="BEUN MAX" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" ,AR: BeIN Sports Max 4 SD
+#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" ,AR: BeIN Sports Max 4 SD
 http://opplextv.cyou:8080/4536546/6545653/443972
-#EXTINF:-1 group-title="BEUN MAX" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" ,AR: BeIN Sports Max 4 SD (B)
+#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" ,AR: BeIN Sports Max 4 SD (B)
 http://opplextv.cyou:8080/4536546/6545653/443973
-#EXTINF:-1 group-title="BEUN MAX" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" ,AR: BeIN Sports Max 5 FHD
+#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" ,AR: BeIN Sports Max 5 FHD
 http://opplextv.cyou:8080/4536546/6545653/443974
 #EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" ,AR: BeIN Sports Max 5 HD
 http://opplextv.cyou:8080/4536546/6545653/443975
