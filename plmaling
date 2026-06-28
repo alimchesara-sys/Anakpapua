@@ -1,6 +1,40 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,CAZE TV 1
+http://139.99.61.175:25461/M9005/6825/65531
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/45868b222751165.Y3JvcCwxMDgwLDg0NCwwLDExNw.png" ,CAZE TV 2
+http://139.99.61.175:25461/M9005/6825/65532
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" ,FS1
+http://139.99.61.175:25461/M9005/6825/65534
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" ,FS2
+http://139.99.61.175:25461/M9005/6825/65535
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" ,Sukan +
+http://139.99.61.175:25461/M9005/6825/65537
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-1-1x1-300x.png" tvg-id="fifa1" ,UNIFI FIFA 1 
+http://139.99.61.175:25461/M9005/6825/65969
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-2-1x1-300x.png" tvg-id="fifa2" ,UNIFI FIFA 2
+http://139.99.61.175:25461/M9005/6825/65970
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://unifi.com.my/tv/sites/default/files/2026-06/FIFA-3-1x1-300x.png" tvg-id="fifa3" ,UNIFI FIFA 3
+http://139.99.61.175:25461/M9005/6825/65971
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm-images.glueapi.io/420x0/system/FIFA-WC-1-Dolby.png" ,RTM FIFA 1
+http://139.99.61.175:25461/M9005/6825/66041
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm.glueapi.io/v3/content/35273/image/960x540/images.thumbnail" ,RTM FIFA 2
+http://139.99.61.175:25461/M9005/6825/66084
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://rtm.glueapi.io/v3/content/35274/image/960x540/images.thumbnail" ,RTM FIFA 3
+http://139.99.61.175:25461/M9005/6825/66085
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" ,TSN 4
+http://139.99.61.175:25461/M9005/6825/66086
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-id="OKEY" ,TV Okey
+http://139.99.61.175:25461/M9005/6825/66206
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Dsports_TV_white.png" ,DSport
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2714562664%27&EntityType=%27Item%27&EntityId=%27558207%27&Width=1920&Height=1080" ,FWC 1
+http://139.99.61.175:25461/M9005/6825/86699
+#EXTINF:-1 group-title="World Cup" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2714562960%27&EntityType=%27Item%27&EntityId=%27777317%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" ,FWC 2
+http://139.99.61.175:25461/M9005/6825/86700
+
+
+
 
 #EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="httr5Mb.jpg", Bulu Tangkis 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
