@@ -231,8 +231,64 @@ http://ktpremium.site:2095/itv263/9189/1118181
 
 
 
-#EXTINF:-1 group-title="World cup 2" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Flag_of_Palestine.svg", PALESTINETV
-http://htvint.mada.ps:8888/orooba/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 1 ˢᴰ" ,Bein Max 1 ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNFhXQ3NsVXUwbktRMjhEbENxbDI2QT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 1 ᴴᴰ" ,Bein Max 1 ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJMUpwU0xYblZCaGNRbURIWmwvTm50TT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 1 ⁴ᴷ" ,Bein Max 1 ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJeWZDNk9TVGVlM1EvdHc0aVhDS09Raz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 1 ᶠʰᵈ" ,Bein Max 1 ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJeGhYaUZGUkJaQmhzbElFM1o1Y0txTT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 2 ˢᴰ" ,Bein Max 2 ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJd3JqVE1KM0VISERIUVlIL2hiZ2ZqYz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 2 ᴴᴰ" ,Bein Max 2 ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJem94YWE2bHMxU215eU41VFNSS1hsZz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 2 ⁴ᴷ" ,Bein Max 2 ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJK000eTBBYUlLS3hsWmdYczN3QTRtVT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 2 ᶠʰᵈ" ,Bein Max 2 ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJelBCdkNMRW1SWHRNSUpxdFBMQWlzOD0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 3 ˢᴰ" ,Bein Max 3 ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNnpmOTRXc2dLMUJraGpWVC9iY0V2WT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 3 ᴴᴰ" ,Bein Max 3 ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJMGhlWHRIa1IxVCtuWmduOUhRbFoxdz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 3 ⁴ᴷ" ,Bein Max 3 ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJOXhZNzFHRGxEbUVpRW0wbVc2KzcvMD0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 3 ᶠʰᵈ" ,Bein Max 3 ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJd2xhUEtFd0JaaFMrUFN6NjRGN0NCYz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 4 ˢᴰ" ,Bein Max 4 ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJK1FyZENtK2FKOFJSM1RMMXpDdWZxZz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 4 ᴴᴰ" ,Bein Max 4 ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJejJzM0RGWWE3VmdnSERnbExFWGt3dz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 4 ⁴ᴷ" ,Bein Max 4 ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNWRqOWRKaktMdmhNNnVpTEFrTmU3dz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 4 ᶠʰᵈ" ,Bein Max 4 ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNEVBTlZ1MEFTUkJLZi9waWo1d3hxdz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 5 en ⁴ᴷ" ,Bein Max 5 en ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNGo4RDhvREdYNXd6RExFK2QzenNXbz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 6 FR ⁴ᴷ" ,Bein Max 6 FR ⁴ᴷ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJenJ2Ni93Q0UrWDh2V0g3bllDOEpuYz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 5 en ᶠʰᵈ" ,Bein Max 5 en ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJd0tJcm12Mkt5NTFmeEtrRTY5WktEUT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 6 FR ᶠʰᵈ" ,Bein Max 6 FR ᶠʰᵈ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJMnExSXdYeGU3bnFPanZIUFBIWHFITT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 5 en ᴴᴰ" ,Bein Max 5 en ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJME0wNHZFaExHSmJwY0QzbFRJT1YvQT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 6 FR ᴴᴰ" ,Bein Max 6 FR ᴴᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNDl5akdiRWNnbGpuaHNvaXArQXkyZz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 5 en ˢᴰ" ,Bein Max 5 en ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJK1IxR1F1Z0tjMlJTd3lTaVVuYXNMWT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="Bein Max 6 FR ˢᴰ" ,Bein Max 6 FR ˢᴰ
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJNkxmaldzN0M0UGpuQlNqZndVczlPaz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="FIFA 1 ENGLISH" ,FIFA 1 ENGLISH
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJLzFTZXp2TWM0eHlzaVgwUzhIalQwTT0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="FIFA 2 ENGLISH" ,FIFA 2 ENGLISH
+http://filex.cc:8080/S0RqejZaMmc0eHpVY1FzZXg4QThJOE5JTUI3eEFtdVBnemkvS1NOVDJraz0
+#EXTINF:-1 group-title="FIFA WORLD CUP | beIN Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="FIFA 1 SPANISH" ,FIFA 1 SPANISH
+
+
+
+
 
 
 #EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/960px-TSN1.svg.png",TSN 1
