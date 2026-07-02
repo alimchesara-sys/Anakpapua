@@ -16,7 +16,7 @@ http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqRDNLRThQUlJDdDBab0Y0c1VLK2JMMD0
 http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3FPWEluNlByeTl1a0FScE9lK2ZhMD0
 #EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" tvg-id="tvs.pl" tvg-name="SCTV HD" ,SCTV HD
 http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqTUpBNXE5Mzk5ZW01dTVhaG9oTDFpST0
-#EXTINF:-1 group-title="SPORT Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" tvg-name=" Trans 7 HD" ,Trans 7 HD
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" tvg-name=" Trans 7 HD" ,Trans 7 HD
 http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSzZNSkwrVEh3ZUpxWXhzWThpdnJkND0
 #EXTINF:-1 group-title="SPORT indonesia" tvg-logo="Njzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 1
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -57,25 +57,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 #EXTINF:-1 group-title="indonesia" tvg-logo="sC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" ,TVRI SPORTS
 http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="ndonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" ch-number="2", INDOSIAR (EVENT BOLA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/event/drm.kt?id=205&type=drm
-ЁЯФ┤ЁЯФ┤###### https://archertv.my.id/event/index.mpd?id=205&type=dash
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn0-production-images-kly.akamaized.net/IHEGVo0bdDjq02JdmrAabHxZ7kQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3619432/original/032673600_1635753736-kompas-tv-a3cbc6.jpeg" group-title="indonesia",KOMPAS TV (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="indonesia",ANTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" ,MOJI SPORTS 2
-http://opplextv.cyou:8080/nasir6160/nasir/350997
-#EXTINF:-1 group-title="indonesia" tvg-logo="https://reformed21.tv/images/logo.png" tvg-id="iNews.id" , inewtv
-http://ktpremium.site:2095/itv263/9189/73605
+
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" tvg-id="RCTI.id" ,RCTI
 http://ktpremium.site:2095/itv263/9189/73606
 #EXTINF:-1 group-title="indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" tvg-id="SCTV.id" ,SCTV
