@@ -233,59 +233,6 @@ http://ktpremium.site:2095/itv263/9189/1118181
 
 #EXTINF:-1 group-title="World cup 2" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Flag_of_Palestine.svg", PALESTINETV
 http://htvint.mada.ps:8888/orooba/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",SBS 9
-http://193.239.186.231/SBS9/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN
-http://193.239.186.231/ESPN/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN 2
-http://193.239.186.231/ESPN2/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ZDF
-http://193.239.186.231/ZDF/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",NPO 1
-http://193.239.186.231/NPO1/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",NPO 3
-http://193.239.186.231/NPO3/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 5
-http://193.239.186.231/RTL5/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 8
-http://193.239.186.231/RTL8/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN3
-http://193.239.186.231/ESPN3/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ESPN 4
-http://193.239.186.231/ESPN4/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",AT5
-http://193.239.186.231/AT5/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 1
-http://193.239.187.106/RTL/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 2
-http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",VOX
-http://193.239.187.106/VOX/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",BBC 2
-http://193.239.187.97/BBC2/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",FOX
-http://193.239.187.97/FOX/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",ID
-http://193.239.187.97/ID/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",TLC
-http://193.239.187.97/TLC/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",NPO 2
-http://193.239.187.97/NPO2/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 4
-http://193.239.187.97/RTL4/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTL 7
-http://193.239.187.97/RTL7/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",RTLZ
-http://193.239.187.97/RTLZ/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",SBS 6
-http://193.239.187.97/SBS6/index.m3u8
-#EXTINF:-1 group-title="World cup 2" tvg-logo="",L1TV
-http://193.239.187.97/L1TV/index.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/960px-TSN1.svg.png",TSN 1
