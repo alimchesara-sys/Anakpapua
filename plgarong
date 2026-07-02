@@ -1,18 +1,23 @@
 #EXTM3U
 
-
-
-
-#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="WmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" ,INDOSIAR SPORTS 1
-http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="WmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" ,INDOSIAR SPORTS 2
-http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
-#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="A0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" ,MOJI SPORTS 
-http://opplextv.cyou:8080/nasir6160/nasir/350997
-#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="gBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" ,SCTV SPORTS
-http://opplextv.cyou:8080/nasir6160/nasir/351030
-#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="sC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" ,TVRI SPORTS
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" tvg-id="ntv.de" tvg-name="ANTV HD" ,ANTV HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="Indosiar HD" ,Indosiar HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3VZbW9zRlovenltNGFkekYzbmxETT0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" tvg-name="Kompas TV HD" ,Kompas TV HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQ080dUVIcXplYmw3bVdXcHQ0dllPOD0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" tvg-id="msnbc.us" tvg-name="MNC TV HD" ,MNC TV HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSjlOU21XTGQ4a1lyWlpPZnM5ZTdDOD0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" tvg-name="MOJI HD" ,MOJI HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqUDREWHdFVHcvSkRpZi9NaW90bUhWWT0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" tvg-id="net5.nl" tvg-name="NET HD" ,NET HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqRDNLRThQUlJDdDBab0Y0c1VLK2JMMD0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" tvg-name="RCTI HD" ,RCTI HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3FPWEluNlByeTl1a0FScE9lK2ZhMD0
+#EXTINF:-1 group-title="SPORT indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" tvg-id="tvs.pl" tvg-name="SCTV HD" ,SCTV HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqTUpBNXE5Mzk5ZW01dTVhaG9oTDFpST0
+#EXTINF:-1 group-title="SPORT Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" tvg-name=" Trans 7 HD" ,Trans 7 HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSzZNSkwrVEh3ZUpxWXhzWThpdnJkND0
 #EXTINF:-1 group-title="SPORT indonesia" tvg-logo="Njzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 1
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORT indonesia" tvg-logo="DWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 2
