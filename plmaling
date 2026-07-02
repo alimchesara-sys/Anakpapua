@@ -95,7 +95,10 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
 
 
 
-
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" tvg-id="ntv.de" tvg-name="ID: ANTV HD" ,ID: ANTV HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0
+#EXTINF:-1 group-title="EVENT SPORT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar HD" ,ID: Indosiar HD
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3VZbW9zRlovenltNGFkekYzbmxETT0
 #EXTINF:-1 group-title="EVENT SPORT" tvg-logo="gBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" ,SCTV SPORTS
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 #EXTINF:-1 group-title="EVENT SPORT" tvg-logo="Njzj-XDkc1jjDWX46FwWoia2oAgmt50vd9YvSH_XBumlXPGyJ2Jazzy1JjocG50oO1nrqcPYvjc9ySas7JbV9ShaYUsLOSyLP8MNCjp9cExDgdBrqfbTJkMzcij-dcIhEoe8BtzuDC0qkcSGl17K0cbna0-MIA/s700/UFC.png" ,UFC MMA 1
