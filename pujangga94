@@ -374,7 +374,7 @@ http://ktpremium.site:2095/itv263/9189/694540
 http://ktpremium.site:2095/itv263/9189/26312
 #EXTINF:-1 group-title="🔴Astro Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" tvg-id="AstroPremierLeague" ,Astro Premier League (B)
 http://ktpremium.site:2095/itv263/9189/694537
-#EXTINF:-1 group-title="🔴Astto Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" tvg-id="AstroPremierLeague2" ,Astro Premier League 2
+#EXTINF:-1 group-title="🔴Astro Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" tvg-id="AstroPremierLeague2" ,Astro Premier League 2
 http://ktpremium.site:2095/itv263/9189/26313
 #EXTINF:-1 group-title="🔴Astro Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" tvg-id="AstroPremierLeague2" , Astro Premier League 2 (B)
 http://ktpremium.site:2095/itv263/9189/694538
@@ -411,40 +411,47 @@ http://ktpremium.site:2095/itv263/9189/1026349
 
 
 
+
+
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="" ,CHAMPIONS TV 5 HD
+http://opplextv.cyou:8080/4536546/6545653/388699
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" tvg-id="beINSports" ,beIN Sports 1(token)
+http://ktpremium.site:2095/itv263/9189/26321
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" tvg-id="beINSports2" ,beIN Sports 2(token)
+http://ktpremium.site:2095/itv263/9189/912557
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-id="beINSports3" , beIN Sports 3
+http://ktpremium.site:2095/itv263/9189/26322
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" tvg-id="inspirasi" ,beIN Sports 4(live event only)
+http://ktpremium.site:2095/itv263/9189/1011373
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ,beIN Sports 5(live event only)
+http://ktpremium.site:2095/itv263/9189/1011374
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_e0e6fd1b-32a7-4279-9776-108d663e6192.png" tvg-id="spotv" , SPOTV
+http://ktpremium.site:2095/itv263/9189/26318
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" tvg-id="spotv2" ,Spotv 2
+http://ktpremium.site:2095/itv263/9189/73957
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" tvg-id="Sportstars.id" ,SPORTSTARS 1
+http://ktpremium.site:2095/itv263/9189/1106314
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" tvg-id="Sportstars2.id" ,SPORTSTARS 2
+http://ktpremium.site:2095/itv263/9189/1106315
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" tvg-id="Sportstars4.id" ,SPORTSTARS 4
+http://ktpremium.site:2095/itv263/9189/1106317
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://i.imgur.com/wuduAXD.png" tvg-id="SoccerChannel.id" ,SOCCER CHANNEL
+http://ktpremium.site:2095/itv263/9189/1106313
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_e0e6fd1b-32a7-4279-9776-108d663e6192.png" tvg-id="spotv" ,Spotv
+http://ktpremium.site:2095/itv263/9189/73956
+#EXTINF:-1 group-title="🔴Indonesia Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight_sports_us.png" tvg-id="VisionPrime.id" ,Fight Sports
+http://ktpremium.site:2095/itv263/9189/73960
+#EXTINF:-1 group-title="🔴Indonesia Sport" ,ONE Championship
+http://ktpremium.site:2095/itv263/9189/1116842
+
+
+
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" , Sukan RTM
 http://ktpremium.site:2095/itv263/9189/793981
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" tvg-id="beINSports" ,beIN Sports 1(token)
-http://ktpremium.site:2095/itv263/9189/26321
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" tvg-id="beINSports2" ,beIN Sports 2(token)
-http://ktpremium.site:2095/itv263/9189/912557
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-id="beINSports3" , beIN Sports 3
-http://ktpremium.site:2095/itv263/9189/26322
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" tvg-id="inspirasi" ,beIN Sports 4(live event only)
-http://ktpremium.site:2095/itv263/9189/1011373
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ,beIN Sports 5(live event only)
-http://ktpremium.site:2095/itv263/9189/1011374
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_e0e6fd1b-32a7-4279-9776-108d663e6192.png" tvg-id="spotv" , SPOTV
-http://ktpremium.site:2095/itv263/9189/26318
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" tvg-id="spotv2" ,Spotv 2
-http://ktpremium.site:2095/itv263/9189/73957
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" tvg-id="1835" ,EUROSPORT HD
 http://ktpremium.site:2095/itv263/9189/26324
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-id="W-Sport" ,W-Sports
 http://ktpremium.site:2095/itv263/9189/26317
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" tvg-id="Sportstars.id" ,SPORTSTARS 1
-http://ktpremium.site:2095/itv263/9189/1106314
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" tvg-id="Sportstars2.id" ,SPORTSTARS 2
-http://ktpremium.site:2095/itv263/9189/1106315
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" tvg-id="Sportstars4.id" ,SPORTSTARS 4
-http://ktpremium.site:2095/itv263/9189/1106317
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://i.imgur.com/wuduAXD.png" tvg-id="SoccerChannel.id" ,SOCCER CHANNEL
-http://ktpremium.site:2095/itv263/9189/1106313
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://cms.spotvasia.com/upload/channel/file_e0e6fd1b-32a7-4279-9776-108d663e6192.png" tvg-id="spotv" ,Spotv
-http://ktpremium.site:2095/itv263/9189/73956
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight_sports_us.png" tvg-id="VisionPrime.id" ,Fight Sports
-http://ktpremium.site:2095/itv263/9189/73960
-#EXTINF:-1 group-title="🔴VIP Sport" ,ONE Championship
-http://ktpremium.site:2095/itv263/9189/1116842
 #EXTINF:-1 group-title="🔴VIP Sport" ,UFC Paramount
 http://ktpremium.site:2095/itv263/9189/1116843
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" ,Dazn F1
