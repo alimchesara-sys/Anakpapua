@@ -546,7 +546,7 @@ http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314080
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314081
 #EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 6.png" ,HUB PREMIER 6 FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314082
-#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 7.png" ,HUB PREMIER 7 FHD
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 7.png" ,HUB PREMIER 7 FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314083
 #EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 8.png" ,HUB PREMIER 8 FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314084
@@ -713,19 +713,19 @@ http://line.wow-ott.cc:80/NDZM6T/FNUS78/1311958
 
 
 
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" tvg-id="skysportspremiereleague.uk" ,SKY SPORTS PREMIER LEAGUE FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394557
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" tvg-id="skysportsfootball.uk" ,SKY SPORTS FOOTBALL FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394555
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" tvg-id="skysportsmix.uk" , SKY SPORTS MIX FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" tvg-id="skysportsmix.uk" , SKY SPORTS MIX FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394551
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" tvg-id="skysportsaction.uk" ,SKY SPORTS ACTION / NFL FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" tvg-id="skysportsaction.uk" ,SKY SPORTS ACTION / NFL FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394547
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png" tvg-id="skysportsf1.uk" ,SKY SPORTS F1 FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394543
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png" tvg-id="skysportsracing.uk" ,SKY SPORTS RACING FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png" tvg-id="skysportsracing.uk" ,SKY SPORTS RACING FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1198276
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" tvg-id="skysportsarena.uk" ,SKY SPORTS TENNIS FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" tvg-id="skysportsarena.uk" ,SKY SPORTS TENNIS FHD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/394549
 
 
