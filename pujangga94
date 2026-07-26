@@ -446,92 +446,151 @@ http://ktpremium.site:2095/itv263/9189/1116842
 
 
 
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" , Sukan RTM
-http://ktpremium.site:2095/itv263/9189/793981
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" tvg-id="1835" ,EUROSPORT HD
-http://ktpremium.site:2095/itv263/9189/26324
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-id="W-Sport" ,W-Sports
-http://ktpremium.site:2095/itv263/9189/26317
-#EXTINF:-1 group-title="🔴VIP Sport" ,UFC Paramount
-http://ktpremium.site:2095/itv263/9189/1116843
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" ,Dazn F1
-http://ktpremium.site:2095/itv263/9189/935824
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,Dazn 1 
-http://ktpremium.site:2095/itv263/9189/932608
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" ,Dazn 2
-http://ktpremium.site:2095/itv263/9189/932609
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,Dazn 1
-http://ktpremium.site:2095/itv263/9189/932610
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" ,Dazn 2
-http://ktpremium.site:2095/itv263/9189/935822
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/twitter-image.png" ,Real Madrid TV
-http://ktpremium.site:2095/itv263/9189/884108
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" ,MUTV
-http://ktpremium.site:2095/itv263/9189/885659
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" tvg-id="14336" ,SONY Ten 1(FHD)
-http://ktpremium.site:2095/itv263/9189/511301
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" tvg-id="14336" ,SONY Ten 2(FHD)
-http://ktpremium.site:2095/itv263/9189/512007
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" tvg-id="SonyTen3.in" ,SONY Ten 3(FHD)
-http://ktpremium.site:2095/itv263/9189/511893
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://medianet.mv/media/channel/55x0-icon.png" tvg-id="16072" ,Star Sports Select 1
-http://ktpremium.site:2095/itv263/9189/905937
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://medianet.mv/media/channel/186x0-icon.png" tvg-id="16074" ,Star Sports Select 2
-http://ktpremium.site:2095/itv263/9189/905938
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" ,STAR SPORTS 1
-http://ktpremium.site:2095/itv263/9189/915314
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" ,STAR SPORTS 2
-http://ktpremium.site:2095/itv263/9189/915315
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_3.png" ,STAR SPORTS 3
-http://ktpremium.site:2095/itv263/9189/915316
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba-tv-canada-us-ca.png" tvg-id="NBATV.us" ,NBA TV Canada
-http://ktpremium.site:2095/itv263/9189/511578
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" ,Now Sports 1
+
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" ,Now Sports 1
 http://ktpremium.site:2095/itv263/9189/958142
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" ,Now Sports 2
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" ,Now Sports 2
 http://ktpremium.site:2095/itv263/9189/958143
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" ,Now Sports 3
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" ,Now Sports 3
 http://ktpremium.site:2095/itv263/9189/958144
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" ,Now Sports 4
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" ,Now Sports 4
 http://ktpremium.site:2095/itv263/9189/958145
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" ,Now Sports 5
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" ,Now Sports 5
 http://ktpremium.site:2095/itv263/9189/958146
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" ,Now Sports 6
+#EXTINF:-1 group-title="🔴NOW Sport" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" ,Now Sports 6
 http://ktpremium.site:2095/itv263/9189/958147
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" tvg-id="221" ,Hub Premier1
+
+
+
+
+#EXTINF:-1 group-title="🔴DAZN Sport" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" ,Dazn F1
+http://ktpremium.site:2095/itv263/9189/935824
+#EXTINF:-1 group-title="🔴DAZN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,Dazn 1 
+http://ktpremium.site:2095/itv263/9189/932608
+#EXTINF:-1 group-title="🔴DAZN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" ,Dazn 2
+http://ktpremium.site:2095/itv263/9189/932609
+#EXTINF:-1 group-title="🔴DAZN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pcmt111657045725.png" ,Dazn 1
+http://ktpremium.site:2095/itv263/9189/932610
+#EXTINF:-1 group-title="🔴DAZN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" ,Dazn 2
+http://ktpremium.site:2095/itv263/9189/935822
+
+
+
+
+#EXTINF:-1 group-title="🔴SONY Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" tvg-id="14336" ,SONY Ten 1(FHD) BM
+http://ktpremium.site:2095/itv263/9189/511301
+#EXTINF:-1 group-title="🔴SONY Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" tvg-id="14336" ,SONY Ten 2(FHD) BM
+http://ktpremium.site:2095/itv263/9189/512007
+#EXTINF:-1 group-title="🔴 SONY Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten3.png" tvg-id="SonyTen3.in" ,SONY Ten 3(FHD) BM
+http://ktpremium.site:2095/itv263/9189/511893
+#EXTINF:-1 group-title="🔴SONY sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/TEN_1_HD_1.png" ,SONY TEN SPORTS 1 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373200
+#EXTINF:-1 group-title="🔴SONY sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 2 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373199
+#EXTINF:-1 group-title="🔴SONY sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 3 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373198
+#EXTINF:-1 group-title="🔴SONY sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddsport.png" ,SONY TEN SPORTS 5 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373196
+#EXTINF:-1 group-title="🔴 SONY sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/sports18.png" ,EUROSPORTS HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373194
+#EXTINF:-1 group-title="🔴SONY sport" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY TEN 5 (4K)
+http://opplextv.cyou:8080/4536546/6545653/109992
+
+
+
+
+#EXTINF:-1 group-title="🔴STAR Sport" tvg-logo="https://medianet.mv/media/channel/55x0-icon.png" tvg-id="16072" ,Star Sports Select 1
+http://ktpremium.site:2095/itv263/9189/905937
+#EXTINF:-1 group-title="🔴STAR Sport" tvg-logo="https://medianet.mv/media/channel/186x0-icon.png" tvg-id="16074" ,Star Sports Select 2
+http://ktpremium.site:2095/itv263/9189/905938
+#EXTINF:-1 group-title="🔴STAR Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" ,STAR SPORTS 1
+http://ktpremium.site:2095/itv263/9189/915314
+#EXTINF:-1 group-title="🔴STAR Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" ,STAR SPORTS 2
+http://ktpremium.site:2095/itv263/9189/915315
+#EXTINF:-1 group-title="🔴STAR  Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_3.png" ,STAR SPORTS 3
+http://ktpremium.site:2095/itv263/9189/915316
+#EXTINF:-1 group-title="🔴STAR sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" ,STAR SPORTS SELECT 1 HD xt
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373202
+#EXTINF:-1 group-title="🔴STAR sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" ,STAR SPORTS SELECT 2 HD xt
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373201
+#EXTINF:-1 group-title="🔴STAR sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" ,Star Sports Select 1 (4K)
+http://opplextv.cyou:8080/4536546/6545653/109993
+#EXTINF:-1 group-title="🔴STAR sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" ,Star Sports Select 2 (4K)
+http://opplextv.cyou:8080/4536546/6545653/109994
+
+
+
+
+
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" tvg-id="221" ,Hub Premier1 BM
 http://ktpremium.site:2095/itv263/9189/1022975
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="222" ,Hub Premier2
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="222" ,Hub Premier2 BM
 http://ktpremium.site:2095/itv263/9189/1022976
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="223" ,Hub Premier3
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="223" ,Hub Premier3 BM
 http://ktpremium.site:2095/itv263/9189/1022977
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="224" ,Hub Premier4
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="224" ,Hub Premier4 BM
 http://ktpremium.site:2095/itv263/9189/1022978
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://i.imgur.com/XhX3oUI.png" tvg-id="101" ,Hub Premier5
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://i.imgur.com/XhX3oUI.png" tvg-id="101" ,Hub Premier5 BM
 http://ktpremium.site:2095/itv263/9189/1026342
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" tvg-id="101" ,Hub Premier6
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" tvg-id="101" ,Hub Premier6 BM
 http://ktpremium.site:2095/itv263/9189/1026343
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" tvg-id="101" ,Hub Premier7
+#EXTINF:-1 group-title="🔴HUB PREMIER Sport" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" tvg-id="101" ,Hub Premier7 BM
 http://ktpremium.site:2095/itv263/9189/1026344
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" tvg-id="1832" ,ELTA1
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 1.png" ,HUB PREMIER 1 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314077
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 2.png" ,HUB PREMIER 2 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314078
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 3.png" ,HUB PREMIER 3 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314079
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 4.png" ,HUB PREMIER 4 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314080
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 5.png" ,HUB PREMIER 5 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314081
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 6.png" ,HUB PREMIER 6 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314082
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 7.png" ,HUB PREMIER 7 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314083
+#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 8.png" ,HUB PREMIER 8 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314084
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 9.png" ,HUB PREMIER 9 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314085
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 10.png" ,HUB PREMIER 10 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314086
+#EXTINF:-1 group-title="🔴HUB PREMIER sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 11.png" , HUB PREMIER 11 FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314087
+
+
+
+
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" tvg-id="1832" ,ELTA1
 http://ktpremium.site:2095/itv263/9189/879250
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" tvg-id="1815" ,ELTA2
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" tvg-id="1815" ,ELTA2
 http://ktpremium.site:2095/itv263/9189/879251
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" tvg-id="1833" ,ELTA3
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" tvg-id="1833" ,ELTA3
 http://ktpremium.site:2095/itv263/9189/898411
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" tvg-id="ELTA-4" ,ELTA4
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" tvg-id="ELTA-4" ,ELTA4
 http://ktpremium.site:2095/itv263/9189/1024875
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/540_pic_20211224095441.png" , MAX1
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/540_pic_20211224095441.png" , MAX1
 http://ktpremium.site:2095/itv263/9189/1024876
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,MAX2
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,MAX2
 http://ktpremium.site:2095/itv263/9189/1024877
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,MAX3
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,MAX3
 http://ktpremium.site:2095/itv263/9189/1024878
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" ,MAX4
+#EXTINF:-1 group-title="🔴ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" ,MAX4
 http://ktpremium.site:2095/itv263/9189/1024879
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="6093" ,ELEVEN 1
+
+
+
+
+#EXTINF:-1 group-title="🔴ELEVEN Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="6093" ,ELEVEN 1
 http://ktpremium.site:2095/itv263/9189/910889
-#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="7149" ,ELEVEN 2
+#EXTINF:-1 group-title="🔴ELEVEN Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="7149" ,ELEVEN 2
 http://ktpremium.site:2095/itv263/9189/910890
+
+
+
+
+
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://res.cloudinary.com/dimyv3wy5/image/upload/c_fill,w_767,c_limit,f_auto,q_auto,dpr_2.0/v1697198994/1267e73c-83e1-4368-bdd7-df5bccbc0343/qo9z7nfuu42lf8zq26pf.png" tvg-id="GINX-Esports-TV" ,GinxTV
 http://ktpremium.site:2095/itv263/9189/995285
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-original-ONOncvfW.png" ,Sport First TV
@@ -552,8 +611,35 @@ http://ktpremium.site:2095/itv263/9189/1028749
 http://ktpremium.site:2095/itv263/9189/1116359
 #EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png" ,FUBO SPORTS 2
 http://ktpremium.site:2095/itv263/9189/1116360
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" , Sukan RTM
+http://ktpremium.site:2095/itv263/9189/793981
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png" tvg-id="1835" ,EUROSPORT HD
+http://ktpremium.site:2095/itv263/9189/26324
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-id="W-Sport" ,W-Sports
+http://ktpremium.site:2095/itv263/9189/26317
+#EXTINF:-1 group-title="🔴VIP Sport" ,UFC Paramount
+http://ktpremium.site:2095/itv263/9189/1116843
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/twitter-image.png" ,Real Madrid TV
+http://ktpremium.site:2095/itv263/9189/884108
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" ,MUTV
+http://ktpremium.site:2095/itv263/9189/885659
+#EXTINF:-1 group-title="🔴VIP Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba-tv-canada-us-ca.png" tvg-id="NBATV.us" ,NBA TV Canada
+http://ktpremium.site:2095/itv263/9189/511578
 
-
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png" ,A SPORTS
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/911322
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373120
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/911324
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" tvg-id="ptvsports.pk" , PTV SPORTS
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/911325
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" ,TEN SPORTS FHD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/911326
+#EXTINF:-1 group-title="🔴 VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png" ,TEN SPORTS HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373119
+#EXTINF:-1 group-title="🔴VIP sport" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" ,TEN SPORTS
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/911327
 
 
 
@@ -665,35 +751,6 @@ http://line.wow-ott.cc:80/NDZM6T/FNUS78/1313574
 
 
 
-
-
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 1.png" ,HUB PREMIER 1 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314077
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 2.png" ,HUB PREMIER 2 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314078
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 3.png" ,HUB PREMIER 3 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314079
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 4.png" ,HUB PREMIER 4 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314080
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 5.png" ,HUB PREMIER 5 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314081
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 6.png" ,HUB PREMIER 6 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314082
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 7.png" ,HUB PREMIER 7 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314083
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 8.png" ,HUB PREMIER 8 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314084
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 9.png" ,HUB PREMIER 9 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314085
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 10.png" ,HUB PREMIER 10 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314086
-#EXTINF:-1 group-title="🔴HUB PREMIER PPV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/â”ƒUKâ”ƒ HUB PREMIER PPV/HUB PREMIER 11.png" , HUB PREMIER 11 FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1314087
-
-
-
-
-
 #EXTINF:-1 group-title="🔴ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" tvg-id="arenapremium1.rs" ,ARENA SPORT PREMIUM 4 HD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/559019
 #EXTINF:-1 group-title="🔴ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" tvg-id="arenapremium1.rs" ,ARENA SPORT PREMIUM 1 HD
@@ -719,46 +776,16 @@ http://line.wow-ott.cc:80/NDZM6T/FNUS78/559024
 
 
 
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/A SPORTS.png" ,A SPORTS
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/911322
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/ptvsports.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373120
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" tvg-id="ptvsports.pk" ,PTV SPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/911324
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV SPORTS.png" tvg-id="ptvsports.pk" , PTV SPORTS
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/911325
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" ,TEN SPORTS FHD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/911326
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/tensports.png" ,TEN SPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373119
-#EXTINF:-1 group-title="🔴PAKISTAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/TEN SPORTS.png" ,TEN SPORTS
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/911327
 
 
 
 
 
 
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" ,STAR SPORTS SELECT 1 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373202
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" ,STAR SPORTS SELECT 2 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373201
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/TEN_1_HD_1.png" ,SONY TEN SPORTS 1 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373200
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 2 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373199
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 3 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373198
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddsport.png" ,SONY TEN SPORTS 5 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373196
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/sports18.png" ,EUROSPORTS HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/373194
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY TEN 5 (4K)
-http://opplextv.cyou:8080/4536546/6545653/109992
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" ,Star Sports Select 1 (4K)
-http://opplextv.cyou:8080/4536546/6545653/109993
-#EXTINF:-1 group-title="🔴INDIAN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" ,Star Sports Select 2 (4K)
-http://opplextv.cyou:8080/4536546/6545653/109994
+
+
+
+
 
 
 
