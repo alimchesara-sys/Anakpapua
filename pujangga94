@@ -397,18 +397,16 @@ http://ktpremium.site:2095/itv263/9189/1010680
 
 
 
-#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" tvg-id="201" ,Hub Sports 1
-http://ktpremium.site:2095/itv263/9189/1026345
-#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" tvg-id="202" , Hub Sports 2
-http://ktpremium.site:2095/itv263/9189/1026346
-#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" tvg-id="203" ,Hub Sports 3
-http://ktpremium.site:2095/itv263/9189/1026347
-#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://i.imgur.com/cvqJupU.png" tvg-id="204" ,Hub Sports 4
-http://ktpremium.site:2095/itv263/9189/1026348
-#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/HUB_Sports_5.png/revision/latest/scale-to-width-down/250?cb=20240218063404&path-prefix=vi" tvg-id="205" ,Hub Sports 5
-http://ktpremium.site:2095/itv263/9189/1026349
 
 
+#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" tvg-id="221" ,[SG] Hub Premier1
+http://ktpremium.site:2095/itv263/9189/1022975
+#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="222" ,[SG] Hub Premier2
+http://ktpremium.site:2095/itv263/9189/1022976
+#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="223" ,[SG] Hub Premier3
+http://ktpremium.site:2095/itv263/9189/1022977
+#EXTINF:-1 group-title="🔴Hub Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="224" ,[SG] Hub Premier4
+http://ktpremium.site:2095/itv263/9189/1022978
 
 
 
