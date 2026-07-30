@@ -21,8 +21,6 @@ http://opplextv.cyou:8080/4536546/6545653/350972
 http://opplextv.cyou:8080/4536546/6545653/350984
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/SCTV.png" tvg-name="SCTV" ,SCTV
 http://opplextv.cyou:8080/4536546/6545653/351030
-#EXTINF:-1 group-title="🔴Indonesia" tvg-logo="" ,CHAMPIONS TV 5 HD
-http://opplextv.cyou:8080/4536546/6545653/388699
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/TRANS7.png" tvg-name="Trans 7" ,Trans 7
 http://opplextv.cyou:8080/4536546/6545653/351040
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/TRANSTV.png" tvg-name="Trans TV" ,Trans TV
@@ -65,6 +63,8 @@ http://opplextv.cyou:8080/4536546/6545653/350917
 http://opplextv.cyou:8080/4536546/6545653/350918
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-name="Etv Bioskop 04" ,Etv Bioskop 04
 http://opplextv.cyou:8080/4536546/6545653/350944
+#EXTINF:-1 group-title="🔴Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" tvg-id="9999" , Citra Dangdut
+http://ktpremium.site:2095/itv263/9189/901194
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" tvg-name="HBO" ,HBO
 http://opplextv.cyou:8080/4536546/6545653/350955
 #EXTINF:-1 group-title="🔴Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" tvg-name="HBO Family" ,HBO Family
