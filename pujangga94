@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="🔴Asean Hyundai cup" tvg-logo="https://autocar.com.ph/wp-content/uploads/2025/06/@autocarph-1-4.jpg" ,Asean Hyundai Cup
+http://ktpremium.site:2095/itv263/9189/1121426
+#EXTINF:-1 group-title="🔴Asean Hyundai cup" tvg-logo="https://autocar.com.ph/wp-content/uploads/2025/06/@autocarph-1-4.jpg" ,Asean Hyundai Cup 2
+http://ktpremium.site:2095/itv263/9189/1121852
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
