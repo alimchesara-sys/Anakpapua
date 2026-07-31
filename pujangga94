@@ -106,160 +106,435 @@ http://opplextv.cyou:8080/4536546/6545653/351046
 
 
 
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" ,My: Animal Planet HD
-http://opplextv.cyou:8080/4536546/6545653/388767
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" ,MY: Animax
-http://opplextv.cyou:8080/4536546/6545653/352080
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" ,MY: Astro Arena
-http://opplextv.cyou:8080/4536546/6545653/352081
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" ,My: Astro Arena 2 HD
-http://opplextv.cyou:8080/4536546/6545653/388708
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" ,MY: Astro Arena HD
-http://opplextv.cyou:8080/4536546/6545653/388707
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" ,My: Astro Aura HD
-http://opplextv.cyou:8080/4536546/6545653/388737
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest/scale-to-width-down/340?cb=20200520200333" ,My: Astro Awani
-http://opplextv.cyou:8080/4536546/6545653/388732
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" ,My: Astro Celestial HD
-http://opplextv.cyou:8080/4536546/6545653/388740
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LogoAstroCeriaHD.png/220px-LogoAstroCeriaHD.png" ,My: Astro Ceria HD
-http://opplextv.cyou:8080/4536546/6545653/388726
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ,My: Astro Citra HD
-http://opplextv.cyou:8080/4536546/6545653/388746
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/824.png" ,My: Astro Cricket HD
-http://opplextv.cyou:8080/4536546/6545653/388706
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://tvkuindodotnet.files.wordpress.com/2018/11/channel-cti-asia-hd-3.png" ,My: Astro CTI ASIA
-http://opplextv.cyou:8080/4536546/6545653/388735
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" ,My: Astro KPLUS HD
-http://opplextv.cyou:8080/4536546/6545653/388734
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" ,MY: Astro Oasis
-http://opplextv.cyou:8080/4536546/6545653/352084
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_oasis.png" ,My: Astro OASIS HD
-http://opplextv.cyou:8080/4536546/6545653/388724
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_quan_jia_hd_my.png" ,My: Astro Quan Jia HD
-http://opplextv.cyou:8080/4536546/6545653/388725
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" ,My: Astro Rania HD
-http://opplextv.cyou:8080/4536546/6545653/388739
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" ,MY: Astro Ria
-http://opplextv.cyou:8080/4536546/6545653/352086
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" ,My: Astro SuperSport 1 HD
-http://opplextv.cyou:8080/4536546/6545653/388697
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" ,My: Astro SuperSport 2 HD
-http://opplextv.cyou:8080/4536546/6545653/388698
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" ,CHAMPIONS TV 5 HD
-http://opplextv.cyou:8080/4536546/6545653/388699
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" ,Astro FOOTBALL
-http://opplextv.cyou:8080/4536546/6545653/388700
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" ,My: Astro SuperSport Plus HD
-http://opplextv.cyou:8080/4536546/6545653/388701
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" ,My: AXN HD
-http://opplextv.cyou:8080/4536546/6545653/388749
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" ,MY: BBC Earth
-http://opplextv.cyou:8080/4536546/6545653/352095
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" ,MY: beIN Sports
-http://opplextv.cyou:8080/4536546/6545653/352096
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" ,My: beIN Sports 1 HD
-http://opplextv.cyou:8080/4536546/6545653/388709
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" ,My: BeIN Sports 2 HD
-http://opplextv.cyou:8080/4536546/6545653/388710
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://fanc.tmsimg.com/assets/s92442_ll_h3_aa.png" ,My: BeIn Sports 3 HD
-http://opplextv.cyou:8080/4536546/6545653/388711
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" ,My: BeIN Sports 4 HD
-http://opplextv.cyou:8080/4536546/6545653/388712
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.bernama.com/bm/img/bernama.png" ,My: Bernama
-http://opplextv.cyou:8080/4536546/6545653/388795
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" ,My: CCM
-http://opplextv.cyou:8080/4536546/6545653/388772
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" ,MY: Celestial Movies
-http://opplextv.cyou:8080/4536546/6545653/352099
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" ,My: Cinemax HD
-http://opplextv.cyou:8080/4536546/6545653/388751
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" ,My: CNA HD
-http://opplextv.cyou:8080/4536546/6545653/388774
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cnbc_aus.png" ,My: CNBC
-http://opplextv.cyou:8080/4536546/6545653/388803
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cnn_international_global.png" ,My: CNN HD
-http://opplextv.cyou:8080/4536546/6545653/388804
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" ,My: Colors HD
-http://opplextv.cyou:8080/4536546/6545653/388783
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://3.bp.blogspot.com/-rW6aC-akTMQ/W36n6fnPN-I/AAAAAAAAEW8/H_FCrllEgwoeGAQ9_-eeizZQlxwIxAKtACLcBGAs/s1600/Discovery%2BAsia%2Blogo.png" ,My: Discovery Asia
-http://opplextv.cyou:8080/4536546/6545653/388770
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" ,My: Discovery HD
-http://opplextv.cyou:8080/4536546/6545653/388766
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" ,My: Discovery Sci HD
-http://opplextv.cyou:8080/4536546/6545653/388768
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" ,MY: Discovery Science
-http://opplextv.cyou:8080/4536546/6545653/352101
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/1280px-DMAX_HD.svg.png" ,My: Dmax HD
-http://opplextv.cyou:8080/4536546/6545653/388759
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,My: DW HD
-http://opplextv.cyou:8080/4536546/6545653/388789
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Eurosport_hd.png" ,My: Eurosport HD
-http://opplextv.cyou:8080/4536546/6545653/388714
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" ,My: HBO HD
-http://opplextv.cyou:8080/4536546/6545653/388750
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.pngkey.com/png/detail/364-3646903_hgtv-hd-hgtv-png.png" ,My: HGTV HD
-http://opplextv.cyou:8080/4536546/6545653/388756
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://fanc.tmsimg.com/assets/s83399_ll_h3_ab.png" ,My: History HD
-http://opplextv.cyou:8080/4536546/6545653/388761
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" ,My: Hits HD
-http://opplextv.cyou:8080/4536546/6545653/388763
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" ,My: Hits Movies HD
-http://opplextv.cyou:8080/4536546/6545653/388752
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" ,My: KBSW HD
-http://opplextv.cyou:8080/4536546/6545653/388780
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" ,My: kix HD
-http://opplextv.cyou:8080/4536546/6545653/388786
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" ,MY: Local Now Family Flix
-http://opplextv.cyou:8080/4536546/6545653/352107
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_us.png" ,My: MTV
-http://opplextv.cyou:8080/4536546/6545653/388779
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Nat-Geo-Wild-HD.png" ,My: Nat Geo Wild HD
-http://opplextv.cyou:8080/4536546/6545653/388764
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/640px-Nat_Geo_HD_Logo.svg.png" ,My: National Geographic HD
-http://opplextv.cyou:8080/4536546/6545653/388769
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" ,My: Okey HD
-http://opplextv.cyou:8080/4536546/6545653/388781
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" ,My: Prima HD
-http://opplextv.cyou:8080/4536546/6545653/388777
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" ,My: Primetime HD
-http://opplextv.cyou:8080/4536546/6545653/388748
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" ,MY: RTM TV 1
-http://opplextv.cyou:8080/4536546/6545653/352110
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" ,MY: RTM TV 2
-http://opplextv.cyou:8080/4536546/6545653/352111
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" ,My: SPOTV 2
-http://opplextv.cyou:8080/4536546/6545653/388703
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.kyungmin.ac.kr/DATA/board/640/16002360975161AA2TZ.jpg" ,My: SPOTV HD
-http://opplextv.cyou:8080/4536546/6545653/388702
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" ,MY: TV 3
-http://opplextv.cyou:8080/4536546/6545653/352112
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" ,MY: TV 9
-http://opplextv.cyou:8080/4536546/6545653/352113
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" ,MY: TV Alhijrah
-http://opplextv.cyou:8080/4536546/6545653/352114
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" ,My: TV Alhijrah
-http://opplextv.cyou:8080/4536546/6545653/388771
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" ,My: TV1
-http://opplextv.cyou:8080/4536546/6545653/388812
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotv2.jpg" ,My: TV2
-http://opplextv.cyou:8080/4536546/6545653/388813
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" ,MY: TV3
-http://opplextv.cyou:8080/4536546/6545653/388814
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/150px-NewlogoTV9_%28Malaysia%29.png" ,My: TV9
-http://opplextv.cyou:8080/4536546/6545653/388782
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVN_HD_Logo_2012.PNG/250px-TVN_HD_Logo_2012.PNG" ,My: tvN HD
-http://opplextv.cyou:8080/4536546/6545653/388778
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" ,MY: TVN Movies
-http://opplextv.cyou:8080/4536546/6545653/352115
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" ,My: tvN Movies HD
-http://opplextv.cyou:8080/4536546/6545653/388753
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/b/5ab5b54de4ce700793d6f2e5cb3ba8f3_icon.png" ,My: Unifi Sport 2 HD
-http://opplextv.cyou:8080/4536546/6545653/388705
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/WB-Channel.png" ,My: Warner TV HD
-http://opplextv.cyou:8080/4536546/6545653/388758
-#EXTINF:-1 group-title="🔴Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/1280px-Animal_Planet_HD.svg.png" ,My: Animal Planet HD
-http://opplextv.cyou:8080/4536546/6545653/388767
+
+
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" tvg-id="TV1" , TV1
+http://ktpremium.site:2095/itv263/9189/25808
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" tvg-id="101.astro" , TV1  (direct source)
+http://ktpremium.site:2095/itv263/9189/912825
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" tvg-id="TV2" ,TV2
+http://ktpremium.site:2095/itv263/9189/25809
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" tvg-id="TV2" , TV2 (direct source)
+http://ktpremium.site:2095/itv263/9189/912826
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-id="TV3" ,TV3
+http://ktpremium.site:2095/itv263/9189/25810
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-id="TV3" ,TV3 (A)
+http://ktpremium.site:2095/itv263/9189/912827
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-id="TV3" ,TV3 (B)
+http://ktpremium.site:2095/itv263/9189/912828
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-id="TV3" ,TV3 (C)
+http://ktpremium.site:2095/itv263/9189/694449
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-id="DidikTVKPM" , NTV7
+http://ktpremium.site:2095/itv263/9189/25811
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-id="8TV" , 8TV
+http://ktpremium.site:2095/itv263/9189/25812
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-id="TV9" ,TV9
+http://ktpremium.site:2095/itv263/9189/25813
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png" tvg-id="128.unifi" ,Enjoy TV5(test)
+http://ktpremium.site:2095/itv263/9189/25828
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png" tvg-id="duniasinemahd" ,Drama Hebat
+http://ktpremium.site:2095/itv263/9189/999746
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://pic.ottmy.site:2095/mylogo/oh-my-ceria-my.png" tvg-id="inspirasi" , Oh My Ceria
+http://ktpremium.site:2095/itv263/9189/1019162
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="http://pic.ottmy.site:2095/mylogo/jom-ngaji-my.png" tvg-id="degup" ,Jom Ngaji
+http://ktpremium.site:2095/itv263/9189/1019163
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://pic.ottmy.site:2095/mylogo/filem-mantap-my.png" tvg-id="sensasi" ,Filem Mantap
+http://ktpremium.site:2095/itv263/9189/1025978
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://pic.ottmy.site:2095/mylogo/drama-hotpot-my.png" tvg-id="pesonahd" , Drama HotPot
+http://ktpremium.site:2095/itv263/9189/1025979
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://pic.ottmy.site:2095/mylogo/lawak-sentral-my.png" tvg-id="salamhd" ,Lawak Sentral
+http://ktpremium.site:2095/itv263/9189/1025980
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" tvg-id="TVS" ,TVS
+http://ktpremium.site:2095/itv263/9189/656643
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://www.tvikim.my/images/logo-header-bak.png" tvg-id="9999" ,TV IKIM
+http://ktpremium.site:2095/itv263/9189/656644
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-id="OKEY" ,OKEY TV
+http://ktpremium.site:2095/itv263/9189/656682
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="http://pic.ottmy.site:2095/mylogo/berita-rtm-my.png" tvg-id="Berita RTM" ,Berita RTM
+http://ktpremium.site:2095/itv263/9189/900904
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" tvg-id="TV6" ,TV6
+http://ktpremium.site:2095/itv263/9189/900905
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png" , RTM ASEAN
+http://ktpremium.site:2095/itv263/9189/1074587
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://iili.io/HkDiX0Q.png" tvg-id="salamhd" , Salam
+http://ktpremium.site:2095/itv263/9189/1113873
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://iili.io/JTh2WpS.png" tvg-id="pesonahd" ,Pesona
+http://ktpremium.site:2095/itv263/9189/1113872
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://iili.io/H88dWQf.png" tvg-id="inspirasi" ,Inspirasi
+http://ktpremium.site:2095/itv263/9189/1113871
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://iili.io/H88deY7.png" tvg-id="sensasi" ,Sensasi
+http://ktpremium.site:2095/itv263/9189/1113870
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-12/SIAR.png" tvg-id="siar" , Siar
+http://ktpremium.site:2095/itv263/9189/1113869
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/degup-hd.png" tvg-id="degup" , Degup
+http://ktpremium.site:2095/itv263/9189/1113868
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://iili.io/H88dhB4.md.png" tvg-id="duniasinemahd" ,Dunia Sinema
+http://ktpremium.site:2095/itv263/9189/1113867
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" tvg-id="Ch 5" ,Channel 5
+http://ktpremium.site:2095/itv263/9189/25833
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" tvg-id="Ch 8" , Channel 8
+http://ktpremium.site:2095/itv263/9189/25834
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" tvg-id="Ch U" ,Channel U
+http://ktpremium.site:2095/itv263/9189/25835
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" tvg-id="515.astro" ,CNA
+http://ktpremium.site:2095/itv263/9189/25837
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978259/mediacorp/corporate/inline-images/suria__370x180.jpg" tvg-id="Suria" ,Suria
+http://ktpremium.site:2095/itv263/9189/25844
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" tvg-id="Vasantham" ,Vasantham
+http://ktpremium.site:2095/itv263/9189/25848
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" tvg-id="AstroCitra" , ASTRO Citra(token)
+http://ktpremium.site:2095/itv263/9189/25852
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" tvg-id="AstroCitra" ,ASTRO Citra (B)
+http://ktpremium.site:2095/itv263/9189/913177
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" tvg-id="AstroRia" ,ASTRO RIA HD(token)
+http://ktpremium.site:2095/itv263/9189/25855
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" tvg-id="AstroRia" ,ASTRO RIA HD (B)
+http://ktpremium.site:2095/itv263/9189/912833
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" tvg-id="AstroPrima" ,ASTRO PRIMA HD(token)
+http://ktpremium.site:2095/itv263/9189/25862
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" tvg-id="AstroOasis" ,ASTRO OASIS HD
+http://ktpremium.site:2095/itv263/9189/25864
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" tvg-id="AstroOasis" ,ASTRO OASIS HD (B)
+http://ktpremium.site:2095/itv263/9189/912835
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png" tvg-id="AstroRania" ,Astro Rania HD(token)
+http://ktpremium.site:2095/itv263/9189/908356
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png" tvg-id="AstroAura" ,Astro Aura HD(token)
+http://ktpremium.site:2095/itv263/9189/908357
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-id="TVAlhijrah" ,TV ALHIJRAH
+http://ktpremium.site:2095/itv263/9189/25906
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" tvg-id="ColorsHD" , COLORS HD
+http://ktpremium.site:2095/itv263/9189/25928
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png" tvg-id="AstroVaanavil" , Astro Vaanavil
+http://ktpremium.site:2095/itv263/9189/25959
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png" tvg-id="AstroVinmeen" ,Astro Vinmeen
+http://ktpremium.site:2095/itv263/9189/1012902
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" tvg-id="AstroVellithirai" ,Astro Vellithirai
+http://ktpremium.site:2095/itv263/9189/918423
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" tvg-id="SunTV" , Sun TV
+http://ktpremium.site:2095/itv263/9189/911358
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" tvg-id="SunMusic" , SUN MUSIC
+http://ktpremium.site:2095/itv263/9189/25933
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" tvg-id="Adithya" ,Adithya
+http://ktpremium.site:2095/itv263/9189/26242
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png" tvg-id="SunNews" , Sun news
+http://ktpremium.site:2095/itv263/9189/911013
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png" tvg-id="KTV" ,KTV
+http://ktpremium.site:2095/itv263/9189/511756
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" tvg-id="SunLife" ,Sun Life
+http://ktpremium.site:2095/itv263/9189/25934
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" tvg-id="StarVijay" ,ASTRO Star Vijay HD
+http://ktpremium.site:2095/itv263/9189/25944
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" tvg-id="StarVijay" ,ASTRO Star Vijay HD (B)
+http://ktpremium.site:2095/itv263/9189/912838
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" tvg-id="ColorsTamilHD" ,COLORS TAMIL
+http://ktpremium.site:2095/itv263/9189/25947
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" tvg-id="ZeeTamilHD" ,Z Tamil HD
+http://ktpremium.site:2095/itv263/9189/25949
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png" tvg-id="AstroThangathirai" ,ABO Movies Thangathirai
+http://ktpremium.site:2095/itv263/9189/1012903
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" tvg-id="ZeeCinema" ,Z Cinema HD
+http://ktpremium.site:2095/itv263/9189/911366
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" tvg-id="iQIYI" ,  iQiyi
+http://ktpremium.site:2095/itv263/9189/25961
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" tvg-id="iQIYI" ,iQiyi (B)
+http://ktpremium.site:2095/itv263/9189/912840
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" tvg-id="AstroAEC" ,AEC HD(token)
+http://ktpremium.site:2095/itv263/9189/25968
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" tvg-id="AstroAEC" ,AEC HD(B)
+http://ktpremium.site:2095/itv263/9189/916396
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png" tvg-id="AstroQJ" ,Astro QJ(token)
+http://ktpremium.site:2095/itv263/9189/25970
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" tvg-id="TVBJade" ,TVB JADE
+http://ktpremium.site:2095/itv263/9189/25972
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" tvg-id="TVBJade" ,TVB JADE (B)
+http://ktpremium.site:2095/itv263/9189/912845
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png" tvg-id="AstroAOD" ,Astro AOD
+http://ktpremium.site:2095/itv263/9189/912839
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" tvg-id="AstroHuaHeeDai" , Astro HuaHeeDai
+http://ktpremium.site:2095/itv263/9189/25973
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" tvg-id="AstroHuaHeeDai" , Astro HuaHeeDai(B)
+http://ktpremium.site:2095/itv263/9189/912847
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" tvg-id="TVBXingHe" ,TVB 
+http://ktpremium.site:2095/itv263/9189/25977
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" tvg-id="TVBXingHe" ,TVB HD 
+http://ktpremium.site:2095/itv263/9189/912848
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" tvg-id="TVBClassic" ,TVBClassic
+http://ktpremium.site:2095/itv263/9189/25979
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" tvg-id="TVBClassic" ,TVBClassic (B)
+http://ktpremium.site:2095/itv263/9189/912849
+#EXTINF:-1 group-title="🔴MalqYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" tvg-id="TVBEntertainmentNews" , TVB Entertainment News HD
+http://ktpremium.site:2095/itv263/9189/918425
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" tvg-id="CelestialMovies" ,CelestialMovies HD
+http://ktpremium.site:2095/itv263/9189/25981
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" tvg-id="CCM" ,CCM
+http://ktpremium.site:2095/itv263/9189/25982
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" tvg-id="PhoenixChineseChannel" ,Phoenix Chinese Channel HD
+http://ktpremium.site:2095/itv263/9189/25984
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png" tvg-id="PhoenixInfoNews" ,Phoenix Info News HD
+http://ktpremium.site:2095/itv263/9189/25985
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" tvg-id="TVBSAsia" ,TVBS ASIA HD
+http://ktpremium.site:2095/itv263/9189/25986
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" tvg-id="CTIAsia" ,CTIASIA
+http://ktpremium.site:2095/itv263/9189/25987
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://cms.cignal.tv/Upload/Images/Hits%20Now.png" tvg-id="HITSNow" ,Hits Now
+http://ktpremium.site:2095/itv263/9189/25990
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" tvg-id="tvN" ,tvN HD
+http://ktpremium.site:2095/itv263/9189/26001
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" tvg-id="tvNMovies" ,tvN Movies
+http://ktpremium.site:2095/itv263/9189/26003
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" tvg-id="TV1" ,Astro Daebak
+http://ktpremium.site:2095/itv263/9189/26009
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" tvg-id="K-Plus" , K-plus
+http://ktpremium.site:2095/itv263/9189/26029
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" tvg-id="AstroBoo" ,BOO(token)
+http://ktpremium.site:2095/itv263/9189/834387
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/604_144.png" tvg-id="hbohd" ,Astro Showtime HD
+http://ktpremium.site:2095/itv263/9189/916397
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" tvg-id="AstroShowcase" ,Astro Showcase 
+http://ktpremium.site:2095/itv263/9189/916399
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/601_144.png" tvg-id="ROCKAction.id" ,Rock Action 
+http://ktpremium.site:2095/itv263/9189/916400
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/695f0d611ef33c26245ef402_XSTREAM_PRINT%20copy.png" tvg-id="ROCKXStream" ,Rock x Stream HD
+http://ktpremium.site:2095/itv263/9189/916401
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/hbo-hd.png" tvg-id="hbohd" , HBO HD(sub)
+http://ktpremium.site:2095/itv263/9189/26076
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://iili.io/Ju79nwv.md.png" tvg-id="hbohits" ,HBO Hits (sub)
+http://ktpremium.site:2095/itv263/9189/26077
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://www.kindpng.com/picc/m/153-1531073_transparent-hbo-svg-hbo-signature-logo-png-png.png" tvg-id="hbo.signature.id" ,HBO Signature (sub)
+http://ktpremium.site:2095/itv263/9189/26080
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Photo.png" tvg-id="hbofamily" , HBO Family (sub)
+http://ktpremium.site:2095/itv263/9189/656642
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://i.imgur.com/Y282owj.png" tvg-id="Thrill.id" , Thrill
+http://ktpremium.site:2095/itv263/9189/26094
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://medianet.mv/media/channel/271x0-icon.png" tvg-id="CineEdge.id" ,CINEEDGE
+http://ktpremium.site:2095/itv263/9189/26097
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" tvg-id="HITSMovies" ,Hits Movies HD
+http://ktpremium.site:2095/itv263/9189/26102
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png" tvg-id="cinemax" ,FAM Time
+http://ktpremium.site:2095/itv263/9189/916398
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://solunet.com.ar/img_chanel/49945575.png" tvg-id="1511" ,Cinemax (sub)
+http://ktpremium.site:2095/itv263/9189/901187
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" tvg-id="AstroAwani" ,ASTRO Awani HD
+http://ktpremium.site:2095/itv263/9189/26167
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" tvg-id="AstroAwani" ,ASTRO Awani HD(B)
+http://ktpremium.site:2095/itv263/9189/913137
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" tvg-id="CCTV4" ,CCTV4 HD
+http://ktpremium.site:2095/itv263/9189/26181
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" tvg-id="CGTN" , CGTN
+http://ktpremium.site:2095/itv263/9189/26192
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/CGTN_DOC_IVP_LAND_917x516.jpg" tvg-id="CGTNDocumentary" ,CGTN Documentary
+http://ktpremium.site:2095/itv263/9189/694497
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" tvg-id="LoveNature" ,Love Nature
+http://ktpremium.site:2095/itv263/9189/916402
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" tvg-id="GlobalTrekker.id" ,Global Trekker
+http://ktpremium.site:2095/itv263/9189/916403
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://p.kindpng.com/picc/s/646-6466111_national-geographic-tv-logo-png-transparent-png.png" tvg-id="national.geographic.id" ,NatGeo HD
+http://ktpremium.site:2095/itv263/9189/26197
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://www.vhv.rs/dpng/d/267-2677534_natgeowild-nat-geo-wild-hd-png-download.png" tvg-id="nat.geo.wild.id" ,NatGeo Wild HD
+http://ktpremium.site:2095/itv263/9189/26205
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,Discovery HD
+http://ktpremium.site:2095/itv263/9189/26207
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" tvg-id="DiscoveryAsia" ,Discovery Asia
+http://ktpremium.site:2095/itv263/9189/26209
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://p.kindpng.com/picc/s/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-id="556.astro" ,Animal Planet HD
+http://ktpremium.site:2095/itv263/9189/26211
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" tvg-id="History" ,History HD
+http://ktpremium.site:2095/itv263/9189/26213
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" tvg-id="AstroCeria" ,ASTRO CERIA HD(b)
+http://ktpremium.site:2095/itv263/9189/26238
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" tvg-id="AstroCeria" , Ceria (token)
+http://ktpremium.site:2095/itv263/9189/912821
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroTutorTV_2024.png" tvg-id="AstroTutorTV" ,Tutor TV
+http://ktpremium.site:2095/itv263/9189/912561
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/566_144.png" tvg-id="BlippiandFriends" ,Blippi And Friends
+http://ktpremium.site:2095/itv263/9189/1012102
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://image.pngaaa.com/462/405462-middle.png" tvg-id="animax" ,ANIMAX
+http://ktpremium.site:2095/itv263/9189/26240
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" tvg-id="moonbugkids" ,Moonbug Kids
+http://ktpremium.site:2095/itv263/9189/26200
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" tvg-id="CartoonNetwork" ,CARTOON NTWK HD
+http://ktpremium.site:2095/itv263/9189/26273
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" tvg-id="Nickelodeon" ,NICKELODEON HD
+http://ktpremium.site:2095/itv263/9189/26275
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" tvg-id="NickJr" ,NICK JR
+http://ktpremium.site:2095/itv263/9189/26276
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://logodix.com/logo/1646810.png" tvg-id="babytv.id" ,Baby TV
+http://ktpremium.site:2095/itv263/9189/26277
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" tvg-id="AXN" , AXN HD
+http://ktpremium.site:2095/itv263/9189/26282
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" tvg-id="HITS" ,HITS HD
+http://ktpremium.site:2095/itv263/9189/26284
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="TLC" ,TLC HD
+http://ktpremium.site:2095/itv263/9189/26285
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="CrimeInvestigation" , C&I HD
+http://ktpremium.site:2095/itv263/9189/26288
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/BBCEarth.png" tvg-id="BBCEarth" ,BBC Earth HD
+http://ktpremium.site:2095/itv263/9189/26290
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://www.clipartmax.com/png/middle/294-2940528_hgtv-program-tv-with-home-and-garden-tv-prepare-hg-tv.png" tvg-id="HGTV" ,HGTV HD
+http://ktpremium.site:2095/itv263/9189/26294
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Dmax-Logo-Vector.svg-.png" tvg-id="DMAX.uk" ,DMAX HD
+http://ktpremium.site:2095/itv263/9189/26296
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/01/14112125/Comedy-Central-logo.png" tvg-id="324.comedy.central." , COMEDY CENTRAL
+http://ktpremium.site:2095/itv263/9189/26297
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://medianet.mv/media/channel/259x0-icon.png" tvg-id="rockentertainment" ,Rock Entertainment HD 
+http://ktpremium.site:2095/itv263/9189/656633
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://medianet.mv/media/channel/260x0-icon.png" tvg-id="ROCKACtion" ,Rock Action HD 
+http://ktpremium.site:2095/itv263/9189/656639
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" tvg-id="Lifetime" ,LIFETIME 
+http://ktpremium.site:2095/itv263/9189/656641
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" tvg-id="9999" ,RTB sukmaindera
+http://ktpremium.site:2095/itv263/9189/897360
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://image.pngaaa.com/462/405462-middle.png" tvg-id="animax" ,ANIMAX
+http://ktpremium.site:2095/itv263/9189/933048
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://medianet.mv/media/channel/260x0-icon.png" tvg-id="ROCKAction.id" ,RockAction
+http://ktpremium.site:2095/itv263/9189/933050
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://medianet.mv/media/channel/259x0-icon.png" tvg-id="ROCKEntertainment.id" ,RockEntertainment
+http://ktpremium.site:2095/itv263/9189/933051
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" ,RTM Snap
+http://ktpremium.site:2095/itv263/9189/1033035
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" ,RTM Lead
+http://ktpremium.site:2095/itv263/9189/1033036
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" ,RTM Apetito
+http://ktpremium.site:2095/itv263/9189/1033037
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" ,RTM Fitrah
+http://ktpremium.site:2095/itv263/9189/1033038
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" ,RTM Junior
+http://ktpremium.site:2095/itv263/9189/1033039
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" , RTM Roll
+http://ktpremium.site:2095/itv263/9189/1033040
+#EXTINF:-1 group-title="🔴MalaYsia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" , RTM Aura
+http://ktpremium.site:2095/itv263/9189/1033041
+#EXTINF:-1 group-title="🔴MalaYsia " tvg-logo="https://ip.taicca.tw/images/avatar/45-20211102180420-IhSaXjmTPb.png" tvg-id="seti" ,SETI
+http://ktpremium.site:2095/itv263/9189/1113874
+
+
+#EXTM3U
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" tvg-id="CelestialMovies.id" ,[ID] Celestial Movies
+http://ktpremium.site:2095/itv263/9189/73655
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" tvg-id="CCM.id" ,[ID] Celestial Classic Movie
+http://ktpremium.site:2095/itv263/9189/73656
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://i.imgur.com/Y282owj.png" tvg-id="Thrill.id" ,[ID] Thrill
+http://ktpremium.site:2095/itv263/9189/73660
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" tvg-id="AXN.id" ,[ID] AXN
+http://ktpremium.site:2095/itv263/9189/73661
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="HITS.id" ,[ID] Hits
+http://ktpremium.site:2095/itv263/9189/73662
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" tvg-id="HitsMovies.id" ,[ID] Hits Movies
+http://ktpremium.site:2095/itv263/9189/73855
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/hbo-hd.png" tvg-id="hbohd" ,[ID] HBO
+http://ktpremium.site:2095/itv263/9189/73858
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://iili.io/Ju79nwv.md.png" tvg-id="hbohits" ,[ID] HBO Hits
+http://ktpremium.site:2095/itv263/9189/73860
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.kindpng.com/picc/m/153-1531073_transparent-hbo-svg-hbo-signature-logo-png-png.png" tvg-id="hbo.signature.id" ,[ID] HBO Signature
+http://ktpremium.site:2095/itv263/9189/73861
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Photo.png" tvg-id="hbofamily" ,[ID] HBO Family
+http://ktpremium.site:2095/itv263/9189/901195
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://solunet.com.ar/img_chanel/49945575.png" tvg-id="cinemax" ,[ID] Cinemax
+http://ktpremium.site:2095/itv263/9189/901196
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://iili.io/j5HfxS.png" tvg-id="cinemaworld.my" ,[IN] MNX HD
+http://ktpremium.site:2095/itv263/9189/901200
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galaxy_tv_id.png" tvg-id="9999" ,[ID] Galaxy HD
+http://ktpremium.site:2095/itv263/9189/812074
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" tvg-id="VisionPrime.id" ,[ID] Galaxy Premium
+http://ktpremium.site:2095/itv263/9189/73863
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" tvg-id="1507" ,[TW] AXN
+http://ktpremium.site:2095/itv263/9189/515075
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://solunet.com.ar/img_chanel/49945575.png" tvg-id="1511" ,[TW] Cinemax
+http://ktpremium.site:2095/itv263/9189/515076
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/hbo-hd.png" tvg-id="1573" ,[TW] HBO HD
+http://ktpremium.site:2095/itv263/9189/870553
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://iili.io/Ju79nwv.md.png" tvg-id="1574" ,[TW] HBO HITS
+http://ktpremium.site:2095/itv263/9189/870554
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Photo.png" tvg-id="hbofamily" ,[TW] HBO Family
+http://ktpremium.site:2095/itv263/9189/900875
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.kindpng.com/picc/m/153-1531073_transparent-hbo-svg-hbo-signature-logo-png-png.png" tvg-id="120" ,[TW] HBO Signature
+http://ktpremium.site:2095/itv263/9189/900881
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://mp.popticket.hk/ptkprod/files/m/2019/08/organiser-moviemoviebybc1.jpg" tvg-id="6089" ,[HK] MOVIE MOVIE
+http://ktpremium.site:2095/itv263/9189/870555
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.clipartmax.com/png/middle/74-741955_television-logo-warner-bros-tv-logo.png" tvg-id="1570" ,[TW] 华纳电影
+http://ktpremium.site:2095/itv263/9189/900866
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" tvg-id="1502" ,[TW] 东森电影
+http://ktpremium.site:2095/itv263/9189/870557
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://emovie.ebc.net.tw/Images/footer-logo.png" tvg-id="1506" ,[TW] 东森洋片
+http://ktpremium.site:2095/itv263/9189/870558
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://freetv.fun/media/images/channel/2024/01/14/large/20240114154701302621_82.png" tvg-id="132" ,[TW] 美亚电影
+http://ktpremium.site:2095/itv263/9189/870561
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hollywood_movie_channel.png" tvg-id="1508" ,[TW] 好莱坞电影台
+http://ktpremium.site:2095/itv263/9189/684844
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1840.png" tvg-id="1766" ,[TW] 龙华洋片
+http://ktpremium.site:2095/itv263/9189/515085
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/ls_time_movie.png" tvg-id="1504" ,[TW] 龙祥时代
+http://ktpremium.site:2095/itv263/9189/694086
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" tvg-id="1792" ,[TW] AMC电影台
+http://ktpremium.site:2095/itv263/9189/995220
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" tvg-id="1791" ,[TW] 靖天电影台
+http://ktpremium.site:2095/itv263/9189/995222
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" ,[IN] STAR MOVIES
+http://ktpremium.site:2095/itv263/9189/915593
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/605ef39059d152acec6f2697a800792a.png" tvg-id="cinemaworld.my" ,[IN] MN+ HD
+http://ktpremium.site:2095/itv263/9189/901191
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/647577WD_Movies.png" ,[IN] wedotv Movies
+http://ktpremium.site:2095/itv263/9189/947918
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://i.imgur.com/HYgxPVQ.png" ,[US] MyTime Movie
+http://ktpremium.site:2095/itv263/9189/947919
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" ,[US] MIRAMAX
+http://ktpremium.site:2095/itv263/9189/947920
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" ,[IN] Movies Now
+http://ktpremium.site:2095/itv263/9189/947921
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://raw.githubusercontent.com/tivi4kay/logo/refs/heads/main/romedynow.png" ,[IN] Romedy Now
+http://ktpremium.site:2095/itv263/9189/991022
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" tvg-id="Originals.id" ,[ID] Originals
+http://ktpremium.site:2095/itv263/9189/1109828
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png" tvg-id="CineEdge.id" ,[ID] Cineedge
+http://ktpremium.site:2095/itv263/9189/1109829
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" tvg-id="Superrix.id" ,[ID] Superrix
+http://ktpremium.site:2095/itv263/9189/1109830
+#EXTINF:-1 group-title="🔴Movie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" ,[USA] MIRAMAX
+http://ktpremium.site:2095/itv263/9189/1113395
+
+
+
+
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="CrimeInvestigation.id" ,[ID] Crime & Investigation
+http://ktpremium.site:2095/itv263/9189/73870
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://www.vhv.rs/dpng/d/267-2677534_natgeowild-nat-geo-wild-hd-png-download.png" tvg-id="national.geographic.wild.id" ,[ID] NatGeo Wild
+http://ktpremium.site:2095/itv263/9189/73965
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://p.kindpng.com/picc/s/646-6466111_national-geographic-tv-logo-png-transparent-png.png" tvg-id="national.geographic.id" ,[ID] NatGeo
+http://ktpremium.site:2095/itv263/9189/73966
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" tvg-id="History.id" ,[ID] History
+http://ktpremium.site:2095/itv263/9189/73968
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://p.kindpng.com/picc/s/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-id="animal.planet.id" ,[ID] Animal Planet
+http://ktpremium.site:2095/itv263/9189/73969
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,[ID] Discovery Channel
+http://ktpremium.site:2095/itv263/9189/73970
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://www.clipartmax.com/png/middle/294-2940528_hgtv-program-tv-with-home-and-garden-tv-prepare-hg-tv.png" tvg-id="HGTV" ,[ID] HGTV
+http://ktpremium.site:2095/itv263/9189/73975
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="TLC" ,[ID] TLC
+http://ktpremium.site:2095/itv263/9189/73977
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,[USA] Discovery Channel
+http://ktpremium.site:2095/itv263/9189/511352
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/798d28201192825.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" tvg-id="FoodNetwork.uk" ,[UK] Food Network
+http://ktpremium.site:2095/itv263/9189/511369
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20221209100957_3.png" tvg-id="1592" ,[TW] 亞洲旅遊台
+http://ktpremium.site:2095/itv263/9189/515100
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" tvg-id="1586" ,[TW] Discovery Asia
+http://ktpremium.site:2095/itv263/9189/698399
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="http://i0.hdslb.com/bfs/archive/c284e23b51073f1b4ca63beb0b6d071fdeae6ab7.png" tvg-id="1460" ,[TW] 探索频道
+http://ktpremium.site:2095/itv263/9189/870683
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" tvg-id="1568" ,[TW]  BBC lifestyle
+http://ktpremium.site:2095/itv263/9189/870684
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Dmax-Logo-Vector.svg-.png" tvg-id="1590" ,[TW] 探索動力
+http://ktpremium.site:2095/itv263/9189/870687
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://p.kindpng.com/picc/s/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-id="1462" ,[TW] 动物星球
+http://ktpremium.site:2095/itv263/9189/870689
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" tvg-id="199" ,[TW] lifetime
+http://ktpremium.site:2095/itv263/9189/900851
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://banner2.cleanpng.com/20180430/arq/kisspng-science-television-channel-discovery-channel-telev-5ae74fa8dd8354.2143045115251086489073.jpg" tvg-id="1585" ,[TW] 探索科学
+http://ktpremium.site:2095/itv263/9189/1013875
+#EXTINF:-1 group-title="🔴Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="120" ,[TW] C&I HD
+http://ktpremium.site:2095/itv263/9189/1013876
+#EXTINF:-1 group-title="🔴Documentary" tvg-id="1592" ,[TW] 亚洲旅游 AsiaTravel
+http://ktpremium.site:2095/itv263/9189/1003302
 
 
 
