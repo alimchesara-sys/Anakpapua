@@ -214,7 +214,7 @@ https://tvratu.my.id/vid/index.mpd?id=7150&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=12784&type=drm
 https://tvratu.my.id/vid/index.mpd?id=12784&type=dash
-#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="VIDIO",BIZNET KIDS
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="🔴VIDIO",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 #EXTINF:-1 group-title="🔴VIDIO" tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -240,7 +240,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="LOKAL",MOJI 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="🔴LOKAL",MOJI 
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1 group-title="🔴LOKAL" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
