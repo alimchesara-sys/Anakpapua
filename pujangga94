@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+
+
 #EXTINF:-1 group-title="🔴Asean Hyundai cup" tvg-logo="https://autocar.com.ph/wp-content/uploads/2025/06/@autocarph-1-4.jpg" ,Asean Hyundai Cup
 http://ktpremium.site:2095/itv263/9189/1121426
 #EXTINF:-1 group-title="🔴Asean Hyundai cup" tvg-logo="https://autocar.com.ph/wp-content/uploads/2025/06/@autocarph-1-4.jpg" ,Asean Hyundai Cup 2
@@ -7,14 +10,27 @@ http://ktpremium.site:2095/itv263/9189/1121852
 
 
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/GTV.png" group-title="🔴MNC Group",GTV
-https://stream.diorx.my.id/streams/gtv.m3u8 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/MNC TV.png" group-title="🔴MNC Group",MNCTV
-https://stream.diorx.my.id/streams/mnctv.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/RCTI.png" group-title="🔴MNC Group",RCTI
-https://stream.diorx.my.id/streams/RCTI.m3u8
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/INEWS.png" group-title="🔴MNC Group",iNews
-https://stream.diorx.my.id/streams/inews.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="🔴LOKAL",MOJI 
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/RCTI.png",RCTI (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/MNC",MNCTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/GTV.png",GTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/INEWS.png",INEWS (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
+
+
 
 
 
