@@ -258,7 +258,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS (R+) 
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png", INEWS (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
