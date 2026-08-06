@@ -387,7 +387,16 @@ http://new-pro.tv:8080/live/29474954335409/36734895355465/847449.ts
 
 
 
-
+#EXTINF:-1 group-title="🔴SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png" ,STAR SPORTS SELECT 1 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373202
+#EXTINF:-1 group-title="🔴SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png" ,STAR SPORTS SELECT 2 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373201
+#EXTINF:-1 group-title="🔴SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/TEN_1_HD_1.png" ,SONY TEN SPORTS 1 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373200
+#EXTINF:-1 group-title="🔴SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 2 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373199
+#EXTINF:-1 group-title="🔴SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Tensports-New-Logo-1-2.png" ,SONY TEN SPORTS 3 HD
+http://line.wow-ott.cc:80/NDZM6T/FNUS78/373198
 #EXTINF:-1 group-title="🔴SPORTS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" tvg-name="Mono 29" ,Mono 29
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="🔴SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png" ,CCTV FOOTBALL
@@ -398,6 +407,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🔴SPORTS" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" , CCTV16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+
 
 
 #EXTINF:-1 group-title="🔴MOVIE" tvg-logo="https://i.imgur.com/U5LrKAW.png" tvg-id="hbo.br" tvg-name="HBO" ,HBO
