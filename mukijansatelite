@@ -315,7 +315,7 @@ https://cdnbal1.indihometv.com/atm/DASH/alquran/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #EXTINF:-1 group-title="🔴MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png" ,MUI TV
 https://cdnbal1.indihometv.com/atm/DASH/muitv/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" ,Rodja TV
+#EXTINF:-1 group-title="🔴MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" ,Rodja TV
 https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 #EXTINF:-1 group-title="🔴MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/88_TAWAFTV_2025_03_17_15_00_40.png" ,Tawaf TV
 https://cdnbal1.indihometv.com/atm/DASH/tawaftv/manifest.mpd
