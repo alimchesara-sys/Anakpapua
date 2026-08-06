@@ -239,15 +239,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="🔴MNC GROUP" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png" , GTV
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-#EXTINF:-1 group-title="🔴MNC GROUP" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png" , MNC
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832581.m3u8
-#EXTINF:-1 group-title="🔴MNC GROUP" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png" , INEWS
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#EXTINF:-1 group-title="🔴MNC GROUP" tvg-logo="https://i.imghippo.com/files/lZzN5049Uk.png" , RCTI
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 
 #EXTINF:-1 group-title="🔴MAXSTREAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBk8L6Nm4Gfnfwz0S3zTaJL_I_evV1Dr6u33lnaA6nw&s" , RCTI
@@ -334,7 +325,6 @@ https://cdnbal1.indihometv.com/atm/DASH/tv9/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 #EXTINF:-1 group-title="🔴MAXSTREAM" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png" ,UChannel
 https://cdnbal1.indihometv.com/atm/DASH/uchannel/manifest.mpd
-
 
 
 
