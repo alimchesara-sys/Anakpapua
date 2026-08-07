@@ -1,6 +1,114 @@
 #EXTM3U
 
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="🔴LOKAL",ANTV
+http://013tv.com:8080/F33848/cbd9779b/165072
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🔴LOKAL",GTV
+http://013tv.com:8080/F33848/cbd9779b/157578
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴LOKAL",Indosiar
+http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="🔴LOKAL",INews
+http://013tv.com:8080/F33848/cbd9779b/157579
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="🔴LOKAL",RCTI
+http://013tv.com:8080/F33848/cbd9779b/157591
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="🔴LOKAL",MNC TV
+http://013tv.com:8080/F33848/cbd9779b/165054
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://i.imgur.com/mM9zapJ.png" group-title="🔴LOKAL",Moji
+http://013tv.com:8080/F33848/cbd9779b/298550
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="🔴LOKAL",SCTV
+http://013tv.com:8080/F33848/cbd9779b/162141
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="🔴LOKAL",Kompas TV
+http://013tv.com:8080/F33848/cbd9779b/165060
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="🔴LOKAL",Trans 7
+http://013tv.com:8080/F33848/cbd9779b/162502
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="🔴LOKAL",Trans TV
+http://013tv.com:8080/F33848/cbd9779b/162503
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" group-title="🔴LOKAL",CNBC Indonesia
+http://013tv.com:8080/F33848/cbd9779b/165062
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="🔴LOKAL",CNN Indonesia
+http://013tv.com:8080/F33848/cbd9779b/162137
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🔴LOKAL",Metro TV
+http://013tv.com:8080/F33848/cbd9779b/165059
+#EXTINF:-1 tvg-id="" tvg-name="MDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" group-title="🔴LOKAL",MDTV
+http://013tv.com:8080/F33848/cbd9779b/80292
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="🔴LOKAL",TVOne
+http://013tv.com:8080/F33848/cbd9779b/266808
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="🔴LOKAL", BBC Earth
+http://013tv.com:8080/F33848/cbd9779b/165106
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL",BBC Lifestyle
+http://013tv.com:8080/F33848/cbd9779b/264747
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="🔴LOKAL",Soccer Channel
+http://013tv.com:8080/F33848/cbd9779b/165066
+#EXTINF:-1 tvg-id="" tvg-name="SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="🔴LOKAL",SpoTV
+http://013tv.com:8080/F33848/cbd9779b/165105
+#EXTINF:-1 tvg-id="" tvg-name="SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="🔴LOKAL",SpoTV 2
+http://013tv.com:8080/F33848/cbd9779b/298506
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="🔴LOKAL",Thrill
+http://013tv.com:8080/F33848/cbd9779b/157580
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="🔴LOKAL",Bioskop Indonesia
+http://013tv.com:8080/F33848/cbd9779b/264801
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL",ETV BIOSKOP 01
+http://013tv.com:8080/F33848/cbd9779b/298526
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL",ETV BIOSKOP 02
+http://013tv.com:8080/F33848/cbd9779b/298513
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL",ETV BIOSKOP 03
+http://013tv.com:8080/F33848/cbd9779b/298514
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL",ETV BIOSKOP 04
+http://013tv.com:8080/F33848/cbd9779b/298529
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🔴LOKAL", FLIK
+http://013tv.com:8080/F33848/cbd9779b/165095
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="🔴LOKAL",Galaxy
+http://013tv.com:8080/F33848/cbd9779b/264773
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="🔴LOKAL",Galaxy Premium
+http://013tv.com:8080/F33848/cbd9779b/264774
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🔴LOKAL",HBO
+http://013tv.com:8080/F33848/cbd9779b/306484
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="🔴LOKAL",HBO 1080
+http://013tv.com:8080/F33848/cbd9779b/197972
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🔴LOKAL",HBO Family
+http://013tv.com:8080/F33848/cbd9779b/306485
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="🔴LOKAL",HBO Family 1080
+http://013tv.com:8080/F33848/cbd9779b/197055
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🔴LOKAL",HBO Hits
+http://013tv.com:8080/F33848/cbd9779b/306486
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="🔴LOKAL",HBO Hits 1080
+http://013tv.com:8080/F33848/cbd9779b/196480
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🔴LOKAL",HBO Signature
+http://013tv.com:8080/F33848/cbd9779b/306483
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="🔴LOKAL",HBO Signature 1080
+http://013tv.com:8080/F33848/cbd9779b/221948
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="🔴LOKAL",K+
+http://013tv.com:8080/F33848/cbd9779b/197969
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="🔴LOKAL",Love Nature
+http://013tv.com:8080/F33848/cbd9779b/157592
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="🔴LOKAL",Rock Action
+http://013tv.com:8080/F33848/cbd9779b/298490
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="🔴LOKAL",Rock Entertaiment
+http://013tv.com:8080/F33848/cbd9779b/298565
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="🔴LOKAL",MOJI 
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/RCTI.png",RCTI (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/MNC",MNCTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/GTV.png",GTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/INEWS.png",INEWS (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+
+
+
 #EXTINF:-1 group-title="🔴VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -220,24 +328,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="🔴LOKAL",MOJI 
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/RCTI.png",RCTI (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/MNC",MNCTV 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
-#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/GTV.png",GTV 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
-#EXTINF:-1 group-title="🔴LOKAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/INEWS.png",INEWS (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 
