@@ -773,13 +773,16 @@ http://line.wow-ott.cc:80/NDZM6T/FNUS78/894981
 
 
 
-
+#EXTINF:-1 tvg-id="🔴MOTOGP" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="SkySport MotoGP xtream",Sky Sport MotoGP FHD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/4498.ts
+#EXTINF:-1 tvg-id="🔴MOTOGP" tvg-name="Sky Sport MotoGP HD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="SkySport MotoGP xtream",Sky Sport MotoGP HD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/82.ts
+#EXTINF:-1 tvg-id="🔴MOTOGP" tvg-name="Sky Sport MotoGP SD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="SkySport MotoGP xtream",Sky Sport MotoGP SD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/49741.ts
 #EXTINF:-1 group-title="🔴MOTOGP" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" ,â”ƒMOTOGPâ”ƒ TNT SPORT 2 HD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1091516
 #EXTINF:-1 group-title="🔴MOTOGP" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" ,â”ƒMOTOGPâ”ƒ TNT SPORT 2
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1091515
-#EXTINF:-1 group-title="🔴MOTOGP" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 1.png" ,â”ƒMOTOGPâ”ƒ FOX SPORTS 1 HD
-http://line.wow-ott.cc:80/NDZM6T/FNUS78/1091518
 #EXTINF:-1 group-title="🔴MOTOGP" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 506.png" ,â”ƒMOTOGPâ”ƒ FOX SPORTS 506 HD
 http://line.wow-ott.cc:80/NDZM6T/FNUS78/1091519
 
