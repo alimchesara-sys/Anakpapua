@@ -394,53 +394,57 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 
 
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30500" ,UK| SKY SPORTS + FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30500" , SKY SPORTS + FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDAmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30501" ,UK| SKY SPORTS ACTION FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30501" ,SKY SPORTS ACTION FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDEmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30502" ,UK| SKY SPORTS CRICKET FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30502" ,USKY SPORTS CRICKET FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDImZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30499" ,UK| SKY SPORTS F1 FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30499" ,SKY SPORTS F1 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTkmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30498" ,UK| SKY SPORTS FOOTBALL FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30498" ,SKY SPORTS FOOTBALL FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTgmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30497" ,UK| SKY SPORTS GOLF FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30497" , SKY SPORTS GOLF FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTcmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30496" ,UK| SKY SPORTS MAIN EVENT FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30496" ,SKY SPORTS MAIN EVENT FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30495" ,UK| SKY SPORTS MIX FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30495" ,SKY SPORTS MIX FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30494" ,UK| SKY SPORTS NEWS FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30494" ,SKY SPORTS NEWS FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30493" ,UK| SKY SPORTS PL FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30493" ,SKY SPORTS PL FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="77373" ,UK| SKY SPORTS RACING FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="77373" , SKY SPORTS RACING FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NzczNzMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1454232" ,UK| SKY SPOIRTS TENNIS FHD
+#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1454232" ,SKY SPOIRTS TENNIS FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1NDIzMiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1379047" ,UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
+
+
+
+
+#EXTINF:-1 group-title="🔴TNTNSPORTS FHD" tvg-id="1379047" , TNT ULTIMATE 4K+ [LIVE-EVENT]
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTM3OTA0NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1019933" ,UK| TNT BOX OFFICE FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="1019933" ,TNT BOX OFFICE FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxOTkzMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30564" ,UK| TNT SPORTS ESPN FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="30564" , TNT SPORTS ESPN FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30567" ,UK| TNT SPORTS 1 FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="30567" , TNT SPORTS 1 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjcmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30566" ,UK| TNT SPORTS 2 FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="30566" , TNT SPORTS 2 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="30565" ,UK| TNT SPORTS 3 FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="30565" ,TNT SPORTS 3 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1019935" ,UK| TNT SPORTS 4 FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="1019935" , TNT SPORTS 4 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxOTkzNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="🔴SKY SPORTS FHD" tvg-id="1004548" ,UK| TNT SPORTS 5 FHD
+#EXTINF:-1 group-title="🔴TNT SPORTS FHD" tvg-id="1004548" , TNT SPORTS 5 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAwNDU0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
-#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923432" ,UK| BEIN SPORTS ASIA 1
+#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923432" ,BEIN SPORTS  1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09OTIzNDMyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923431" ,UK| UK| BEIN SPORTS ASIA 2
+#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923431" ,BEIN SPORTS 2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09OTIzNDMxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923430" ,UK| UK| BEIN SPORTS ASIA 3
+#EXTINF:-1 group-title="🔴BEIN SPORTS " tvg-id="923430" ,BEIN SPORTS 3
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09OTIzNDMwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
 
 
@@ -551,127 +555,127 @@ http://zamlb.co.uk/123456/123456/84560
 
 
 
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458749" ,UK| NATIONAL GEO HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458749" , NATIONAL GEO HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458746" ,UK| NATIONAL GEO HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458746" ,NATIONAL GEO HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458748" ,UK| Nat Geo WIld HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458748" ,Nat Geo WIld HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458745" ,UK| NAT GEO WIld HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458745" ,NAT GEO WIld HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458756" ,UK| DISCOVERY HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458756" , DISCOVERY HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458759" ,UK| DISCOVERY HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458759" ,DISCOVERY HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458753" ,UK| SKY HISTORY HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458753" ,SKY HISTORY HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458751" ,UK| SKY HISTORY HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458751" , SKY HISTORY HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458752" ,UK| SKY HISTORY 2 HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458752" ,SKY HISTORY 2 HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458750" ,UK| SKY HISTORY 2 HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458750" ,SKY HISTORY 2 HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458747" ,UK| SKY NATURE HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458747" ,SKY NATURE HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458758" ,UK| SKY NATURE HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458758" ,SKY NATURE HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458761" ,UK| SKY CRIME HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458761" , SKY CRIME HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458760" ,UK| SKY CRIME HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458760" ,SKY CRIME HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458754" ,UK| SYFY HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458754" ,SYFY HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458755" ,UK| SYFY HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458755" , SYFY HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458757" ,UK| CRIME INVESTIGATION HEVC FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458757" ,CRIME INVESTIGATION HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458763" ,UK| CRIME INVESTIGATION HEVC HD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458763" ,CRIME INVESTIGATION HEVC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014290" ,UK| MTV XMAS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014290" ,MTV XMAS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI5MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45326" ,UK| MTV FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45326" ,MTV FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUzMjYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45325" ,UK| MTV LIVE FHD
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45325" ,MTV LIVE FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUzMjUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45267" ,UK| MTV BASE
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45267" ,MTV BASE
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUyNjcmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45266" ,UK| MTV CLASSIC
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45266" ,MTV CLASSIC
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUyNjYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45265" ,UK| MTV CLUB
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45265" ,MTV CLUB
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUyNjUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45264" ,UK| MTV HITS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45264" , MTV HITS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUyNjQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163792" ,UK| MTV MUSIC
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163792" , MTV MUSIC
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTYzNzkyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014292" ,UK| MC-TODDLER JAMS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014292" , MC-TODDLER JAMS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI5MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014291" ,UK| MC-KIDS ONLY
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014291" ,MC-KIDS ONLY
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI5MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014289" ,UK| MC-THROWBACK JAMS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014289" ,MC-THROWBACK JAMS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014288" ,UK| MC-90S
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014288" , MC-90S
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014287" ,UK| MC-TROPICALES
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014287" ,MC-TROPICALES
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014286" ,UK| MC-TODAYS COUNTRY
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014286" ,MC-TODAYS COUNTRY
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014285" ,UK| MC-TEEN BEATS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014285" , MC-TEEN BEATS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014284" ,UK| MC-ROCK
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014284" ,MC-ROCK
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014283" ,UK| MC-RAP
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014283" ,MC-RAP
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014282" ,UK| MC-R&B SOUL
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014282" ,MC-R&B SOUL
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014281" ,UK| MC-POP LATINO
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014281" ,MC-POP LATINO
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014280" ,UK| MC-POP HITS
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014280" ,MC-POP HITS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI4MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014279" ,UK| MC-POP & COUNTRY
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014279" ,MC-POP & COUNTRY
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014278" ,UK| MC-MUSICA URBANA
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014278" ,MC-MUSICA URBANA
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014277" ,UK| MC-MEXICANA
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014277" ,MC-MEXICANA
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014276" ,UK| MC-HIT LIST
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014276" ,MC-HIT LIST
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014275" ,UK| MC-HIP HOP
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014275" ,MC-HIP HOP
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014274" ,UK| MC-DANCE EDM
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014274" ,MC-DANCE EDM
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014273" ,UK| MC-ALTERNATIVE
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014273" ,MC-ALTERNATIVE
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014272" ,UK| 4 MUSIC
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014272" ,4 MUSIC
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014270" ,UK| MTV 90S
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1014270" , MTV 90S
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxNDI3MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163793" ,UK| CLUBLAND TV
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163793" ,CLUBLAND TV
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTYzNzkzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163791" ,UK| TRACE URBAN
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163791" ,TRACE URBAN
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTYzNzkxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45234" ,UK| VH1
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="45234" ,VH1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDUyMzQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890208" ,UK| KARAOKE 1
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890208" ,KARAOKE 1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjA4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890209" ,UK| KARAOKE 2
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890209" ,KARAOKE 2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjA5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890211" ,UK| KARAOKE 3
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890211" , KARAOKE 3
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjExJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890210" ,UK| KARAOKE 4
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890210" ,KARAOKE 4
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjEwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890215" ,UK| KARAOKE 5
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890215" ,KARAOKE 5
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjE1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890212" ,EN| KARAOKE 6
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890212" ,KARAOKE 6
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjEyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890214" ,UK| KARAOKE 7
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890214" , KARAOKE 7
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjE0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890213" ,UK| KARAOKE 8
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="890213" , KARAOKE 8
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09ODkwMjEzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="164022" ,UK| NOW 70S
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="164022" ,NOW 70S
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTY0MDIyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="164012" ,UK| NOW 80S
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="164012" ,NOW 80S
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTY0MDEyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163796" ,UK| NOW 90S
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="163796" ,NOW 90S
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTYzNzk2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
 
 
