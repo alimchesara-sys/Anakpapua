@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" ,ANTV
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584497
-#EXTINF:-1 group-title="INDONESIA" ,MOJI Channel HD
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/mM9zapJ.png",MOJI Channel HD
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247938
 #EXTINF:-1 group-title="INDONESIA" , Indosiar HD
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247933
@@ -13,6 +13,10 @@ http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830544
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830548
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" ,MNC TV HD
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1064641
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="INDONESIA",TVOne
+http://013tv.com:8080/F33848/cbd9779b/266808
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="INDONESIA",SCTV
+http://013tv.com:8080/F33848/cbd9779b/162141
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TVONE.png" ,TV ONE
 http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584542
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" ,TRANSTV
