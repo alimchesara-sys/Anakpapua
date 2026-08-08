@@ -1,0 +1,848 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" ,ANTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584497
+#EXTINF:-1 group-title="INDONESIA" ,MOJI Channel HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247938
+#EXTINF:-1 group-title="INDONESIA" , Indosiar HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247933
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/GTV.png" , GTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830544
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/rcti.png" ,RCTI HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830548
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" ,MNC TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1064641
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TVONE.png" ,TV ONE
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584542
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" ,TRANSTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584538
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/RTV.png" ,RTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584495
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TVRI.png" ,TVRI
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584522
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" ,TRANS7
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584545
+#EXTINF:-1 group-title="INDONESIA" ,Indonesia Movie Channel (IMC)
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247860
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" ,INEWS
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584539
+#EXTINF:-1 group-title="INDONESIA" ,NET TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247867
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ALBANIA/GALAXY.png" ,GALAXY HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830535
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ASIA/fra.png" ,CELESTIAL MOVIES
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584496
+#EXTINF:-1 group-title="INDONESIA" ,Citra Dangdut HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247910
+#EXTINF:-1 group-title="INDONESIA" , Citra Drama HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247911
+#EXTINF:-1 group-title="INDONESIA" ,Mentari TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247912
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/EUROPE/GERMANY/FIGHT_SPORTS.png" ,FIGHT SPORTS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830543
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png" ,Metro TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584480
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" ,KOMPASTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584467
+#EXTINF:-1 group-title="INDONESIA" ,Flik TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247858
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png",SPOTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247898
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png",SPOTV 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247899
+#EXTINF:-1 group-title="INDONESIA" ,Bioskop Indonesia
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247956
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV1.png" tvg-id="tv1.my" , - TV1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052624
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" tvg-id="tv2.my" , - TV2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/260557
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv3.png" tvg-id="tv3.my" , - TV3 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052628
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://lo1.in/MALAY/tv3.png" tvg-id="tv3.my" , - TV3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/408664
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/INDONESIA/TV9.png" tvg-id="tv9.my" , - TV9 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052671
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/INDONESIA/TV9.png" tvg-id="tv9.my" ,MY - TV9 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052629
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/TVB.png" tvg-id="tvbentertainmentnews.my" , - TVB ENTERTAINMENT NEWS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052635
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/TVB.png" tvg-id="tvbclassic.my" , - TVB CLASSIC HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052632
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/TVB.png" tvg-id="tvbjade.my" , - TVB JADE HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052638
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/tvbs.png" , - TVBS ASIA FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052643
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/tvbs.png" , - TVBS ASIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052644
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" , - BBC WORLD NEWS HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/260556
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" , - BBC WORLD NEWS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957698
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" , - BBC EARTH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052419
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" , - BBC LIFESTYLE HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052422
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" , - BLOOMBERG HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052435
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/fra.png" tvg-id="celestialmovies.my" , - CELESTIAL MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052448
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" tvg-id="cinemax.my" , - CINEMAX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052452
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" tvg-id="hbo.my" , - HBO HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052508
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" tvg-id="hbo.my" , - HBO HITS HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052511
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" tvg-id="hbohits.my" , - HBO HITS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052513
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" tvg-id="hitsmovies.my" , - HITS MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052523
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" tvg-id="hitsmovies.my" , - HITS MOVIES HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052521
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/tvmovies.png" tvg-id="tvnmovies.my" , - TVN MOVIES
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/260550
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/tvmovies.png" tvg-id="tvnmovies.my" , - TVN MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052651
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" , - SURYA MOVIES HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1084435
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" , - SURYA MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1084432
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" , - SONY MAX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052678
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" , - ZEE TAMIL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052669
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" , - ASIAN FOOD NETWORK HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957699
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" tvg-id="crimeandnvestigation.my" , - CRIME & INVESTIGATION HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957697
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" tvg-id="discoveryasia.my" , - DISCOVERY ASIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052476
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" tvg-id="discoverychannel.my" , - DISCOVERY CHANNEL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052478
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/germany/HGTV.png" tvg-id="hgtv.my" , - HGTV HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957723
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/germany/HGTV.png" tvg-id="hgtv.my" , - HGTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052515
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ALBANIA/15.png" tvg-id="history.my" , - HISTORY HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052517
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/Mexico/aljazera.png" , - JAZEERA ENGLISH HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052531
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/Mexico/aljazera.png" , - JAZEERA ENGLISH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052534
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/EUROPE/FRANCE/COMEDYCENTRAL-1.png" , - COMEDY CENTRAL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/260545
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" tvg-id="beinsports.my" , - BEIN SPORTS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052432
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" tvg-id="beinsports2.my" , - BEIN SPORTS 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052426
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" tvg-id="beinsport3.my" , - BEIN SPORTS 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052430
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" , - PREMIER SPORTS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052581
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo=" https://go4.pw/ASIA/su1su2.png" tvg-id="astrosupersport.my" , - ASTRO SUPERSPORT 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/955661
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo=" https://go4.pw/ASIA/su2su.png" tvg-id="astrosupersport2.my" , - ASTRO SUPERSPORT 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/955663
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo=" https://go4.pw/ASIA/su4.png" tvg-id="astrosupersport4.my" , - ASTRO SUPERSPORT 4 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/955665
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/ASTRO.png" tvg-id="astroarena.my" , - ASTRO ARENA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052376
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/ASTRO.png" tvg-id="astroarena2.my" , - ASTRO ARENA 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052374
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/AURA.png" tvg-id="astroaura.my" , - ASTRO AURA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052380
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/football.png" , - ASTRO FOOTBALL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1170917
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Plus.png" , - ASTRO SPORTS PLUS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1170925
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/League.png" , - ASTRO PREMIER LEAGUE  3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1170918
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Citra.png" tvg-id="astrocitra.my" , - ASTRO CITRA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052391
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/astroria.png" , - ASTRO RIA (not 24/7) HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1119956
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Sport.png" , - W-SPORT HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052657
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" , - ASTRO BADMINTON 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1170911
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png" , - SPOTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052588
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png" , - SPOTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052592
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png" , - SPOTV 2 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957706
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/SPOTV.png" , - SPOTV 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957732
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/rania.png" tvg-id="astrorania.my" , - ASTRO RANIA FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052406
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/VELLITHIRAI.png" , - ASTRO VELLITHIRAI HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052413
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" tvg-id="Astro Tutor TV SMK HD" , - ASTRO TUTOR TV SMK HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052407
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" tvg-id="Astro Tutor TV SMK HD" , - ASTRO TUTOR TV SMK HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957708
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Citra.png" tvg-id="astroceria.my" , - ASTRO CERIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052390
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Dai.png" tvg-id="astrohuaheedai.my" , - ASTRO HUA HEE DAI HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052397
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Oasis.png" tvg-id="astrooasis.my" , - ASTRO OASIS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052400
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Australia.png" ,MY - ABC AUSTRALIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052365
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/Hijrah.png" tvg-id="tvalhijrah.my" , - AL-HIJRAH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052369
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/germany/axnw.png" tvg-id="axn.my" , - AXN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052416
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" tvg-id="tlc.my" , - TLC HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052614
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/OKEY.png" tvg-id="tvokey.my" , - TV OKEY HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052621
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/TVN.png" tvg-id="tvn.my" , - TVN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052648
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/TVS.png" , - TVS SARAWAK HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052654
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/arr.png" , - BLUE ANT EXTREME HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052675
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV-ALHIJRAH.png" tvg-id="tvalhijrah.my" , - TV ALHIJRAH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/260535
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BERNAMA.png" tvg-id="bernamatv.my" , - BERNAMA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/957710
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/ARABIA.png" , - HARVEST TV ARABIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1052677
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/AMERICA/USA/WETV.png" , - WE TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1084431
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/KAIRALI.png" , - KAIRALI PEOPLE TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1084434
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://go4.pw/ASIA/MANORAMA.png" , - MAZAVIL MANORAMA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1084437
+
+
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/ARIRANG KOREA.png" , - ARIRANG KOREA SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977679
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/ARIRANG.png" , - ARIRANG SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69161
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/SBS.png" , - SBS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977680
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/SBS PLUS.png" ,KR - SBS PLUS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977681
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/YTN.png" , - YTN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977682
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/MBC.png" , - MBC HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977683
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/MBN.png" , - MBN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977684
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/EBS.png" , - EBS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977685
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/TAN.png" , - TAN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977686
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/EUROPE/UK/SONYMOVIES.png" , - SONY MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977688
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/kbsworld.png" , - KBS WORLD  HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977690
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/KOREA/EBS-PLUS-1.png" , - EBS 2 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69158
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/ebs2pls.png" , - EBS PLUS  SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69154
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/KOREA/EBS-PLUS-1.png" , - EBS PLUS 1 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69155
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/KOREA/ebsenglish.png" , - EBS ENGLISH SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69156
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/ebskids.png" , - EBS KIDS SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/69162
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://go4.pw/ASIA/CTS.png" , - CTS SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/977687
+1
+
+
+
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/KAPAMILYA.png" tvg-id="7870" , - KAPAMILYA CHANNEL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1170841
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/kapatid.png" , - KAPATID TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543294
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/trs.png" , - TELERADYO SERBISYO HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1257294
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/TFC.png" tvg-id="tfc.ph" , - TFC HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/115170
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/TFC.png" tvg-id="tfc.ph" , - TFC TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/744363
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/TFC.png" , - TFC CANADA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1334389
+#EXTINF:-1 group-title="PHILIPPINES" , - DZRH NEWS FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1361337
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" , - TAP TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543245
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/Tap_Sports.png" , - TAP SPORT SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543246
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/TAP_Movies.png" , - TAP MOVIES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543247
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/tapedge.png" , - TAP EDGE SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543248
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/tapaction.png" , - TAP ACTION FLIX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543249
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" , - HITS MOVIES SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543277
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/HITS1.png" , - HITS SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543278
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/Pinoy_Box_Office.png" , - PINOY BOX OFFICE SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543257
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/PBO.png" tvg-id="50663" , - PBO SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1028245
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02101119/vivacinema-logo-300x300.png" , - VIVA CINEMA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543237
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/rockente.png" , - ROCK ENTERTAINMENT SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543254
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/640px-Warner2018LA.png" , - WARNER TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543236
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/axn.png" tvg-id="axn.ph" , - AXN HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543292
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/10/Varsity_Channel_Logo_2021.png/revision/latest/scale-to-width-down/250?cb=20220319212403" , - UAAP VARSITY  HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543238
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/PBA_Rush.png" , - PBA RUSH SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543258
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/Premier_Sports.png" tvg-id="premiersports.ph" , - PREMIER SPORTS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543256
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/One_Sportsplus.png" , - ONE SPORTS+ HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543261
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/One_Sports.png" , - ONE SPORTS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543262
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/One_News.png" , - ONE HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543263
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/One_News.png" , - ONE NEWS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543264
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/EUROPE/FRANCE/TMC-1.png" tvg-id="GTMCP1D" , - TMC SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543289
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" tvg-id="BBCEC" ,PH - BBC EARTH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543291
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" tvg-id="DISANZ" , - DISCOVERY CHANNEL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543281
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" tvg-id="180598" , - DISCOVERY ASIA
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543282
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/abscbn.png" , - ABS CBN SPORTS ACTION HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/115119
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/rock.png" , - ROCK EXTREME HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543253
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/OUTDOOR-CHANNEL.png" , - OUTDOOR SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543260
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/Kix_HD.png" , - KIX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543273
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/PHILIPINES/K-Plus.png" , - K-PLUS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/543275
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/PTV4.png" tvg-id="70612" , - PTV4 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1028247
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/ASIA/anc.png" , - ANC HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1333577
+#EXTINF:-1 group-title="PHILIPPINES" tvg-logo="https://go4.pw/LATINO/NBA_TV.png" tvg-id="NBATV" , - NBA TV PHILIPPINES HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1380370
+
+
+
+
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinsports1hd.au" , - BEIN SPORTS 1 UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78137
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="10.au" , - BEIN SPORTS 2 UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78138
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3hd.au" , - BEIN SPORTS 3 UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78139
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espnhd.au" , - ESPN 1 | UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78152
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espn2hd.au" , - ESPN 2 | UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78153
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espnhd.au" , - ESPN | HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78154
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports501hd.au" , - FOX SPORTS 501 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/83174
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports502hd.au" , - FOX SPORTS 502 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/83175
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" , - FOX SPORTS 502 FHD [BK]
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1190175
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports503hd.au" , - FOX SPORTS 503 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78155
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" , - FOX SPORTS 504 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/83176
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports505hd.au" , - FOX SPORTS 505 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78156
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports506hd.au" , - FOX SPORTS 506 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78157
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="10.au" , - FOX SPORTS 507 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/83177
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING1-1.png" tvg-id="skyracing1.au" , - SKY RACING 1
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43270
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING2-1.png" tvg-id="skyracing2.au" , - SKY RACING 2
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43269
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/USA/UFC.png" , - UFC MAIN EVENT
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1283770
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 01 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282872
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 02 :
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282873
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 03 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282874
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 04 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282875
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 05 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282876
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 06 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282877
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 07 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282878
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 08 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282879
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 09 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282880
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 10 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282881
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 11 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282882
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 12 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282883
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 13 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282884
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 14 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282885
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" , - STAN EVENT 15 : 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/282886
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Bondi Vet.png" , - BONDI VET
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948844
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/historyhit.png" , - HISTORY HIT CHANNEL
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948862
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/FRANCE/nature.png" , - Naturetime
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948866
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Failarmy.png" , - Failarmy
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948882
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/The Pet Collective.png" , - The Pet Collective
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948883
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Life Downunder.png" , - Life Downunder
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948885
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/PEOPLEAREAWESOME.png" , - People Are Awesome
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948893
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Aus Biz.png" , - BAYWATCH
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948830
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/deal_or_no_deal.png" , - DEAL OR NO DEAL
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948835
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/ANGERMANAGEMENT.png" , - ANGER MANAGEMENT
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948845
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://images.pluto.tv/channels/63482674df87730007656044/colorLogoPNG.png" , - FEAR FACTOR
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948849
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/dont_tell_the_bride.png" , - DON'T TELL THE BRIDE (SUBSTITUTE VIA PLEX)
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948855
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Action Hollywood Movies.png" , - ACTION HOLLYWOOD MOVIES
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948874
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Mytime Movie Network.png" , - MYTIME MOVIE NETWORK
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948879
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/RCM.png" , - RCM
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948873
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" , - 24/7 FOUR IN A BED
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948851
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" , - 24/7 HOMES UNDER THE HAMMER
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948852
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" , - 24/7 WONDER
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948869
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" , -  24/7 PULSE
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948871
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" , - 24/7 Dry Bar Comedy
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/948890
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbshd.au" , - SBS
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43305
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbs.au" , - SBS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43277
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbsvicelandhd.au" , - SBS VICELAND
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43304
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" ,AU - SBS CANBERRA
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/661987
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" ,AU - SBS FOOD CANBERRA
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/661988
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/seven.png" tvg-id="seven.au" , - SEVEN
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43303
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/abc.png" tvg-id="abc.au" , - ABC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/43315
+
+
+
+
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" tvg-id="sonymaxhd.in" , - SONY MAX
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72507
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" tvg-id="sonymaxhd.in" ,- SONY MAX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/73318
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/Sony_Max_2.png" tvg-id="sonymax2.in" ,- SONY MAX 2
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72508
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/SONYASIA.png" tvg-id="sonyhd.in" ,- SONY ASIA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/73317
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/Sony_SAB.png" tvg-id="sonysabhd.in" ,- SONY SAB
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72510
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/SONYASIA.png" tvg-id="sony.in" , - SONY ASIA
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72506
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIAN/ZEECINEMAHD.png" tvg-id="zeecinema.in" ,- ZEE CINEMA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/73315
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Cinema.png" tvg-id="zeecinema.in" , - ZEE CINEMA
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72505
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/ZEETVHD.png" tvg-id="zeetvhd.in" , - ZEE TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/73316
+#EXTINF:-1 group-title="INDIA " tvg-logo="https://go4.pw/ASIA/INDIA/ZEETV.png" tvg-id="zeetvhd.in" ,- ZEE TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/72504
+
+
+
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" , - HUB SPORTS 1 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090647
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" , - HUB SPORTS 2 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090648
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" , - HUB SPORTS 3 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090649
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" , - HUB SPORTS 4 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090650
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" , - HUB SPORTS 5 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090651
+
+
+
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.1" , - HUB PREMIER 01 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324806
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.2" , - HUB PREMIER 02 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324807
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.3" , - HUB PREMIER 03 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324808
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.4" , - HUB PREMIER 04 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324809
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.5" , - HUB PREMIER 05 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324810
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.6" , - HUB PREMIER 06 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324811
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.7" , - HUB PREMIER 07 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324812
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.8" , - HUB PREMIER 08 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324813
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.9" , - HUB PREMIER 09 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324814
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.10" , - HUB PREMIER 10 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324815
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://go4.pw/UK/hubb.png" tvg-id="Hub.Premier.11" , - HUB PREMIER 11 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/324816
+
+
+
+
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 1 HD.png" , - TEN 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090641
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 2 HD.png" , - TEN 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090642
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 3 HD.png" , - TEN 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090643
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/SONY SPORT TEN 5 HD.png" , -   TEN 5 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090634
+
+
+
+
+
+
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 HD HINDI.png" , - STAR SPORTS 1 HD ENGLISH FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090635
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 HD HINDI.png" tvg-id="starsports2hd.in" , - STAR SPORTS 1 HD HINDI FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090636
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" , - STAR SPORTS 2 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090637
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" , - STAR SPORTS 3 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090638
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" , - STAR SPORTS SELECT 1 FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090639
+#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" , - STAR SPORTS SELECT 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1090640
+
+
+
+
+
+
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" tvg-id="beinsports1.qa" , - BEIN SPORTS 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986994
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" tvg-id="beinsports2.qa" , - BEIN SPORTS 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986995
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" tvg-id="beinsports3.qa" , - BEIN SPORTS 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986996
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" tvg-id="beinsports4.qa" , - BEIN SPORTS 4 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986997
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" tvg-id="beinsports5.qa" , - BEIN SPORTS 5 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986998
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-id="beinsports6.qa" , - BEIN SPORTS 6 HD¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/27893
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-id="beinsports6.qa" , - BEIN SPORTS 6 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/551277
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" tvg-id="beinsports6.qa" , - BEIN SPORTS 6 HD³
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/986999
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-id="beinsports7.qa" , - BEIN SPORTS 7 HD¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/27892
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-id="beinsports7.qa" , - BEIN SPORTS 7 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/551278
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" tvg-id="beinsports7.qa" , - BEIN SPORTS 7 HD³
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/987000
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-id="beinsports8.qa" , - BEIN SPORTS 8 HD¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/418579
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-id="beinsports8.qa" , - BEIN SPORTS 8 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/551279
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" tvg-id="beinsports8.qa" , - BEIN SPORTS 8 HD³
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/987001
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" tvg-id="beinsports9.qa" , - BEIN SPORTS 9 HD¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/418583
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" tvg-id="beinsports9.qa" , - BEIN SPORTS 9 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/551280
+#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" tvg-id="beinsports9.qa" , - BEIN SPORTS 9 HD³
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/987002
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1015489
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17285
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980433
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/365044
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348318
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyf1.png" tvg-id="skysportsf1.uk" , - SKY SPORTS F1 UHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980431
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/SKYF1.png" tvg-id="skysportsf1.uk" , - SKY SPORTS F1 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1015492
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyf1.png" tvg-id="skysportsf1.uk" , - SKY SPORTS F1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348305
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyf1.png" tvg-id="skysportsf1.uk" , - SKY SPORTS F1 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348306
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-id="skysportsmainevent.uk" , - SKY SPORTS MAIN EVENT FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17286
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-id="skysportsmainevent.uk" , - SKY SPORTS MAIN EVENT HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348315
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-id="skysportsmainevent.uk" , - SKY SPORTS MAIN EVENT HD 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/365037
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyamainevent.png" tvg-id="skysportsmainevent.uk" , - SKY SPORTS MAIN EVENT SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348316
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17288
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980428
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348319
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/365035
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348320
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skysportste.png" tvg-id="skysportstennis.uk" ,UK - SKY SPORTS TENNIS FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/664451
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skysportste.png" tvg-id="skysportstennis.uk" ,UK - SKY SPORTS TENNIS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/664452
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-id="4seven.uk" , - SKY SPORTS ARENA FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17291
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" , - SKY SPORTS ARENA HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980426
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-id="skysportsarena.uk" , - SKY SPORTS ARENA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348309
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-id="skysportsarena.uk" , - SKY SPORTS ARENA SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348310
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skymix.png" tvg-id="skysportsmix.uk" , - SKY SPORTS MIX FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17284
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skymix.png" tvg-id="skysportsmix.uk" , - SKY SPORTS MIX HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980430
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skymix.png" tvg-id="skysportsmix.uk" , - SKY SPORTS MIX HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348313
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skymix.png" tvg-id="skysportsmix.uk" , - SKY SPORTS MIX SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348314
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" ,##### UK - SKY SPORTS ACTION ##### 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1356563
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/skyaction.png" tvg-id="skysportsaction.uk" , - SKY SPORTS ACTION SD 
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980410
+
+
+
+
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT PREMIER LEAGUE HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348284
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT LA LIGA HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348283
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT GOLF HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348281
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT TENNIS HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348291
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT RUGBY HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348290
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" tvg-id="supersportcricket.za" , - SUPERSPORT CRICKET HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348289
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT MOTOSPORT HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348293
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT BLITZ HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348282
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT FOOTBALL HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348285
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT VARIETY 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348292
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT VARIETY 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348288
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT VARIETY 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348287
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-logo="https://go4.pw/UK/supersport.png" , - SUPERSPORT VARIETY 4 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348286
+
+
+
+
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN WWE 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339210
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN F1 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339211
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN F1 4K¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1322608
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN UFC 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339212
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 1 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339213
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 1 4K¹
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1322607
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339223
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 1 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339229
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 2 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339214
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339224
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 2 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339230
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 3 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339215
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339225
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 3 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339231
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 4 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339216
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 4 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339226
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 4 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339232
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 5 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339217
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 5 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339227
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 5 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339233
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 6 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339218
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 6 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339228
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 6 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339234
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 7 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339219
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 8 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339220
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 9 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339221
+#EXTINF:-1 group-title="ALWAN SPORTS" tvg-logo="https://go4.pw/ARABE/alwan.png" , - ALWAN SPORT 10 4K
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1339222
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/mutv.png" tvg-id="mutv.uk" , -  MUTV FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348278
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/mutv.png" tvg-id="mutv.uk" , - MUTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17278
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/mutv.png" tvg-id="mutv.uk" , -  MUTV SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348277
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" tvg-id="laligatv.uk" , - LA LIGA TV FHD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/912772
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" tvg-id="laligatv.uk" , - LA LIGA TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/912773
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/EUROPE/SPAIN/laliga.png" tvg-id="laligatv.uk" , - LA LIGA TV SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/912774
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" , - BEIN SPORTS 1 ENGLISH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348325
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" , - BEIN SPORTS 2 ENGLISH HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/575400
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/premiersports.png" tvg-id="premiersports1.uk" , - PREMIER SPORTS 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17271
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/premiersports.png" tvg-id="premiersports2.uk" , - PREMIER SPORTS 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/266684
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/premiersports.png" tvg-id="premiersports2.uk" , - PREMIER SPORTS 2 SD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348267
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://go4.pw/UK/lf.png" ,UK - LFC TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/150244
+
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport1.uk" , - TNT SPORTS 1 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17281
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports2.uk" , - TNT SPORTS 2 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980406
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports3.uk" , - TNT SPORTS 3 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/980407
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport4.uk" , - TNT SPORTS 4 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/311556
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports5.uk" , - TNT SPORTS 5 FHD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/311558
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports1.uk" , - TNT SPORT 1 HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/846012
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports2.uk" , - TNT SPORT 2 HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/846013
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports3.uk" , - TNT SPORT 3 HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/846014
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports4.uk" , - TNT SPORT 4 HEVC
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/846015
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport1.uk" , - TNT SPORTS 1 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348297
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport2.uk" , - TNT SPORTS 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348298
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport2.uk" , - TNT SPORTS 2 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17280
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport3.uk" , - TNT SPORTS 3 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/17279
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport3.uk" , - TNT SPORTS 3 HD²
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348299
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="btsport4.uk" , - TNT SPORTS 4 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/311555
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-id="tntsports5.uk" , - TNT SPORTS 5 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/311557
+
+
+
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn1.png" tvg-id="tsn1.ca" , - TSN 1 HD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/42917
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn1.png" tvg-id="tsn1.ca" , - TSN 1 SD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/30357
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn2.png" tvg-id="tsn2.ca" , - TSN 2 HD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/42916
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn2.png" tvg-id="tsn2.ca" , - TSN 2 SD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78715
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn2.png" tvg-id="tsn2.ca" , - TSN 2 SD² ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/30356
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn3.png" tvg-id="tsn3.ca" , - TSN 3 HD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/42915
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn3.png" tvg-id="tsn3.ca" , - TSN 3 SD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78716
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn3.png" tvg-id="tsn3.ca" , - TSN 3 SD² ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/30355
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn4.png" tvg-id="tsn4.ca" , - TSN 4 HD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/42914
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn4.png" tvg-id="tsn4.ca" , - TSN 4 SD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78717
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn4.png" tvg-id="tsn4.ca" , - TSN 4 SD² ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/30354
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn5.png" tvg-id="tsn5.ca" , - TSN 5 HD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/42913
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn5.png" tvg-id="tsn5.ca" , - TSN 5 SD ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/78718
+#EXTINF:-1 group-title="TSN SPORTS" tvg-logo="https://go4.pw/CANADA/tsn5.png" tvg-id="tsn5.ca" , - TSN 5 SD² ◉
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/30353
+
+
+
+
+
+
