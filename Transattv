@@ -7,7 +7,7 @@ http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/4498.ts
 http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/82.ts
 #EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP SD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="MotoGP ",Sky Sport MotoGP SD
 http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/49741.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv 2" tvg-logo="https://i.ibb.co/wNMsrLqL/spotv.png" group-title="MotoGP",SPOTV PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv 2" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="MotoGP",SPOTV PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
