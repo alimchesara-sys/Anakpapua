@@ -1,6 +1,135 @@
 #EXTM3U
 
 
+#EXTM3U
+#EXTINF:-1 group-title="⛔papua TV⛔ " tvg-logo="https://thumbor.prod.vidiocdn.com/HOoIbNHYZyvs-ucdRJjTmTL7lec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5257064/467ba6.jpg" , SCTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1786419486&s=e5a00904e087819c42c4972300b26252243c6a44dc5b5fd3a22381bc32d3ff58
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" , Indosiar
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=205&type=hls&e=1786419486&s=6a8afd3490f8ecf2b668ede9d87f6a35af586de8cda168a1187f7d7244c4e60b
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" , RCTI
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=665&type=dash&e=1786419486&s=2e0ccc51049c3e4f52d1ce9169186a6354c489e1f09fa0e7836426c986661f29
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/rw3YANrLDodOrAxrxUPomDVHjjI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg" , TRANS TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=733&type=hls&e=1786419486&s=14e7605603e25eec4ed94b9bf8961394b9e4cd78a7f993ad4527714817a112db
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/XSpSRDs94R38OpBmssaBVngAr2Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" , Trans7
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=734&type=hls&e=1786419486&s=5130dcfa3d7d7f107401c81ea7d3f99dc9c97ebc6a87036116d864921dcca9f3
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/B4235s3qD6bCW-_fkfh2A7doa1Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5255661/a97be9.png" , ANTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1786419486&s=9d5012b6f177b29b6875086b969889b40aa2a9b86c5643b0fb6dad1e6db4488f
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" , TVOne
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=783&type=hls&e=1786419486&s=0d9b6ba7f2de50b44cd25cfabb83d1b717ba971de26291d97a9ba62374c96434
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" , Moji
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=206&type=hls&e=1786419486&s=545b3dded18983423d36e117dbbe84e08f944d186b45351586442807af7d71dd
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" , TVRI
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6441&type=hls&e=1786419486&s=f1f180bbe9daeb15fa1c7bdead547305881b37a35f65d70fd8372dcaa8f1df06
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" , Jaktv
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=5415&type=hls&e=1786419486&s=2970eb3f60790e8786af9708cacf00d0aa118b742c9335e1e0c4afeebe24350b
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" , MNCTV
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=870&type=dash&e=1786419486&s=3430102d6a50eb6fbce86e5c6e255788fa5cd513ba42a88bb877c4efbd00b4fb
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" , Kompas TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=874&type=hls&e=1786419486&s=2e72c2ac3c51434e34022f32da6548a78a2cae79927845b1d07d5bc8ba3d6bfe
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" , GTV
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=778&type=dash&e=1786419486&s=ca0775cff702b69ba3681ce5c97791c27ae9a86eaffb4b1a54d9a9cf227d80bf
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" , Metro TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=777&type=hls&e=1786419486&s=2c489fdebb1c297667cc067acccc3a0bf94a243504fde52a4ead211112a67b47
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" , iNews
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=5409&type=dash&e=1786419486&s=0fc2f5067e2c783840bb8670c46509424359bd53bdad6f70db4f2a4f8c45f0ca
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" , RTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=1561&type=hls&e=1786419486&s=3a9d945e1a1a4152e95b92d59355b1b8dcfff28353ca11562bf0ea8c6418884e
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" , MDTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=875&type=hls&e=1786419486&s=5a55ab0069556de6fc5ef070b280f788848f5aaa28dd4379426168b623157807
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" , Berita Satu
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=18280&type=hls&e=1786419486&s=27693c3cfe43d977a2bd925ab7814923c13d2e17ceca37cf1d4d9c4ff6e90086
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" , BTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6165&type=hls&e=1786419486&s=e827379a189ba16bfda7dcf24c82493eea251b1331792bbfe9dea07b71dd0e31
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" , Garuda TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=18162&type=hls&e=1786419486&s=e4f6b5cd6488b72cb37394238c4ecd0620e37901a4cf29414d24d5ab2d0a8c1f
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" , JTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=9713&type=hls&e=1786419486&s=4fd7263ca184c66320e3a685b45e7d7fa1c985110ba8c0ec28418fe0068a96e6
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" , AJWA TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7464&type=hls&e=1786419486&s=ac62eaf7d4cc3f736d0a34d58c6f9f010637779b71a9307fbc678e60db6b94aa
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" , Nusantara TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7432&type=hls&e=1786419486&s=90d65f026ae37409a78ba3c95ba35acd248c61cbf724c63dbd1d49de62f526c9
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" , DAAI TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6482&type=hls&e=1786419486&s=4d246cc02cdee54b74fa5c55d0ffd01e42475137ed89281d8395f351cc16f631
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" , jawaposTV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=9714&type=hls&e=1786419486&s=367a9ea118f66ca6bf62e7e486265281c61f26e255b2af078665c2bfd0523b34
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" , Champions Fight
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=20216&type=dash&e=1786419486&s=0f943a2ca9577b9b9fd5bce28e52fc631a2788c44703b3f28b19e9e65bffd92b
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXqsPqp4vYy2IV5LyM7TFC9_N8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg" , Champions TV 5
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=9182&type=dash&e=1786419486&s=24c0043d44bdeb4318c5b50952cde15039f8117606197af4aa5d6ee2a1fa2c04
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" , Champions TV 6
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=9183&type=dash&e=1786419486&s=cb4e85d99c73ed60143c031ce605a6b5b371990e42949e5abd6808e37e27039c
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" , Premier League TV
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=9353&type=dash&e=1786419486&s=c7eccd24d1cc9690998a239acaf231643e9760c892fecac080176fc168be9268
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" , Champions TV 1
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6685&type=dash&e=1786419486&s=f61e7b29a188cc8b467fe53dc4c242a261bf97b5c486e13b668405f4518e0720
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" , Champions TV 2
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6686&type=dash&e=1786419486&s=f868b3377342b683ca10e7b542c57b672dbb7ce385584a178a32705fe00c16c0
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" , Champions TV 3
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6786&type=dash&e=1786419486&s=a2c2c9ec930dc02348540596f514e84d4f08d4474a315a1c91b84d3df186b2bc
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/1cUTXlCSzstGfFXuRkOqCajuaV8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg" , SPOTV
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=17139&type=dash&e=1786419486&s=33247a7e58443dee95f00c68f08a3f1ee0a6ddf9e7bf3240b3f923d24b3f57c0
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" , SPOTV 2
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=17140&type=dash&e=1786419486&s=42efa0c192c64ba6c7943554278178d3451c29d9e5b419e654895f4a5fb7c239
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/dBMf_WAWW0JVeB5hVsaXQbYSxv4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg" , Bein 1
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6299&type=dash&e=1786419486&s=d36a23749c46236f284f4c45b833eb4cf3c0eb8e401d1d1831139e961b14beb6
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" , Bein 2
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=17875&type=dash&e=1786419486&s=1f829e55ef5c81d0ce91bb1e0e9422ce098f8be1763b5dbd5a4a2f9739e58008
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" , Bein 3
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6317&type=dash&e=1786419486&s=59eb837ded358ef23c51b71ac7e01358a4c824cf9f3006fc72712ec22827d56d
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" , Real Madrid TV
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=19538&type=dash&e=1786419486&s=7c86b38d782bcb2dbbb144ee0cebda8a6c3754018d7f3b32800f502521129e0f
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" , Champions Golf 1
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=18189&type=dash&e=1786419486&s=797b946a4098e603aadfafb5f5da0fdef65941023229a02e8b62ed8a46c2af5b
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" , Champions Golf 2
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=18190&type=dash&e=1786419486&s=efd1d6fd2686cf0362f6df3b62ebe18ceeaba820c1c227156194e89d092453cc
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" , Citra Plus
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=21289&type=dash&e=1786419486&s=c7ebe7baf71e6c7e46602f4da12a9961f385bca61a599721d3aafb9d8e14528c
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg" , Aljazeera
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6410&type=hls&e=1786419486&s=72ea6d1523721d1aa4d9f292b4048b91df294879d11eb072fd08fcc8c92d3924
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" , Sin Po TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=19046&type=hls&e=1786419486&s=26bce23e1e1b79aa34d3b4cd99845f944b84ccbc3070e6346ecb485d0b224e41
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" , CNA
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6411&type=hls&e=1786419486&s=bd20f228c2a46d54356dd7ac1951b5f18cb6f8c9e0f011391686553bc902b385
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg" , DW English
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=5075&type=hls&e=1786419486&s=f2e8bfc34990f95defc5e24781c6403138495b00097624932b83d07de07e590b
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" , Euronews
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6412&type=hls&e=1786419486&s=411f9a402240a4588c3f85cea5f366b388327800255d850ca418e3f01df70fa2
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" , ABC Australia
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7150&type=hls&e=1786419486&s=f51116db57f21c36b304d6d650824c2286044c86455fdc2e54aa851b45478107
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" , NHK World Japan
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7968&type=hls&e=1786419486&s=af82649a1d4cb1882aa9bff06d1f29b22259f9ed0ed41ebbf4d7489562088043
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" , Africanews
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=12784&type=hls&e=1786419486&s=a64ef25f6ea8e2ab8f4bdd72bbdbeec4225079e591750e9e08739674661616f4
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" , Citra Drama
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=21179&type=dash&e=1786419486&s=0a900c8f5be3be4f8fec0934971530d9cac9e310b75c87e72285b0284d135ac6
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" , TVN
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=6362&type=dash&e=1786419486&s=3a816b6a12cc0f67f78da0d44a689a4e4f1ba3d65971dd6e40151a634841be95
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" , Rock Action
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=8121&type=dash&e=1786419486&s=6fdc12e1bd6cff286010ef8b1ee785f169aef61a40a72252b68dbb6af6599e67
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" , TV5Monde
+https://tv.canal86.my.id/emtekhd/stream.mpd?id=17278&type=dash&e=1786419486&s=5ad96f808ec2bd5e1563bb7663625e6416fa1cbd4727fef969f005c818a822f5
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" , Arirang
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6784&type=hls&e=1786419486&s=5b05d821b83b95f48e3d9e29c96693956c3f1e290f198710986fed6287a3c705
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" , musica
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7619&type=hls&e=1786419486&s=b8aeb7e4af258116335f4717f7b7c59edad7b5137d1f899b1fc13da5aab362c6
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" , magnachannel
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7230&type=hls&e=1786419486&s=ea153b7590baf8b5b73683f9c017337c387219303877f91c66038a4b3924fab0
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg" , Mentari TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=8237&type=hls&e=1786419486&s=a7f3d80b405045fd6debb1bc8af30a6d55f0dbfde5ddc6efb64302704fb60600
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/MO29LQSLBb-CrxAR-emGtTfpxs8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg" , Hip Hip Horee!
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=7052&type=hls&e=1786419486&s=d5a6fb311667bcf1831f2379527f51755675fb848943ad11d0600c880a2505d2
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/ncoNQ0L6tGMTXzFAJAW0apq0wWE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" , Horee
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6397&type=hls&e=1786419486&s=0d008023e15225fa65b41dab81fd9c4f407052ea2ca79da97850f375e2fc6f65
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg" , Daystar TV
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=18622&type=hls&e=1786419486&s=ac16d687acb1598050a9836c65d808da7146f55a51ba7f607e794468acc7fcca
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" , makkah_tv
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6852&type=hls&e=1786419486&s=ebdaac9f37c0ea6df0a2085ca6ed9e0483baad3d42d5d8edb213f7d7ed8bc703
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" , u-channel
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=6898&type=hls&e=1786419486&s=0702f1dd5c752da4b3562eecb89387cb8c8fe2407ebca579705f22756c911199
+#EXTINF:-1 group-title="⛔papua TV⛔" tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" , dmitv
+<===========================================================>
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="🔴LOKAL",ANTV
 http://013tv.com:8080/F33848/cbd9779b/165072
