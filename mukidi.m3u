@@ -417,7 +417,8 @@ http://activefrance.net/52TLK6U/TNLMRY9/43277
 http://activefrance.net/52TLK6U/TNLMRY9/43304
 #EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" , - SBS CANBERRA
 http://activefrance.net/52TLK6U/TNLMRY9/661987
-
+#EXTINF:-1 tvg group-title="AUSTRALIA",DISCOVERY 
+http://kb87.eshofrcep.top:8080/es4791740390092005/3fb668db9e82/76810
 
 
 #EXTINF:-1 group-title="Thailand" ,Amarin HD 
@@ -1145,24 +1146,24 @@ http://ktpremium.site:2095/live/jin365/365365365/932550.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",[UK] TNT SPORT 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 1 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932552.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",[UK] TNT SPORT 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 2 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932553.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",[UK] TNT SPORT 3 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 3 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932554.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",[UK] TNT SPORT 4 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 4 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932555.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",[UK] BT SPORT EXTRA 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports", BT SPORT EXTRA 1 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932556.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",[UK] BT SPORT EXTRA 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 2 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932557.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",[UK] BT SPORT EXTRA 3 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 3 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932558.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",[UK] BT SPORT EXTRA 4 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 4 VIP
 http://ktpremium.site:2095/live/jin365/365365365/932559.ts
 
 
