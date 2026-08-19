@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ANTV HD
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",Indosiar HD
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SCTV HD
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/GTV.png" ,- GTV HD
 http://activefrance.net/52TLK6U/TNLMRY9/830544
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/rcti.png" ,- RCTI HD
@@ -112,16 +118,12 @@ http://activefrance.net/52TLK6U/TNLMRY9/1247971
 http://activefrance.net/52TLK6U/TNLMRY9/1247977
 #EXTINF:-1 group-title="INDONESIA" , - Jowo Channel
 http://activefrance.net/52TLK6U/TNLMRY9/1247989
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ID: Indosiar HD
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ID: SCTV HD
+
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",SINPO TV 
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",KOMPAS TV 
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ID: ANTV HD
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
 
 
 
@@ -958,6 +960,46 @@ http://ktpremium.site:2095/live/jin365/365365365/718672.ts
 
 
 
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458749" , NATIONAL GEO HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458746" ,NATIONAL GEO HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458748" ,Nat Geo WIld HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458745" ,NAT GEO WIld HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458756" , DISCOVERY HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="ðDOCUMENTARY HEVC" tvg-id="1458759" ,DISCOVERY HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458753" ,SKY HISTORY HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458751" , SKY HISTORY HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458752" ,SKY HISTORY 2 HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458750" ,SKY HISTORY 2 HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458747" ,SKY NATURE HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458758" ,SKY NATURE HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458761" , SKY CRIME HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458760" ,SKY CRIME HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458754" ,SYFY HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458755" , SYFY HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458757" ,CRIME INVESTIGATION HEVC FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="DOCUMENTARY HEVC" tvg-id="1458763" ,CRIME INVESTIGATION HEVC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Astro Sport",Sports Plus2
 http://ktpremium.site:2095/live/jin365/365365365/1036053.ts
@@ -1006,45 +1048,30 @@ http://ktpremium.site:2095/live/jin365/365365365/73956.ts
 
 
 
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458749" , NATIONAL GEO HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458746" ,NATIONAL GEO HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458748" ,Nat Geo WIld HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458745" ,NAT GEO WIld HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458756" , DISCOVERY HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458759" ,DISCOVERY HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458753" ,SKY HISTORY HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458751" , SKY HISTORY HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458752" ,SKY HISTORY 2 HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458750" ,SKY HISTORY 2 HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458747" ,SKY NATURE HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458758" ,SKY NATURE HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458761" , SKY CRIME HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458760" ,SKY CRIME HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458754" ,SYFY HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458755" , SYFY HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458757" ,CRIME INVESTIGATION HEVC FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc1NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
-#EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458763" ,CRIME INVESTIGATION HEVC HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc2MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
 
+
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItJ0fGBMirmU-rKoUyeakFCdYvQPuPrRGiQ&s" tvg-id="beinsportsglobal.qa" ,Be SPORTS GLOBAL
+http://abc123.ovh:7355/31558512130580878/6050092119092/231675
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports1ar.png" tvg-id="beinsports1.qa" ,: Be SPORTS 1 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102890
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports2ar.png" tvg-id="beinsports2.qa" ,: Be SPORTS 2 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102891
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports3ar.png" tvg-id="beinsports3.qa" ,: Be SPORTS 3 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108484
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports4ar.png" tvg-id="beinsports4.qa" ,: Be SPORTS 4 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108485
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports5ar.png" tvg-id="beinsports5.qa" ,: Be SPORTS 5 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158897
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports6ar.png" tvg-id="beinsports6.qa" ,: Be SPORTS 6 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102895
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports7ar.png" tvg-id="beinsports7.qa" ,: Be SPORTS 7 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108486
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports8ar.png" tvg-id="beinsports8.qa" ,: Be SPORTS 8 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158898
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports9ar.png" tvg-id="beinsports9.qa" ,: Be SPORTS 9 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158899
 
 
 
@@ -1192,24 +1219,24 @@ http://ktpremium.site:2095/live/jin365/365365365/932550.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 1 
 http://ktpremium.site:2095/live/jin365/365365365/932552.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports", TNT SPORT 2 
 http://ktpremium.site:2095/live/jin365/365365365/932553.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 3 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 3 
 http://ktpremium.site:2095/live/jin365/365365365/932554.ts
-#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 4 VIP
+#EXTINF:0 tvg-id="ext" group-title="TNT Sports",TNT SPORT 4 
 http://ktpremium.site:2095/live/jin365/365365365/932555.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="BT Sports", BT SPORT EXTRA 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports", BT SPORT EXTRA 1 
 http://ktpremium.site:2095/live/jin365/365365365/932556.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 2 
 http://ktpremium.site:2095/live/jin365/365365365/932557.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 3 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 3 
 http://ktpremium.site:2095/live/jin365/365365365/932558.ts
-#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 4 VIP
+#EXTINF:0 tvg-id="ext" group-title="BT Sports",BT SPORT EXTRA 4 
 http://ktpremium.site:2095/live/jin365/365365365/932559.ts
 
 
@@ -1349,25 +1376,25 @@ http://ktpremium.site:2095/live/jin365/365365365/1044466.ts
 http://ktpremium.site:2095/live/jin365/365365365/1044467.ts
 #EXTINF:0 tvg-id="ext" group-title="Sport",FIFA World Cup Qualifying 2025
 http://ktpremium.site:2095/live/jin365/365365365/1028749.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",MUTV VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",MUTV 
 http://ktpremium.site:2095/live/jin365/365365365/932565.ts
-#EXTINF:0 tvg-id="ext" group-title=" Sport",RACING VIP
+#EXTINF:0 tvg-id="ext" group-title=" Sport",RACING 
 http://ktpremium.site:2095/live/jin365/365365365/932566.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",LIVERPOOL FC VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",LIVERPOOL FC 
 http://ktpremium.site:2095/live/jin365/365365365/932567.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport", PREMIERE SPORTS 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport", PREMIERE SPORTS 1 
 http://ktpremium.site:2095/live/jin365/365365365/932568.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",PREMIERE SPORTS 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",PREMIERE SPORTS 2 
 http://ktpremium.site:2095/live/jin365/365365365/932569.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",LALIGA TV VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",LALIGA TV 
 http://ktpremium.site:2095/live/jin365/365365365/932570.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",FREE SPORTS VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",FREE SPORTS 
 http://ktpremium.site:2095/live/jin365/365365365/932571.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport", EUROSPORT 1 VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport", EUROSPORT 1 
 http://ktpremium.site:2095/live/jin365/365365365/932572.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",EUROSPORT 2 VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",EUROSPORT 2 
 http://ktpremium.site:2095/live/jin365/365365365/932573.ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",UFC FIGHT NIGHT PASS VIP
+#EXTINF:0 tvg-id="ext" group-title="Sport",UFC FIGHT NIGHT PASS 
 http://ktpremium.site:2095/live/jin365/365365365/932574.ts
 #EXTINF:0 tvg-id="ext" group-title="Sport ",SUPER SPORT 1
 http://ktpremium.site:2095/live/jin365/365365365/932575.ts
