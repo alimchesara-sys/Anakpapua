@@ -218,7 +218,7 @@ https://tvratu.my.id/vid/index.mpd?id=7150&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=12784&type=drm
 https://tvratu.my.id/vid/index.mpd?id=12784&type=dash
-#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="🔴VIDIO",BIZNET KIDS
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="VIDIO",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
