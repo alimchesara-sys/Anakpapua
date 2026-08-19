@@ -722,6 +722,10 @@ http://ktpremium.site:2095/jin365/365365365/698622
 
 
 
+==={=========================== DOCUMENTARY HEVC =================================
+
+
+
 
 #EXTINF:-1 group-title="ðŸ”´DOCUMENTARY HEVC" tvg-id="1458749" , NATIONAL GEO HEVC FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1ODc0OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
@@ -858,6 +862,35 @@ http://ktpremium.site:2095/jin365/365365365/932553
 http://ktpremium.site:2095/jin365/365365365/932554
 #EXTINF:-1 group-title="TNT Sports" ,TNT SPORT 4 
 http://ktpremium.site:2095/jin365/365365365/932555
+
+
+
+============================== BEIN SPORT SD ========================
+
+
+
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItJ0fGBMirmU-rKoUyeakFCdYvQPuPrRGiQ&s" tvg-id="beinsportsglobal.qa" ,Be SPORTS GLOBAL
+http://abc123.ovh:7355/31558512130580878/6050092119092/231675
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports1ar.png" tvg-id="beinsports1.qa" ,: Be SPORTS 1 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102890
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports2ar.png" tvg-id="beinsports2.qa" ,: Be SPORTS 2 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102891
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports3ar.png" tvg-id="beinsports3.qa" ,: Be SPORTS 3 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108484
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports4ar.png" tvg-id="beinsports4.qa" ,: Be SPORTS 4 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108485
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports5ar.png" tvg-id="beinsports5.qa" ,: Be SPORTS 5 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158897
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports6ar.png" tvg-id="beinsports6.qa" ,: Be SPORTS 6 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/102895
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports7ar.png" tvg-id="beinsports7.qa" ,: Be SPORTS 7 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/108486
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports8ar.png" tvg-id="beinsports8.qa" ,: Be SPORTS 8 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158898
+#EXTINF:-1 group-title="Bein SPORTS SD" tvg-logo="http://pro.netmos.ovh:6051/img/beinsports9ar.png" tvg-id="beinsports9.qa" ,: Be SPORTS 9 SD
+http://abc123.ovh:7355/31558512130580878/6050092119092/158899
+
+
 
 
 =================== MALAYSIA SPORT =============================
