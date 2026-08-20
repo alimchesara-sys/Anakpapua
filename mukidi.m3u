@@ -323,7 +323,7 @@ https://tvratu.my.id/vid/index.mpd?id=7150&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=12784&type=drm
 https://tvratu.my.id/vid/index.mpd?id=12784&type=dash
-#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="ðŸ”´VIDIO",BIZNET KIDS
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="VIDIO",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -1735,7 +1735,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="30495" ,SKY SPORTS MIX 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
-#EXTINF:-1 group-title="SKY SPORTS FHD" tvg-id="30494" ,SKY SPORTS NEWS 
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30494" ,SKY SPORTS NEWS 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="77373" ,SKY SPORTS RACING 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NzczNzMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
