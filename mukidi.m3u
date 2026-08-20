@@ -1152,16 +1152,77 @@ http://abc123.ovh:7355/31558512130580878/6050092119092/158899
 
 
 
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032529" ,-HUB PREMIER 1 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER  SPORTS" tvg-id="1032528" ,-HUB PREMIER 2 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032518" ,-HUB PREMIER 2 FHD-
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUxOCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032527" ,-HUB PREMIER 3 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyNyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032526" ,-HUB PREMIER 4 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyNiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032525" ,-HUB PREMIER 5 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032524" ,-HUB PREMIER 6 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyNCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032523" ,-HUB PREMIER 7 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyMyZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032522" ,-HUB PREMIER 8 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyMiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032521" ,-HUB PREMIER 9 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyMSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032520" ,-HUB PREMIER 10 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUyMCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-id="1032519" ,-HUB PREMIER 11 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAzMjUxOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+
+
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="30564" ,-TNT SPORTS ESPN -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="30567" ,-TNT SPORTS 1 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjcmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="30566" ,-TNT SPORTS 2 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="30565" ,-TNT SPORTS 3 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1NjUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="1019935" ,-TNT SPORTS 4 -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAxOTkzNSZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
+#EXTINF:-1 group-title="TNT SPORTS " tvg-id="1004548" ,-TNT SPORTS 5  -
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAwNDU0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
 
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30493" ,SKY SPORTS Premier League
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30498" ,SKY SPORTS FOOTBALL 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTgmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30500" ,SKY SPORTS  
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDAmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30501" ,SKY SPORTS ACTION 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDEmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30502" ,SKY SPORTS CRICKET 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA1MDImZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30499" ,SKY SPORTS F1 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTkmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30497" ,SKY SPORTS GOLF 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTcmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30496" ,SKY SPORTS MAIN EVENT 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTYmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="30495" ,SKY SPORTS MIX 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTUmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS FHD" tvg-id="30494" ,SKY SPORTS NEWS 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="77373" ,SKY SPORTS RACING 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NzczNzMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+#EXTINF:-1 group-title="SKY SPORTS " tvg-id="1454232" ,SKY SPOIRTS TENNIS 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1NDIzMiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-id="239083" ,*SUPERSPORTS FOOTBALL HD*
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MjM5MDgzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
+#EXTINF:-1 group-title="SUPER SPORTS" tvg-id="425667" ,*SUPERSPORTS GOLF HD*
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDI1NjY3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
 
 
 
