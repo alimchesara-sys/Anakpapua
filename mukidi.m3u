@@ -470,17 +470,13 @@ http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841608
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841569
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astroarena.png" ,ASTRO ARENA HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841536
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport1.png" ,ASTRO SUPERSPORT 1 4K
-http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841537
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport1.png" ,ASTRO SUPERSPORT 1 HD
-http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841538
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport2.png" ,ASTRO SUPERSPORT 2 4K
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport2.png" ,ASTRO premier league 2
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841539
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport2.png" ,ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 group-title="Malaysia" tvg-logo=".com/astrosupersport2.png" ,ASTRO premier league 2 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841540
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport3.png" ,ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 group-title="Malaysia" tvg-logo=".com/astrosupersport3.png" ,ASTRO GRANDSTAND
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841541
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/astrosupersport4.png" ,ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 group-title="Malaysia" tvg-logo=".com/astrosupersport4.png" ,ASTRO FOOTBALL
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841542
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://logo.m3uassets.com/axn.png" ,AXN HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1841585
@@ -1103,7 +1099,6 @@ http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/463672
 
 
 
-#EXTM3U
 
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-id="1458756" , DISCOVERY HEVC FHD
@@ -1328,29 +1323,29 @@ http://activefrance.net/52TLK6U/TNLMRY9/1028376
 
 
 
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-animalplanet.png" tvg-id="animalplanet.uk" ,Animal Planet (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-animalplanet.png" tvg-id="animalplanet.uk" ,Animal Planet (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597138
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discovery.png" tvg-id="discoverychannel.uk" ,Discovery Channel (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discovery.png" tvg-id="discoverychannel.uk" ,Discovery Channel (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597139
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-dmax.png" tvg-id="discoverydmax.uk" ,Discovery DMAX (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-dmax.png" tvg-id="discoverydmax.uk" ,Discovery DMAX (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597140
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryhistory.jpg" tvg-id="discoveryhistory.uk" ,Discovery History (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryhistory.jpg" tvg-id="discoveryhistory.uk" ,Discovery History (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597141
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryscience.png" tvg-id="discoveryscience.uk" ,Discovery Science (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryscience.png" tvg-id="discoveryscience.uk" ,Discovery Science (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597142
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryturbo.png" tvg-id="discoveryturbo.uk" ,Discovery Turbo (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryturbo.png" tvg-id="discoveryturbo.uk" ,Discovery Turbo (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597143
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-foodnetwork.png" tvg-id="foodnetwork.uk" ,FoodNetwork (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-foodnetwork.png" tvg-id="foodnetwork.uk" ,FoodNetwork (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597144
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-hgtv.png" tvg-id="hgtv.uk" ,HGTV (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-hgtv.png" tvg-id="hgtv.uk" ,HGTV (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597145
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-investigationdiscovery.png" tvg-id="investigationdiscovery.uk" ,ID (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-investigationdiscovery.png" tvg-id="investigationdiscovery.uk" ,ID (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597146
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-really.png" tvg-id="really.uk" ,Really (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-really.png" tvg-id="really.uk" ,Really (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597147
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-quest.png" tvg-id="quest.uk" ,Quest (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-quest.png" tvg-id="quest.uk" ,Quest (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597149
-#EXTINF:-1 group-title="DISCOVERY +" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-questred.png" tvg-id="questred.uk" ,Quest Red (Discovery +)
+#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-questred.png" tvg-id="questred.uk" ,Quest Red (Discovery +)
 http://webotv.watch:8880/t6ag8G3r/uGrmXQ5/597150
 #EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://m.media-amazon.com/images/I/714taEPoQoL.png" ,Discovery+ 1
 http://abc123.ovh:7355/31558512130580878/6050092119092/230726
