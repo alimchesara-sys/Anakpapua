@@ -1332,30 +1332,6 @@ http://abc123.ovh:7355/31558512130580878/6050092119092/233936
 http://abc123.ovh:7355/31558512130580878/6050092119092/233939
 #EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://m.media-amazon.com/images/I/714taEPoQoL.png" ,[DiscoveryTV+] Discovery Turbo
 http://abc123.ovh:7355/31558512130580878/6050092119092/233940
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-animalplanet.png" tvg-id="animalplanet.uk" ,Animal Planet (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597138
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discovery.png" tvg-id="discoverychannel.uk" ,Discovery Channel (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597139
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-dmax.png" tvg-id="discoverydmax.uk" ,Discovery DMAX (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597140
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryhistory.jpg" tvg-id="discoveryhistory.uk" ,Discovery History (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597141
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryscience.png" tvg-id="discoveryscience.uk" ,Discovery Science (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597142
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-discoveryturbo.png" tvg-id="discoveryturbo.uk" ,Discovery Turbo (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597143
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-hgtv.png" tvg-id="hgtv.uk" ,HGTV (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597145
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/documentaries/documentaries-investigationdiscovery.png" tvg-id="investigationdiscovery.uk" ,ID (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597146
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-really.png" tvg-id="really.uk" ,Really (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597147
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-tlc.png" tvg-id="tlc.uk" ,TLC (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597148
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-quest.png" tvg-id="quest.uk" ,Quest (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597149
-#EXTINF:-1 group-title="DISCOVERY+" tvg-logo="https://abcjelly.uk/picons/entertainment/entertainment-questred.png" tvg-id="questred.uk" ,Quest Red (Discovery +)
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/597150
 
 
 
