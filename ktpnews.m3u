@@ -179,7 +179,7 @@ http://ktpremium.world:2095/xm1001/4757410/946467
 http://ktpremium.world:2095/xm1001/4757410/946468
 #EXTINF:-1 group-title="Indonesia 2" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_94.png" tvg-id="VisionPrime.id" ,VisionPrime
 http://ktpremium.world:2095/xm1001/4757410/946469
-#EXTINF:-1 group-title="Indonesia " tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/Cinemachi.png" ,  Cinemachi
+#EXTINF:-1 group-title="Indonesia 2" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/Cinemachi.png" ,  Cinemachi
 http://ktpremium.world:2095/xm1001/4757410/946470
 #EXTINF:-1 group-title="Indonesia 2" tvg-logo="https://theislamicinformation.com/wp-content/uploads/2020/03/makkah-live.jpg" ,Makkah TV
 http://ktpremium.world:2095/xm1001/4757410/947789
@@ -538,7 +538,7 @@ http://ktpremium.world:2095/xm1001/4757410/1113873
 http://ktpremium.world:2095/xm1001/4757410/656643
 #EXTINF:-1 group-title="malaysia" tvg-logo="http://www.tvikim.my/images/logo-header-bak.png" tvg-id="9999" ,TV IKIM
 http://ktpremium.world:2095/xm1001/4757410/656644
-#EXTINF:-1 group-title=*malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-id="TV1" ,OKEY TV
+#EXTINF:-1 group-title="malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-id="TV1" ,OKEY TV
 http://ktpremium.world:2095/xm1001/4757410/656682
 #EXTINF:-1 group-title="malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-id="GoShopRUUMA" , OKEY TV (direct source)
 http://ktpremium.world:2095/xm1001/4757410/25875
@@ -702,7 +702,7 @@ http://ktpremium.world:2095/xm1001/4757410/914734
 http://ktpremium.world:2095/xm1001/4757410/914735
 #EXTINF:-1 group-title="australia" ,RACING.COM
 http://ktpremium.world:2095/xm1001/4757410/914738
-#EXTINF:-1 group-title=australia" ,REDBULL TV
+#EXTINF:-1 group-title="australia" ,REDBULL TV
 http://ktpremium.world:2095/xm1001/4757410/914739
 #EXTINF:-1 group-title="australia" , SBS
 http://ktpremium.world:2095/xm1001/4757410/914740
@@ -956,6 +956,44 @@ http://ktpremium.world:2095/xm1001/4757410/1106309
 http://ktpremium.world:2095/xm1001/4757410/1106310
 
 
+#EXTINF:-1 group-title="TSN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" ,TSN 1
+http://ktpremium.world:2095/xm1001/4757410/914780
+#EXTINF:-1 group-title="TSN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" ,TSN 2
+http://ktpremium.world:2095/xm1001/4757410/914781
+#EXTINF:-1 group-title="TSN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" ,TSN 3
+http://ktpremium.world:2095/xm1001/4757410/914782
+#EXTINF:-1 group-title="TSN Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" ,TSN 4
+http://ktpremium.world:2095/xm1001/4757410/914783
+#EXTINF:-1 group-title="TSN Sport" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png" ,TSN 5
+http://ktpremium.world:2095/xm1001/4757410/914784
+
+
+
+
+
+
+#EXTINF:-1 group-title="ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" tvg-id="1832" ,ELTA 1
+http://ktpremium.world:2095/xm1001/4757410/879250
+#EXTINF:-1 group-title="ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" tvg-id="1815" ,ELTA 2
+http://ktpremium.world:2095/xm1001/4757410/879251
+#EXTINF:-1 group-title="ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" tvg-id="1833" ,ELTA 3
+http://ktpremium.world:2095/xm1001/4757410/898411
+#EXTINF:-1 group-title="ELTA Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" tvg-id="ELTA體育-4台" , ELTA 4
+http://ktpremium.world:2095/xm1001/4757410/1024875
+
+
+
+
+#EXTINF:-1 group-title="ELTAMAX Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/540_pic_20211224095441.png" ,ETLA MAX1
+http://ktpremium.world:2095/xm1001/4757410/1024876
+#EXTINF:-1 group-title="ELTAMAX Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,ELTA MAX2
+http://ktpremium.world:2095/xm1001/4757410/1024877
+#EXTINF:-1 group-title="EKTAMAX Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,ELTA MAX3
+http://ktpremium.world:2095/xm1001/4757410/1024878
+#EXTINF:-1 group-title="ELTAMAX Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" ,ELTA MAX4
+http://ktpremium.world:2095/xm1001/4757410/1024879
+
+
 
 
 
@@ -1001,42 +1039,12 @@ http://ktpremium.world:2095/xm1001/4757410/1116843
 http://ktpremium.world:2095/xm1001/4757410/932574
 #EXTINF:-1 group-title="[VIP] Sport" ,[UK] Sky Sports Tennis
 http://ktpremium.world:2095/xm1001/4757410/1108061
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" tvg-id="1832" ,[TW] 爱尔达体育1台
-http://ktpremium.world:2095/xm1001/4757410/879250
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" tvg-id="1815" ,[TW] 爱尔达体育2台
-http://ktpremium.world:2095/xm1001/4757410/879251
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" tvg-id="1833" ,[TW] 爱尔达体育3台
-http://ktpremium.world:2095/xm1001/4757410/898411
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" tvg-id="ELTA體育-4台" ,[TW] 爱尔达体育4台
-http://ktpremium.world:2095/xm1001/4757410/1024875
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/540_pic_20211224095441.png" ,[TW] 爱尔达体育MAX1
-http://ktpremium.world:2095/xm1001/4757410/1024876
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,[TW] 爱尔达体育MAX2
-http://ktpremium.world:2095/xm1001/4757410/1024877
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,[TW] 爱尔达体育MAX3
-http://ktpremium.world:2095/xm1001/4757410/1024878
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png" ,[TW] 爱尔达体育MAX4
-http://ktpremium.world:2095/xm1001/4757410/1024879
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://tvyan.com/uploads/dianshi/gdty.jpg" ,[CN] 广东体育
 http://ktpremium.world:2095/xm1001/4757410/944545
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://www.haoqiu365.com/d/file/2021/0401/c7183d67c9b3d7545fe3964b279ebfc3.jpg" ,[CN] 五星体育
 http://ktpremium.world:2095/xm1001/4757410/944546
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1903_20210127101234.png" tvg-id="1595" ,[TW] 博斯网球
 http://ktpremium.world:2095/xm1001/4757410/995219
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/videoland_sport.png" tvg-id="1512" ,[TW] 纬来体育
-http://ktpremium.world:2095/xm1001/4757410/877061
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1882_20200918092245.png" tvg-id="1596" ,[TW] 博斯无限
-http://ktpremium.world:2095/xm1001/4757410/889396
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn04_mobile.png" tvg-id="1599" ,[TW] 博斯魅力
-http://ktpremium.world:2095/xm1001/4757410/995218
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="1597" ,[TW] 博斯高球1
-http://ktpremium.world:2095/xm1001/4757410/515133
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_mobile.png" tvg-id="1598" ,[TW] 博斯高球2
-http://ktpremium.world:2095/xm1001/4757410/995217
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" tvg-id="1600" ,[TW] 博斯运动1
-http://ktpremium.world:2095/xm1001/4757410/515135
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="1594" ,[TW] 博斯运动2
-http://ktpremium.world:2095/xm1001/4757410/515137
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="6093" ,[TW] ELEVEN体育1
 http://ktpremium.world:2095/xm1001/4757410/910889
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/08/Eleven-Sports-Logo.jpg" tvg-id="7149" ,[TW] ELEVEN体育2
@@ -1059,16 +1067,6 @@ http://ktpremium.world:2095/xm1001/4757410/1044467
 http://ktpremium.world:2095/xm1001/4757410/1116359
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png" ,[USA] FUBO SPORTS 2
 http://ktpremium.world:2095/xm1001/4757410/1116360
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" ,[CA] TSN 1
-http://ktpremium.world:2095/xm1001/4757410/914780
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" ,[CA] TSN 2
-http://ktpremium.world:2095/xm1001/4757410/914781
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" ,[CA] TSN 3
-http://ktpremium.world:2095/xm1001/4757410/914782
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" ,[CA] TSN 4
-http://ktpremium.world:2095/xm1001/4757410/914783
-#EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png" ,[CA] TSN 5
-http://ktpremium.world:2095/xm1001/4757410/914784
 #EXTINF:-1 group-title="[VIP]  Sport" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,[BZ] CAZE TV 1
 http://ktpremium.world:2095/xm1001/4757410/1116361
 
@@ -1081,26 +1079,24 @@ http://ktpremium.world:2095/xm1001/4757410/1116361
 
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="CrimeInvestigation.id" ,[ID] Crime & Investigation
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="CrimeInvestigation.id" , Crime & Investigation
 http://ktpremium.world:2095/xm1001/4757410/73870
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.vhv.rs/dpng/d/267-2677534_natgeowild-nat-geo-wild-hd-png-download.png" tvg-id="national.geographic.wild.id" ,[ID] NatGeo Wild
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.vhv.rs/dpng/d/267-2677534_natgeowild-nat-geo-wild-hd-png-download.png" tvg-id="national.geographic.wild.id" ,NatGeo Wild
 http://ktpremium.world:2095/xm1001/4757410/73965
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://p.kindpng.com/picc/s/646-6466111_national-geographic-tv-logo-png-transparent-png.png" tvg-id="national.geographic.id" ,[ID] NatGeo
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://p.kindpng.com/picc/s/646-6466111_national-geographic-tv-logo-png-transparent-png.png" tvg-id="national.geographic.id" ,NatGeo
 http://ktpremium.world:2095/xm1001/4757410/73966
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" tvg-id="History.id" ,[ID] History
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" tvg-id="History.id" , History
 http://ktpremium.world:2095/xm1001/4757410/73968
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://p.kindpng.com/picc/s/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-id="animal.planet.id" ,[ID] Animal Planet
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://p.kindpng.com/picc/s/107-1076403_animal-planet-png-animal-planet-logo-2019-transparent.png" tvg-id="animal.planet.id" ,Animal Planet
 http://ktpremium.world:2095/xm1001/4757410/73969
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,[ID] Discovery Channel
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,Discovery Channel
 http://ktpremium.world:2095/xm1001/4757410/73970
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.clipartmax.com/png/middle/294-2940528_hgtv-program-tv-with-home-and-garden-tv-prepare-hg-tv.png" tvg-id="HGTV" ,[ID] HGTV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.clipartmax.com/png/middle/294-2940528_hgtv-program-tv-with-home-and-garden-tv-prepare-hg-tv.png" tvg-id="HGTV" , HGTV
 http://ktpremium.world:2095/xm1001/4757410/73975
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="TLC" ,[ID] TLC
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" tvg-id="TLC" ,TLC
 http://ktpremium.world:2095/xm1001/4757410/73977
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,[USA] Discovery Channel
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-id="DiscoveryChannel" ,Discovery Channel
 http://ktpremium.world:2095/xm1001/4757410/511352
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/798d28201192825.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" tvg-id="FoodNetwork.uk" ,[UK] Food Network
-http://ktpremium.world:2095/xm1001/4757410/511369
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20221209100957_3.png" tvg-id="1592" ,[TW] 亞洲旅遊台
 http://ktpremium.world:2095/xm1001/4757410/515100
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" tvg-id="1586" ,[TW] Discovery Asia
@@ -1115,12 +1111,11 @@ http://ktpremium.world:2095/xm1001/4757410/870687
 http://ktpremium.world:2095/xm1001/4757410/870689
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" tvg-id="199" ,[TW] lifetime
 http://ktpremium.world:2095/xm1001/4757410/900851
-#EXTINF:-1 group-title=Documentary" tvg-logo="https://banner2.cleanpng.com/20180430/arq/kisspng-science-television-channel-discovery-channel-telev-5ae74fa8dd8354.2143045115251086489073.jpg" tvg-id="1585" ,[TW] 探索科学
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://banner2.cleanpng.com/20180430/arq/kisspng-science-television-channel-discovery-channel-telev-5ae74fa8dd8354.2143045115251086489073.jpg" tvg-id="1585" ,[TW] 探索科学
 http://ktpremium.world:2095/xm1001/4757410/1013875
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" tvg-id="120" ,[TW] C&I HD
 http://ktpremium.world:2095/xm1001/4757410/1013876
-#EXTINF:-1 group-title="Documentary" tvg-id="1592" ,[TW] 亚洲旅游 AsiaTravel
-http://ktpremium.world:2095/xm1001/4757410/1003302
+
 
 
 
