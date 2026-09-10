@@ -1,89 +1,83 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" , - ANTV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584497
-#EXTINF:-1 group-title="INDONESIA" , - Indosiar HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247933
-#EXTINF:-1 group-title="INDONESIA" , - MOJIO  HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247938
-#EXTINF:-1 group-title="INDONESIA" , - SCTV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247900
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/GTV.png" , - GTV HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/830544
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/rcti.png" ,- RCTI HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/830548
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" , - MNC TV HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1064641
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" , - TRANSTV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584538
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" , - TRANS7
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584545
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" , - INEWS
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584539
-#EXTINF:-1 group-title="INDONESIA" ,MDTV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247867
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png" , - Metro TV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584480
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" , - KOMPASTV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584467
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/BERITA_SATU.png" , - BERITA SATU
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584478
-#EXTINF:-1 group-title="INDONESIA" , - Indonesia Movie Channel (IMC)
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247860
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ALBANIA/GALAXY.png" , - GALAXY HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/830535
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ASIA/fra.png" , - CELESTIAL MOVIES
-http://yolomax.pro:80/3Q43L4L/59R3J6J/584496
-#EXTINF:-1 group-title="INDONESIA" , - Citra Bioskop HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247909
-#EXTINF:-1 group-title="INDONESIA" , - Citra Dangdut HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247910
-#EXTINF:-1 group-title="INDONESIA" , - Citra Drama HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247911
-#EXTINF:-1 group-title="INDONESIA" , - Horee HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247932
-#EXTINF:-1 group-title="INDONESIA" , - Dunia Anak
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247970
-#EXTINF:-1 group-title="INDONESIA" , - BBC Earth HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247883
-#EXTINF:-1 group-title="INDONESIA" , - Global Trekker HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247892
-#EXTINF:-1 group-title="INDONESIA" , - History HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247929
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/CGTN_Documentary.png" , - CGTN DOC
-http://yolomax.pro:80/3Q43L4L/59R3J6J/830540
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/TURKIYE/DISCOVERY.png" , - Discovery HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247916
-#EXTINF:-1 group-title="INDONESIA" , - Discovery Asia HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247917
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/EUROPE/DENMARK/CGTN_Documentary.png" , - CGTN DOCUMENTARY
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247852
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ALBANIA/Animal Planet.png" , - Animal Planet HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247902
-#EXTINF:-1 group-title="INDONESIA" , - DMAX HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247918
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TLC.png" , - TLC HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247947
-#EXTINF:-1 group-title="INDONESIA" , - Discovery Science
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247967
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/indonesi_movie_channel.png" , - INDONESIA MOVIE CHANNELS HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/830533
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/HITS_MOVIES.png" , - HITSMOVIES
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1089128
-#EXTINF:-1 group-title="INDONESIA" , - Flik TV
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247858
-#EXTINF:-1 group-title="INDONESIA" , - Galaxy Premium
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247859
-#EXTINF:-1 group-title="INDONESIA" , - AXN HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247881
-#EXTINF:-1 group-title="INDONESIA" , - Rock Entertainment HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247896
-#EXTINF:-1 group-title="INDONESIA" , - SPOTV HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247898
-#EXTINF:-1 group-title="INDONESIA" , - SPOTV 2 HD
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247899
-#EXTINF:-1 group-title="INDONESIA" , - Bioskop Indonesia
-http://yolomax.pro:80/3Q43L4L/59R3J6J/1247956
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="NASIONAL" , - Indosiar HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247933
+#EXTINF:-1 group-title="NASIONAL" , - MOJIO  HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247938
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/GTV.png" , - GTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830544
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/rcti.png" ,- RCTI HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="NASIONAL", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" , - MNC TV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1064641
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" , - TRANSTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584538
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/RTV.png" , - RTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584495
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/TVRI.png" , - TVRI
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584522
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" , - TRANS7
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584545
+#EXTINF:-1 group-title="NASIONAL" , - Indonesia Movie Channel (IMC)
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247860
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" , - INEWS
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584539
+#EXTINF:-1 group-title="NASIONAL" , - MDTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247867
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="NASIONAL", tvOne
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/ALBANIA/GALAXY.png" , - GALAXY HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/830535
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/ASIA/fra.png" , - CELESTIAL MOVIES
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584496
+#EXTINF:-1 group-title="NASIONAL" , - Citra Dangdut HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247910
+#EXTINF:-1 group-title="NASIONAL" , - Citra Drama HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247911
+#EXTINF:-1 group-title="NASIONAL" , - Mentari TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247912
+#EXTINF:-1 group-title="NASIONAL" , - CNNID HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247915
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png" , - Metro TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584480
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" , - KOMPASTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584467
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/BERITA_SATU.png" , - BERITA SATU
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584478
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/EUROPE/SPAIN/AXN.png" , - AXN
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584491
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" , - ANTV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584497
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/EUROPE/PORTUGALVIP/CRIMEINVESTIGATION.png" , - CRIME INVESTIGATION
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/584521
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://go4.pw/INDONESIA/HITS_MOVIES.png" , - HITSMOVIES
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1089128
+#EXTINF:-1 group-title="NASIONAL" , - Flik TV
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247858
+#EXTINF:-1 group-title="NASIONAL" , - Galaxy Premium
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247859
+#EXTINF:-1 group-title="NASIONAL" , tvglogo="https://go4.pw/ASIA/SPOTV.png",- SPOTV HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247898
+#EXTINF:-1 group-title="NASIONAL" , tvg-logo="https://go4.pw/ASIA/SPOTV.png",- SPOTV 2 HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247899
+#EXTINF:-1 group-title="NASIONAL" , - HITS Now HD
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247931
+#EXTINF:-1 group-title="NASIONAL" , - Bioskop Indonesia
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247956
+#EXTINF:-1 group-title="NASIONAL" , - Dunia Lain
+http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/1247971
 
 
 
