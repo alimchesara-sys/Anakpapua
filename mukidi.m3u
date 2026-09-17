@@ -212,23 +212,6 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/130715
 
 
 
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE HD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/365044
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skypre.png" tvg-id="skysportspremiereleague.uk" , - SKY SPORTS PREMIER LEAGUE SD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348318
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL HD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348319
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL HD²
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/365035
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skyfoot.png" tvg-id="skysportsfootball.uk" , - SKY SPORTS FOOTBALL SD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348320
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/UK/skysportste.png" tvg-id="skysportstennis.uk" , - SKY SPORTS TENNIS HD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/664452
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-id="skysportsarena.uk" , - SKY SPORTS ARENA HD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348309
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://go4.pw/ITALY/skysportarena.png" tvg-id="skysportsarena.uk" , - SKY SPORTS ARENA SD
-http://sthuuuhj.itransat.net:80/UDS6385/YZ23RRB/348310
-
 
 #EXTINF:-1 group-title="AIS LIVE Sports" ,AIS Live 1 HD 
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/130760
@@ -287,7 +270,6 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/130736
 http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/130735
 
 
-UDS6385/YZ23RRB/348285
 
 
 
@@ -359,14 +341,6 @@ http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/17039
 
 
 
-#EXTINF:-1 group-title="VIAPLAY Sports" ,Viaplay Xtra Premier league 1 HD VIP Sports
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/105331
-#EXTINF:-1 group-title="VIAPLAY Sports" ,Viaplay Xtra Premier league 2 HD VIP Sports
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/105332
-#EXTINF:-1 group-title="VIAPLAY Sports" ,Viaplay Xtra Premier league 3 HD VIP Sports
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/105333
-#EXTINF:-1 group-title="VIAPLAY Sports" ,Viaplay Xtra Premier league 5 HD VIP Sports
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/105334
 
 
 
@@ -392,25 +366,18 @@ http://etvhosts.site:55337/1BJu9C0vm/5W4UPjP4YZ84/57432
 http://etvhosts.site:55337/1BJu9C0vm/5W4UPjP4YZ84/44205
 
 
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/espn-nl.png" ,ESPN 1
-http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090600
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/espn-nl.png" ,ESPN 2
-http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090599
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/espn-nl.png" ,ESPN 3
-http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090598
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/espn-nl.png" ,ESPN 4
-http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090597
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 1
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 1
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090592
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 2
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 2
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090591
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 3
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 3
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090590
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 4
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 4
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090589
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 5
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 5
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090588
-#EXTINF:-1 group-title="NL • SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 6
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://www.logolarimiz.com/europa/netherlands/ziggo-sport-nl.png" ,ZIGGO SPORT 6
 http://45.159.94.49:8080/Z4tVVLRpNf/2tXDtxxjbB/1090587
 
 
