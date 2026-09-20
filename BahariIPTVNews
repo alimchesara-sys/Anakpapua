@@ -280,44 +280,6 @@ http://eagleott.cc:80/RERYU6QF/P15AMTQ8/1076593
 
 
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ari.png" tvg-id="arirangtv.kr" ,ARIRANG HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34079
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/bbs.png" ,BBS TV HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98004
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/cts.png" tvg-id="ctschristiantv.kr" ,CTS HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98005
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ebs40.png" tvg-id="ebs.kr" ,EBS E HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98006
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ebs1.png" ,EBS1  HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98010
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ebs2.png" tvg-id="ebsplus2.kr" ,EBS+2  HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98009
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/gc.png" , GCN HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98012
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/nb.png" ,NBS KOREA AGRICULTURAL BROADCASTING HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34081
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/yts.png" tvg-id="ytnscience.kr" ,YTN SCIENCE HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34084
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ebsk.png" ,EBS KIDS  HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98008
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/k1.png" ,K+ HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34080
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/ss.png" ,SBS INTERNATIONAL HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34082
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/sbp.png" tvg-id="sbsplus.kr" ,SBS PLUS HD
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/34083
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/kb6.png" tvg-id="kbsw.kr" ,KBS WORLD TV
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/98002
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/flg.png" ,TVN
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/102559
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/flg.png" ,TAN
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/102560
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/flg.png" , EBS
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/102561
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/flg.png" ,MBN
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/102562
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://lo1.in/kor/flg.png" ,MBC
-http://eagleott.cc:80/RERYU6QF/P15AMTQ8/102563
 
 
 #EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/aust/espn1.png" tvg-id="espnhd.au" ,ESPN 1 HD
@@ -509,128 +471,28 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTAwNDU0OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/93.png" tvg-id="beinsportsglobalar.qa" , - BEINSPORTS SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/281374
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8118.png" tvg-id="beinsports1.qa" , - BEINSPORTS 1 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131735
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8510.png" tvg-id="beinsports2.qa" , - BEINSPORTS 2 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131732
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8511.png" tvg-id="beinsports3.qa" , - BEINSPORTS 3 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131756
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8111.png" tvg-id="beinsports4.qa" , - BEINSPORTS 4 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131753
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8112.png" tvg-id="beinsports5.qa" , - BEINSPORTS 5 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131750
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8113.png" tvg-id="beinsports6.qa" ,AR - BEINSPORTS 6 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131747
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8114.png" tvg-id="beinsports7.qa" , - BEINSPORTS 7 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131744
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8115.png" tvg-id="beinsports8.qa" , - BEINSPORTS 8 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131741
-#EXTINF:-1 group-title="BEINSPORT SD" tvg-logo="http://logo.123sat.net/logo2026/logos/8116.png" tvg-id="beinsports9.qa" , - BEINSPORTS 9 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/131738
-
-
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 1 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273143
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 1 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273149
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 1 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273137
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 2 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273138
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 2 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273144
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 2 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273150
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 3 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273139
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 3 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273145
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 3 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273151
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 4 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273140
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 4 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273146
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 4 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273152
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 5 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273141
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 5 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273147
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 5 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273153
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 6 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273154
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 6 SD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273142
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 6 HD
-http://pro.dragonkey.net:2082/110051140468795/91519151/273148
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 7 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273155
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 8 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273156
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 9 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273157
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - SPORT 10 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273158
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - F1 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273160
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - WWE 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273161
-#EXTINF:-1 group-title="ALWAN SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/alwanryadia.png" ,ALWAN - UFC 4K
-http://pro.dragonkey.net:2082/110051140468795/91519151/273159
 
 
 
 
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsnews.png" tvg-id="skysportsnews.uk" ,Sky Sports News FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098192
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsnews.png" tvg-id="skysportsnews.uk" ,Sky Sports News SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098195
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsmainevent.png" tvg-id="skysportsmainevent.uk" ,Sky Sports Main Event FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4518136
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsmainevent.png" tvg-id="skysportsmainevent.uk" ,Sky Sports Main Event SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4518139
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportspremierleague.png" tvg-id="skysportspremiereleague.uk" ,Sky Sports Premier League FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4518138
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportspremierleague.png" tvg-id="skysportspremiereleague.uk" ,Sky Sports Premier League SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4518137
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsfootball.png" tvg-id="skysportsfootball.uk" ,Sky Sports Football FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098205
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsfootball.png" tvg-id="skysportsfootball.uk" ,Sky Sports Football SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098206
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsplus.png" tvg-id="skysportsplus.uk" ,Sky Sports + FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098187
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsplus.png" tvg-id="skysportsplus.uk" ,Sky Sports + SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098199
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportscricket.png" tvg-id="skysportscricket.uk" ,Sky Sports Cricket FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098188
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportscricket.png" tvg-id="skysportscricket.uk" ,Sky Sports Cricket SD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098198
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsgolf.png" tvg-id="skysportsgolf.uk" ,Sky Sports Golf FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098190
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsgolf.png" tvg-id="skysportsgolf.uk" ,Sky Sports Golf SD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098196
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsf1.png" tvg-id="skysportsf1.uk" ,Sky Sports F1 FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098189
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsf1.png" tvg-id="skysportsf1.uk" ,Sky Sports F1 SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098197
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsaction.png" tvg-id="skysportsaction.uk" ,Sky Sports Action/NFL FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098186
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsaction.png" tvg-id="skysportsaction.uk" ,Sky Sports Action/NFL SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098200
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsmix.png" tvg-id="skysportsmix.uk" ,Sky Sports Mix FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098191
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsmix.png" tvg-id="UK: SkySp Mix HD" ,Sky Sports Mix SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098216
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsracing.png" tvg-id="skysportsracing.uk" ,Sky Sports Racing FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098193
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportsracing.png" tvg-id="skysportsracing.uk" ,Sky Sports Racing SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098194
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportstennis.png" tvg-id="SkySportsTennis.uk" ,Sky Sports Tennis FHD
-http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098210
 #EXTINF:-1 group-title="SKY SPORTS" tvg-logo="http://abcjelly.uk/picons/logos/skysportstennis.png" ,Sky Sports Tennis SD
 http://infinitymedia.watch:8880/RJ1285/pud9hhK/4098211
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="30493" ,SKY SPORTS Premier League
@@ -654,38 +516,27 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="30494" ,SKY SPORTS NEWS 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MzA0OTQmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="77373" ,SKY SPORTS RACING 
-https://virtual.anbox.dpdns.org/resolvEXTINFe?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NzczNzMmZXh0ZW5zaW9uPXRzJnBsYXlfdG9rZW49YjBaZVJXVWVkUw==
+https://virtual.anbox.dpdns.org/resolvEXTINFe?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NzczNzMmZXh0ZW5zaW9uPXRzJnBsYlfdG9rZW49YjBaZVJXVWVkUw==
 #EXTINF:-1 group-title="SKY SPORTS " tvg-id="1454232" ,SKY SPOIRTS TENNIS 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MTQ1NDIzMiZleHRlbnNpb249dHMmcGxheV90b2tlbj1iMFplUldVZWRT
 
 
-#EXTINF:-1 group-title="SUPER SPORTS" tvg-id="239083" ,*SUPERSPORTS FOOTBALL HD*
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09MjM5MDgzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
-#EXTINF:-1 group-title="SUPER SPORTS" tvg-id="425667" ,*SUPERSPORTS GOLF HD*
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21hZy5ncmVhdG90dC5tZS9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpEMDo5OTpBMSZzdHJlYW09NDI1NjY3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWIwWmVSV1VlZFM=
 
 
 
-#EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 1 FHD
-http://opplex.org:8080/haidernawaz/haidernawaz123/381833
+
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 1 HD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381834
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 1 SD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381835
-#EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 2 FHD
-http://opplex.org:8080/haidernawaz/haidernawaz123/381836
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 2 HD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381837
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" , Infinity Champions 2 SD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381838
-#EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" , Infinity Champions 3 FHD
-http://opplex.org:8080/haidernawaz/haidernawaz123/381839
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" , Infinity Champions 3 HD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381840
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 3 SD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381841
-#EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" , Infinity Champions 4 FHD
-http://opplex.org:8080/haidernawaz/haidernawaz123/381842
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" ,Infinity Champions 4 HD
 http://opplex.org:8080/haidernawaz/haidernawaz123/381843
 #EXTINF:-1 group-title="Infinity Champions " tvg-logo="https://static3.mediasetplay.mediaset.it/static/images/app/mediasetinfinity-v2-logo-short@2.png" , Infinity Champions 4 SD
