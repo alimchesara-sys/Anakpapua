@@ -33,16 +33,32 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="INDONESIA",ANTV
 http://013tv.com:8080/F33848/cbd9779b/165072
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" ,MNC TV 
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" ,RCTI 
-https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/GTV.png" ,GTV 
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/indosiar.png" tvg-name="INDOSIAR " ,INDOSIAR 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
+#EXTINF:-1 group-title="INDONESIA" tvg-name="RCTI " ,RCTI 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34322
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/gtv.png" tvg-name="GTV " ,GTV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34331
+#EXTINF:-1 group-title="INDONESIA" tvg-name="MDTV" ,MDTV
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34321
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/transtv.png" tvg-name="TRANS TV " ,TRANS TV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34324
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/trans7id.png" tvg-name="TRANS 7 " ,TRANS 7 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/mnctv.png" tvg-name="MNC TV " ,MNC TV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34326
+#EXTINF:-1 group-title="INDONESIA " tvg-name="ANTV " ,ANTV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34328
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/tvone.png" tvg-name="TVONE " ,TVONE 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34329
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/metrotv.png" tvg-name="METRO TV " ,METRO TV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34330
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/kompastv.png" tvg-name="KOMPAS TV " ,KOMPAS TV 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34332
+#EXTINF:-1 group-title="INDONESIA " tvg-logo="://docdog.top/logo/countries/indonesia/inews.png" tvg-name="INEWS " , INEWS 
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34335
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdquDjBINKIYNU4OyBKnq-AgWtcEYbf_SzVckmf_ALg&s=10" ,iNews 
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" ,SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="INDONESIA",Trans 7
 http://013tv.com:8080/F33848/cbd9779b/162502
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="INDONESIA",Trans TV
@@ -61,8 +77,6 @@ http://013tv.com:8080/F33848/cbd9779b/266808
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="INDONESIA",Metro TV
 http://013tv.com:8080/F33848/cbd9779b/165059
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" , MDTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" ,SINPO TV
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png" tvg-name="KOMPAS TV" ,KOMPAS TV (2)
