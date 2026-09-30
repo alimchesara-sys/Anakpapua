@@ -1,48 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" ,ANTV
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584497
-#EXTINF:-1 group-title="INDONESIA" ,Indosiar HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247933
-#EXTINF:-1 group-title="INDONESIA" ,MOJIO Channel HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247938
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/rcti.png" ,RCTI HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/830548
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" ,MNC TV HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1064641
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TVONE.png" ,TV ONE
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584542
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png" ,TRANSTV
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584538
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" ,TRANS7
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584545
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png" ,Metro TV
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584480
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png" ,KOMPASTV
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584467
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" ,INEWS
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584539
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ALBANIA/GALAXY.png" ,GALAXY HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/830535
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://go4.pw/ASIA/fra.png" ,CELESTIAL MOVIES
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/584496
-#EXTINF:-1 group-title="INDONESIA" ,Citra Dangdut HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247910
-#EXTINF:-1 group-title="INDONESIA" ,Citra Drama HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247911
-#EXTINF:-1 group-title="INDONESIA" ,Indonesia Movie Channel (IMC)
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247860
-#EXTINF:-1 group-title="INDONESIA" ,HITS Movies HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247930
-#EXTINF:-1 group-title="INDONESIA" ,SPOTV HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247898
-#EXTINF:-1 group-title="INDONESIA" ,SPOTV 2 HD
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247899
-#EXTINF:-1 group-title="INDONESIA" ,Bioskop Indonesia
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247956
-#EXTINF:-1 group-title="INDONESIA" ,Dunia Lain
-http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1247971
 
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext"  tvg-logo="https://lo1.in/indo/ant.png" ,ANTV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584497.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Indosiar HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247933.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,MOJIO Channel HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247938.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://lo1.in/indo/gtv.png" ,,GTV HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830544.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://lo1.in/indo/rct.png",RCTI HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830548.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext"  tvg-logo="https://lo1.in/indo/mnc20.png" ,MNC TV HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1064641.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,TRANSTV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584538.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,RTV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584495.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,TVRI
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584522.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,TRANS7
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584545.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,INEWS
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584539.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,NET TV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247867.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Metro TV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584480.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,KOMPASTV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584467.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,BERITA SATU
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584478.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,CNN HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247915.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,JAKTV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584471.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Citra Dangdut HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247910.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Citra Drama HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247911.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Mentari TV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247912.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Indonesia Movie Channel (IMC)
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247860.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,GALAXY HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830535.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , CELESTIAL MOVIES
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584496.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,LIFETIME
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584537.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , HITS Movies HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247930.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,FIGHT SPORTS HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830543.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,NICK JR HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1064638.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Nick Jr
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247868.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Horee HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247932.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,AL QURAN AL KAREM
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584528.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,IDX
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584543.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,CRIME INVESTIGATION
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584521.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Cinema World
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830529.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Flik TV
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247858.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,SPOTV HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247898.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,SPOTV 2 HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247899.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,HITS Now HD
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247931.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,Bioskop Indonesia
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247956.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , Dunia Lain
+http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247971.ts
 
 
 
@@ -72,7 +110,7 @@ http://013tv.com:8080/F12744/346751ce/162503
 http://013tv.com:8080/F12744/346751ce/266808
 #EXTINF:-1 group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOnFMPHG_dNcyCucl2jinbbBW25bdaB-7vCsGGbcmGzhJCfUh7syp8jY776Q-RVRY_XaCIqO9ESjZgRC3T1M8TBg.png" ,TV One
 http://013tv.com:8080/F12744/346751ce/310084
-#EXTINF:-1 group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOb08x2LB4zh7sH7uSxy4HWdJZkv2LLBNFYiiPfpHozeQcDgJPETKzWDVwJRgXgXwRwX0mqkrqlQ4OUBE5JUfWAg.png" ,Kompas TV
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://117.55.23.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOb08x2LB4zh7sH7uSxy4HWdJZkv2LLBNFYiiPfpHozeQcDgJPETKzWDVwJRgXgXwRwX0mqkrqlQ4OUBE5JUfWAg.png" ,Kompas TV
 http://013tv.com:8080/F12744/346751ce/165060
 #EXTINF:-1 group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOW7NlIQznc_qSjPT_w8EncqntSoPl1UXfCltIWwQK1eRT3edCPr81aC2RYI4NMIti_dW72nGHfDumbtkzOElNLA.png" tvg-id="171942" ,Metro TV
 http://013tv.com:8080/F12744/346751ce/165059
