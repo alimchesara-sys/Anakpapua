@@ -87,27 +87,29 @@ https://cdnbal1.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - GTV HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/GTV.png", - GTV HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830544.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,- RCTI HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" https://go4.pw/INDONESIA/rcti.png"  ,- RCTI HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830548.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - MNC TV HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/MNC TV.png" , - MNC TV HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1064641.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - TRANSTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/TRANSTV.png", - TRANSTV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584538.ts
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" tvg-id="11691" ,TVOne
+http://013tv.com:8080/F12744/346751ce/266808
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - JAKTV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584471.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - RTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/RTV.png", - RTV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584495.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - TVRI
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/TVRI.png" , - TVRI
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584522.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - TRANS7
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/_TRANS7.png" , - TRANS7
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584545.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Indonesia Movie Channel (IMC)
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247860.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - INEWS
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/INEWS.png" , - INEWS
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584539.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - NET TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOewsEr-qrsy3jbix4_w2g95x9wzn-uAeyud9MvXITIvnfAC5_VDZ3WM5gOm2Q4e_n2Z9_BBd5Mf1i492HZGBxdA.png" , - NET TV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247867.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - GALAXY HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830535.ts
@@ -115,9 +117,9 @@ http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830535.ts
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584496.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - LIFETIME
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584537.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Citra Dangdut HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOubAi3pxgT6zBn74Mx6y6rIahfUaVsYjAlqHKsDmolz6DwQ3cr2rE1ASYTG7RnNBfc4zF1niEw3NVPUWHTpBpFw.png" , - Citra Dangdut HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247910.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Citra Drama HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOubAi3pxgT6zBn74Mx6y6rIahfUaVsYjAlqHKsDmolz7Mdf5-MjWVeyYhh2MktKFoEvpc5cDG7TaIwLLXkeNZGw.png" , - Citra Drama HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247911.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Mentari TV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247912.ts
@@ -131,13 +133,13 @@ http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1064638.ts
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247868.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,ID - Horee HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247932.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Metro TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/METRO TV.png", - Metro TV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584480.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - KOMPASTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/KOMPASTV.png", - KOMPASTV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584467.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - BERITA SATU
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584478.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - ANTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" , - ANTV
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584497.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - CRIME INVESTIGATION
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/584521.ts
@@ -153,7 +155,7 @@ http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247899.ts
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247931.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Indosiar HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247933.ts
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - MOJIO Channel HD
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://i.imgur.com/mM9zapJ.png", - MOJIO Channel HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247938.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" , - Bioskop Indonesia
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247956.ts
