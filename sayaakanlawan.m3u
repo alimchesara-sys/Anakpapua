@@ -11,6 +11,8 @@ http://filex.asia:8080/1234567/7654321/302264
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247933.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" ,MOJIO Channel HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/1247938.ts
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.sctv.co.id/icon.png" tvg-id="SCTV.id" , SCTV
+http://ktpremium.world:2095/oc100138/3826778900/73607
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://lo1.in/indo/gtv.png" ,,GTV HD
 http://sthuuuhj.itransat.net:80/live/ZZKG5XY/PZ3MOHJztJ/830544.ts
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ext" tvg-logo="https://lo1.in/indo/rct.png",RCTI HD
