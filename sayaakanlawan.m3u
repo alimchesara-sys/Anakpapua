@@ -1066,6 +1066,25 @@ http://013tv.com:8080/F12744/346751ce/276531
 http://013tv.com:8080/F12744/346751ce/170006
 
 
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,ASTRO ARENA HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410915
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroarn2.png" tvg-id="astroarena2.my" ,ASTRO ARENA 2 HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410916
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/flag.png" ,ASTRO SPORTS PLUS HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410919
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/flag.png" tvg-id="tvokey.my" ,ASTRO FOOTBALL HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410917
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astrossp.png" ,ASTRO PREMIER LEAGUE 1 HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470698
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp2.png" ,ASTRO PREMIER LEAGUE 2 HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470699
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp30.png" ,ASTRO PREMIER LEAGUE 3 HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470700
+#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp4.png" ,ASTRO PREMIER LEAGUE 4 HD
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470701
+
+
+
 
 #EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 FHD
 http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14558
@@ -1091,18 +1110,29 @@ http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14549
 http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14548
 
 
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 01 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1326
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 02 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1325
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 03 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1324
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 04 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1323
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 05 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1322
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 06 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1321
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 07 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1320
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 08 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1319
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 09 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1318
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 10 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1317
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 11 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1316
 
-
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 1
-http://013tv.com:8080/F12744/346751ce/305270
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 2
-http://013tv.com:8080/F12744/346751ce/305271
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 3
-http://013tv.com:8080/F12744/346751ce/305272
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 4
-http://013tv.com:8080/F12744/346751ce/305273
-#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 5
-http://013tv.com:8080/F12744/346751ce/305274
 
 
 #EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 1.png" ,Hub Sports 1
