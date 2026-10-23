@@ -1005,29 +1005,6 @@ http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470701
 
 
 
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14558
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier2.sg" ,Hub Premier 2 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14557
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier3.sg" ,Hub Premier 3 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14556
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier4.sg" ,Hub Premier 4 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14555
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier5.sg" ,Hub Premier 5 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14554
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier6.sg" ,Hub Premier 6 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14553
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier7.sg" ,Hub Premier 7 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14552
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier8.sg" ,Hub Premier 8 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14551
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier9.sg" ,Hub Premier 9 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14550
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier10.sg" ,Hub Premier 10 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14549
-#EXTINF:-1 group-title=" - StarHub TV+ Premier (EPL)" tvg-logo="https://s.imgexpress.net/1e9b04bf6da2ff8d2d13c056d31cb758057d01ce75dd4e90ae932896fe6d731a.png" tvg-id="HubPremier11.sg" ,Hub Premier 11 FHD
-http://tv-213424.ifiesta.net:8080/TV-7926745948196/892281004173/14548
-
 
 #EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 01 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1326
@@ -1054,15 +1031,15 @@ http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1316
 
 
 
-#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 1.png" ,Hub Sports 1
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://lo1.in/ind/Hub Sports 1.png" ,Hub Sports 1
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470711
-#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 2.png", Hub Sports 2
+#EXTINF:-1 group-title="HUB SPORTS " tvg-logo="https://lo1.in/ind/Hub Sports 2.png", Hub Sports 2
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470712
-#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 3.png" ,Hub Sports 3
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://lo1.in/ind/Hub Sports 3.png" ,Hub Sports 3
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470713
-#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 4.png" ,ub Sports 4
+#EXTINF:-1 group-title="HUB SPORTS " tvg-logo="https://lo1.in/ind/Hub Sports 4.png" ,ub Sports 4
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470714
-#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/flg.png" ,Hub Sports 5
+#EXTINF:-1 group-title="HUB SPORTS " tvg-logo="https://lo1.in/ind/flg.png" ,Hub Sports 5
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470715
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" ,SPORTS - HUB SPORTS 1 FHD
 http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1090647
