@@ -985,52 +985,101 @@ http://013tv.com:8080/F12744/346751ce/276531
 http://013tv.com:8080/F12744/346751ce/170006
 
 
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,ASTRO ARENA HD
+
+
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Badminton
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146812
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Badminton 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146811
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Sports Plus
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146810
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro PL2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146813
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro PL
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146814
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Premier League 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146815
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Premier League
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146816
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Football
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146820
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Grandstand
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146821
+#EXTINF:-1 group-title="ASTRO SPORTS", Astro Cricket
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146809
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,ASTRO ARENA HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410915
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroarn2.png" tvg-id="astroarena2.my" ,ASTRO ARENA 2 HD
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://lo1.in/MALAY/astroarn2.png" tvg-id="astroarena2.my" ,ASTRO ARENA 2 HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410916
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/flag.png" ,ASTRO SPORTS PLUS HD
+#EXTINF:-1 group-title="ASTRO SPORTS " tvg-logo="https://lo1.in/MALAY/flag.png" ,ASTRO SPORTS PLUS HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410919
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/flag.png" tvg-id="tvokey.my" ,ASTRO FOOTBALL HD
+#EXTINF:-1 group-title="ASTRO SPORTS " tvg-logo="https://lo1.in/MALAY/flag.png" tvg-id="tvokey.my" ,ASTRO FOOTBALL HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1410917
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astrossp.png" ,ASTRO PREMIER LEAGUE 1 HD
+#EXTINF:-1 group-title="ASTRO SPORTS " tvg-logo="https://lo1.in/MALAY/astrossp.png" ,ASTRO PREMIER LEAGUE 1 HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470698
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp2.png" ,ASTRO PREMIER LEAGUE 2 HD
+#EXTINF:-1 group-title="ASTRO SPORTS " tvg-logo="https://lo1.in/MALAY/astroassp2.png" ,ASTRO PREMIER LEAGUE 2 HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470699
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp30.png" ,ASTRO PREMIER LEAGUE 3 HD
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://lo1.in/MALAY/astroassp30.png" ,ASTRO PREMIER LEAGUE 3 HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470700
-#EXTINF:-1 group-title="ASTRO SPORT " tvg-logo="https://lo1.in/MALAY/astroassp4.png" ,ASTRO PREMIER LEAGUE 4 HD
+#EXTINF:-1 group-title="ASTRO SPORTS " tvg-logo="https://lo1.in/MALAY/astroassp4.png" ,ASTRO PREMIER LEAGUE 4 HD
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470701
 
 
 
 
-
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 01 
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 1 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148158
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 2 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148159
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 3 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148160
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 4 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148161
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 5 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148162
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 6 FHD
+http://4kiptv.cloud:80/starsharemulti10/39483492/148163
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 01 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1326
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 02 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 02 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1325
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 03 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 03 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1324
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 04 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 04 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1323
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 05 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 05 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1322
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 06 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 06 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1321
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 07 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 07 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1320
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 08 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 08 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1319
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 09 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 09 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1318
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 10 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 10 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1317
-#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 11 
+#EXTINF:-1 group-title="HUB PREMIER  " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 11 
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1316
 
 
 
+
+
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png?w=272" ,Hub Sports 1  FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786681
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png?w=272" ,Hub Sports 2 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786682
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=272" ,Hub Sports 3 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786683
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" ,Hub Sports 5 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786684
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" ,Hub Sports 6 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786685
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" ,Hub Sports 7 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786686
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" ,Hub Sports 8 FHD
+http://skyplay.mov:8080/oswin2025ms/skyplay6081/786687
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://lo1.in/ind/Hub Sports 1.png" ,Hub Sports 1
 http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470711
 #EXTINF:-1 group-title="HUB SPORTS " tvg-logo="https://lo1.in/ind/Hub Sports 2.png", Hub Sports 2
@@ -1051,16 +1100,8 @@ http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1090649
 http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1090650
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" ,SPORTS - HUB SPORTS 5 FHD
 http://astott21.xyz:80/XbknUJShHI/is72nB1nio/1090651
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://57.128.182.77:8080/UK/HUBSPORTS.png" ,HUB SPORTS 1
-http://4kgood.org:80/Abdo20250505/hze7pmru27/280827
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://57.128.182.77:8080/UK/HUBSPORTS.png" ,HUB SPORTS 2
-http://4kgood.org:80/Abdo20250505/hze7pmru27/280828
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://57.128.182.77:8080/UK/HUBSPORTS.png" ,HUB SPORTS 3
-http://4kgood.org:80/Abdo20250505/hze7pmru27/280829
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://57.128.182.77:8080/UK/HUBSPORTS.png" ,HUB SPORTS 4
-http://4kgood.org:80/Abdo20250505/hze7pmru27/280830
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://57.128.182.77:8080/UK/HUBSPORTS.png" ,HUB SPORTS 5
-http://4kgood.org:80/Abdo20250505/hze7pmru27/280831
+
+
 
 
 #EXTINF:-1 group-title="sony Sports" tvg-logo="https://go4.pw/India/sonysports4.png" tvg-id="sports18.in" ,SPORTS - SONY TEN 4 HD
