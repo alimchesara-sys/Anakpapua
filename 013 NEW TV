@@ -1,0 +1,1457 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" tvg-id="172012" ,ANTV
+http://013tv.com:8080/F12744/346751ce/165072
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" tvg-id="171947" ,GTV
+http://013tv.com:8080/F12744/346751ce/157578
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-id="411980" ,Indosiar
+http://013tv.com:8080/F12744/346751ce/162138
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" tvg-id="171936" ,INews
+http://013tv.com:8080/F12744/346751ce/157579
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" tvg-id="171909" ,RCTI
+http://013tv.com:8080/F12744/346751ce/157591
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" tvg-id="171989" ,MNC TV
+http://013tv.com:8080/F12744/346751ce/165054
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" ,Moji
+http://013tv.com:8080/F12744/346751ce/298550
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" tvg-id="411917" ,SCTV
+http://013tv.com:8080/F12744/346751ce/162141
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" tvg-id="11691" ,TVOne
+http://013tv.com:8080/F12744/346751ce/266808
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" tvg-id="171891" ,Kompas TV
+http://013tv.com:8080/F12744/346751ce/165060
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" tvg-id="171942" ,Metro TV
+http://013tv.com:8080/F12744/346751ce/165059
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" tvg-id="417399" ,Trans 7
+http://013tv.com:8080/F12744/346751ce/162502
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" tvg-id="411944" ,Trans TV
+http://013tv.com:8080/F12744/346751ce/162503
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" tvg-id="411915" ,Net
+http://013tv.com:8080/F12744/346751ce/80292
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/6e912e1e4bc79e0126c798b067a7665e.png" ,TVRI Nasional
+http://013tv.com:8080/F12744/346751ce/162504
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" tvg-id="411927" ,CNBC Indonesia
+http://013tv.com:8080/F12744/346751ce/165062
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" tvg-id="411950" ,CNN Indonesia
+http://013tv.com:8080/F12744/346751ce/162137
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" ,BTV/Berita Satu
+http://013tv.com:8080/F12744/346751ce/162513
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" tvg-id="171960" ,BBC Earth
+http://013tv.com:8080/F12744/346751ce/165106
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,BBC Lifestyle
+http://013tv.com:8080/F12744/346751ce/264747
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" tvg-id="411993" ,beIN Sports 1
+http://013tv.com:8080/F12744/346751ce/295289
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" tvg-id="412014" ,beIN Sports 3
+http://013tv.com:8080/F12744/346751ce/306458
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" tvg-id="411967" ,Bioskop Indonesia
+http://013tv.com:8080/F12744/346751ce/264801
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" tvg-id="171999" ,Celestial Movies
+http://013tv.com:8080/F12744/346751ce/165065
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" tvg-id="171882" ,CGTN
+http://013tv.com:8080/F12744/346751ce/298510
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" tvg-id="171870" ,CGTN Documentary
+http://013tv.com:8080/F12744/346751ce/298511
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" tvg-id="171959" ,Channel News Asia
+http://013tv.com:8080/F12744/346751ce/157602
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="411988" ,Chinese Drama
+http://013tv.com:8080/F12744/346751ce/298516
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" tvg-id="443272" ,CinemaWorld
+http://013tv.com:8080/F12744/346751ce/165082
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" ,Cinemax
+http://013tv.com:8080/F12744/346751ce/197964
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" tvg-id="411922" ,Citra Drama
+http://013tv.com:8080/F12744/346751ce/264748
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" ,Crime+ Investigation
+http://013tv.com:8080/F12744/346751ce/165052
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" tvg-id="411937" ,Dunia Anak
+http://013tv.com:8080/F12744/346751ce/264753
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" ,Ent
+http://013tv.com:8080/F12744/346751ce/157581
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,ETV BIOSKOP 01
+http://013tv.com:8080/F12744/346751ce/298526
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,ETV BIOSKOP 02
+http://013tv.com:8080/F12744/346751ce/298513
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,ETV BIOSKOP 03
+http://013tv.com:8080/F12744/346751ce/298514
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,ETV BIOSKOP 04
+http://013tv.com:8080/F12744/346751ce/298529
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="412001" ,FLIK
+http://013tv.com:8080/F12744/346751ce/165095
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" tvg-id="171982" ,Galaxy
+http://013tv.com:8080/F12744/346751ce/264773
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" tvg-id="171853" ,Galaxy Premium
+http://013tv.com:8080/F12744/346751ce/264774
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,HBO
+http://013tv.com:8080/F12744/346751ce/306484
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" ,HBO 1080
+http://013tv.com:8080/F12744/346751ce/197972
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" ,HBO Family 1080
+http://013tv.com:8080/F12744/346751ce/197055
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,HBO Hits
+http://013tv.com:8080/F12744/346751ce/306486
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" ,HBO Hits 1080
+http://013tv.com:8080/F12744/346751ce/196480
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,HBO Signature
+http://013tv.com:8080/F12744/346751ce/306483
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" tvg-id="411929" ,HGTV
+http://013tv.com:8080/F12744/346751ce/298535
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" tvg-id="417394" ,Horee!
+http://013tv.com:8080/F12744/346751ce/264750
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" tvg-id="171980" ,IMC
+http://013tv.com:8080/F12744/346751ce/264769
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" tvg-id="411921" ,K+
+http://013tv.com:8080/F12744/346751ce/197969
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" tvg-id="171921" ,Love Nature
+http://013tv.com:8080/F12744/346751ce/157592
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" tvg-id="411992" ,Music TV
+http://013tv.com:8080/F12744/346751ce/165108
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" ,Nabawi TV
+http://013tv.com:8080/F12744/346751ce/306469
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" ,Nat Geo Wild
+http://013tv.com:8080/F12744/346751ce/197967
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" tvg-id="412009" ,Nick Jr
+http://013tv.com:8080/F12744/346751ce/165107
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" tvg-id="171930" ,nickelodeon
+http://013tv.com:8080/F12744/346751ce/162510
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" tvg-id="171977" ,Rock Action
+http://013tv.com:8080/F12744/346751ce/298490
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" ,Rock Entertaiment
+http://013tv.com:8080/F12744/346751ce/298565
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" ,Smithsonian Channel
+http://013tv.com:8080/F12744/346751ce/264767
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/55fe27237a255968a16a4b1073bdfb5f.png" ,SportStars 2
+http://013tv.com:8080/F12744/346751ce/304861
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" tvg-id="171998" ,SpoTV
+http://013tv.com:8080/F12744/346751ce/165105
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" tvg-id="171904" ,SpoTV 2
+http://013tv.com:8080/F12744/346751ce/298506
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" tvg-id="171864" ,Thrill
+http://013tv.com:8080/F12744/346751ce/157580
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" tvg-id="171973" ,TVN
+http://013tv.com:8080/F12744/346751ce/144886
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" tvg-id="481087" ,TVN Movies
+http://013tv.com:8080/F12744/346751ce/157596
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png" ,TVRI Papua
+http://013tv.com:8080/F12744/346751ce/287442
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" ,TVRI Sulawesi Selatan
+http://013tv.com:8080/F12744/346751ce/166699
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png" ,TVRI Sulawesi Tengah
+http://013tv.com:8080/F12744/346751ce/287445
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png" ,TVRI World
+http://013tv.com:8080/F12744/346751ce/295291
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" tvg-id="172005" ,Vision Prime
+http://013tv.com:8080/F12744/346751ce/197958
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" tvg-id="411925" ,Warner TV
+http://013tv.com:8080/F12744/346751ce/157594
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png" ,Wesal TV
+http://013tv.com:8080/F12744/346751ce/266813
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" tvg-id="171851" ,Zee Bioskop
+http://013tv.com:8080/F12744/346751ce/157584
+
+
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/65d5da18cec66c66e93ae773e2fc5f4f.png" ,(New Zealand) Firstlight TV
+http://013tv.com:8080/F12744/346751ce/296571
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/91363410300db41eea6d72291171e58b.png" ,10 Peach Sydney
+http://013tv.com:8080/F12744/346751ce/144803
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9d47406a4b05f897d9ed770d1aaee54b.png" tvg-id="40892" ,7 Flix
+http://013tv.com:8080/F12744/346751ce/144773
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-08/a9a9c36ea351c98ce364b87c23141647.png" ,7 mate Sydney
+http://013tv.com:8080/F12744/346751ce/144788
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5409b12884b9c0f0cfac52ba87ccbc36.png" ,7 Two
+http://013tv.com:8080/F12744/346751ce/144760
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f2f635ba6c5683dead33a46255ef5935.png" tvg-id="3312" ,9 GEM
+http://013tv.com:8080/F12744/346751ce/81783
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,9 GEM Sports
+http://013tv.com:8080/F12744/346751ce/310830
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/283c7b13cd99a47b5cec3c408ec87c39.png" tvg-id="3381" ,9 Go!
+http://013tv.com:8080/F12744/346751ce/81798
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/828262cc7574b1bfb306f8fe2d4cba52.png" tvg-id="3264" ,9 Life
+http://013tv.com:8080/F12744/346751ce/81807
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fdc77def32585225712391390909832e.png" ,ABC Australia
+http://013tv.com:8080/F12744/346751ce/157526
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-05/efbc48dbe50a76710bf3f321e26f9188.png" tvg-id="3269" ,ABC Me
+http://013tv.com:8080/F12744/346751ce/301387
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fe2dae1c26dc501dc1e2dd3e186f7470.png" ,ABC Me NT
+http://013tv.com:8080/F12744/346751ce/186985
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ce0e8752bbde0e8305d33835ba1e7284.png" tvg-id="3474" ,ABC News
+http://013tv.com:8080/F12744/346751ce/146815
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e869d37f03deb7bbbd0346dfeb62ab7b.png" tvg-id="3357" ,ABC TV
+http://013tv.com:8080/F12744/346751ce/173559
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,ABC TV NSW
+http://013tv.com:8080/F12744/346751ce/301388
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d54cc07e45e6147851f02b6eaf4904a2.png" tvg-id="3295" ,ABC TV Plus
+http://013tv.com:8080/F12744/346751ce/186983
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,ABC TV QLD
+http://013tv.com:8080/F12744/346751ce/301384
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,ABC TV SA
+http://013tv.com:8080/F12744/346751ce/301385
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,ABC TV VIC
+http://013tv.com:8080/F12744/346751ce/301386
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c717fb19df352e049ffd0a60a2239be1.png" tvg-id="446960" ,ausbiz TV
+http://013tv.com:8080/F12744/346751ce/166436
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png" ,beIN Sports 1
+http://013tv.com:8080/F12744/346751ce/35347
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-05/8cad1966300696996f3d89898b037892.png" ,beIN Sports 2
+http://013tv.com:8080/F12744/346751ce/35338
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" ,beIN Sports 3
+http://013tv.com:8080/F12744/346751ce/35340
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/046b2aecb1e36f6971daaf52345c30c9.png" tvg-id="446954" ,Bloomberg TV
+http://013tv.com:8080/F12744/346751ce/146817
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Bloomberg TV Asia Live Event
+http://013tv.com:8080/F12744/346751ce/299796
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2af5220e3523765e99f77e08d8a2628b.jpg" ,Channel 31
+http://013tv.com:8080/F12744/346751ce/299547
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Channel 44
+http://013tv.com:8080/F12744/346751ce/247467
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/57460d67be4046982518f5cb781a002c.png" ,Channel 9 Sydney
+http://013tv.com:8080/F12744/346751ce/144805
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" tvg-id="447026" ,ESPN
+http://013tv.com:8080/F12744/346751ce/294449
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" tvg-id="447031" ,ESPN 2
+http://013tv.com:8080/F12744/346751ce/35326
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ee4ab7a21a7ca24efabffdc9b6504332.png" ,Expo Channel
+http://013tv.com:8080/F12744/346751ce/54325
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" ,Fox Sports 501
+http://013tv.com:8080/F12744/346751ce/279034
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" ,Fox Sports 502
+http://013tv.com:8080/F12744/346751ce/81784
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" tvg-id="447015" ,Fox Sports 503
+http://013tv.com:8080/F12744/346751ce/280192
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" ,Fox Sports 504
+http://013tv.com:8080/F12744/346751ce/280193
+#EXTINF:-1 group-title="Australia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Fox Sports 504 AFL
+http://013tv.com:8080/F12744/346751ce/306510
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" tvg-id="447007" ,Fox Sports 505
+http://013tv.com:8080/F12744/346751ce/144772
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" tvg-id="446961" ,Fox Sports 506
+http://013tv.com:8080/F12744/346751ce/279033
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" ,Fox Sports 507
+http://013tv.com:8080/F12744/346751ce/280194
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" tvg-id="447006" ,Fox Sports News
+http://013tv.com:8080/F12744/346751ce/76006
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/9d6f4a12186af10f0b25601d0c27b119.jpg" ,Gusto TV
+http://013tv.com:8080/F12744/346751ce/279771
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/6de84acdc109d6d54d3420993847e1ed.jpg" ,Juice TV
+http://013tv.com:8080/F12744/346751ce/285948
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0bc18a32ddd6c8a9f82f6f0d4fd30771.png" ,Outdoor Channel
+http://013tv.com:8080/F12744/346751ce/304036
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32a7f96ee728a01325c94298cac1cd77.png" tvg-id="446983" ,Racing.com
+http://013tv.com:8080/F12744/346751ce/144781
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9854dca0878fc85b2b6a2faa584c566f.svg" tvg-id="447030" ,Real Crime
+http://013tv.com:8080/F12744/346751ce/305317
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/da082a35d86981edc3c171e4a4756bf5.png" tvg-id="442912" ,SBS
+http://013tv.com:8080/F12744/346751ce/295039
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/839851ed442f2eaf74ef20955b55ab5d.png" ,SBS Food Network
+http://013tv.com:8080/F12744/346751ce/144778
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/514e18cec177adff3881ee19f83812b3.png" tvg-id="442911" ,SBS Viceland
+http://013tv.com:8080/F12744/346751ce/146812
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f4f1c70099d00a880f13a9ca5818f4ce.png" tvg-id="442910" ,SBS World Movies
+http://013tv.com:8080/F12744/346751ce/186984
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1884f300c5c4c9794b49cbd74800de73.svg" tvg-id="447000" ,Sky News
+http://013tv.com:8080/F12744/346751ce/81732
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-07/3398194ce5dfca13c66c28d9bfdc86ba.png" tvg-id="447013" ,Sky Racing 1
+http://013tv.com:8080/F12744/346751ce/201085
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/260faf55709f9e5f93ec10c6f741314d.png" ,Smithsonian Channel
+http://013tv.com:8080/F12744/346751ce/279779
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-04/30f9678e3194a2fe8331b03a5047e339.png" ,Sports First
+http://013tv.com:8080/F12744/346751ce/306957
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/38fa954f7c84c2a3de25629c74f4cee7.png" ,Time Line Australia
+http://013tv.com:8080/F12744/346751ce/285941
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/160020a5ce258f3a3fdbbdf699dcabdf.png" tvg-id="447011" ,TVSN
+http://013tv.com:8080/F12744/346751ce/54329
+#EXTINF:-1 group-title="Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7f0d9f00d2d5be5fb14c755ae92d0d4d.png" ,Wonder
+http://013tv.com:8080/F12744/346751ce/285944
+
+
+
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7ec7d3f183941f7132b501278bd44d45.png" ,Bloomberg TV Asia Pacific (English)
+http://013tv.com:8080/F12744/346751ce/301292
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/922f3a926c35113249ce2b0848ee8d49.png" tvg-id="378819" ,CCTV 1
+http://013tv.com:8080/F12744/346751ce/283602
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-id="378821" ,CCTV 3
+http://013tv.com:8080/F12744/346751ce/306511
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c55699cda773f7257e344c022be05b90.png" tvg-id="378822" ,CCTV 4
+http://013tv.com:8080/F12744/346751ce/174652
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,CCTV+ 1
+http://013tv.com:8080/F12744/346751ce/283595
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/a82cd0ef77a060d51c658796eb6b6d9b.png" ,CGTN Arabic
+http://013tv.com:8080/F12744/346751ce/121016
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b0c3f5c87e88102dea9d98d7028b8aa5.png" ,CGTN Documentary
+http://013tv.com:8080/F12744/346751ce/199989
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3ed1eadb0c5ac779f0ba69faf1cecad.png" ,CGTN English
+http://013tv.com:8080/F12744/346751ce/4818
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3cc7598746cfbc77eecaa04ca7abdb87.png" tvg-id="457692" ,CGTN TV
+http://013tv.com:8080/F12744/346751ce/299479
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,douyu19
+http://013tv.com:8080/F12744/346751ce/307914
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3ea198ecb9b993ae30b78e22f8064062.png" ,Good TV
+http://013tv.com:8080/F12744/346751ce/299473
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,HOY TV
+http://013tv.com:8080/F12744/346751ce/301294
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Xizang TV Chinese
+http://013tv.com:8080/F12744/346751ce/307989
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e1156df1fc6703163c81de0b25fb8005.png" ,Zhejiang TV International
+http://013tv.com:8080/F12744/346751ce/307923
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,万州三峡移民
+http://013tv.com:8080/F12744/346751ce/307803
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/3b064367dae86d580b72bdcbc0a5b843.jpg" ,上虞1新闻综合
+http://013tv.com:8080/F12744/346751ce/167340
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/d17cad98abb348d5651a33f78db0243b.jpg" ,上虞3新商都
+http://013tv.com:8080/F12744/346751ce/167341
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/5be7e4aebdf7e9bfbb2b3d035ee60d46.png" ,云南 Ⅰ 文山综合台
+http://013tv.com:8080/F12744/346751ce/283748
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/32f4ba91687cff2e6ebc60d0800d02ba.jpg" ,余姚姚江文化
+http://013tv.com:8080/F12744/346751ce/283725
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/7e8ec089fb756d6343d82355587bb0db.png" ,余姚新闻综合
+http://013tv.com:8080/F12744/346751ce/283724
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,兴隆综合
+http://013tv.com:8080/F12744/346751ce/307802
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,农安新闻综合
+http://013tv.com:8080/F12744/346751ce/307801
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,前郭综合
+http://013tv.com:8080/F12744/346751ce/307800
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,吉林市新闻综合
+http://013tv.com:8080/F12744/346751ce/307799
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/0845bc216c62a1fc5b34f8291c9c9afc.png" ,唯心電視
+http://013tv.com:8080/F12744/346751ce/283319
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,四平新闻综合
+http://013tv.com:8080/F12744/346751ce/307798
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,宿州公共
+http://013tv.com:8080/F12744/346751ce/307797
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,宿州新闻综合
+http://013tv.com:8080/F12744/346751ce/307796
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,宿州科教
+http://013tv.com:8080/F12744/346751ce/307795
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/60567f2f075af20911fa7fe7b8e6fef1.jpg" ,嵊州综合
+http://013tv.com:8080/F12744/346751ce/283542
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,延边新闻综合
+http://013tv.com:8080/F12744/346751ce/307757
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,文山综合
+http://013tv.com:8080/F12744/346751ce/299831
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,新昌新聞綜合
+http://013tv.com:8080/F12744/346751ce/283804
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,松原新闻综合
+http://013tv.com:8080/F12744/346751ce/307755
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,欧美大片2
+http://013tv.com:8080/F12744/346751ce/307754
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,浙江 Ⅰ 绍兴影视
+http://013tv.com:8080/F12744/346751ce/301223
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,浙江 Ⅰ 绍兴综合
+http://013tv.com:8080/F12744/346751ce/301219
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,白城新闻综合
+http://013tv.com:8080/F12744/346751ce/307746
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,白山新闻综合
+http://013tv.com:8080/F12744/346751ce/307745
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,福州广播电视台新闻综合频道 (FZTV-1)
+http://013tv.com:8080/F12744/346751ce/307744
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,福州广播电视台都市生活频道 (FZTV-3)
+http://013tv.com:8080/F12744/346751ce/307743
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,福州电视台少儿频道 (FZTV-少儿)
+http://013tv.com:8080/F12744/346751ce/307742
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,红牛REDBULL TV
+http://013tv.com:8080/F12744/346751ce/307740
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,荣昌综合
+http://013tv.com:8080/F12744/346751ce/299815
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,萧山新闻综合
+http://013tv.com:8080/F12744/346751ce/283403
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/d859edbb4ead2160e9cca8d559851572.png" ,萬州三峽移民
+http://013tv.com:8080/F12744/346751ce/283404
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,萬州影視文藝
+http://013tv.com:8080/F12744/346751ce/283405
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,萬州科教頻道
+http://013tv.com:8080/F12744/346751ce/283406
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/90a199c73bed7a80153a106238f48586.png" ,萬州綜合頻道
+http://013tv.com:8080/F12744/346751ce/283407
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,蕭山生活頻道
+http://013tv.com:8080/F12744/346751ce/301218
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,辽源新闻综合
+http://013tv.com:8080/F12744/346751ce/307739
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,通化新闻
+http://013tv.com:8080/F12744/346751ce/307738
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-id="457987" ,长春综合
+http://013tv.com:8080/F12744/346751ce/307737
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,集安综合
+http://013tv.com:8080/F12744/346751ce/307736
+#EXTINF:-1 group-title="China" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,靖江新闻綜合
+http://013tv.com:8080/F12744/346751ce/307734
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,韩国花花公子2
+http://013tv.com:8080/F12744/346751ce/283477
+#EXTINF:-1 group-title="China" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/c5a6dab2d73282ae331f7802eed08e58.png" ,餘姚姚江文化
+http://013tv.com:8080/F12744/346751ce/283479
+
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" ,Animal Planet
+http://013tv.com:8080/F12744/346751ce/301290
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" ,Animax
+http://013tv.com:8080/F12744/346751ce/157486
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" tvg-id="2552" ,Astro Arena
+http://013tv.com:8080/F12744/346751ce/157485
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Astro ASSP2
+http://013tv.com:8080/F12744/346751ce/311282
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" tvg-id="369625" ,Astro Awani
+http://013tv.com:8080/F12744/346751ce/157478
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Astro beIN MAX
+http://013tv.com:8080/F12744/346751ce/311281
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" tvg-id="399520" ,Astro Cricket
+http://013tv.com:8080/F12744/346751ce/157565
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" tvg-id="399498" ,Astro Football
+http://013tv.com:8080/F12744/346751ce/157558
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" tvg-id="369605" ,Astro Oasis
+http://013tv.com:8080/F12744/346751ce/157489
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" tvg-id="399491" ,Astro Premier League 2
+http://013tv.com:8080/F12744/346751ce/306491
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" tvg-id="369696" ,Astro Prima
+http://013tv.com:8080/F12744/346751ce/157467
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" tvg-id="369608" ,Astro Ria
+http://013tv.com:8080/F12744/346751ce/158347
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Astro Star Vijay
+http://013tv.com:8080/F12744/346751ce/247429
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Astro SuperSport ULTRA
+http://013tv.com:8080/F12744/346751ce/311278
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Astro tvN Movies ULTRA
+http://013tv.com:8080/F12744/346751ce/311279
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" tvg-id="369590" ,BBC Earth
+http://013tv.com:8080/F12744/346751ce/171979
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/de4c06dbe77d67ebc9a62021eb9857f5.png" tvg-id="369595" ,BBC Lifestyle
+http://013tv.com:8080/F12744/346751ce/171976
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Capital TV
+http://013tv.com:8080/F12744/346751ce/308740
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" tvg-id="369656" ,Celestial Movies
+http://013tv.com:8080/F12744/346751ce/174687
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-07/6e3c9a0b7c535c9e4e63c7c9c40988f8.png" ,Citra Drama
+http://013tv.com:8080/F12744/346751ce/311286
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" ,Discovery Science
+http://013tv.com:8080/F12744/346751ce/157530
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" tvg-id="369710" ,Hits
+http://013tv.com:8080/F12744/346751ce/157545
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/66fa4b713f7285f31deb54c97d10bf3c.jpg" ,KIX
+http://013tv.com:8080/F12744/346751ce/299963
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sony Setmax
+http://013tv.com:8080/F12744/346751ce/171988
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e63eb0eb23fe856c15ad341dc31a3298.png" tvg-id="484104" ,A2Z
+http://013tv.com:8080/F12744/346751ce/276601
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6dc9f619fd0473b5f58a3e58930e6bd3.png" ,ABS CBN
+http://013tv.com:8080/F12744/346751ce/144837
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fa89a31358f97bba2dd61f63734bba0.png" tvg-id="484102" ,ANC
+http://013tv.com:8080/F12744/346751ce/144833
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/977e497d79d8efea35f180aa4f732b09.svg" tvg-id="182899" ,Animal Planet
+http://013tv.com:8080/F12744/346751ce/144824
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/6f994d0864737b77a93c0797eb8f9180.png" ,Animax Philippines
+http://013tv.com:8080/F12744/346751ce/144838
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/5f4729e5cbd903399d4f58fbf7553f8b.jpg" tvg-id="322518" ,Asian Food Network
+http://013tv.com:8080/F12744/346751ce/299960
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/79163a3883ff4c56864552f4f799b120.png" tvg-id="484096" ,AXN
+http://013tv.com:8080/F12744/346751ce/144831
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/c0b175ca682eddf69487eb1d8389e0d8.svg" tvg-id="322522" ,BBC Earth
+http://013tv.com:8080/F12744/346751ce/308672
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" ,beIN Sports 1
+http://013tv.com:8080/F12744/346751ce/282772
+#EXTINF:-1 group-title="Philippines" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,beIN Sports 2
+http://013tv.com:8080/F12744/346751ce/282773
+#EXTINF:-1 group-title="Philippines" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,beIN Sports 3
+http://013tv.com:8080/F12744/346751ce/266844
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bf74ed1331c9f4c7190a9e2a13881e2d.png" tvg-id="12427" ,Bloomberg TV
+http://013tv.com:8080/F12744/346751ce/144834
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/17f8b620b5a1b26f3f11b3ca14013705.png" tvg-id="322475" ,BuKo Channel
+http://013tv.com:8080/F12744/346751ce/299952
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/a7e076dc55f6f28f063d81b51eeacedc.png" ,Cartoon Network
+http://013tv.com:8080/F12744/346751ce/144835
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg" ,Cine Mo!
+http://013tv.com:8080/F12744/346751ce/299956
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/abf46081bda2ee5c8221b6ec7a850675.png" ,Cinema One Global
+http://013tv.com:8080/F12744/346751ce/299955
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/821d8306196e8b062b261cf8be4b9eaa.png" ,Discovery Asia
+http://013tv.com:8080/F12744/346751ce/144858
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/ff00b1703c149f37c84fbe2d162075df.png" ,GMA Life TV
+http://013tv.com:8080/F12744/346751ce/144867
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/20fd546935c0ac5386dbc81309c5ef82.png" ,GMA News TV
+http://013tv.com:8080/F12744/346751ce/144859
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7056365d48133ed08a9a44cdb4059ae8.png" ,Great Commission TV
+http://013tv.com:8080/F12744/346751ce/286742
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/25a947de7468f737681c69be85513c35.svg" tvg-id="484099" ,History
+http://013tv.com:8080/F12744/346751ce/304249
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ed443b244296a383cec03e00d8ff0d59.png" tvg-id="322462" ,HITS
+http://013tv.com:8080/F12744/346751ce/144860
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b5441d5267592cb28cda65639ec25d10.png" tvg-id="322492" ,HITS Movies
+http://013tv.com:8080/F12744/346751ce/285605
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/9a59aa523340e00a9e2ec670ff310ec5.png" tvg-id="322460" ,IBC 13
+http://013tv.com:8080/F12744/346751ce/276527
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7aac68a88cfef3f3561f05779704e077.png" ,Kapatid TV 5
+http://013tv.com:8080/F12744/346751ce/171991
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/36b3f519082856af7537cb298f13c3f1.png" tvg-id="307744" ,Knowledge Channel
+http://013tv.com:8080/F12744/346751ce/299942
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/0b9679d26965a50aeeac957d139d619c.png" tvg-id="11940" ,Lifetime
+http://013tv.com:8080/F12744/346751ce/147240
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/0d8a170d88a7e620ca1e3554fbb8e679.png" ,Moonbug
+http://013tv.com:8080/F12744/346751ce/299958
+#EXTINF:-1 group-title="Philippines" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,MTV Live
+http://013tv.com:8080/F12744/346751ce/304354
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/638b1d821ff28c444b3d9dfa622d1c62.png" tvg-id="308380" ,Nick Junior
+http://013tv.com:8080/F12744/346751ce/144898
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c7ab06cbf7585369cd9b05e358fa0cd.png" tvg-id="7845" ,nickelodeon
+http://013tv.com:8080/F12744/346751ce/144870
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa4b132918cc8bfbd6ed83bbbaf05ace.png" ,One
+http://013tv.com:8080/F12744/346751ce/276603
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/b0ab767d8d461e6dc1b58853ae134af9.png" tvg-id="322511" ,One News
+http://013tv.com:8080/F12744/346751ce/299946
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/1a5a6455992a466b4c14a8b7ff1ebe11.png" tvg-id="322490" ,One Sports
+http://013tv.com:8080/F12744/346751ce/299947
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/aa72ca0d8a5e61e9837c52901b14ee0e.png" tvg-id="322515" ,One Sports +
+http://013tv.com:8080/F12744/346751ce/290365
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" tvg-id="322482" ,PBA Rush
+http://013tv.com:8080/F12744/346751ce/299950
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f50190a49e78f82305afd37d1a657757.svg" tvg-id="484094" ,PTV
+http://013tv.com:8080/F12744/346751ce/193221
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8fcd2d946876de05e7a3fc9a14bc3e31.png" ,Tap Edge
+http://013tv.com:8080/F12744/346751ce/304251
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" tvg-id="322530" ,TAP Sports
+http://013tv.com:8080/F12744/346751ce/299945
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" ,TFC
+http://013tv.com:8080/F12744/346751ce/121795
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/da1bef7ad90b7af523080f303903ee17.png" ,TLC
+http://013tv.com:8080/F12744/346751ce/144900
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3256b4b3d72c80424d9c34f63208ca9a.svg" tvg-id="182921" ,Travel Channel
+http://013tv.com:8080/F12744/346751ce/144881
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" tvg-id="322484" ,UAAP Varsity Channel
+http://013tv.com:8080/F12744/346751ce/299944
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/39367655f3636dab5287864ea572de01.png" tvg-id="489131" ,Viva Cinema
+http://013tv.com:8080/F12744/346751ce/276531
+#EXTINF:-1 group-title="Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/050dfc679295d4887b15bacffd627f4d.png" tvg-id="322523" ,Warner TV
+http://013tv.com:8080/F12744/346751ce/170006
+
+
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/ad96f0c892975d0a2939e061496b668a.png" ,Beautiful Life TV
+http://013tv.com:8080/F12744/346751ce/166358
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f00ca630d3bb2994b28dfcdfd3830a4d.png" ,Buddha Compassion TV Station
+http://013tv.com:8080/F12744/346751ce/306516
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/c7cf3d2b107129204140d4208c61f7e3.png" ,Da Ai TV
+http://013tv.com:8080/F12744/346751ce/294625
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Dali TV
+http://013tv.com:8080/F12744/346751ce/305419
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/753a0c9e32bd10d285a839ebe6fee141.png" ,Good 2
+http://013tv.com:8080/F12744/346751ce/284246
+#EXTINF:-1 group-title="Taiwan" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,GOOD 47
+http://013tv.com:8080/F12744/346751ce/305410
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/330b2d1bc23156ca320dd2ecb6a68cc2.png" ,Good TV
+http://013tv.com:8080/F12744/346751ce/284247
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/14b6c86216991a3cf4f6c8a4a9ee80ce.jpg" ,Supreme Master TV
+http://013tv.com:8080/F12744/346751ce/284727
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/27ca01053f5db5d4febc12b6cdb44ae5.png" ,TVBS Asia
+http://013tv.com:8080/F12744/346751ce/305399
+#EXTINF:-1 group-title="Taiwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/6ec970069afd0ccb666132f18c4eb3d1.png" ,Wei Xin TV
+http://013tv.com:8080/F12744/346751ce/299475
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1d6f3e53d95ce8af4dc7e73ce2f844dc.png" ,13 Siam Thai
+http://013tv.com:8080/F12744/346751ce/146708
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" ,Amarin 34
+http://013tv.com:8080/F12744/346751ce/146703
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,ASTV News 1
+http://013tv.com:8080/F12744/346751ce/166822
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/42541d27c6996643ce55f74f5f469ff9.png" ,AXN
+http://013tv.com:8080/F12744/346751ce/162529
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" ,BBTV Channel 7
+http://013tv.com:8080/F12744/346751ce/23853
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" ,Cartoon Network
+http://013tv.com:8080/F12744/346751ce/172166
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" ,Channel 3
+http://013tv.com:8080/F12744/346751ce/266866
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Channel 5
+http://013tv.com:8080/F12744/346751ce/305389
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/157a5877321833c9699a238fb977f428.png" ,Channel 8
+http://013tv.com:8080/F12744/346751ce/281631
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5aedbb90378d997c50b0a3c2f66bed7d.png" ,DL TV 1
+http://013tv.com:8080/F12744/346751ce/163375
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/701b5c419138fabf0bc71282abead28f.png" ,DL TV 10
+http://013tv.com:8080/F12744/346751ce/163384
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" ,DL TV 11
+http://013tv.com:8080/F12744/346751ce/163385
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7db860b802219750cac31a45910f9982.png" ,DL TV 12
+http://013tv.com:8080/F12744/346751ce/163386
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" ,DL TV 13
+http://013tv.com:8080/F12744/346751ce/163387
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ae7da1a6848ba39405fa468a5482ff68.png" ,DL TV 14
+http://013tv.com:8080/F12744/346751ce/163388
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a5ece1f2633cf02e4f282b4580330aa2.png" ,DL TV 15
+http://013tv.com:8080/F12744/346751ce/163389
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" ,DL TV 2
+http://013tv.com:8080/F12744/346751ce/163376
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" ,DL TV 3
+http://013tv.com:8080/F12744/346751ce/163377
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" ,DL TV 4
+http://013tv.com:8080/F12744/346751ce/163378
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" ,DL TV 5
+http://013tv.com:8080/F12744/346751ce/163379
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" ,DL TV 6
+http://013tv.com:8080/F12744/346751ce/163380
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" ,DL TV 7
+http://013tv.com:8080/F12744/346751ce/163381
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" ,DL TV 8
+http://013tv.com:8080/F12744/346751ce/163382
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" ,DL TV 9
+http://013tv.com:8080/F12744/346751ce/163383
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e637936c492f47caaa35c3649598d2c9.png" ,Fox Family Movies
+http://013tv.com:8080/F12744/346751ce/266872
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,GBN
+http://013tv.com:8080/F12744/346751ce/299487
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" ,Global Buddhist Network
+http://013tv.com:8080/F12744/346751ce/299375
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7ef529237f7d99c737aab51df40ae283.png" ,GMM 25
+http://013tv.com:8080/F12744/346751ce/146729
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" ,Good Idea TV
+http://013tv.com:8080/F12744/346751ce/146728
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/59c32359b36af431a2ddf6b459d8b00b.png" ,Major Channel Mix
+http://013tv.com:8080/F12744/346751ce/158607
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" ,MCOT
+http://013tv.com:8080/F12744/346751ce/145029
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" ,Mono 29
+http://013tv.com:8080/F12744/346751ce/146760
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,MonoMax 1
+http://013tv.com:8080/F12744/346751ce/310170
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/24ed9e23aa4cb4c0ef910e9c7d6bea77.png" ,MV TV Five
+http://013tv.com:8080/F12744/346751ce/23879
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2d88189579ae452a99fcab007506d80b.jpeg" ,Nation TV
+http://013tv.com:8080/F12744/346751ce/146781
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f8fee14f8a8ea3489b96f8ed9b65695e.png" ,NBT TV
+http://013tv.com:8080/F12744/346751ce/23886
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" ,New 18
+http://013tv.com:8080/F12744/346751ce/15004
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" ,News 1
+http://013tv.com:8080/F12744/346751ce/174663
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/491ca32875193d61a9de5c5b04651e08.png" ,One 31
+http://013tv.com:8080/F12744/346751ce/23892
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/6ab5f5a1f9ef3a8712777939a873ab74.png" ,Police TV
+http://013tv.com:8080/F12744/346751ce/158618
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" ,PPTV HD 36
+http://013tv.com:8080/F12744/346751ce/281639
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/33784cc863ff93805bd11c1c8e3928da.png" ,SBT TV
+http://013tv.com:8080/F12744/346751ce/299488
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/d4651079bdfa2e55e1a0b8cc03a95361.png" ,STOU Channel
+http://013tv.com:8080/F12744/346751ce/146791
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/8090f9e24fbcabe84feab8c70e21e881.png" ,Suwannabhumi Channel
+http://013tv.com:8080/F12744/346751ce/147255
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" ,Thai Channel 8
+http://013tv.com:8080/F12744/346751ce/146796
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" ,Thai Parliament TV
+http://013tv.com:8080/F12744/346751ce/285565
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" ,Thai PBS 3
+http://013tv.com:8080/F12744/346751ce/145027
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" ,Thai TV 5
+http://013tv.com:8080/F12744/346751ce/162537
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" ,Thairath TV 32
+http://013tv.com:8080/F12744/346751ce/23909
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Top News
+http://013tv.com:8080/F12744/346751ce/305377
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/021476879e3c00b468957969dd99b258.png" ,True 4U
+http://013tv.com:8080/F12744/346751ce/54319
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,True Premiere League 1
+http://013tv.com:8080/F12744/346751ce/264819
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/da0e484705b268036f917eacfa324bc8.png" ,True Sport 1
+http://013tv.com:8080/F12744/346751ce/304834
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ae2205185399dab87a15fb81161f8d48.png" ,True Sport 2
+http://013tv.com:8080/F12744/346751ce/304833
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" ,True Sport 4
+http://013tv.com:8080/F12744/346751ce/285569
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" ,White Channel
+http://013tv.com:8080/F12744/346751ce/23908
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/feb6a0a6045bfde171e1292fb7fd86c1.png" ,Workpoint 23
+http://013tv.com:8080/F12744/346751ce/23405
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" ,Yateem TV
+http://013tv.com:8080/F12744/346751ce/158801
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1b2c5cc0bebe058f8aacc2f6b95f262.png" ,Zabb Channel
+http://013tv.com:8080/F12744/346751ce/158622
+
+
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/4d0b3f1b7ed1ba5f8c584463eaf6477e.png" ,An Giang TV 1
+http://013tv.com:8080/F12744/346751ce/144982
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/b977b864c777e63f7ce4ab0c6933ace8.jpeg" ,An Giang TV 2
+http://013tv.com:8080/F12744/346751ce/284732
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/171cfee003cb96de14dfaf62e85d85e3.png" ,An Ninh TV
+http://013tv.com:8080/F12744/346751ce/145002
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/31d6d3bd05a08b424812855ceddb745d.png" ,Brian TV
+http://013tv.com:8080/F12744/346751ce/284692
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/b9bd20c4edebd340e173762f5c1e133e.png" ,Cao Bang TV
+http://013tv.com:8080/F12744/346751ce/307037
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/95dae3bffb2fb5d2e1880c5fa3b24282.jpg" ,Da Nang TV 1
+http://013tv.com:8080/F12744/346751ce/145004
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Dao Lane Xang
+http://013tv.com:8080/F12744/346751ce/284696
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/1dcc956af3296722fcfbfcab6b279298.png" tvg-id="411385" ,Đồng Nai 1
+http://013tv.com:8080/F12744/346751ce/172116
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/9463b51a1d910546c0907e1dfa7f35be.png" tvg-id="411441" ,Đồng Nai 2
+http://013tv.com:8080/F12744/346751ce/172117
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-01/bcd75c19696b988660df0c28dad36ba7.png" tvg-id="411415" ,Gia Lai TV
+http://013tv.com:8080/F12744/346751ce/145017
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/e9a37239d88b729277c8ded0dfb5349e.png" ,Good Idea TV
+http://013tv.com:8080/F12744/346751ce/284699
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hmong Star TV
+http://013tv.com:8080/F12744/346751ce/284701
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hmong TV Network
+http://013tv.com:8080/F12744/346751ce/284702
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Houng Fa
+http://013tv.com:8080/F12744/346751ce/284704
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/2ebce6cdfe8dc265ba805c60ec7e6edf.png" tvg-id="411514" ,HTV 2
+http://013tv.com:8080/F12744/346751ce/172014
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/56016c42f0a02a297cef2825b13d1d36.png" ,HTV 3
+http://013tv.com:8080/F12744/346751ce/172015
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/cdef5887200c78162b96805aef3857cb.jpg" tvg-id="411517" ,HTV 7
+http://013tv.com:8080/F12744/346751ce/172002
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/27083c21ee12fb8b2b0230e2ab017b0e.jpg" tvg-id="411512" ,HTV 9
+http://013tv.com:8080/F12744/346751ce/172011
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2db6eaef115fbdda8aa186d1074bde81.jpg" ,ISTV
+http://013tv.com:8080/F12744/346751ce/284705
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/a020166f50a1974e39e3aa0d811404be.png" ,Khmer TV
+http://013tv.com:8080/F12744/346751ce/284706
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Khomsanh TV
+http://013tv.com:8080/F12744/346751ce/284707
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/67d2c42aa95589a3d192dfd85179bcab.png" tvg-id="411423" ,Kien Giang TV
+http://013tv.com:8080/F12744/346751ce/145019
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-10/5520c6b95f211b892eb531cb4c1769e8.png" ,Kien Giang TV 1
+http://013tv.com:8080/F12744/346751ce/305504
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/7ddf88dd765a2bcbef12846993c6c365.jfif" ,Lao Net TV
+http://013tv.com:8080/F12744/346751ce/294873
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/63331cc2755c22828288f040132a5c43.jfif" ,Lao SV TV
+http://013tv.com:8080/F12744/346751ce/284717
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/71ef1659696da2daf2d8886b8a513313.png" ,Lao Thai US TV
+http://013tv.com:8080/F12744/346751ce/284718
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/099ff20fdb95f11b5304af5d37418098.jfif" ,Look Thoong TV
+http://013tv.com:8080/F12744/346751ce/284720
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,LS TV
+http://013tv.com:8080/F12744/346751ce/284711
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b32730b712c8bf20a5b34c069ef0e60f.png" ,NAT TV
+http://013tv.com:8080/F12744/346751ce/284721
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Ning TV
+http://013tv.com:8080/F12744/346751ce/284722
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Oh Muang Lao TV
+http://013tv.com:8080/F12744/346751ce/284723
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8608732fa148198dffa0523984782dea.png" ,Quang Nam TV (QRT)
+http://013tv.com:8080/F12744/346751ce/266888
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/dd7242411215b501cc1b7651b9413cd9.jpg" ,Tea TV
+http://013tv.com:8080/F12744/346751ce/284729
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Uniquely Thai
+http://013tv.com:8080/F12744/346751ce/284730
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Vati Lao TV
+http://013tv.com:8080/F12744/346751ce/284733
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Viet Global TV
+http://013tv.com:8080/F12744/346751ce/172093
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Viet MTV
+http://013tv.com:8080/F12744/346751ce/299384
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,VITV
+http://013tv.com:8080/F12744/346751ce/266875
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6a0e3c19f98145dccd3df565a3482121.png" tvg-id="411383" ,VTV1
+http://013tv.com:8080/F12744/346751ce/144993
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/fc20e91680aa1fef7c273d6305ae43a3.png" tvg-id="411401" ,VTV8
+http://013tv.com:8080/F12744/346751ce/172039
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0ffd98187ea351db7fa5fde48f647f21.png" tvg-id="411369" ,VTV9
+http://013tv.com:8080/F12744/346751ce/172013
+
+
+
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 1
+http://013tv.com:8080/F12744/346751ce/304099
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 2
+http://013tv.com:8080/F12744/346751ce/304098
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 3
+http://013tv.com:8080/F12744/346751ce/304097
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 4
+http://013tv.com:8080/F12744/346751ce/304096
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 5
+http://013tv.com:8080/F12744/346751ce/304095
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 6
+http://013tv.com:8080/F12744/346751ce/304094
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports 7
+http://013tv.com:8080/F12744/346751ce/304093
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports PL 1
+http://013tv.com:8080/F12744/346751ce/304467
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports PL 2
+http://013tv.com:8080/F12744/346751ce/311575
+#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Now Sports UHD
+http://013tv.com:8080/F12744/346751ce/304468
+
+
+
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Badminton
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146812
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Badminton 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146811
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Sports Plus
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146810
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro PL2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146813
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro PL
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146814
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Premier League 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146815
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Premier League
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146816
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Football
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146820
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro Grandstand
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146821
+#EXTINF:-1 group-title="ASTRO SPORTS", Astro Cricket
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/146809
+
+
+
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" ,Sony Sports Ten 1 
+http://013tv.com:8080/F12744/346751ce/16622
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" ,Sony Sports Ten 2 
+http://013tv.com:8080/F12744/346751ce/16621
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" ,Sony Sports Ten 3 
+http://013tv.com:8080/F12744/346751ce/56191
+
+
+
+#EXTINF:-1 group-title="Star Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" tvg-id="StarSports1.in" ,Star Sports 1
+http://013tv.com:8080/F12744/346751ce/3630
+#EXTINF:-1 group-title="Star Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" tvg-id="StarSports2.in" ,Star Sports 2
+http://013tv.com:8080/F12744/346751ce/3631
+#EXTINF:-1 group-title="Star Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" tvg-id="StarSports3.in" ,Star Sports 3
+http://013tv.com:8080/F12744/346751ce/62584
+#EXTINF:-1 group-title="Star Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" tvg-id="StarSportsSelect1.in" ,Star Sports Select 1
+http://013tv.com:8080/F12744/346751ce/82628
+#EXTINF:-1 group-title="Star Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/f89c11d0bc8b653f20ba4b37ba95d7c4.png" ,Ten Cricket
+http://013tv.com:8080/F12744/346751ce/302356
+
+
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports1.uk" ,TNT Sports 1
+http://013tv.com:8080/F12744/346751ce/270
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports2.uk" ,TNT Sports 2
+http://013tv.com:8080/F12744/346751ce/273
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports3.uk" ,TNT Sports 3
+http://013tv.com:8080/F12744/346751ce/271
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports4.uk" ,TNT Sports 4
+http://013tv.com:8080/F12744/346751ce/298471
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports5.uk" ,TNT Sports 5
+http://013tv.com:8080/F12744/346751ce/1124
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports8.uk" ,TNT Sports 8
+http://013tv.com:8080/F12744/346751ce/7435
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports9.uk" ,TNT Sports 9
+http://013tv.com:8080/F12744/346751ce/7438
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" tvg-id="TNTSports10.uk" ,TNT Sports 10
+http://013tv.com:8080/F12744/346751ce/283203
+
+
+
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" tvg-id="SkySport24.it" ,Sky Sport 24
+http://013tv.com:8080/F12744/346751ce/2535
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" tvg-id="SkySportCalcio.it" ,Sky Sport Calcio
+http://013tv.com:8080/F12744/346751ce/84505
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" tvg-id="SkySportF1.it" ,Sky Sport F1
+http://013tv.com:8080/F12744/346751ce/2542
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" tvg-id="SkySportGolf.it" ,Sky Sport Golf
+http://013tv.com:8080/F12744/346751ce/147371
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Sport Legend
+http://013tv.com:8080/F12744/346751ce/311546
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/88d17c77b3415cf758005d5c5aa20fa5.png" tvg-id="SkySportMax.it" ,Sky Sport Max
+http://013tv.com:8080/F12744/346751ce/304195
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" tvg-id="SkySportMotoGP.it" ,Sky Sport Moto GP
+http://013tv.com:8080/F12744/346751ce/9880
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" tvg-id="SkySportNBA.it" ,Sky Sport NBA
+http://013tv.com:8080/F12744/346751ce/1047
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf338efcc816a54a527c44294c1b44c1.png" ,Sky Sport Serie A
+http://013tv.com:8080/F12744/346751ce/2546
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a927d7f92a83a11a455602f67606407b.png" tvg-id="SkySportTennis.it" ,Sky Sport Tennis
+http://013tv.com:8080/F12744/346751ce/304258
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" tvg-id="SkySportUno.it" ,Sky Sport Uno
+http://013tv.com:8080/F12744/346751ce/278706
+
+
+
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" tvg-id="ElevenSports14K.pl" ,ELEVEN SPORTS 1
+http://013tv.com:8080/F12744/346751ce/347
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Eleven Sports 1 Polska UHD
+http://013tv.com:8080/F12744/346751ce/310266
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" tvg-id="ElevenSports2.pl" ,ELEVEN SPORTS 2
+http://013tv.com:8080/F12744/346751ce/3643
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" tvg-id="ElevenSports3.pl" ,ELEVEN SPORTS 3
+http://013tv.com:8080/F12744/346751ce/3644
+#EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" tvg-id="ElevenSports4.pl" ,ELEVEN SPORTS 4
+http://013tv.com:8080/F12744/346751ce/3645
+
+
+
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-04/eaee67b411c2186fe82c4bf790e7293d.svg" tvg-id="PolsatSport1.pl" ,Polsat Sport 1
+http://013tv.com:8080/F12744/346751ce/356
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/96059c2d8575d5f094ceaecbe9e81ec3.png" tvg-id="PolsatSport2.pl" ,Polsat Sport 2
+http://013tv.com:8080/F12744/346751ce/304319
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/958744c2832ad89ee91cdc11b4e84e17.png" tvg-id="PolsatSport3.pl" ,Polsat Sport 3
+http://013tv.com:8080/F12744/346751ce/304317
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-05/76fa73b5492a34300a0528133ba26dd7.svg" tvg-id="7835" ,Polsat Sport Extra 1
+http://013tv.com:8080/F12744/346751ce/353
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-05/f811acd36fd97d7a063bab8665b00933.svg" ,Polsat Sport Extra 2
+http://013tv.com:8080/F12744/346751ce/309218
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-09/d5ca7a2e3d1e5ff4f9927e6dbe8a6b9b.svg" ,Polsat Sport Extra 3
+http://013tv.com:8080/F12744/346751ce/308023
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-09/17c52b0d3f1f81b151421440ad831bae.svg" ,Polsat Sport Extra 4
+http://013tv.com:8080/F12744/346751ce/308022
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/004ea7bb81589ce24fbeb5aae3ee1a3c.png" tvg-id="PolsatSportFight.pl" ,Polsat Sport FIGHT
+http://013tv.com:8080/F12744/346751ce/26592
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1a0067670263c42a460b113615cfd80a.png" tvg-id="7221" ,Polsat Sport News
+http://013tv.com:8080/F12744/346751ce/355
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" tvg-id="PolsatSportPremium1.pl" ,Polsat Sport Premium 1
+http://013tv.com:8080/F12744/346751ce/23199
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" tvg-id="PolsatSportPremium2.pl" ,Polsat Sport Premium 2
+http://013tv.com:8080/F12744/346751ce/29607
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" tvg-id="PolsatSportPremium3.pl" ,Polsat Sport Premium 3
+http://013tv.com:8080/F12744/346751ce/147031
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" tvg-id="PolsatSportPremium4.pl" ,Polsat Sport Premium 4
+http://013tv.com:8080/F12744/346751ce/147034
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png" tvg-id="Sportklub.pl" ,Sport Klub
+http://013tv.com:8080/F12744/346751ce/3211
+#EXTINF:-1 group-title="Polsat Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a1062d71be753ce76c06705131811c3e.png" tvg-id="TVPSport.pl" ,TVP Sport
+http://013tv.com:8080/F12744/346751ce/3240
+
+
+
+#EXTINF:-1 group-title="Canal  Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4103f08667719cf9449e3df11e0a27a0.png" tvg-id="CANAL+Sport.pl" ,CANAL+ Sport
+http://013tv.com:8080/F12744/346751ce/69426
+#EXTINF:-1 group-title="Canal  Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/13195a8ec80cfd5754934fa6b004be0d.png" tvg-id="CANAL+Sport2.pl" ,CANAL+ Sport 2
+http://013tv.com:8080/F12744/346751ce/343
+#EXTINF:-1 group-title="Canal  Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0c5a073d3a1fab634642a6235cbb08d4.png" tvg-id="CANAL+Sport3.pl" ,CANAL+ Sport 3
+http://013tv.com:8080/F12744/346751ce/33580
+#EXTINF:-1 group-title="Canal  Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/57f01cd46b2f8fb03af711f9db020bb4.png" tvg-id="CANAL+Sport4.pl" ,CANAL+ Sport 4
+http://013tv.com:8080/F12744/346751ce/78322
+#EXTINF:-1 group-title="Canal  Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6b3e922a78ab307d4fc4fc1779a72aa7.png" tvg-id="CANAL+Sport5.pl" ,CANAL+ Sport 5
+http://013tv.com:8080/F12744/346751ce/297382
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png" tvg-id="Eurosport1.pl" ,Eurosport 1
+http://013tv.com:8080/F12744/346751ce/348
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cc3435593970b51fb9f5ee07e41bf4d8.png" tvg-id="Eurosport2.pl" ,Eurosport 2
+http://013tv.com:8080/F12744/346751ce/3218
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Eurosport 3
+http://013tv.com:8080/F12744/346751ce/122102
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Eurosport 4
+http://013tv.com:8080/F12744/346751ce/122100
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/566a8b323a7919b14ce15ac97f649bdf.png" tvg-id="Extreme Channel HD.pl" ,Extreme Sports Channel
+http://013tv.com:8080/F12744/346751ce/349
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png" tvg-id="Fightklub.pl" ,FIGHT Klub
+http://013tv.com:8080/F12744/346751ce/67638
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png" tvg-id="FightBox.pl" ,FightBox
+http://013tv.com:8080/F12744/346751ce/350
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png" tvg-id="GolfChannel.pl" ,Golf Channel
+http://013tv.com:8080/F12744/346751ce/26575
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/3eda95c41d13f10bcda227a485ed6619.png" tvg-id="DDSports.in" ,DD Sports
+http://013tv.com:8080/F12744/346751ce/56153
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/051f70a12057102450688ec5f2ca51e9.png" ,Willow
+http://013tv.com:8080/F12744/346751ce/165776
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/5415fde3d364bf9fb8d701138260279c.png" ,Willow 2
+http://013tv.com:8080/F12744/346751ce/308297
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" tvg-id="ACISportTv.it" ,ACI Sport TV
+http://013tv.com:8080/F12744/346751ce/298813
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" tvg-id="eurosport.it" ,Eurosport 1
+http://013tv.com:8080/F12744/346751ce/995
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" tvg-id="Eurosport2.it" ,Eurosport 2
+http://013tv.com:8080/F12744/346751ce/1040
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,EuroSport 4 TimVision
+http://013tv.com:8080/F12744/346751ce/304889
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,EuroSport 6 TimVision
+http://013tv.com:8080/F12744/346751ce/304891
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a6dc82ecd83521d041ad308113de84b.png" tvg-id="InterTV.it" ,Inter TV
+http://013tv.com:8080/F12744/346751ce/1041
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/749b778553c8182b181816a5576a80b0.png" tvg-id="MilanTV.it" ,Milan TV
+http://013tv.com:8080/F12744/346751ce/304043
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" tvg-id="RAISport.it" ,Rai Sport
+http://013tv.com:8080/F12744/346751ce/1042
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36efad06b3949a5a8ec2debd35c9293c.png" ,Sportitalia Plus
+http://013tv.com:8080/F12744/346751ce/1008
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f3f5615d6ff3e1e22c6b0bb292833ddd.svg" ,Sportitalia SoloCalcio
+http://013tv.com:8080/F12744/346751ce/299524
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" tvg-id="SuperTennis.it" ,Super Tennis
+http://013tv.com:8080/F12744/346751ce/285535
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" tvg-id="TgCom24.it" ,TGCom 24
+http://013tv.com:8080/F12744/346751ce/1007
+
+
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9e7683be2db6f420f91302c9bec428ce.png" tvg-id="5Action.uk" ,5 Action
+http://013tv.com:8080/F12744/346751ce/295070
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/cfe9cb808ace1c9863b5fce5a0a09e22.svg" tvg-id="5USA.uk" ,5 USA
+http://013tv.com:8080/F12744/346751ce/1579
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6cf66ccb2c6dd9b950e1f5e3a5585948.png" tvg-id="5USA+1.uk" ,5 USA +1
+http://013tv.com:8080/F12744/346751ce/295072
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/80aece4ee97d706257c1cb307c447972.png" tvg-id="alibi.uk" ,Alibi
+http://013tv.com:8080/F12744/346751ce/1131
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7abb107a1deba0ff50fc164bfa485d89.svg" ,Alibi +1
+http://013tv.com:8080/F12744/346751ce/306376
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/971eb7c085fbaa522dcf37653153c546.png" ,AMC
+http://013tv.com:8080/F12744/346751ce/4669
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/81870967a279dd957a75131eb8a98914.png" ,BBC America
+http://013tv.com:8080/F12744/346751ce/302390
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/80c6314c6bf6cf4d4d39736f6d47390b.png" tvg-id="cbsdrama.uk" ,CBS Drama
+http://013tv.com:8080/F12744/346751ce/1123
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8259ef48eeed339f7221d396aaa239aa.png" tvg-id="ComedyCentral.uk" ,Comedy Central
+http://013tv.com:8080/F12744/346751ce/1118
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8b4210ceb760f12d20bd852948d08333.png" tvg-id="ComedyCentralExtra.uk" ,Comedy Central Extra
+http://013tv.com:8080/F12744/346751ce/4656
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2b6f28d8e5f158ddb35b0bf7809ff76f.png" tvg-id="E4.uk" ,E4
+http://013tv.com:8080/F12744/346751ce/1110
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/acdb3d43e30f95b2119e7d84654666c5.png" tvg-id="E4+1.uk" ,E4 +1
+http://013tv.com:8080/F12744/346751ce/290662
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ead5c01129ddf27e78bdebf9609c6c49.svg" tvg-id="E4Extra.uk" ,E4 Extra
+http://013tv.com:8080/F12744/346751ce/299185
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e540f6293dc0192541a13cab82adba94.png" tvg-id="Film4.uk" ,Film 4
+http://013tv.com:8080/F12744/346751ce/1541
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Great Action
+http://013tv.com:8080/F12744/346751ce/311525
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/a876b95a447ccfa68f741cbc1a728c42.png" tvg-id="GREAT!action+1.uk" ,Great Action +1
+http://013tv.com:8080/F12744/346751ce/302706
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/43701cc6a440b78e53ffe9ece32b4801.jpg" ,Great Movies
+http://013tv.com:8080/F12744/346751ce/299746
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/cd75453c8297427fd25ac924aee64750.png" ,Great Movies +1
+http://013tv.com:8080/F12744/346751ce/173235
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/09bf3ec9c3912e03f3b433dc5c6b2367.jpg" ,Great Movies Action
+http://013tv.com:8080/F12744/346751ce/299747
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/2075e1236ff13137f20cbab12ffe2bd1.jpg" ,Great Movies Romance
+http://013tv.com:8080/F12744/346751ce/299748
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/121e0bbffaa62ddd43f126a2628196b5.png" tvg-id="GREAT!tv.uk" ,Great TV
+http://013tv.com:8080/F12744/346751ce/291220
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/60a940667f85a840cc38f838bdb413b0.png" tvg-id="GREAT!tv+1.uk" ,Great TV +1
+http://013tv.com:8080/F12744/346751ce/286776
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a4fb12b70bca06eb84651d7579682ab0.png" tvg-id="Legend.uk" ,Legend
+http://013tv.com:8080/F12744/346751ce/299735
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ce6b75f4449f75e43a733c05820c997.png" ,Pick
+http://013tv.com:8080/F12744/346751ce/1578
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Action Movies UK
+http://013tv.com:8080/F12744/346751ce/309387
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Comedy Movies UK
+http://013tv.com:8080/F12744/346751ce/309378
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Drama Movies UK
+http://013tv.com:8080/F12744/346751ce/309370
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Family Movies UK
+http://013tv.com:8080/F12744/346751ce/309365
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Reality UK
+http://013tv.com:8080/F12744/346751ce/309358
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Romance Movies UK
+http://013tv.com:8080/F12744/346751ce/309363
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Sci-Fi UK
+http://013tv.com:8080/F12744/346751ce/309349
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Thrillers UK
+http://013tv.com:8080/F12744/346751ce/309352
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ea3a16e80ddd47e86d06303f8ff66020.png" tvg-id="SkyAtlantic.uk" ,Sky Atlantic
+http://013tv.com:8080/F12744/346751ce/1093
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png" tvg-id="SkyCinemaAction.uk" ,Sky Cinema Action
+http://013tv.com:8080/F12744/346751ce/1092
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/6d21135f0e527b9a916b5922486bcec6.svg" tvg-id="SkyCinemaComedy.uk" ,Sky Cinema Comedy
+http://013tv.com:8080/F12744/346751ce/300937
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce99abde68cf1f748161e957ca140e47.png" tvg-id="SkyCinemaDrama.uk" ,Sky Cinema Drama
+http://013tv.com:8080/F12744/346751ce/1089
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9655820c8d0b584d8ff4178881022860.png" tvg-id="SkyCinemaFamily.uk" ,Sky Cinema Family
+http://013tv.com:8080/F12744/346751ce/727
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/984ca23ee3df2acd84b16320d6e878b0.png" tvg-id="SkyCinemaGreats.uk" ,Sky Cinema Greats
+http://013tv.com:8080/F12744/346751ce/1087
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png" tvg-id="SkyCinemaHits.uk" ,Sky Cinema Hits
+http://013tv.com:8080/F12744/346751ce/1086
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" tvg-id="SkyCinemaPremiere.uk" ,Sky Cinema Premiere
+http://013tv.com:8080/F12744/346751ce/1085
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71d59bc373401d25495a3af67e4c7168.png" tvg-id="SkyCinemaSci-fiAndHorror.uk" ,Sky Cinema sci-fi Horror
+http://013tv.com:8080/F12744/346751ce/725
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4d97ef6c2a49a3c596ca3a87c90751c0.png" tvg-id="SkyCinemaSelect.uk" ,Sky Cinema Select
+http://013tv.com:8080/F12744/346751ce/726
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38c736e28e49e5ce222190667af6c8b7.png" tvg-id="SkyCinemaThriller.uk" ,Sky Cinema Thriller
+http://013tv.com:8080/F12744/346751ce/1082
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f741f51e98e04e37bc78106cae981afc.png" tvg-id="SkyComedy.uk" ,Sky Comedy
+http://013tv.com:8080/F12744/346751ce/1091
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-id="Sky Nature HD.uk" ,Sky Living
+http://013tv.com:8080/F12744/346751ce/302635
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" tvg-id="SkyShowcase.uk" ,Sky Showcase
+http://013tv.com:8080/F12744/346751ce/17041
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/e6e70a727cd2f9105a1135d68679ce7f.png" tvg-id="SkyWitness.uk" ,Sky Witness
+http://013tv.com:8080/F12744/346751ce/11738
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-12/e402af8a3b79527ba9be20838144e89a.png" ,Starz
+http://013tv.com:8080/F12744/346751ce/4743
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7efa6e7db54932ddfe956aac206341dc.png" tvg-id="syfy.uk" ,SYFY
+http://013tv.com:8080/F12744/346751ce/1068
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/205065a74076b16e4a556db2fcbc4978.png" tvg-id="TalkingPicturesTV.uk" ,Talking Pictures TV
+http://013tv.com:8080/F12744/346751ce/4710
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a93620b6722c8366ea51c850e7b2f85b.png" tvg-id="tcm.uk" ,TCM
+http://013tv.com:8080/F12744/346751ce/4711
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c236629deee175740310a95faa0c2417.png" tvg-id="dave.uk" ,U&Dave
+http://013tv.com:8080/F12744/346751ce/733
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff9b7f48a48b490a48d38c4e8855d8fb.png" tvg-id="drama.uk" ,U&Drama
+http://013tv.com:8080/F12744/346751ce/4638
+#EXTINF:-1 group-title="UK  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/eb6e5f090eb6e6bf8a3f16ba28be38d6.svg" ,U&Drama +1
+http://013tv.com:8080/F12744/346751ce/302473
+
+
+
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,BBC Series
+http://013tv.com:8080/F12744/346751ce/309266
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dcc58d9e974c0d059b9e34df257bfd7.png" tvg-id="Cine34.it" ,Cine 34
+http://013tv.com:8080/F12744/346751ce/75589
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d42ca326b70ef1802b1d848b635b4be.png" tvg-id="GIALLO.it" ,Giallo
+http://013tv.com:8080/F12744/346751ce/2004
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/d8b7f502c73d0dc08fcd6f6809de1751.png" ,Gold TV
+http://013tv.com:8080/F12744/346751ce/151660
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4193a37970102d45cfd7630e4ba19f36.png" tvg-id="RaiMovie.it" ,Rai Movie
+http://013tv.com:8080/F12744/346751ce/1980
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f11a08219ade7b6d4ca9667f83c4eebd.png" tvg-id="RaiPremium.it" ,Rai Premium
+http://013tv.com:8080/F12744/346751ce/906
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Action Movies Italy
+http://013tv.com:8080/F12744/346751ce/309389
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Asian Cinema Italy
+http://013tv.com:8080/F12744/346751ce/309385
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Comedy Movies Italy
+http://013tv.com:8080/F12744/346751ce/309380
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Crime Series Italy
+http://013tv.com:8080/F12744/346751ce/309376
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Drama Movies Italy
+http://013tv.com:8080/F12744/346751ce/309372
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Family Movies Italy
+http://013tv.com:8080/F12744/346751ce/309367
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Romance Movies Italy
+http://013tv.com:8080/F12744/346751ce/309361
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Sci-Fi Italy
+http://013tv.com:8080/F12744/346751ce/309364
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Rakuten TV Top Movies Italy
+http://013tv.com:8080/F12744/346751ce/309356
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/417c7db5cab7b6e85a04c0aa2b4c8551.png" tvg-id="RealTime.it" ,Real Time
+http://013tv.com:8080/F12744/346751ce/977
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/2598c9a1526d993bbd08efc06293fe29.png" tvg-id="SkyAtlantic.it" ,Sky Atlantic
+http://013tv.com:8080/F12744/346751ce/9507
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/15d829a959e1cd35b7dc66bb58b78585.png" tvg-id="SkyCinemaAction.it" ,Sky Cinema Action
+http://013tv.com:8080/F12744/346751ce/913
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/232a48be01ef5eced635407726e438cc.png" tvg-id="SkyCinemaCollection.it" ,Sky Cinema Collection
+http://013tv.com:8080/F12744/346751ce/9473
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b65c25e9ad478d3df596f432ba726e7e.png" tvg-id="SkyCinemaComedy.it" ,Sky Cinema Comedy
+http://013tv.com:8080/F12744/346751ce/914
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/4a30df9a5d619d8cab774b0c4a4147e9.png" tvg-id="SkyCinemaDrama.it" ,Sky Cinema Drama
+http://013tv.com:8080/F12744/346751ce/9490
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/78117132cdba8f1a06b4a41ff21fc5ca.png" tvg-id="SkyCinemaDue.it" ,Sky Cinema Due
+http://013tv.com:8080/F12744/346751ce/998
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6f51d0a63c6d590b995a2fd55f528917.png" tvg-id="SkyCinemaFamily.it" ,Sky Cinema Family
+http://013tv.com:8080/F12744/346751ce/916
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dc079b32df0abb07f3643ccb7baeff57.png" tvg-id="SkyCinemaRomance.it" ,Sky Cinema Romance
+http://013tv.com:8080/F12744/346751ce/917
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Cinema Stories
+http://013tv.com:8080/F12744/346751ce/308863
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f5e05d0aac67b254e77dd4db91c9a64a.png" tvg-id="SkyCinemaSuspense.it" ,Sky Cinema Suspense
+http://013tv.com:8080/F12744/346751ce/9486
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a8272581d05bb3e69b1f857868850f68.png" tvg-id="SkyCinemaUno.it" ,Sky Cinema Uno
+http://013tv.com:8080/F12744/346751ce/918
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Cinema Uno +24
+http://013tv.com:8080/F12744/346751ce/309938
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4122f0046be963ed16f9f90436cd3021.png" tvg-id="SkyInvestigation.it" ,Sky Investigation
+http://013tv.com:8080/F12744/346751ce/280307
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/4112e77a753c57a110300639a7668aac.png" ,Sky Primafila 1
+http://013tv.com:8080/F12744/346751ce/7895
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 10
+http://013tv.com:8080/F12744/346751ce/302720
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 11
+http://013tv.com:8080/F12744/346751ce/302721
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 12
+http://013tv.com:8080/F12744/346751ce/302722
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 13
+http://013tv.com:8080/F12744/346751ce/302723
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 14
+http://013tv.com:8080/F12744/346751ce/302724
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 15
+http://013tv.com:8080/F12744/346751ce/302725
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 16
+http://013tv.com:8080/F12744/346751ce/302726
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Sky Primafila 18
+http://013tv.com:8080/F12744/346751ce/302728
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de77b233726cf1fe2cb22fbc4cc0a265.png" tvg-id="primafila10.it" ,Sky Primafila 2
+http://013tv.com:8080/F12744/346751ce/2017
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c9b40627822bd696b6068a1cf1fac5e1.png" ,Sky Primafila 3
+http://013tv.com:8080/F12744/346751ce/83439
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/987ef562f0be70189791d43a11b0bb0b.png" ,Sky Primafila 4
+http://013tv.com:8080/F12744/346751ce/932
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1f99abfea54a551e0d39726a2b2f39d1.png" tvg-id="primafila2.it" ,Sky Primafila 5
+http://013tv.com:8080/F12744/346751ce/933
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/22ed7acae48b24e90f542d0db510f7e5.png" tvg-id="primafila5.it" ,Sky Primafila 6
+http://013tv.com:8080/F12744/346751ce/2013
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/91ebb351593da86ad84539cbe07d7b12.png" ,Sky Primafila 7
+http://013tv.com:8080/F12744/346751ce/937
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/22fec3fab5963dd21e6b6fa1964dad2f.png" ,Sky Primafila 8
+http://013tv.com:8080/F12744/346751ce/938
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9cc59bd08636376c1dff5d266d7d78c8.png" ,Sky Primafila 9
+http://013tv.com:8080/F12744/346751ce/2016
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/1f7b4ed7ff39fdaac255b2ed9712eaa6.png" tvg-id="SkySerie.it" ,Sky Serie
+http://013tv.com:8080/F12744/346751ce/303943
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/8d2c282b9af97175cfeb4615e3fb4b76.png" ,SkyShowtime 1
+http://013tv.com:8080/F12744/346751ce/304576
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/d7054f5282bc4848d57e73d5120c1c25.svg" ,Star Channel
+http://013tv.com:8080/F12744/346751ce/282054
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ace0108bdcd3a1f06574488429f6c29a.png" ,Star Comedy
+http://013tv.com:8080/F12744/346751ce/266635
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Star Crime
+http://013tv.com:8080/F12744/346751ce/307785
+#EXTINF:-1 group-title="Italy  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/2bdd71b0f3d9a643490d7012bea352a1.png" tvg-id="fox.it" ,Star Life
+http://013tv.com:8080/F12744/346751ce/3565
+
+
+
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/57405299109138bd0a41ccca889aa475.png" tvg-id="black.ru" ,.Black
+http://013tv.com:8080/F12744/346751ce/283065
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/65dd8f239397a56cca0d5a5ad6767149.png" tvg-id="sci‑fi.ru" ,.Sci-fi
+http://013tv.com:8080/F12744/346751ce/148386
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3b4be8bdfa9f7b8e378c9a24953e7ed.png" ,Dom Kino (Дом кино)
+http://013tv.com:8080/F12744/346751ce/43930
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b135660ea598a1bcd9fb214fe9d4ad61.png" ,Dom Kino Premium (Дом Кино Премиум)
+http://013tv.com:8080/F12744/346751ce/298984
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/fdb93f6b7f79e18ce01266459f93ffa5.jpg" ,Evrokino (Еврокино)
+http://013tv.com:8080/F12744/346751ce/283063
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/5ca87c86b3678e2d3760138451ef7382.png" tvg-id="7806" ,Fast & FunBox
+http://013tv.com:8080/F12744/346751ce/299911
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/b6c2303723c1acac477697800448b95c.svg" tvg-id="FOXHD.ru" ,Fox
+http://013tv.com:8080/F12744/346751ce/34518
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/549dc96f8f3ecdebe84789094d25e66e.png" tvg-id="FoxLife.ru" ,Fox Life
+http://013tv.com:8080/F12744/346751ce/18981
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/253b5e31dd4d1c971db46ac1fbbb0168.png" ,Illusion+ (Иллюзион+)
+http://013tv.com:8080/F12744/346751ce/193654
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dac5bdfa2f44223ff012361e51a8f9cc.png" ,Kino TV (Кино)
+http://013tv.com:8080/F12744/346751ce/75628
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/990bdb3e5568cbd0b84288cb8b583c04.png" tvg-id="6644" ,Kino UHD
+http://013tv.com:8080/F12744/346751ce/304595
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/48fcd7d30f0417cfc5c5a7e487537adf.png" ,Kinohit (Кинохит)
+http://013tv.com:8080/F12744/346751ce/12783
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/a19dd27d7f519930fb2baf89053197e3.png" ,Kinokomedija (Кинокомедия)
+http://013tv.com:8080/F12744/346751ce/72012
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/f33061a294a4cf3c6267e2d1b7c1b3e8.png" ,Kinomiks (Киномикс)
+http://013tv.com:8080/F12744/346751ce/148356
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/7a353a5b6e94f4e0e52d83ffeaf2bb36.png" ,Kinopremyera (КИОНОПРЕМЬЕРА)
+http://013tv.com:8080/F12744/346751ce/42049
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/dd052eff30a28897b1ef1e4da159ac7d.png" ,Kinosemja (Киносемья)
+http://013tv.com:8080/F12744/346751ce/148344
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/b44de08d119d24020c3612bc40ec5963.png" ,Kinosvidanie (Киносвидание)
+http://013tv.com:8080/F12744/346751ce/166579
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26c2f6c5af582bf177a8f68195b9b66d.png" ,Kinouzhas (Киноужас)
+http://013tv.com:8080/F12744/346751ce/271226
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6e3a483e5ebf5ce1ceca47ab8109ff06.png" ,Komediynoe
+http://013tv.com:8080/F12744/346751ce/193659
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/f2df770a9d0740a423fda2cadcf844eb.png" ,Lubimoe Kino (Любимое кино)
+http://013tv.com:8080/F12744/346751ce/174809
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5a695d9d3e5712d02d5f63dba7793747.png" ,Millet
+http://013tv.com:8080/F12744/346751ce/165956
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a7e8cea23acfc701941dfac694120724.png" ,Muzhskoe Kino (Мужское кино)
+http://013tv.com:8080/F12744/346751ce/148378
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/d7191d8f872eafc88d6b0797914d0956.png" ,Nashe Novoe Kino (Наше новое кино)
+http://013tv.com:8080/F12744/346751ce/18987
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/20acc9b2aa36fa27894610e883747887.png" ,Rodnoe Kino (Родное Кино)
+http://013tv.com:8080/F12744/346751ce/148369
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b6f27d2849efdc400973e06fd7fa426.png" ,Russkiy Roman (Русский роман)
+http://013tv.com:8080/F12744/346751ce/80245
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Viju Comedy
+http://013tv.com:8080/F12744/346751ce/311610
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/60e9dc5b9ffcd8cc4b1df50489f5f233.png" tvg-id="6427" ,Viju TV 1000
+http://013tv.com:8080/F12744/346751ce/298879
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/91427165ebd3208f61adddbca342982c.png" tvg-id="7054" ,Viju TV 1000 Action
+http://013tv.com:8080/F12744/346751ce/42064
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/cd7780c3547f1d019eae732ea53ffbe3.png" tvg-id="6215" ,Viju+ Comedy
+http://013tv.com:8080/F12744/346751ce/281329
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4b15c6a7280181acf8ada4228e93a3b9.png" tvg-id="45669" ,Viju+ Premiere
+http://013tv.com:8080/F12744/346751ce/298880
+#EXTINF:-1 group-title="Russia  Movie" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/2f8f642769343a9b146f85872789a869.png" tvg-id="6331" ,Viju+ Serial
+http://013tv.com:8080/F12744/346751ce/298881
+
+
+
+
+#EXTINF:-1 group-title="India  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/901b40ebf06e7a9fe401a3ad17c37aa0.png" tvg-id="DiscoveryScience.in" ,Discovery Science
+http://013tv.com:8080/F12744/346751ce/1363
+#EXTINF:-1 group-title="India  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7a1751bd2247bb32e1afe8d63f34727.png" tvg-id="DiscoveryWorld.in" ,Discovery World
+http://013tv.com:8080/F12744/346751ce/73792
+#EXTINF:-1 group-title="India  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/739c04cbf20c52a3ae050fe52ee723ef.png" tvg-id="463952" ,History
+http://013tv.com:8080/F12744/346751ce/82604
+#EXTINF:-1 group-title="India  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/f3eaacf218f7861e23fdba954a304bf1.png" ,Nat Geo
+http://013tv.com:8080/F12744/346751ce/49562
+
+
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" tvg-id="Discovery.it" ,Discovery Channel
+http://013tv.com:8080/F12744/346751ce/7868
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/58eee1d2403900d8ded25fe6e9cf8922.png" tvg-id="DMAX.it" ,DMAX
+http://013tv.com:8080/F12744/346751ce/2006
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7c6ce1f47834b2a9e8bfcf6d3778e11c.png" tvg-id="Focus.it" ,Focus
+http://013tv.com:8080/F12744/346751ce/8163
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/26769c5f66a9b1afbc2844bcac465f5e.png" tvg-id="History.it" ,History
+http://013tv.com:8080/F12744/346751ce/264522
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7987271234bb216fdf62c1db2e086b41.png" tvg-id="MotorTrend.it" ,Motortrend
+http://013tv.com:8080/F12744/346751ce/75151
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4dcc7772f88e74b3b7f35f49811ec300.png" tvg-id="natgeo.it" ,NAT GEO
+http://013tv.com:8080/F12744/346751ce/2512
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f90f273d55d3158ac733391d92e25805.png" tvg-id="NOVE.it" ,Nove
+http://013tv.com:8080/F12744/346751ce/1991
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f03ee80e171d7b5da8955a1c9f775086.png" tvg-id="RaiStoria.it" ,Rai Storia
+http://013tv.com:8080/F12744/346751ce/1983
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/aa03f0f5f7c08d9bffe53dc6624a800b.png" tvg-id="SkyCrime.it" ,Sky Crime
+http://013tv.com:8080/F12744/346751ce/304574
+#EXTINF:-1 group-title="Italy  Documentary" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-id="SkyDocumentaries.it" ,Sky Documentaries
+http://013tv.com:8080/F12744/346751ce/302710
+
+
+
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/99d9e118f2944b07b5a917812c16932f.png" tvg-id="CANAL+DOKUMENT.pl" ,CANAL+ Dokument
+http://013tv.com:8080/F12744/346751ce/2720
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bb4b67179871ccbc18d81a74ae8ede9.png" tvg-id="CBSReality.pl" ,CBS Reality
+http://013tv.com:8080/F12744/346751ce/3224
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e9db84ebce7eef5d8b91b13883a918be.png" ,Crime+ Investigation
+http://013tv.com:8080/F12744/346751ce/2729
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e4546f701d423acc4cafdfad8454c28a.png" tvg-id="DiscoveryHistoria.pl" ,Discovery History
+http://013tv.com:8080/F12744/346751ce/1710
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f819bf88e9a61dc95cda148b2f127d47.png" tvg-id="Discovery Science HD.pl" ,Discovery Science Polska
+http://013tv.com:8080/F12744/346751ce/10523
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5e3085bfa0a23c71340c2ecb0d3a2e4d.png" tvg-id="discovery.pl" ,Discovery World
+http://013tv.com:8080/F12744/346751ce/3230
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3252380059b657ef423b13734fd62442.png" tvg-id="HISTORY.pl" ,History
+http://013tv.com:8080/F12744/346751ce/2719
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png" tvg-id="HISTORY2.pl" ,History 2
+http://013tv.com:8080/F12744/346751ce/16659
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6b9bfa6ab7160b4440f4cfaf5df7387b.png" tvg-id="464001" ,Investigation Discovery
+http://013tv.com:8080/F12744/346751ce/16686
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png" tvg-id="NatGeoPeople.pl" ,NAT GEO People
+http://013tv.com:8080/F12744/346751ce/16663
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/18681e22c9484d067d77048b1ec60a0d.png" tvg-id="Planete+.pl" ,PLANETE+
+http://013tv.com:8080/F12744/346751ce/1701
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/285510ea8e1b512592ce34b110ad684d.png" tvg-id="TravelChannel.pl" ,Travel Channel
+http://013tv.com:8080/F12744/346751ce/24273
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9e3a7084de207366ff1d5ef7422da7cb.png" tvg-id="TVPDokument.pl" ,TVP Dokument
+http://013tv.com:8080/F12744/346751ce/276472
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6552f2cce0d6a8ee371d17ce8ed79ecf.png" tvg-id="TVPHistoria.pl" ,TVP Historia
+http://013tv.com:8080/F12744/346751ce/2675
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,TVP Historia 2
+http://013tv.com:8080/F12744/346751ce/310300
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/448901fd717fd24520d0cbd4db49e099.png" tvg-id="TVPKultura.pl" ,TVP Kultura
+http://013tv.com:8080/F12744/346751ce/2678
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a699fc4ea63e6da646c0feb2cf636418.png" tvg-id="polsatviasathist.pl" ,Viasat History
+http://013tv.com:8080/F12744/346751ce/16658
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-05/ad0d04d0f9cf8ad7d701a8a1079ca2f3.png" ,Viasat True Crime
+http://013tv.com:8080/F12744/346751ce/310306
+#EXTINF:-1 group-title="Poland  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a8f93e5c9221d18fd90a539f6fa7506d.png" tvg-id="WP.pl" ,WP TV
+http://013tv.com:8080/F12744/346751ce/24244
+
+
+
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/021f73aca5f55aef6666975b0e8cac83.png" ,Discovery World
+http://013tv.com:8080/F12744/346751ce/71991
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f5b941fc4b1729365b08543c569a8280.png" tvg-id="HDL.ru" ,HDL
+http://013tv.com:8080/F12744/346751ce/148336
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d6ba0ab67299617ce855fd30250a38df.png" tvg-id="352650" ,History
+http://013tv.com:8080/F12744/346751ce/80214
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b249be44f64be33da6bf047323d4b807.svg" ,Investigation Discovery
+http://013tv.com:8080/F12744/346751ce/231633
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e50c5f91a651f28e93efcd8025bb691f.png" ,Istoriya Telekanal (История)
+http://013tv.com:8080/F12744/346751ce/278414
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/bfed89d2ca4fba987f5f9959ccc7ee02.png" tvg-id="RTDocumentary.ru" ,RT Documentary
+http://013tv.com:8080/F12744/346751ce/80180
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/f5d4c6eb0f67115eee9e03497693d55d.png" tvg-id="160246" ,Travel Channel
+http://013tv.com:8080/F12744/346751ce/42060
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/d578ac2362aa409e1845d6841a214a4d.png" tvg-id="7158" ,Viju Explore
+http://013tv.com:8080/F12744/346751ce/298877
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e908cdf8ffd9ef01afd6a2ac8572259c.png" tvg-id="7561" ,Viju History
+http://013tv.com:8080/F12744/346751ce/298878
+#EXTINF:-1 group-title="Russia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3e0ba8d03027b261920794fa0b84ba4a.png" tvg-id="6879" ,Viju Nature
+http://013tv.com:8080/F12744/346751ce/298876
+
+
+
+
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" tvg-id="discoveryscience.tr" ,Discovery Science
+http://013tv.com:8080/F12744/346751ce/5693
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" tvg-id="discoverychannel.tr" ,Discovery World
+http://013tv.com:8080/F12744/346751ce/8236
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/009162f825137856b5b651a671f233eb.png" ,DocuBox
+http://013tv.com:8080/F12744/346751ce/532
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b8eb9865e3892d9489a26b1b35c352d8.png" ,Investigation Discovery
+http://013tv.com:8080/F12744/346751ce/8237
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/86b10486b3da4a01cb60a0bffb6949b5.png" ,Kadirga TV
+http://013tv.com:8080/F12744/346751ce/645
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1969eefe9132567f335091df9541a79c.png" ,Köy TV
+http://013tv.com:8080/F12744/346751ce/586
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" ,NAT GEO
+http://013tv.com:8080/F12744/346751ce/278566
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c88396117f7be65d8414302424aebdfb.png" ,TGRT Belgesel
+http://013tv.com:8080/F12744/346751ce/16828
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d5dda60ae62b888b5efb9a46e3603ab.png" tvg-id="TRTBelgesel.tr" ,TRT Belgesel
+http://013tv.com:8080/F12744/346751ce/577
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ba0296292e9bd2ba9d07bf35fd60ae3f.png" tvg-id="UlkeTV.tr" ,Ülke TV
+http://013tv.com:8080/F12744/346751ce/626
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b199a733ed1ced4e5a12ec6aaade62bd.png" ,Viasat Explore
+http://013tv.com:8080/F12744/346751ce/197561
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6b5e58f28087af5e4e386665b549b67d.png" ,Viasat History
+http://013tv.com:8080/F12744/346751ce/32589
+#EXTINF:-1 group-title="Turkey  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/344049d08e78889075fb4a03936a8dba.png" ,Vuslat TV
+http://013tv.com:8080/F12744/346751ce/597
+
+
+
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/78173972af8b08882e85ddf03f4f8ca1.png" ,CBS Justice
+http://013tv.com:8080/F12744/346751ce/1122
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/654a952a06a8db07f28f8a7569085ce5.png" tvg-id="cbsreality.uk" ,CBS Reality
+http://013tv.com:8080/F12744/346751ce/1121
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png" tvg-id="Crime+Investigation.uk" ,Crime+ Investigation
+http://013tv.com:8080/F12744/346751ce/734
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" tvg-id="DiscoveryChannel.uk" ,Discovery Channel
+http://013tv.com:8080/F12744/346751ce/708
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/59b460f06ce3699803cbb4a3d84ece1f.png" ,Discovery H&H
+http://013tv.com:8080/F12744/346751ce/282757
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png" tvg-id="DiscoveryHistory.uk" ,Discovery History
+http://013tv.com:8080/F12744/346751ce/694
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/dc89bc1e697113bf71d2525095140349.jpg" tvg-id="DiscoveryHistory+1.uk" ,Discovery History +1
+http://013tv.com:8080/F12744/346751ce/299756
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/4313043ba65ca16ab20dd8638da9b160.png" ,Discovery Sci
+http://013tv.com:8080/F12744/346751ce/300573
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" tvg-id="DiscoveryScience.uk" ,Discovery Science
+http://013tv.com:8080/F12744/346751ce/713
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" tvg-id="DMAX.uk" ,DMAX
+http://013tv.com:8080/F12744/346751ce/1604
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/d322af8423dd121873007bc0a8d09bdc.png" ,DocuBox
+http://013tv.com:8080/F12744/346751ce/301512
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" ,History
+http://013tv.com:8080/F12744/346751ce/282756
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/881df5f496a975889fd4b98902dc85ed.png" tvg-id="InvestigationDiscovery.uk" ,Investigation Discovery
+http://013tv.com:8080/F12744/346751ce/278449
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7aadc2dc16caad7c0e3f2d7a0fc36082.png" tvg-id="Quest.uk" ,Quest
+http://013tv.com:8080/F12744/346751ce/1096
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e32a6b36cb9752af54b3bb913dee655b.png" ,Reality Xtra
+http://013tv.com:8080/F12744/346751ce/298676
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb2719d77f7a4ee4483f140e5a38b8f2.png" tvg-id="Really.uk" ,Really
+http://013tv.com:8080/F12744/346751ce/742
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" tvg-id="SkyArts.uk" ,Sky Arts
+http://013tv.com:8080/F12744/346751ce/1094
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="SkyDocumentaries.uk" ,Sky Documentaries
+http://013tv.com:8080/F12744/346751ce/187346
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/e47f55b99e6408c4120d6bf65445b449.svg" tvg-id="SkyHistory.uk" ,Sky History
+http://013tv.com:8080/F12744/346751ce/187342
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/42ec26c999a6f4b209457dfcdbf858b0.svg" tvg-id="SkyHistory2.uk" ,Sky History 2
+http://013tv.com:8080/F12744/346751ce/302705
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/75d66d381bacf4cdbbd65ae6ae865cd2.svg" tvg-id="TrueCrime.uk" ,True Crime
+http://013tv.com:8080/F12744/346751ce/63226
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-id="WorldWarTV.uk" ,World War TV
+http://013tv.com:8080/F12744/346751ce/307972
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2709319fbbdc11c09f807891bd965720.png" tvg-id="yesterday.uk" ,Yesterday
+http://013tv.com:8080/F12744/346751ce/1065
+#EXTINF:-1 group-title="UK  Documentary" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Yesterday +1
+http://013tv.com:8080/F12744/346751ce/296270
+
+
+
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/842d29d6541b3b558167481038b2dace.png" ,CBS Reality
+http://013tv.com:8080/F12744/346751ce/65786
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ad9653524d39e6cd6fa0f7be2429903a.png" ,Crime+ Investigation
+http://013tv.com:8080/F12744/346751ce/84360
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2ff14441804407d39aa4eb2553382f2b.png" ,Discovery World
+http://013tv.com:8080/F12744/346751ce/16597
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/64843124bd2efb30a9187f69300372d6.png" ,DocuBox
+http://013tv.com:8080/F12744/346751ce/65793
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a899e66151c0ad8ce2a4b4a8a411b55b.png" ,Doku TV
+http://013tv.com:8080/F12744/346751ce/26776
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/066fb601b8a7a918e2d0979564a9491e.png" ,History
+http://013tv.com:8080/F12744/346751ce/65807
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/84dbc3d80d60a6c25fa61a4541eb3b5e.jpg" ,History 2
+http://013tv.com:8080/F12744/346751ce/58925
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e6b307ac21953b0d6cc06b8f411aa667.png" ,Investigation Discovery
+http://013tv.com:8080/F12744/346751ce/65789
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/05973c739bcabda8b6e60b92b84859b1.png" tvg-id="nationalgeographichd.hr" ,NAT GEO
+http://013tv.com:8080/F12744/346751ce/62037
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf9ab5b80e06c25c1efe401f6ffe0818.jpg" tvg-id="scifich.hr" ,sci-fi
+http://013tv.com:8080/F12744/346751ce/65828
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/06480719e59f295b057df972ec37c71f.jpg" tvg-id="viasatexplore.hr" ,Viasat Explore
+http://013tv.com:8080/F12744/346751ce/26779
+#EXTINF:-1 group-title="Croatia  Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5ba44a5f3944a8e7576334d949551203.png" ,Viasat History
+http://013tv.com:8080/F12744/346751ce/4215
+
+
