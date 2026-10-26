@@ -1,0 +1,775 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" ,ANTV
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/584497
+#EXTINF:0 tvg-id="ext"  tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOsidlmejCEk52zG0IQqUIzzGjL9TniCNJNNNdS52JaJ-pWQSZl3JtaBYuR4eiyWHXyokWFcYBpSlKJ0AQRoiecw.png" group-title="Indonesia",Indosiar
+http://royaltv.world:25461/live/S1048/9886/105.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZO4lMmbRKgtkoJx27e2Sw_vctVlGVhED9NwpPyPZRjpasvcz90U2MF4AqNaxqL8uzv9IEbSBuuXv00RDcHLoxGYA.jpg",RCTI
+http://royaltv.world:25461/live/S1048/9886/100.ts
+#EXTINF:0 tvg-id="ext"  group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOKJnq3Fm8FDhkuy6Dc3o8kqBRI8weghIBXWl1gHLtygJuoG2Jrg37JvGqGzEw8avMJXqhtRS-s4rprNDzF-deeA.png" ,SCTV
+http://royaltv.world:25461/live/S1048/9886/101.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://play.fastkobar.my.id:8080/images/9JuFhcsUAfXHCjVotSFR80gYprT7UDiuZP-Fd3MQWRamLzqpQHwPK-Z_Gjq0GExD9n8IaeqCnM0p5B_U_7-wgEJpBLHhv32NsT2a7bJa_d-nd2C58tsz9ieDuX4PSTN3IQwa0LhkuMRd6eWM7WOgtbCtWy8cL0vlwgkMPfVnarSxoXxl4QdE2gB8Y4vCUwchphqqgyl9RlIyRsmJqJhmj9IclfXMy4ruuc1Rg4EaOAM.png" ,Moji TV
+http://royaltv.world:25461/live/S1048/9886/23533.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOF1jJxZZgrx-9IKKdU7zGuM1u6GIIhSPRN5sId3lcgx3RLcReTlGWyQm9jg6OfpInop258hP7hjc0fucusu0V4g.png",Trans TV
+http://royaltv.world:25461/live/S1048/9886/102.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOF1jJxZZgrx-9IKKdU7zGuM1u6GIIhSPRN5sId3lcgx3RLcReTlGWyQm9jg6OfpInop258hP7hjc0fucusu0V4g.png" ,Trans 7
+http://royaltv.world:25461/live/S1048/9886/103.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZO2LTHLVwFMEOcd5ySKbeNlWa6-tGaZtN2Uiy8rHLNw45DXSfqkf3tW6OMipPY1TAjMBvAdsO53AEzjAGkPEV98A.png" ,MNC TV
+http://royaltv.world:25461/live/S1048/9886/23531.ts
+#EXTINF:0 tvg-id="gtv.il" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOmNyjNLoPpvADgGlbNd0rMDTfc4C5eATZBqSOQJuBMMBbNSMVK6g2CS8ibS2SNH-7SZpmR4kvjMRt3KhZODOtNg.png",GTV
+http://royaltv.world:25461/live/S1048/9886/109.ts
+#EXTINF:0 tvg-id="TVOne.uk" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOnFMPHG_dNcyCucl2jinbbBW25bdaB-7vCsGGbcmGzhJCfUh7syp8jY776Q-RVRY_XaCIqO9ESjZgRC3T1M8TBg.png",TV One
+http://royaltv.world:25461/live/S1048/9886/107.ts
+#EXTINF:0 tvg-id="Metro.pl" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOW7NlIQznc_qSjPT_w8EncqntSoPl1UXfCltIWwQK1eRT3edCPr81aC2RYI4NMIti_dW72nGHfDumbtkzOElNLA.png",Metro TV
+http://royaltv.world:25461/live/S1048/9886/108.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOb08x2LB4zh7sH7uSxy4HWdJZkv2LLBNFYiiPfpHozeQcDgJPETKzWDVwJRgXgXwRwX0mqkrqlQ4OUBE5JUfWAg.png" ,Kompas TV
+http://royaltv.world:25461/live/S1048/9886/110.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOGieTiZWHTuNxxSFG12oxXXdcGKV75SlRgQZJeD3ZNKZeBsl0umRNspNiqq1QsyeLKFArfJw-GcDBwBqFsR7NbA.png" ,inewtv
+http://royaltv.world:25461/live/S1048/9886/99.ts
+#EXTINF:0 tvg-id="TVRIworld.id" group-title="Indonesia",TVRI
+http://royaltv.world:25461/live/S1048/9886/112.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",MD TV
+http://royaltv.world:25461/live/S1048/9886/114.ts
+#EXTINF:0 tvg-id="rtvint" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLtoq0DKKdJbCnsq-fC7EQc-LYO0rpZTj_j1SsaskS8WfwCNsYS837KWk6Fp_efWtF8jmrZomDyPqxpUAY3mOVwTVrPOoACxJLirvhuvrqyUVHow9e9YFMvZSSmLXIbQFCRPZ0BPENBEklWjiYXS-dqTLeFa8jHYMwH7XgCaQEc_cB8G7-OLnHb7Nutg1zznsCQ.jpeg" ,RTV
+http://royaltv.world:25461/live/S1048/9886/23536.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOkVJ6aWNW4wIYJNpHN16c3n9pck4QKOKv8GHDOTxRtrrRW-YfdeK99jrmnxmHGcLbCSSXrQA3nIojC-xiC8AANA.png",CNN Indonesia
+http://royaltv.world:25461/live/S1048/9886/139.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLtqzEsqvvtKwNxezxPFCgE4DVjaTDD20_HhnmSPBLofNhMdl6iLnuqgjP-TEzDuqo4Ulz6qi0WdJR6U8BLUTJJWh9BeEvT9zGEhedI3NPwgvxwnG2iCQZfwITha0U6eYPfz43XWySl0-43zuwf_rbrxr5tl-YrU8UPS-AmNqalbdw.png" ,,CNBC Indonesia
+http://royaltv.world:25461/live/S1048/9886/88816.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",JTV
+http://royaltv.world:25461/live/S1048/9886/121.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",TV9 NU
+http://royaltv.world:25461/live/S1048/9886/124.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",GARUDA TV
+http://royaltv.world:25461/live/S1048/9886/129.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",Citra drama
+http://royaltv.world:25461/live/S1048/9886/23532.ts
+#EXTINF:0 tvg-id="ext" group-title="Indonesia",My Cinema Europe
+http://royaltv.world:25461/live/S1048/9886/23537.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro 30
+http://royaltv.world:25461/live/S1048/9886/30578.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV1 HD
+http://royaltv.world:25461/live/S1048/9886/1.ts
+#EXTINF:0 tvg-id="tv2.hu" group-title="Malaysia",TV2 HD
+http://royaltv.world:25461/live/S1048/9886/2.ts
+#EXTINF:0 tvg-id="tv3-lt" group-title="Malaysia",TV3 HD
+http://royaltv.world:25461/live/S1048/9886/3.ts
+#EXTINF:0 tvg-id="tv3" group-title="Malaysia",TV3 HD (B)
+http://royaltv.world:25461/live/S1048/9886/28195.ts
+#EXTINF:0 tvg-id="ntv7" group-title="Malaysia",NTV7 HD
+http://royaltv.world:25461/live/S1048/9886/5.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",8TV HD
+http://royaltv.world:25461/live/S1048/9886/6.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV9 HD
+http://royaltv.world:25461/live/S1048/9886/7.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Ria HD(token)
+http://royaltv.world:25461/live/S1048/9886/13.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Prima HD(token)
+http://royaltv.world:25461/live/S1048/9886/14.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Oasis HD
+http://royaltv.world:25461/live/S1048/9886/15.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Citra(token)
+http://royaltv.world:25461/live/S1048/9886/17.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Rania HD(token)
+http://royaltv.world:25461/live/S1048/9886/13554.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Aura HD(token)
+http://royaltv.world:25461/live/S1048/9886/13555.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Al-Hijrah HD
+http://royaltv.world:25461/live/S1048/9886/19.ts
+#EXTINF:0 tvg-id="TVS.pl" group-title="Malaysia",TVS
+http://royaltv.world:25461/live/S1048/9886/11.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV OKEY HD
+http://royaltv.world:25461/live/S1048/9886/9.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Okey tv (direct source)
+http://royaltv.world:25461/live/S1048/9886/13699.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Drama Hebat
+http://royaltv.world:25461/live/S1048/9886/24990.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Oh My Ceria
+http://royaltv.world:25461/live/S1048/9886/29723.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Jom Ngaji
+http://royaltv.world:25461/live/S1048/9886/29724.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Filem Mantap
+http://royaltv.world:25461/live/S1048/9886/31401.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Drama HotPot
+http://royaltv.world:25461/live/S1048/9886/31402.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Lawak Sentral
+http://royaltv.world:25461/live/S1048/9886/31403.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV IKIM
+http://royaltv.world:25461/live/S1048/9886/13122.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Berita RTM
+http://royaltv.world:25461/live/S1048/9886/13123.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTB sukmaindera
+http://royaltv.world:25461/live/S1048/9886/32656.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Snap
+http://royaltv.world:25461/live/S1048/9886/32728.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Lead
+http://royaltv.world:25461/live/S1048/9886/32729.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Apetito
+http://royaltv.world:25461/live/S1048/9886/32730.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Fitrah
+http://royaltv.world:25461/live/S1048/9886/32731.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Junior
+http://royaltv.world:25461/live/S1048/9886/32732.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Roll
+http://royaltv.world:25461/live/S1048/9886/32733.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Aura
+http://royaltv.world:25461/live/S1048/9886/32734.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Salam
+http://royaltv.world:25461/live/S1048/9886/65018.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Pesona
+http://royaltv.world:25461/live/S1048/9886/65017.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Inspirasi
+http://royaltv.world:25461/live/S1048/9886/65016.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Sensasi
+http://royaltv.world:25461/live/S1048/9886/65015.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Siar
+http://royaltv.world:25461/live/S1048/9886/65014.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Degup
+http://royaltv.world:25461/live/S1048/9886/65013.ts
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Dunia Sinema
+http://royaltv.world:25461/live/S1048/9886/65012.ts
+
+
+
+#EXTINF:0 tvg-id="KBSWorld.pl" group-title="Korea&Japan",KBS World HD
+http://royaltv.world:25461/live/S1048/9886/69.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",K-plus
+http://royaltv.world:25461/live/S1048/9886/70.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",Astro Daebak
+http://royaltv.world:25461/live/S1048/9886/71.ts
+#EXTINF:0 tvg-id="TVN.pl" group-title="Korea&Japan",tvN HD
+http://royaltv.world:25461/live/S1048/9886/73.ts
+#EXTINF:0 tvg-id="TVN.pl" group-title="Korea&Japan",tvN HD
+http://royaltv.world:25461/live/S1048/9886/74.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",tvN Movies HD
+http://royaltv.world:25461/live/S1048/9886/75.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",tvN Movies HD
+http://royaltv.world:25461/live/S1048/9886/76.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",sbsArirang
+http://royaltv.world:25461/live/S1048/9886/78.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS1
+http://royaltv.world:25461/live/S1048/9886/80.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS 2
+http://royaltv.world:25461/live/S1048/9886/81.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS Kids
+http://royaltv.world:25461/live/S1048/9886/82.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS e
+http://royaltv.world:25461/live/S1048/9886/83.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS Plus 1
+http://royaltv.world:25461/live/S1048/9886/84.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",EBS Plus 2
+http://royaltv.world:25461/live/S1048/9886/85.ts
+#EXTINF:0 tvg-id="arirang-en" group-title="Korea&Japan",Arirang
+http://royaltv.world:25461/live/S1048/9886/86.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",CJB
+http://royaltv.world:25461/live/S1048/9886/88.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",Gugbang Tv
+http://royaltv.world:25461/live/S1048/9886/89.ts
+#EXTINF:0 tvg-id="ext" group-title="Korea&Japan",GCN
+http://royaltv.world:25461/live/S1048/9886/92.ts
+#EXTINF:0 tvg-id="MBC.us" group-title="Korea&Japan",MBC
+http://royaltv.world:25461/live/S1048/9886/13156.ts
+
+
+
+#EXTINF:0 tvg-id="5kanal" group-title="Singapore",Channel 5
+http://royaltv.world:25461/live/S1048/9886/93.ts
+#EXTINF:0 tvg-id="Channel8.il" group-title="Singapore",Channel 8
+http://royaltv.world:25461/live/S1048/9886/94.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Channel U
+http://royaltv.world:25461/live/S1048/9886/95.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",CNA
+http://royaltv.world:25461/live/S1048/9886/96.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Suria
+http://royaltv.world:25461/live/S1048/9886/97.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Vasantham
+http://royaltv.world:25461/live/S1048/9886/98.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Astro Warna
+http://royaltv.world:25461/live/S1048/9886/88810.ts
+#EXTINF:0 tvg-id="ext" group-title="Singapore",Astro Sensasi
+http://royaltv.world:25461/live/S1048/9886/88811.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Chinese",爱奇艺 iQiyi
+http://royaltv.world:25461/live/S1048/9886/12377.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",AEC HD
+http://royaltv.world:25461/live/S1048/9886/50.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Astro QJ(token)
+http://royaltv.world:25461/live/S1048/9886/14220.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB Classic HD
+http://royaltv.world:25461/live/S1048/9886/14221.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Astro AOD(multi dual)
+http://royaltv.world:25461/live/S1048/9886/22966.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Celestial Movies HD(multi dual)
+http://royaltv.world:25461/live/S1048/9886/53.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB Jade
+http://royaltv.world:25461/live/S1048/9886/54.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CTI Asia HD
+http://royaltv.world:25461/live/S1048/9886/56.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB Xing He HD(multi dual)
+http://royaltv.world:25461/live/S1048/9886/58.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVBS Asia HD
+http://royaltv.world:25461/live/S1048/9886/59.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Celestial Classic Movies
+http://royaltv.world:25461/live/S1048/9886/60.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Phoenix Chinese Channel HD
+http://royaltv.world:25461/live/S1048/9886/61.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Phoenix Info News HD
+http://royaltv.world:25461/live/S1048/9886/62.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Astro Hua Hee Dai HD
+http://royaltv.world:25461/live/S1048/9886/63.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV4 HD
+http://royaltv.world:25461/live/S1048/9886/64.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Mango TV
+http://royaltv.world:25461/live/S1048/9886/88613.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",U-Panda TV
+http://royaltv.world:25461/live/S1048/9886/88614.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV1综合
+http://royaltv.world:25461/live/S1048/9886/393.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV2财经
+http://royaltv.world:25461/live/S1048/9886/394.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV3综艺
+http://royaltv.world:25461/live/S1048/9886/395.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV4中文国际
+http://royaltv.world:25461/live/S1048/9886/396.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV5体育
+http://royaltv.world:25461/live/S1048/9886/397.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV5+体育赛事
+http://royaltv.world:25461/live/S1048/9886/398.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV6电影
+http://royaltv.world:25461/live/S1048/9886/399.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV7国防军事
+http://royaltv.world:25461/live/S1048/9886/400.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV8电视剧
+http://royaltv.world:25461/live/S1048/9886/401.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV9纪录
+http://royaltv.world:25461/live/S1048/9886/402.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV10科教
+http://royaltv.world:25461/live/S1048/9886/403.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV11戏曲
+http://royaltv.world:25461/live/S1048/9886/404.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV12社会与法
+http://royaltv.world:25461/live/S1048/9886/405.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV13新闻
+http://royaltv.world:25461/live/S1048/9886/406.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV14少儿
+http://royaltv.world:25461/live/S1048/9886/407.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",CCTV15音乐
+http://royaltv.world:25461/live/S1048/9886/408.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",北京卫视
+http://royaltv.world:25461/live/S1048/9886/410.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",湖南卫视
+http://royaltv.world:25461/live/S1048/9886/411.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",浙江卫视
+http://royaltv.world:25461/live/S1048/9886/412.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",江苏卫视
+http://royaltv.world:25461/live/S1048/9886/413.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",黑龙江卫视
+http://royaltv.world:25461/live/S1048/9886/414.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",湖北卫视
+http://royaltv.world:25461/live/S1048/9886/415.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",辽宁卫视
+http://royaltv.world:25461/live/S1048/9886/416.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",东南卫视
+http://royaltv.world:25461/live/S1048/9886/417.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",吉林卫视
+http://royaltv.world:25461/live/S1048/9886/418.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",江西卫视
+http://royaltv.world:25461/live/S1048/9886/419.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",广西卫视
+http://royaltv.world:25461/live/S1048/9886/420.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",甘肃卫视
+http://royaltv.world:25461/live/S1048/9886/423.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",重庆卫视
+http://royaltv.world:25461/live/S1048/9886/426.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",宁夏卫视
+http://royaltv.world:25461/live/S1048/9886/427.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",东方卫视
+http://royaltv.world:25461/live/S1048/9886/428.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",安徽卫视
+http://royaltv.world:25461/live/S1048/9886/429.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB翡翠 HK
+http://royaltv.world:25461/live/S1048/9886/12205.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB星河 HK(双音轨)
+http://royaltv.world:25461/live/S1048/9886/12206.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB明珠
+http://royaltv.world:25461/live/S1048/9886/12207.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVB J 2
+http://royaltv.world:25461/live/S1048/9886/12209.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",無線新聞
+http://royaltv.world:25461/live/S1048/9886/12210.ts
+#EXTINF:0 tvg-id="TVN.pl" group-title="Chinese",TVN
+http://royaltv.world:25461/live/S1048/9886/12211.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",凤凰香港
+http://royaltv.world:25461/live/S1048/9886/12212.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",HOYTV
+http://royaltv.world:25461/live/S1048/9886/12215.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",HOY TV資訊台
+http://royaltv.world:25461/live/S1048/9886/12216.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",港臺31
+http://royaltv.world:25461/live/S1048/9886/12217.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",港臺32
+http://royaltv.world:25461/live/S1048/9886/12218.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Viu TV
+http://royaltv.world:25461/live/S1048/9886/12221.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Viu TV 6
+http://royaltv.world:25461/live/S1048/9886/12222.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",民视
+http://royaltv.world:25461/live/S1048/9886/12223.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",靖天国际台
+http://royaltv.world:25461/live/S1048/9886/12228.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",华视
+http://royaltv.world:25461/live/S1048/9886/12229.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",中视
+http://royaltv.world:25461/live/S1048/9886/12232.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",台视
+http://royaltv.world:25461/live/S1048/9886/12234.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",公视戏剧
+http://royaltv.world:25461/live/S1048/9886/12235.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVBS精采
+http://royaltv.world:25461/live/S1048/9886/12239.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",纬来电影
+http://royaltv.world:25461/live/S1048/9886/12242.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",TVBS HD
+http://royaltv.world:25461/live/S1048/9886/12245.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",采昌影剧
+http://royaltv.world:25461/live/S1048/9886/12248.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",東森超視34.5
+http://royaltv.world:25461/live/S1048/9886/12253.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",中天亚洲台
+http://royaltv.world:25461/live/S1048/9886/12254.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Hakka TV
+http://royaltv.world:25461/live/S1048/9886/12261.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",纬来日本台
+http://royaltv.world:25461/live/S1048/9886/12264.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",好消息
+http://royaltv.world:25461/live/S1048/9886/12274.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",好消息2
+http://royaltv.world:25461/live/S1048/9886/12275.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",中视菁采
+http://royaltv.world:25461/live/S1048/9886/13125.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",纬来体育
+http://royaltv.world:25461/live/S1048/9886/13126.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",三立综合
+http://royaltv.world:25461/live/S1048/9886/13128.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",靖天映画
+http://royaltv.world:25461/live/S1048/9886/13134.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",纬来精彩
+http://royaltv.world:25461/live/S1048/9886/13136.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",人间卫视
+http://royaltv.world:25461/live/S1048/9886/13140.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",靖洋戏剧
+http://royaltv.world:25461/live/S1048/9886/13141.ts
+#EXTINF:0 tvg-id="ext" group-title="Chinese",Seti
+http://royaltv.world:25461/live/S1048/9886/65019.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="India",Colors Hindi HD
+http://royaltv.world:25461/live/S1048/9886/31.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Astro Vaanavil
+http://royaltv.world:25461/live/S1048/9886/12219.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Astro Vinmeen
+http://royaltv.world:25461/live/S1048/9886/28505.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Vellithirai
+http://royaltv.world:25461/live/S1048/9886/14291.ts
+#EXTINF:0 tvg-id="SunTv.in" group-title="India",SUN TV
+http://royaltv.world:25461/live/S1048/9886/13353.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Sun Music TV HD
+http://royaltv.world:25461/live/S1048/9886/26.ts
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="India",Adithya
+http://royaltv.world:25461/live/S1048/9886/268.ts
+#EXTINF:0 tvg-id="SunNews.in" group-title="India",Sun news
+http://royaltv.world:25461/live/S1048/9886/24.ts
+#EXTINF:0 tvg-id="KTV.uk" group-title="India",KTV
+http://royaltv.world:25461/live/S1048/9886/35.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Sun Life
+http://royaltv.world:25461/live/S1048/9886/27.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Sony Vizha
+http://royaltv.world:25461/live/S1048/9886/88927.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Star Vijay HD
+http://royaltv.world:25461/live/S1048/9886/29.ts
+#EXTINF:0 tvg-id="ext" group-title="India",COLORS TAMIL
+http://royaltv.world:25461/live/S1048/9886/25.ts
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE Tamil HD
+http://royaltv.world:25461/live/S1048/9886/32.ts
+#EXTINF:0 tvg-id="ext" group-title="India",ABO Movies Thangathirai
+http://royaltv.world:25461/live/S1048/9886/28506.ts
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema HD
+http://royaltv.world:25461/live/S1048/9886/14219.ts
+#EXTINF:0 tvg-id="IBN7.in" group-title="India",News 18
+http://royaltv.world:25461/live/S1048/9886/13043.ts
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="India",Zee Action
+http://royaltv.world:25461/live/S1048/9886/13044.ts
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="India",Zee News
+http://royaltv.world:25461/live/S1048/9886/13045.ts
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema HD
+http://royaltv.world:25461/live/S1048/9886/13046.ts
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="India",Zee TV HD
+http://royaltv.world:25461/live/S1048/9886/13048.ts
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="India",Asianet News
+http://royaltv.world:25461/live/S1048/9886/13051.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Asianet Movie
+http://royaltv.world:25461/live/S1048/9886/13052.ts
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="India",SONY SAB
+http://royaltv.world:25461/live/S1048/9886/13053.ts
+#EXTINF:0 tvg-id="ext" group-title="India",History TV 18 HD
+http://royaltv.world:25461/live/S1048/9886/13055.ts
+#EXTINF:0 tvg-id="natgeo" group-title="India",NatGeo
+http://royaltv.world:25461/live/S1048/9886/13056.ts
+#EXTINF:0 tvg-id="ext" group-title="India",5AAB TV
+http://royaltv.world:25461/live/S1048/9886/13062.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Channel Y
+http://royaltv.world:25461/live/S1048/9886/13071.ts
+#EXTINF:0 tvg-id="ext" group-title="India",KITE Victers (Kerala) (720p) [Not 24/7]
+http://royaltv.world:25461/live/S1048/9886/13087.ts
+#EXTINF:0 tvg-id="ext" group-title="India",PUNJAB TV
+http://royaltv.world:25461/live/S1048/9886/13101.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Pulari TV (720p) [Not 24/7]
+http://royaltv.world:25461/live/S1048/9886/13105.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Real News Kerala (1080p) [Not 24/7]
+http://royaltv.world:25461/live/S1048/9886/13106.ts
+#EXTINF:0 tvg-id="ext" group-title="India",SADA TV
+http://royaltv.world:25461/live/S1048/9886/13107.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Safari TV (480p) [Not 24/7]
+http://royaltv.world:25461/live/S1048/9886/13108.ts
+#EXTINF:0 tvg-id="ext" group-title="India",Shubhsandesh
+http://royaltv.world:25461/live/S1048/9886/13110.ts
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Arena
+http://royaltv.world:25461/live/S1048/9886/142.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Stadium
+http://royaltv.world:25461/live/S1048/9886/143.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Arena Bola 1 (token)
+http://royaltv.world:25461/live/S1048/9886/13779.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Arena Bola 2
+http://royaltv.world:25461/live/S1048/9886/13780.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Grandstand
+http://royaltv.world:25461/live/S1048/9886/146.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League (token)
+http://royaltv.world:25461/live/S1048/9886/144.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 2 (token)
+http://royaltv.world:25461/live/S1048/9886/145.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 3
+http://royaltv.world:25461/live/S1048/9886/28027.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 4(live event only)
+http://royaltv.world:25461/live/S1048/9886/28028.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 5(live event only)
+http://royaltv.world:25461/live/S1048/9886/28029.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Football
+http://royaltv.world:25461/live/S1048/9886/147.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Badminton
+http://royaltv.world:25461/live/S1048/9886/28006.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Badminton 2
+http://royaltv.world:25461/live/S1048/9886/28007.ts
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Sports Plus
+http://royaltv.world:25461/live/S1048/9886/28008.ts
+
+
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png?w=272" ,Hub Sports 1  FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786681
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png?w=272" ,Hub Sports 2 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786682
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=272" ,Hub Sports 3 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786683
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" ,Hub Sports 5 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786684
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" ,Hub Sports 6 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786685
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" ,Hub Sports 7 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786686
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" ,Hub Sports 8 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786687
+
+
+
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 1 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148158
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 2 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148159
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 3 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148160
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 4 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148161
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 5 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148162
+#EXTINF:-1 group-title="HUB PREMIER" ,Hub Premier 6 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/148163
+
+
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="Ten Sports",SONY Ten 1
+http://royaltv.world:25461/live/S1048/9886/177.ts
+#EXTINF:0 tvg-id="TenAction.in" group-title="Ten Sports",SONY Ten 2
+http://royaltv.world:25461/live/S1048/9886/178.ts
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Ten Sports",SONY Ten 3
+http://royaltv.world:25461/live/S1048/9886/179.ts
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" tvg-id="sonyten1hd.in" ,Sony Ten 1 (FHD)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/9402
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-id="sonyten2hd.in" ,Sony Ten 2 (4K)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/9403
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" tvg-id="sonyten3hd.in" ,Sony Ten 3 (FHD)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/9404
+#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-id="sonysixhd.in" ,SONY TEN 5 (FHD)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/17565
+
+
+
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" tvg-id="starsportsselect1hd.in" ,Star Sports Select 1 (FHD)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/9400
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" tvg-id="starsportsselecthd2.in" ,Star Sports Select 2 (FHD)
+http://premiumtvs.space/YqXTywueEV/damp2purchase/9401
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" tvg-id="starsportsselect1hd.in" ,STAR SPORTS SELECT 1 
+http://premiumtvs.space/YqXTywueEV/damp2purchase/98867
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" tvg-id="starsportsselecthd2.in" tvg-id="starsportsselecthd2.in" ,START SPORTS SELECT 2 
+http://premiumtvs.space/YqXTywueEV/damp2purchase/98868
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="://i.ibb.co/p4knk5y/images-4.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 
+http://premiumtvs.space/YqXTywueEV/damp2purchase/98864
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="://i.ibb.co/p4knk5y/images-4.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 
+http://premiumtvs.space/YqXTywueEV/damp2purchase/98865
+#EXTINF:-1 group-title="Star SPORTS " tvg-logo="://i.ibb.co/p4knk5y/images-4.png" tvg-id="starsports1hdhindi.in" ,STAR SPORTS 1 HINDI 
+http://premiumtvs.space/YqXTywueEV/damp2purchase/98866
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports Au",[AU] beIN Sports 1
+http://royaltv.world:25461/live/S1048/9886/63085.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports Au",[AU] beIN Sports 2
+http://royaltv.world:25461/live/S1048/9886/63086.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports Au",[AU] beIN Sports 3
+http://royaltv.world:25461/live/S1048/9886/63087.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",beIN Sports HD(token)
+http://royaltv.world:25461/live/S1048/9886/151.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",beIN Sports 2(token)
+http://royaltv.world:25461/live/S1048/9886/13766.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein Sports",beIN Sports 3
+http://royaltv.world:25461/live/S1048/9886/152.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",beIN Sports 4(live event only)
+http://royaltv.world:25461/live/S1048/9886/28134.ts
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports",beIN Sports 5(live event only)
+http://royaltv.world:25461/live/S1048/9886/28135.ts
+
+
+#EXTINF:-1 group-title="Elta Sports", ELTA Sports 1 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158834
+#EXTINF:-1 group-title="Elta Sports",ELTA Sports 2 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158835
+#EXTINF:-1 group-title="Elta Sports",ELTA Sports 3 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158836
+#EXTINF:-1 group-title="Elta Sports",ELTA Sports 4 FHD 爱尔达体育4台
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158837
+
+
+#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 1 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158879
+#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 2 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158880
+#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 3 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158881
+#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 4 FHD
+http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158882
+
+
+#EXTINF:-1 group-title="Polsat Sports",ELEVEN SPORTS 1
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/880
+#EXTINF:-1 group-title="Polsat Sports",ELEVEN SPORTS 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/881
+#EXTINF:-1 group-title="Polsat Sports",ELEVEN SPORTS 3
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/882
+#EXTINF:-1 group-title="Polsat Sports",ELEVEN SPORTS 4
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/883
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT 1
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/34309
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/886
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT 3
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/887
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT FIGHT
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/888
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT PREMIUM 1
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/870
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT PREMIUM 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/871
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT EXTRA 3
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/872
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT EXTRA 4
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/873
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT EXTRA 1
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/874
+#EXTINF:-1 group-title="Polsat Sports",POLSAT SPORT PEXTRA 2
+http://ccvopojh.top:8080/VIP01425172416934294/bd040140d191/875
+
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[MY] sports plus 2
+http://royaltv.world:25461/live/S1048/9886/34566.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV
+http://royaltv.world:25461/live/S1048/9886/149.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV2
+http://royaltv.world:25461/live/S1048/9886/14229.ts
+#EXTINF:0 tvg-id="esp" group-title="Sports",Eurosport HD
+http://royaltv.world:25461/live/S1048/9886/153.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",W-Sports
+http://royaltv.world:25461/live/S1048/9886/148.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Sports",Golf Channel HD
+http://royaltv.world:25461/live/S1048/9886/155.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",CricBuzz HD
+http://royaltv.world:25461/live/S1048/9886/157.ts
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sports",Premier Sports
+http://royaltv.world:25461/live/S1048/9886/188.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis
+http://royaltv.world:25461/live/S1048/9886/32302.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sukan RTM
+http://royaltv.world:25461/live/S1048/9886/158.ts
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Sports",MUTV
+http://royaltv.world:25461/live/S1048/9886/87197.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Elta Sport 2(badminton)
+http://royaltv.world:25461/live/S1048/9886/31975.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Elta Sports 3(badminton)
+http://royaltv.world:25461/live/S1048/9886/32309.ts
+#EXTINF:0 tvg-id="NBATV.ca" group-title="Sports",NBA TV Canada
+http://royaltv.world:25461/live/S1048/9886/183.ts
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Sports",Redbull TV
+http://royaltv.world:25461/live/S1048/9886/189.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sport 2 HD
+http://royaltv.world:25461/live/S1048/9886/191.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sport 3 HD
+http://royaltv.world:25461/live/S1048/9886/192.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",standby channel
+http://royaltv.world:25461/live/S1048/9886/87203.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports",standby channel 2
+http://royaltv.world:25461/live/S1048/9886/87288.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Movie",Thrill[sub]
+http://royaltv.world:25461/live/S1048/9886/194.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",BOO
+http://royaltv.world:25461/live/S1048/9886/246.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Astro Showcase
+http://royaltv.world:25461/live/S1048/9886/14222.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Astro Showtime HD
+http://royaltv.world:25461/live/S1048/9886/200.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Rock Action
+http://royaltv.world:25461/live/S1048/9886/206.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Rock x Stream HD
+http://royaltv.world:25461/live/S1048/9886/204.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO[sub]
+http://royaltv.world:25461/live/S1048/9886/197.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO Hits[sub]
+http://royaltv.world:25461/live/S1048/9886/203.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO Family (sub)
+http://royaltv.world:25461/live/S1048/9886/63833.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO Signature[sub]
+http://royaltv.world:25461/live/S1048/9886/205.ts
+#EXTINF:0 tvg-id="axn" group-title="Movie",AXN[sub]
+http://royaltv.world:25461/live/S1048/9886/207.ts
+#EXTINF:0 tvg-id="AXN.bg" group-title="Movie",AXN
+http://royaltv.world:25461/live/S1048/9886/208.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hits[sub]
+http://royaltv.world:25461/live/S1048/9886/218.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hits HD
+http://royaltv.world:25461/live/S1048/9886/219.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hits Movies[sub]
+http://royaltv.world:25461/live/S1048/9886/220.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hits Movies HD
+http://royaltv.world:25461/live/S1048/9886/221.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hits Now
+http://royaltv.world:25461/live/S1048/9886/21568.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Galaxy HD[sub]
+http://royaltv.world:25461/live/S1048/9886/222.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Galaxy Premium[sub]
+http://royaltv.world:25461/live/S1048/9886/223.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Celestial Movies[sub]
+http://royaltv.world:25461/live/S1048/9886/226.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",Celestial Classic Movie
+http://royaltv.world:25461/live/S1048/9886/227.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",[TW] Rock x Stream HD
+http://royaltv.world:25461/live/S1048/9886/262.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO HD (CN)
+http://royaltv.world:25461/live/S1048/9886/12278.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO HITS (CN)
+http://royaltv.world:25461/live/S1048/9886/12279.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO Signature (CN)
+http://royaltv.world:25461/live/S1048/9886/13147.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO Family (CN)
+http://royaltv.world:25461/live/S1048/9886/13146.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",CINEMAX (sub)
+http://royaltv.world:25461/live/S1048/9886/12280.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",AMC电影台
+http://royaltv.world:25461/live/S1048/9886/12285.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",靖天电影台
+http://royaltv.world:25461/live/S1048/9886/12292.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",东森洋片
+http://royaltv.world:25461/live/S1048/9886/12293.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",美亚电影
+http://royaltv.world:25461/live/S1048/9886/12295.ts
+#EXTINF:0 tvg-id="AXN.bg" group-title="Movie",AXN
+http://royaltv.world:25461/live/S1048/9886/12700.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",华纳电影
+http://royaltv.world:25461/live/S1048/9886/13145.ts
+#EXTINF:0 tvg-id="ext" group-title="Movie",FAM Time
+http://royaltv.world:25461/live/S1048/9886/64586.ts
+
+
+
+#EXTINF:0 tvg-id="LoveNature" group-title="Documentary",Love Nature
+http://royaltv.world:25461/live/S1048/9886/298.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Global Trekker
+http://royaltv.world:25461/live/S1048/9886/299.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",NatGeo Wild[sub]
+http://royaltv.world:25461/live/S1048/9886/300.ts
+#EXTINF:0 tvg-id="natgeowild" group-title="Documentary",NatGeo Wild HD
+http://royaltv.world:25461/live/S1048/9886/301.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Discovery Channel[sub]
+http://royaltv.world:25461/live/S1048/9886/303.ts
+#EXTINF:0 tvg-id="discov_east" group-title="Documentary",Discovery HD
+http://royaltv.world:25461/live/S1048/9886/304.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Discovery Asia
+http://royaltv.world:25461/live/S1048/9886/305.ts
+#EXTINF:0 tvg-id="history" group-title="Documentary",History[sub]
+http://royaltv.world:25461/live/S1048/9886/306.ts
+#EXTINF:0 tvg-id="history-rus" group-title="Documentary",History HD
+http://royaltv.world:25461/live/S1048/9886/307.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Animal Planet[sub]
+http://royaltv.world:25461/live/S1048/9886/308.ts
+#EXTINF:0 tvg-id="animal-hd" group-title="Documentary",Animal Planet HD
+http://royaltv.world:25461/live/S1048/9886/309.ts
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Crime & Investigation[sub]
+http://royaltv.world:25461/live/S1048/9886/310.ts
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Documentary",Crime & Investigation HD
+http://royaltv.world:25461/live/S1048/9886/311.ts
+
+
+#EXTINF:0 tvg-id="tlc" group-title="Lifestyle",TLC[sub]
+http://royaltv.world:25461/live/S1048/9886/283.ts
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lifestyle",TLC HD
+http://royaltv.world:25461/live/S1048/9886/284.ts
+#EXTINF:0 tvg-id="hgtv" group-title="Lifestyle",HGTV[sub]
+http://royaltv.world:25461/live/S1048/9886/285.ts
+#EXTINF:0 tvg-id="hgtv" group-title="Lifestyle",HGTV HD
+http://royaltv.world:25461/live/S1048/9886/286.ts
+#EXTINF:0 tvg-id="food-network-rus" group-title="Lifestyle",Food Network HD
+http://royaltv.world:25461/live/S1048/9886/289.ts
+#EXTINF:0 tvg-id="DMAX.it" group-title="Lifestyle",DMAX HD
+http://royaltv.world:25461/live/S1048/9886/292.ts
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lifestyle",Comedy Central
+http://royaltv.world:25461/live/S1048/9886/294.ts
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Lifestyle",BBC Earth HD
+http://royaltv.world:25461/live/S1048/9886/295.ts
+#EXTINF:0 tvg-id="ext" group-title="Lifestyle",Asian Food Network
+http://royaltv.world:25461/live/S1048/9886/14227.ts
+#EXTINF:0 tvg-id="Lifetime.ar" group-title="Lifestyle",LIFETIME
+http://royaltv.world:25461/live/S1048/9886/30264.ts
