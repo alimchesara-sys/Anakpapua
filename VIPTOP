@@ -291,40 +291,167 @@ http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/157386
 
 
 
-#EXTINF:-1 group-title="australia",BEIN SPORTS 2
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25024
-#EXTINF:-1 group-title="australia",BEIN SPORTS 3
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25025
-#EXTINF:-1 group-title="australia",ESPN 1
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25026
-#EXTINF:-1 group-title="australia",ESPN 2
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25027
-#EXTINF:-1 group-title="australia",FOX SPORTS 501
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25029
-#EXTINF:-1 group-title="australia",FOX SPORTS 502
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25030
-#EXTINF:-1 group-title="australia",FOX SPORTS 503
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25031
-#EXTINF:-1 group-title="australia",FOX SPORTS 504
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25032
-#EXTINF:-1 group-title="australia",FOX SPORTS 505
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25033
-#EXTINF:-1 group-title="australia",FOX SPORTS 506
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25034
-#EXTINF:-1 group-title="australia",FOX SPORTS 507
-http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25035
-#EXTINF:-1 group-title="australia",SBS VICELAND
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinsports1hd.au" , - BEIN SPORTS 1 UHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78137
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="10.au" , - BEIN SPORTS 2 UHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78138
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3hd.au" , - BEIN SPORTS 3 UHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78139
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espnhd.au" , - ESPN 1 | UHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78152
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espn2hd.au" , - ESPN 2 | UHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78153
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" tvg-id="espnhd.au" , - ESPN | HD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78154
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports501hd.au" , - FOX SPORTS 501 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/83174
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports502hd.au" ,AU - FOX SPORTS 502 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/83175
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" ,AU - FOX SPORTS 502 FHD [BK]
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/1190175
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports503hd.au" ,AU - FOX SPORTS 503 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78155
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" ,AU - FOX SPORTS 504 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/83176
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports505hd.au" ,AU - FOX SPORTS 505 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78156
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxsports506hd.au" ,AU - FOX SPORTS 506 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/78157
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="10.au" ,AU - FOX SPORTS 507 FHD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/83177
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING1-1.png" tvg-id="skyracing1.au" ,AU - SKY RACING 1
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43270
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING2-1.png" tvg-id="skyracing2.au" ,AU - SKY RACING 2
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43269
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AMERICA/USA/UFC.png" ,AU - KAYO UFC MAIN EVENT
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/1283770
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" tvg-id="foxnews.au" ,AU - FOX SPORTS NEWS
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/716399
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 01 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282872
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 02 :
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282873
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 03 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282874
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 04 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282875
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 05 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282876
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 06 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282877
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 07 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282878
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 08 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282879
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 09 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282880
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Stan-EVENT.png" ,AU - STAN EVENT 10 : 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/282881
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Trace Sport Stars.png" ,AU - Trace Sport Stars
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948924
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/kayo.png" ,AU - KAYO PPV 
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/428588
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/racing.com.png" tvg-id="racing.com.au" ,AU - RACING.COM
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43307
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/REDBULLTV-1.png" ,AU - REDBULL TV
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43306
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/surfcinema.png" ,AU - Surfer
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948926
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/mtrspt.png" ,AU - MTRSPT 1
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948928
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Bondi Vet.png" ,AU - BONDI VET
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948844
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/historyhit.png" ,AU - HISTORY HIT CHANNEL
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948862
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/FRANCE/nature.png" ,AU - Naturetime
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948866
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Failarmy.png" ,AU - Failarmy
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948882
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/The Pet Collective.png" ,AU - The Pet Collective
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948883
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Life Downunder.png" ,AU - Life Downunder
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948885
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/PEOPLEAREAWESOME.png" ,AU - People Are Awesome
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948893
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/weather.png" ,AU - Weather Spy
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948894
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/petclub.png" ,AU - Pet Club TV
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948895
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/INWONDER.png" ,AU - INWONDER
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948896
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/INWILD.png" ,AU - INWILD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948897
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/infast.png" ,AU - INFAST
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948909
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Travel XP.png" ,AU - Travel XP
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948902
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/PowerNation.png" ,AU - PowerNation
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948904
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/HAUNT.png" ,AU - Haunt TV
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948889
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/EUROPE/thewickedtuna.png" ,AU - THE WICKED TUNA CHANNEL
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948834
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Aus Biz.png" ,AU - BAYWATCH
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948830
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/deal_or_no_deal.png" ,AU - DEAL OR NO DEAL
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948835
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/ANGERMANAGEMENT.png" ,AU - ANGER MANAGEMENT
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948845
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://images.pluto.tv/channels/63482674df87730007656044/colorLogoPNG.png" ,AU - FEAR FACTOR
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948849
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/USA/dont_tell_the_bride.png" ,AU - DON'T TELL THE BRIDE (SUBSTITUTE VIA PLEX)
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948855
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Action Hollywood Movies.png" ,AU - ACTION HOLLYWOOD MOVIES
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948874
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/Mytime Movie Network.png" ,AU - MYTIME MOVIE NETWORK
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948879
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/RCM.png" ,AU - RCM
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948873
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" ,AU - 24/7 FOUR IN A BED
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948851
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" ,AU - 24/7 HOMES UNDER THE HAMMER
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948852
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" ,AU - 24/7 WONDER
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948869
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" ,AU -  24/7 PULSE
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948871
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://lo1.in/uk/247.png" ,AU - 24/7 Dry Bar Comedy
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/948890
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbshd.au" ,AU - SBS
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43305
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbs.au" ,AU - SBS HD
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43277
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" tvg-id="sbsvicelandhd.au" ,AU - SBS VICELAND
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/43304
+#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" ,AU - SBS CANBERRA
+http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/661987
+#EXTINF:-1 group-title="AUSTRALIA",SBS VICELAND
 http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25042
-#EXTINF:-1 group-title="australia",SBS WORLD MOVIES
+#EXTINF:-1 group-title="AUSTRALIA",SBS WORLD MOVIES
 http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/25043
 
 
 
-#EXTINF:-1 group-title="HUB SPORT" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 1
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png?w=272" ,SG| Hub Sports 1  FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786681
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png?w=272" ,SG| Hub Sports 2 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786682
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=272" ,SG| Hub Sports 3 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786683
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" ,SG| Hub Sports 5 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786684
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" ,SG| Hub Sports 6 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786685
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" ,SG| Hub Sports 7 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786686
+#EXTINF:-1 group-title=" HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" ,SG| Hub Sports 8 FHD
+http://premiumtvs.space/YqXTywueEV/damp2purchase/786687
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 1
 http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/146827
-#EXTINF:-1 group-title="HUB SPORT" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 2
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 2
 http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/146826
-#EXTINF:-1 group-title="HUB SPORT" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 3
+#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png",HUB SPORTS 3
 http://xf247.vofczdptt.top:8080/vip9891777466346/fcaded5a22ea/146825
 
 
