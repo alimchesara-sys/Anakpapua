@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="Indonesia",ANTV
 http://013tv.com:8080/F33848/cbd9779b/165072
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://go4.pw/INDONESIA/ANTV.png" ,ANTV
-http://flowutc.com:80/MAGTF8AV71/bUiJLEJKG5/584497
 #EXTINF:0 tvg-id="ext"  tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZOsidlmejCEk52zG0IQqUIzzGjL9TniCNJNNNdS52JaJ-pWQSZl3JtaBYuR4eiyWHXyokWFcYBpSlKJ0AQRoiecw.png" group-title="Indonesia",Indosiar
 http://royaltv.world:25461/live/S1048/9886/105.ts
 #EXTINF:0 tvg-id="ext" group-title="Indonesia" tvg-logo="http://117.55.203.218:80/images/hxsuRuF3bxsgpl2_yVgKiJrBtb45AeV2fRRUZf4ceLsEF7UdXlSgvwIze8T6lWZO4lMmbRKgtkoJx27e2Sw_vctVlGVhED9NwpPyPZRjpasvcz90U2MF4AqNaxqL8uzv9IEbSBuuXv00RDcHLoxGYA.jpg",RCTI
