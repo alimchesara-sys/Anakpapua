@@ -443,36 +443,35 @@ http://royaltv.world:25461/live/S1048/9886/13110.ts
 
 
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Arena
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena
 http://royaltv.world:25461/live/S1048/9886/142.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Stadium
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroStadium.png" ,Astro Stadium
 http://royaltv.world:25461/live/S1048/9886/143.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Arena Bola 1 (token)
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ,Arena Bola 1 (token)
 http://royaltv.world:25461/live/S1048/9886/13779.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Arena Bola 2
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ,Arena Bola 2
 http://royaltv.world:25461/live/S1048/9886/13780.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Grandstand
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png"  ,Astro Grandstand
 http://royaltv.world:25461/live/S1048/9886/146.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League (token)
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" ,Astro Premier League (token)
 http://royaltv.world:25461/live/S1048/9886/144.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 2 (token)
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" ,Astro Premier League 2 (token)
 http://royaltv.world:25461/live/S1048/9886/145.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 3
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" ,Astro Premier League 3
 http://royaltv.world:25461/live/S1048/9886/28027.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 4(live event only)
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague4_2024.png"  ,Astro Premier League 4(live event only)
 http://royaltv.world:25461/live/S1048/9886/28028.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Premier League 5(live event only)
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague5_2024.png",Astro Premier League 5(live event only)
 http://royaltv.world:25461/live/S1048/9886/28029.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Football
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png"  ,Astro Football
 http://royaltv.world:25461/live/S1048/9886/147.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Badminton
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ,Astro Badminton
 http://royaltv.world:25461/live/S1048/9886/28006.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Badminton 2
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ,Astro Badminton 2
 http://royaltv.world:25461/live/S1048/9886/28007.ts
-#EXTINF:0 tvg-id="ext" group-title="Astro Sports",Astro Sports Plus
+#EXTINF:0 tvg-id="ext" group-title="Astro Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" ,Astro Sports Plus
 http://royaltv.world:25461/live/S1048/9886/28008.ts
+
 
 
 #EXTINF:-1 group-title="HUB SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png?w=272" ,Hub Sports 1  FHD
