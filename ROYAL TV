@@ -512,14 +512,7 @@ http://royaltv.world:25461/live/S1048/9886/177.ts
 http://royaltv.world:25461/live/S1048/9886/178.ts
 #EXTINF:0 tvg-id="TenCricket.in" group-title="Ten Sports",SONY Ten 3
 http://royaltv.world:25461/live/S1048/9886/179.ts
-#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" tvg-id="sonyten1hd.in" ,Sony Ten 1 (FHD)
-http://premiumtvs.space/YqXTywueEV/damp2purchase/9402
-#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-id="sonyten2hd.in" ,Sony Ten 2 (4K)
-http://premiumtvs.space/YqXTywueEV/damp2purchase/9403
-#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" tvg-id="sonyten3hd.in" ,Sony Ten 3 (FHD)
-http://premiumtvs.space/YqXTywueEV/damp2purchase/9404
-#EXTINF:-1 group-title="Ten Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-id="sonysixhd.in" ,SONY TEN 5 (FHD)
-http://premiumtvs.space/YqXTywueEV/damp2purchase/17565
+
 
 
 
@@ -562,24 +555,40 @@ http://royaltv.world:25461/live/S1048/9886/28134.ts
 http://royaltv.world:25461/live/S1048/9886/28135.ts
 
 
-#EXTINF:-1 group-title="Elta Sports", ELTA Sports 1 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158834
-#EXTINF:-1 group-title="Elta Sports",ELTA Sports 2 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158835
-#EXTINF:-1 group-title="Elta Sports",ELTA Sports 3 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158836
-#EXTINF:-1 group-title="Elta Sports",ELTA Sports 4 FHD 爱尔达体育4台
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158837
-
-
-#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 1 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158879
-#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 2 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158880
-#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 3 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158881
-#EXTINF:-1 group-title="Elta Sports Max",ELTA Sports Max 4 FHD
-http://vgsshvvjh.top:8080/VIP014341744041239381/d3d313b05311/158882
+#EXTINF:-1 group-title="NOW SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 01
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164320
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 02
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164319
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 03
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164318
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 04
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164317
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 05
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164316
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 06
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164315
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW HK PREMIER SPORTS 07
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164314
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS PRIME
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/164313
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 1
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4451
+#EXTINF:-1 group-title="NOW SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 2
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4450
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 3
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4449
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" , NOW SPORTS 4
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4448
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" , NOW SPORTS 5
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4447
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 6
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4446
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 7
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4445
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 4K 616
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4452
+#EXTINF:-1 group-title="NOW  SPORT " tvg-logo="https://lo1.in/ppvs/nowhk.png" ,NOW SPORTS 4K 617
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/4453
 
 
 #EXTINF:-1 group-title="Polsat Sports",ELEVEN SPORTS 1
