@@ -789,27 +789,40 @@ http://iptvtree.net:8080/F12744/346751ce/62584
 http://iptvtree.net:8080/F12744/346751ce/82628
 
 
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" ,HUB SPORTS 1 HD
-http://204.52.191.254/72a6343a42/9ca947037a/444699
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" , HUB SPORTS 2 HD
-http://204.52.191.254/72a6343a42/9ca947037a/444698
-#EXTINF:-1 group-title="HUB SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" ,HUB SPORTS 3 HD
-http://204.52.191.254/72a6343a42/9ca947037a/444697
+#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 1.png" ,Hub Sports 1
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470711
+#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 2.png" ,Hub Sports 2
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470712
+#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 3.png" ,Hub Sports 3
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470713
+#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/Hub Sports 4.png" ,Hub Sports 4
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470714
+#EXTINF:-1 group-title="HUB SPORT " tvg-logo="https://lo1.in/ind/flg.png" ,Hub Sports 5
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1470715
 
 
-#EXTINF:-1 group-title="hub premier sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 1
-http://iptvtree.net:8080/F12744/346751ce/305270
-#EXTINF:-1 group-title="hub premier sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 2
-http://iptvtree.net:8080/F12744/346751ce/305271
-#EXTINF:-1 group-title="hub premier sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 3
-http://iptvtree.net:8080/F12744/346751ce/305272
-#EXTINF:-1 group-title="hub premier sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 4
-http://iptvtree.net:8080/F12744/346751ce/305273
-#EXTINF:-1 group-title="hub premier sports" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" ,Hub Premier 5
-http://iptvtree.net:8080/F12744/346751ce/305274
-
-
-
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 01 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1326
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 02 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1325
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 03 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1324
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 04 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1323
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 05 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1322
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 06 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1321
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" , HUB PREMIER 07 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1320
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 08 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1319
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 09 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1318
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 10 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1317
+#EXTINF:-1 group-title="HUB PREMIER SPORT " tvg-logo="https://lo1.in/uk/hubpr.png" ,HUB PREMIER 11 
+http://mjxbtzkf.ngtdt.com:80/XENON31707U/7649755691/1316
 
 
 #EXTINF:-1 group-title="SKY SPORT " tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?15982" tvg-id="skysportsnews.uk" ,NOW: SKY SPORTS NEWS HQ 
